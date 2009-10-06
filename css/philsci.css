@@ -207,7 +207,7 @@ code
 	width: 800px; /*980*/
 	margin: 10px auto;
 	text-align: left;
-	border-top: 5px solid #aa8;
+	border-top: 5px solid #886;
 }
 
 #header_right
@@ -215,13 +215,13 @@ code
 	float: right;
 	/*text-align: center;*/
 	background-color: #ccccaa;
-	background-image: url(../images/header_bg.png);
+	background-image: url(../images/header_right_bg.png);
 	background-position: bottom right;
 	background-repeat: no-repeat;
 	position: relative;
-	min-height: 62px;
-	max-height: 62px;
-	height: 62px;
+	min-height: 124px;
+	max-height: 124px;
+	height: 124px;
 	width: 580px;
 	padding: 5px;
 	padding-bottom: 11px;
@@ -233,13 +233,14 @@ code
 {
 	float: left;
 	overflow: hidden;
-	width: 200px;
-	padding: 0;
+	width: 194px;
+	padding-left: 6px;
+	padding-top: 6px;
 	padding-right: 10px;
 	font-size: 93%;
-	min-height: 190px;
-	max-height: 190px;
-	height: 190px;
+	min-height: 214px;
+	max-height: 214px;
+	height: 214px;
 	background-color: #ccccaa;
 	background-image: url(../images/header_left_bg.png);
 	background-position: top left;
@@ -251,7 +252,7 @@ code
 	float: right;
 	width: 275px;
 	position: absolute;
-	bottom: 20px;
+	top: 40px;
 	right: 10px;
 	font-size: 85%;
 	font-style: italic;
@@ -271,7 +272,7 @@ code
 .menu
 {
 	line-height: 1.5em;
-	border: 1px solid #900;
+	border: 2px solid #900;
 	border-left: none;
 	border-right: none;
 	margin-right: 10px;
@@ -298,7 +299,7 @@ code
 	margin-top: 10px;
 	margin-right: 10px;
 	padding-bottom: 10px;
-	border-bottom: 1px solid #900;
+	border-bottom: 2px solid #900;
 }
 
 #search input[type='text']
@@ -519,9 +520,9 @@ img.rssfeed
 #footer
 {
 	clear: both;
-	background-color: #ccccaa;
+	background-color: #aa8;
 	background-image: url(../images/footer_bg.png);
-	background-position: top;
+	background-position: top right;
 	background-repeat: no-repeat;
 	padding-top: 11px;
 	overflow: auto;
@@ -545,5 +546,5 @@ img.rssfeed
 	padding-top: 5px;
 	padding-bottom: 10px;
 	font-size: 85%;
-	border-top: 5px solid #aa8;
+	border-top: 5px solid #886;
 }
