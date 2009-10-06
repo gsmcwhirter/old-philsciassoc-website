@@ -1,0 +1,23 @@
+HTTP/1.1 100 Continue
+
+HTTP/1.1 302 Object moved
+Date: Thu, 16 Apr 2009 16:18:34 GMT
+Server: Microsoft-IIS/6.0
+Set-Cookie: VER=6.1; path=/phos; domain=.editorialmanager.com; expires=Fri, 17-Apr-2009 16:18:34 GMT
+X-Powered-By: ASP.NET
+Location: default.asp
+Content-Length: 132
+Content-Type: text/html; Charset=utf-8
+Expires: Thu, 16 Apr 2009 16:17:35 GMT
+Cache-control: no-cache
+
+HTTP/1.1 200 OK
+Date: Thu, 16 Apr 2009 16:18:35 GMT
+Server: Microsoft-IIS/6.0
+Set-Cookie: VER=6.1; path=/phos; domain=.editorialmanager.com; expires=Fri, 17-Apr-2009 16:18:35 GMT
+X-Powered-By: ASP.NET
+Content-Length: 2195
+Content-Type: text/html
+Expires: Thu, 16 Apr 2009 16:17:35 GMT
+Cache-control: no-cache
+

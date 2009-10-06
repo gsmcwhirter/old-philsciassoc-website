@@ -1,0 +1,47 @@
+welcome:
+  _name: Announcements
+  _page: index
+  mailinglist:
+    _name: Mailing List
+    _page: mailinglist
+  newsletter:
+    _name: Newsletter
+    _page: newsletter_index
+  narchives:
+    _name: News Archives
+    _page: news_index
+#about:
+#  _name: About the PSA
+#  _page: about
+governance:
+  _name: PSA Governance
+  _page: governance
+  bylaws:
+    _name: PSA Bylaws
+    _page: bylaws
+membership:
+  _name: PSA Membership
+  _page: membership
+meetings:
+  _name: PSA Meetings
+  _page: meetings_index
+  #meetings_archive:
+  #  _name: Meeting History
+  #  _page: meetings_archive
+resources:
+  _name: Resources
+  _page: resources_index
+  students:
+    _name: for Students
+    _page: resources_student
+  philsci:
+    _name: for Philosophy of Science
+    _page: resources_philsci
+womens:
+  _name: PSA Women's Caucus
+  _page: http://www.philsci.org/psawomenscaucus/
+  _skip_before: true
+  #_page: womens
+philsci_journal:
+  _name: Journal
+  _page: http://journal.philsci.org/

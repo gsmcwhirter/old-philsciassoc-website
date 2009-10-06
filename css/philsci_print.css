@@ -1,0 +1,205 @@
+html, body
+{
+	font-size: 12pt;
+	background-color: #ffffff;
+	width: auto;
+	height: auto;
+}
+
+a, a:link, a:active, a:visited
+{
+	text-decoration: underline !important;
+}
+
+a.top { display: none !important; }
+
+ul.bullets,
+ul.bullets>li,
+.menu ul ul,
+.menu ul ul>li
+{
+	list-style-image: none !important;
+}
+
+.even
+{
+	background-color: #cccccc;
+}
+
+.odd
+{
+	background-color: #dddddd;
+}
+
+h1
+{
+	font-size: 26pt;
+	border-bottom-color: #000000;
+}
+
+h2
+{
+	font-size: 22pt;
+}
+
+h3
+{
+	font-size: 18pt;
+}
+
+h4
+{
+	font-size: 15pt;
+}
+
+p
+{
+	margin-bottom: 1.5em !important;
+}
+
+.left_half
+{
+	float: none !important;
+	width: auto;
+}
+
+.right_half
+{
+	float: none !important;
+	width: auto;
+}
+
+#everything
+{
+	background-image: none !important;
+	background-color: #ffffff;
+	width: auto !important;
+	margin: auto !important;
+	text-align: left;
+}
+
+#header_right
+{
+	float: none !important;
+	display: none !important;
+	width: auto;
+}
+
+#header_left
+{
+	float: none !important;
+	overflow: visible;
+	width: auto !important;
+	padding-right: 0;
+	font-size: 93%;
+	min-height: 190px;
+	max-height: 190px;
+	height: 190px;
+	background-color: #cccccc;
+	background-image: none !important;
+}
+
+#since
+{
+	display: none !important;
+}
+
+#left_nav
+{
+	float: none !important;
+	display: none !important;
+	width: auto;
+}
+
+#content
+{
+	float: none !important;
+	width: auto !important;
+	padding: 5px 20px !important;
+	position: relative;
+	overflow: visible !important;
+}
+
+.inner_menu
+{
+	text-align: center;
+	overflow: visible !important;
+	background-color: #cccccc;
+	border-color: #888888;
+}
+
+.news h2
+{
+	font-size: 15pt;
+	float: none !important;
+	width: auto;
+}
+
+.news .byline
+{
+	font-size: 10pt;
+	float: none !important;
+	width: auto;
+}
+
+.news .link
+{
+	display: none !important;
+}
+
+.news .more
+{
+	display: block;
+}
+
+img.rssfeed
+{
+	display: none !important;
+}
+
+.references a[rel='external'],
+.references a[rel='link']
+{
+	float: none !important;
+	width: auto;
+}
+
+.highlight
+{
+	background-color: #cccccc;
+	border: 1px solid #888888;
+}
+
+.address
+{
+	background-color: #cccccc;
+	border: 1px solid #888888;
+}
+
+.address li.phone,
+.address li.fax,
+.address li.email
+{
+	border-top: 1px solid #888888;
+}
+
+#footer
+{
+	background-color: #cccccc;
+	background-image: none;
+	padding-top: 5px;
+	font-size: 10pt;
+	text-align: right;
+}
+
+.copyright
+{
+	float: none !important;
+	font-size: 10pt;
+	width: auto;
+}
+
+#subfooter
+{
+	display: none !important;
+}

@@ -1,0 +1,19 @@
+    <form id="loginForm" name="loginForm" method="post" action="http://www.editorialmanager.com/phos/login_action.asp">
+      <p>
+        <label for="username">User Name</label>
+        <input type="text" name="usrname" id="usrname" maxlength="80" />
+      </p>
+      <p>
+        <label for="password">Password</label>
+        <input type="password" name="password" id="password" maxlength="200" />
+      </p>
+      <p>
+        <label>
+          <button onclick="document.getElementById('loginForm').submit()">Log In</button>
+        </label>
+        <br />
+      </p>
+	  <input type="hidden" name="role" id="role" value="author" />
+	  <input type="hidden" name="bypass" value="" />
+	  <input type="hidden" name="ignoreWarning" value="0" />
+    </form>
