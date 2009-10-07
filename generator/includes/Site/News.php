@@ -152,8 +152,8 @@ class Site_News
 	protected function _generate_archive()
 	{
 		$filename = "news/index.html";
-		$crumb = array("index" => "Welcome", "news/index" => "News Archive");
-		$title = "News Archive";
+		$crumb = array("index" => "Announcements", "news/index" => "News Archives");
+		$title = "News Archives";
 		$data = "<h1>".$title."</h1>";
 		$data .= "<ul class='archive_list'>";
 
@@ -191,7 +191,7 @@ class Site_News
 	protected function _generate_archive_year($year, $mdata)
 	{
 		$filename = "news/".$year.".html";
-		$crumb = array("index" => "Welcome", "news/index" => "News Archive","news/".$year => $year);
+		$crumb = array("index" => "Announcements", "news/index" => "News Archives","news/".$year => $year);
 		$title = $year." News Archive";
 		$data = "<h1>".$title."</h1>";
 		$data .= "<ul class='archive_list'>";
@@ -232,7 +232,7 @@ class Site_News
 		$mtimestamp = strtotime($year."/".$month."/03 12:00pm");
 		$mname = date("F", $mtimestamp);
 		$filename = "news/".$year."/".$month.".html";
-		$crumb = array("index" => "Welcome", "news/index" => "News Archive", "news/".$year => $year, "news/".$year."/".$month => $mname);
+		$crumb = array("index" => "Announcements", "news/index" => "News Archives", "news/".$year => $year, "news/".$year."/".$month => $mname);
 		$title = "News for ".$mname." ".$year;
 		$data = "<h1>".$title."</h1>";
 
