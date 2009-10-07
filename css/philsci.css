@@ -48,17 +48,25 @@ a:hover
 	border-bottom-color: #36c;
 }
 
-a:hover img
+a.noborder,
+a.noborder:link,
+a.noborder:active,
+a.noborder:visited
 {
-	text-decoration: none;
+	border-bottom: none;
+}
+
+a.noborder:hover
+{
+	border-bottom: none;
 }
 
 a.external,
 a[rel='external'] { padding-right: 20px; background: transparent url(../images/external_link.png) right no-repeat; }
 a.download,
-a[rel='download'] { padding-right: 20px; background: transparent url(../images/file.png)/*url(../images/pemanent_link.png)*/ right no-repeat; }
+a[rel='download'] { padding-right: 18px; background: transparent url(../images/file.png)/*url(../images/pemanent_link.png)*/ right no-repeat; }
 a.email,
-a[rel='email'] { padding-left: 15px; background: transparent url(../images/email.png) left bottom no-repeat; }
+a[rel='email'] { padding-left: 18px; background: transparent url(../images/email.png) left bottom no-repeat; }
 a.top { padding-left: 15px; padding-top: 10px; font-variant: small-caps; font-size: 93%; background: transparent url(../images/arrow_top.png) left bottom no-repeat; }
 
 acronym

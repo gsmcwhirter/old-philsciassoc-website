@@ -1,5 +1,6 @@
 #!/bin/sh
 
+mkdir generator/target/
 cp -r css/ generator/target/
 cp -r images/ generator/target/
 cp -r javascript/ generator/target/
@@ -11,7 +12,7 @@ tar czf generator.tgz generator/
 
 scp generator.tgz hallofkv@hallofkvasir.org:~/www/
 
-rm -r generator/target/css
-rm -r generator/target/images
-rm -r generator/target/javascript
-rm -r generator/target/files
+#rm -r generator/target/css
+#rm -r generator/target/images
+#rm -r generator/target/javascript
+#rm -r generator/target/files

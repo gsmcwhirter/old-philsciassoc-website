@@ -27,7 +27,7 @@
 	<body>
 		<div id="everything">
 			<div id="header_left">
-				<a href="[PREFIX]"><img src="[PREFIX_FINAL]images/header_left_logo.png" alt="Philosophy of Science Association" /></a>
+				<a href="[PREFIX]" class="noborder"><img src="[PREFIX_FINAL]images/header_left_logo.png" alt="Philosophy of Science Association" /></a>
 			</div>
 			<div id="header_right">
 				<div id="since">Promoting research, teaching, and free discussion of issues in the philosophy of science from diverse standpoints since 1934.</div>
