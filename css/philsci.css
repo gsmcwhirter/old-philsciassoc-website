@@ -20,6 +20,11 @@
  * 26		197
  */
 
+*
+{
+	border: none;
+}
+
 html, body
 {
 	width: 100%;
@@ -272,9 +277,7 @@ code
 .menu
 {
 	line-height: 1.5em;
-	border: 2px solid #900;
-	border-left: none;
-	border-right: none;
+	border-bottom: 2px solid #900;
 	margin-right: 10px;
 	padding: 5px 0;
 }
@@ -299,7 +302,7 @@ code
 	margin-top: 10px;
 	margin-right: 10px;
 	padding-bottom: 10px;
-	border-bottom: 2px solid #900;
+	/*border-bottom: 2px solid #900;*/
 }
 
 #search input[type='text']

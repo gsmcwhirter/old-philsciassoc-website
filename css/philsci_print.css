@@ -76,6 +76,7 @@ p
 	width: auto !important;
 	margin: auto !important;
 	text-align: left;
+	border: none !important;
 }
 
 #header_right
