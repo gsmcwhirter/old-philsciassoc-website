@@ -283,7 +283,7 @@ strong
 	width: 580px;
 	padding: 5px;
 	padding-bottom: 11px;
-	font-size: 93%;
+	/*font-size: 93%;*/
 	vertical-align: bottom;
 }
 
@@ -295,7 +295,7 @@ strong
 	padding-left: 6px;
 	padding-top: 6px;
 	padding-right: 10px;
-	font-size: 93%;
+	/*font-size: 93%;*/
 	min-height: 224px;
 	max-height: 224px;
 	height: 224px;

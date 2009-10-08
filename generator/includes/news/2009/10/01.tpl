@@ -4,13 +4,14 @@ Comprehensive TODO
 	Here is a comprehensive (as of today) list of things that still need to be done.
 </p>
 <p>
-	<span class="bold">Edit 2009/10/05</span>: Crossing some of the items off the list.
+	<span class="bold">Edit 2009/10/05</span>: Crossing some of the items off the list.<br />
+	<span class="bold">Edit 2009/10/08</span>: Crossing another item off the list.
 </p>
 [split here]
 <ul>
 	<li>Design Work:
 		<ul class="bullets">
-			<li>Header improvements (maybe semi-transparent imaging or something to fill the blank space)? [perhaps not]</li>
+			<li class="strikeout">Header improvements (maybe semi-transparent imaging or something to fill the blank space)? [perhaps not]</li>
 			<li>Verify cross-browser compatibility (display, print formatting)
 				<ul class="bullets">
 					<li class="strikeout">FF 3.5 (linux)</li>
@@ -49,10 +50,10 @@ Comprehensive TODO
 		</ul></li>
 	<li>Link Content:
 		<ul class="bullets">
-			<li>Resources -> for PhilSci -> Archives</li>
-			<li>Resources -> for PhilSci -> Funding Sources</li>
-			<li>Resources -> for PhilSci -> Journals</li>
-			<li>Resources -> for PhilSci -> On-Line</li>
+			<li class="strikeout">Resources -> for PhilSci -> Archives</li>
+			<li class="strikeout">Resources -> for PhilSci -> Funding Sources</li>
+			<li class="strikeout">Resources -> for PhilSci -> Journals</li>
+			<li class="strikeout">Resources -> for PhilSci -> On-Line</li>
 		</ul></li>
 	<li>Page Porting:
 		<ul class="bullets">
