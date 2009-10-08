@@ -18,7 +18,7 @@ PSA Mailing List Information
 
 <a id="subscribe"> </a><h2>Subscription Information</h2>
 <p>
-	Send an email message to <a href="mailto:listserv@listserv.umkc.edu.edu" class="email">listserv@listserv.umkc.edu.edu</a> with your command in the body of the email.
+	Send an email message to <a href="mailto:listserv@listserv.umkc.edu" class="email">listserv@listserv.umkc.edu</a> with your command in the body of the email.
 <ul class="bullets">
 	<li>To subscribe, type in the body of the email:
 	<code>sub psa My Name</code>

@@ -26,6 +26,7 @@
 	</head>
 	<body>
 		<div id="everything">
+			<div id="superheader"></div>
 			<div id="header_left">
 				<a href="[PREFIX]" class="noborder"><img src="[PREFIX_FINAL]images/header_left_logo.png" alt="Philosophy of Science Association" /></a>
 			</div>

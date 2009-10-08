@@ -1,6 +1,10 @@
+search: _none
+.htaccess: _none
+404: _none
 index: welcome
 mailinglist: mailinglist
 newsletter_index: newsletter
+newsletter_14-1: newsletter
 #about: about
 news_index: narchives
 membership: membership
@@ -20,6 +24,3 @@ resources_philsci_online: philsci
 resources_philsci_archives: philsci
 resources_philsci_funding: philsci
 resources_philsci_engagement: philsci
-search: _none
-.htaccess: _none
-404: _none

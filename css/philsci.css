@@ -83,7 +83,7 @@ acronym
 	color: #ccc;
 	border-bottom: 1px dotted #ccc;
 	margin-right: 10px;
-	font-variant: small-caps;
+	/*font-variant: small-caps;*/
 }
 
 #subfooter a:hover
@@ -95,7 +95,7 @@ acronym
 ul, ol
 {
 	/*padding-left: 10px;*/
-	margin-left: 25px;
+	margin-left: 30px;
 	list-style-position: outside;
 	margin-bottom: 10px;
 }
@@ -130,6 +130,30 @@ ol,
 ol>li
 {
 	list-style-type: decimal;
+}
+
+ol.Letters,
+ol.Letters>li
+{
+	list-style-type: upper-alpha;
+}
+
+ol.letters,
+ol.letters>li
+{
+	list-style-type: lower-alpha;
+}
+
+ol.Roman,
+ol.Roman>li
+{
+	list-style-type: upper-roman;
+}
+
+ol.roman,
+ol.roman>li
+{
+	list-style-type: lower-roman;
 }
 
 .even
@@ -180,11 +204,23 @@ p
 	margin-bottom: 20px;
 }
 
+ol>li>p,
+ul>li>p
+{
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
 code
 {
 	display: block;
 	padding: 10px 30px;
 	border: 1px solid #cccccc;
+}
+
+strong
+{
+	font-weight: bold;
 }
 
 .bold { font-weight: bold; }
@@ -223,6 +259,15 @@ code
 	border-top: 5px solid #886;
 }
 
+#superheader
+{
+	background-color: #888866;
+	height: 3px;
+	border-bottom: 1px dotted #ddddbb;
+	clear: both;
+	font-size: 2px;
+}
+
 #header_right
 {
 	float: right;
@@ -232,9 +277,9 @@ code
 	background-position: bottom right;
 	background-repeat: no-repeat;
 	position: relative;
-	min-height: 124px;
-	max-height: 124px;
-	height: 124px;
+	min-height: 134px;
+	max-height: 134px;
+	height: 134px;
 	width: 580px;
 	padding: 5px;
 	padding-bottom: 11px;
@@ -251,9 +296,9 @@ code
 	padding-top: 6px;
 	padding-right: 10px;
 	font-size: 93%;
-	min-height: 214px;
-	max-height: 214px;
-	height: 214px;
+	min-height: 224px;
+	max-height: 224px;
+	height: 224px;
 	background-color: #ccccaa;
 	background-image: url(../images/header_left_bg.png);
 	background-position: top left;

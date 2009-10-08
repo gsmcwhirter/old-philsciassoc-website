@@ -13,7 +13,7 @@
 				<span class="copyright">&copy; 2009 Philosophy of Science Association</span>
 			</div>
 			<div id="subfooter">
-				<a href="[PREFIX]governance.html#contact">contact the psa</a>
+				<a href="[PREFIX]governance.html#contact">contact</a>
 				<a href="mailto:[WEBMASTER]" rel="email">webmaster</a>
 				<a href="http://validator.w3.org/check?uri=referer" rel="external">valid markup?</a>
 			</div>

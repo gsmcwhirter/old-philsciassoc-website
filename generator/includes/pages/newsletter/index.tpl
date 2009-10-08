@@ -15,7 +15,7 @@ PSA Newsletter
 
 <h3>Volume 14 (2008)</h3>
 <ul class="newsletter">
-	<li class="odd"><a href="http://www.philsci.org/news/newsletters/14-1.html">Number 1</a></li>
+	<li class="odd"><a href="[PREFIX]newsletter/14-1.html">Number 1</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
 
