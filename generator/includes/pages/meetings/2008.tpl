@@ -3,7 +3,7 @@ PSA 2008 Biennial Meeting
 <a id="top"> </a><h1>PSA 2008 Biennial Meeting</h1>
 <p>
 The twenty-first PSA biennial meeting will take place November 6–8, 2008, in Pittsburgh, Pennsylvania, at the Omni William Penn Hotel.
-
+</p>
 <ul class="bullets">
 	<li><span class="bold">ONLINE REGISTRATION</span> for PSA 2008 is available via the History of Science Society <a href="http://hssonline.org" rel="external">website</a>.
 		Please note that if you registered online for PSA 2006, the profile information you entered then is still stored on the HSS website (and please update your information as needed!).
@@ -50,11 +50,9 @@ The twenty-first PSA biennial meeting will take place November 6–8, 2008, in P
 			<li><span class="bold">Field Trip to Hunt Institute</span> ($10) Friday, 10 a.m.–12:30 p.m. The Hunt Institute specializes in the history of botany and all aspects of plant science. The institute acquires and maintains authoritative collections of books, plant images, manuscripts, portraits and data files. During the field trip curators will display and discuss items from their historical collections for conference attendees. Also included is a gallery exhibit on renowned botanical artist Pancrace Bessa (1772–1835). (If we do not receive sufficient bookings by the close of business on 14 October, HSS–supplied transportation will be cancelled and your payment refunded.)</li>
 		</ul></li>
 </ul>
-</p>
 <p><a href="#top" class="top">top</a></p>
 
 <a id="committee"> </a><h2>Program Committee</h2>
-<p>
 <ul class="references">
 	<li><span class="bold">Chair:</span> Alan Richardson (University of British Columbia)</li>
 	<li>Ken Aizawa (Centenary College of Louisiana)</li>
@@ -73,5 +71,4 @@ The twenty-first PSA biennial meeting will take place November 6–8, 2008, in P
 	<li>Friedrich Steinle (University of Wuppertal)</li>
 	<li>Peter Vranas (University of Wisconsin)</li>
 </ul>
-</p>
 <p><a href="#top" class="top">top</a></p>

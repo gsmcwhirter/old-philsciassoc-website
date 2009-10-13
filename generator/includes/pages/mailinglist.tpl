@@ -19,6 +19,7 @@ PSA Mailing List Information
 <a id="subscribe"> </a><h2>Subscription Information</h2>
 <p>
 	Send an email message to <a href="mailto:listserv@listserv.umkc.edu" class="email">listserv@listserv.umkc.edu</a> with your command in the body of the email.
+</p>
 <ul class="bullets">
 	<li>To subscribe, type in the body of the email:
 	<code>sub psa My Name</code>
@@ -29,5 +30,4 @@ PSA Mailing List Information
 	<code>unsub psa</code>
 	</li>
 </ul>
-</p>
 <p><a href="#top" class="top">top</a></p>

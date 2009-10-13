@@ -1,6 +1,6 @@
 14:1 - January 2008
 %%%
-<h1>PSA Newsletter: Volume 14 : Number 1: January 2008</h1>
+<h1>PSA Newsletter: Volume 14 Number 1: January 2008</h1>
 <p>
 Edited for the Philosophy of Science Association by Malcolm Forster
 </p>
@@ -590,5 +590,3 @@ or write to <a href="mailto:pittcntr@pitt.edu" rel="email">pittcntr@pitt.edu</a>
 		</p>
 	</li>
 </ol>
-
-

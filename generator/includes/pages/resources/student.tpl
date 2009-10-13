@@ -1,18 +1,25 @@
 Resources for Students
 %%%
 <h1>Resources for Students</h1>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nec neque vel sem laoreet euismod. Integer non diam leo. Nunc velit arcu, porta ultrices accumsan vitae, pulvinar non erat. Aenean sagittis lacinia dictum. Pellentesque quis lorem turpis. Sed est erat, sollicitudin eget varius at, aliquam auctor odio. Vestibulum lacinia, neque ut dignissim venenatis, magna purus semper risus, et tempus nisi neque sed augue. Donec eu odio nisl, non tincidunt diam. Mauris id erat eu neque sodales aliquam non nec libero. Nunc blandit metus eget erat porttitor commodo. Nunc dictum arcu vitae nisl consequat tristique. Aenean id purus nisl, ut accumsan felis.
-</p>
-<p>
-Duis gravida pellentesque semper. Aenean vitae turpis ornare ante tincidunt pellentesque at vitae nunc. Sed sapien felis, porttitor ut tempus eu, facilisis ut nunc. Morbi in porttitor dolor. Duis leo massa, bibendum ac vehicula in, tincidunt nec lorem. Vivamus condimentum suscipit massa, non accumsan augue aliquet at. Praesent id lectus massa, ut ultrices libero. Suspendisse potenti. Aenean venenatis risus diam, eu lacinia libero. Nam non posuere augue. Sed consectetur pharetra massa, nec sagittis neque pretium mattis. Etiam bibendum, odio non rutrum iaculis, urna sem dapibus elit, eu facilisis nulla tellus sit amet massa. Donec ornare quam in erat semper semper. Fusce nec nibh quis est hendrerit imperdiet quis sit amet nisl. Vivamus porttitor sem eu libero fermentum pharetra. Integer lacus tellus, facilisis ac semper quis, tempor vel magna. Aliquam commodo mattis condimentum. Cras aliquam tincidunt ultrices. Aliquam ac metus mauris. Etiam nec augue eget eros laoreet rhoncus non non erat.
-</p>
-<p>
-Proin in ante arcu, vitae imperdiet erat. Morbi quis sem arcu, nec rhoncus felis. Nunc vestibulum nisl vel odio placerat pellentesque. Suspendisse semper lacinia orci at ultrices. Duis at risus nec metus ullamcorper facilisis ac a nulla. Etiam velit diam, iaculis sed sodales eu, volutpat vitae turpis. Aenean rhoncus varius scelerisque. Aliquam odio enim, laoreet dictum faucibus commodo, adipiscing a nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc molestie tempus leo.
-</p>
-<p>
-Sed posuere cursus mollis. Praesent ut sapien dui. Nulla tincidunt scelerisque quam, non laoreet lacus ornare eu. Vestibulum egestas aliquam elit vel dictum. Ut elit felis, sagittis laoreet iaculis mattis, dignissim at arcu. Phasellus sagittis, odio sed fringilla fermentum, ipsum eros pellentesque ipsum, quis convallis nisl nulla non purus. Ut nec mi eros, sit amet tempus mi. Donec sollicitudin nisl sed massa ornare ornare. Proin semper blandit ante, sed ultrices mi pulvinar quis. Integer molestie nisl pulvinar nisi porta gravida. Suspendisse consectetur ligula id justo pellentesque sit amet consectetur quam lobortis.
-</p>
-<p>
-Phasellus interdum, lectus eu eleifend placerat, metus purus pharetra dui, eget pharetra augue sem ut augue. Donec congue est vitae massa tincidunt consequat. Etiam mollis magna eu elit congue sed blandit ante consequat. Fusce adipiscing, urna eget tincidunt mollis, massa ipsum facilisis dui, sed rhoncus nisl lorem vel nunc. Morbi erat nisi, commodo porttitor mattis tristique, sagittis et nisl. Mauris quam lectus, consectetur ultrices adipiscing quis, porttitor sed purus. Integer lacinia hendrerit ipsum vitae dictum. Phasellus bibendum facilisis condimentum. Etiam at nisl ipsum. Sed auctor erat a risus tempus non mattis nunc ornare. Donec varius dui id magna interdum eget vulputate magna suscipit. In varius pharetra laoreet. Morbi justo eros, ultrices sed sagittis et, hendrerit nec metus. Mauris tempus accumsan consectetur. Etiam turpis mi, tincidunt a iaculis eu, ultrices tristique mauris. Curabitur in leo massa, nec vestibulum urna. Nam accumsan, felis quis malesuada facilisis, ipsum ligula accumsan nulla, et ornare eros massa vitae sem. Sed aliquam ultricies arcu, vel gravida tellus elementum ac. Mauris feugiat ipsum vel felis cursus imperdiet. Etiam felis nulla, tempor varius ultrices ac, volutpat bibendum nulla.
-</p>
+<ul class="references">
+	<li>
+		<a href="[PREFIX_FINAL]files/funding-phil-lse.pdf" rel="download">download</a>
+		<span class="bold">Funding Opportunities for Graduate Studies in Philosophy at <acronym title="London School of Economics and Political Science">LSE</acronym></span>
+	</li>
+	<li>
+		<a href="http://www.yorku.ca/gradsts/" rel="external">website</a>
+		<span class="bold">New Graduate Program in Science and Technology Studies at York University</span>
+		<p>
+			York University is pleased to announce a new Graduate Program in Science and Technology Studies.
+			The Program, currently under review by the province, is still pending approval.
+			We anticipate that it will be approved in time for us to launch the program next academic year (2009-2010).
+			We are now inviting applications to the Program, with a deadline of February 15, 2009.
+			The Graduate Program in Science and Technology Studies offers advanced training leading to the M.A. and Ph.D. degrees.
+			Drawing upon the demonstrated expertise of a wide range of faculty members within York University's undergraduate Science and Technology Studies program, and related areas of study at York, the graduate program aims to provide highly qualified students with a unique opportunity of doing specialized academic work focusing on the critical role of science and technology, both past and present.
+			Research in the field applies the methods and theories of the social sciences and cultural studies to the examination of technology and scientific knowledge and practice.
+			The program's mandate is to produce graduates equipped to utilize the rich tools afforded by interdisciplinary scholarship in science and technology studies, with an emphasis on four fields: Biosciences and Biotechnologies; Human-Machine Interactions; Public Science; Physical Systems.
+			Application information is available <a href="http://www.yorku.ca/gradsts/howtoapply.html" rel="external">here</a>.
+			For more information see the Graduate Science and Technology Studies Program <a href="http://www.yorku.ca/gradsts/" rel="external">website</a> or contact <a href="mailto:lightman@yorku.ca" rel="email">Professor Bernard Lightman</a> (416-736-2100 ext. 22028).
+		</p>
+	</li>
+</ul>

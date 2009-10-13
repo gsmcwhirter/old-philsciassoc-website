@@ -198,14 +198,16 @@ h4
 	padding-left: 15px;
 }
 
-p
+p, pre
 {
 	padding-left: 25px;
 	margin-bottom: 20px;
 }
 
 ol>li>p,
-ul>li>p
+ul>li>p,
+ol>li>pre,
+ul>li>pre
 {
 	margin-bottom: 10px;
 	margin-top: 10px;
@@ -221,6 +223,15 @@ code
 strong
 {
 	font-weight: bold;
+}
+
+hr
+{
+	width: 100%;
+	height: 1px;
+	color: #900;
+	background-color: #900;
+	border: none;
 }
 
 .bold { font-weight: bold; }
@@ -358,7 +369,7 @@ strong
 	/*border-bottom: 2px solid #900;*/
 }
 
-#search input[type='text']
+#l_search_box input[type='text']
 {
 	border: 1px solid #900;
 	padding: 2px;
@@ -500,8 +511,9 @@ iframe
 	padding: 5px;
 }
 
-.references a[rel='external'],
-.references a[rel='link']
+.references>li>a[rel='external'],
+.references>li>a[rel='link'],
+.references>li>a[rel='download']
 {
 	float: right;
 	width: auto;

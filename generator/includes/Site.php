@@ -98,6 +98,7 @@ class Site
 			else
 			{
 				$file = $this->_output_dir.$type."/".$page->get_filename();
+				array_push($this->_sitemap, $this->_domain.$prefix.$page->get_filename());
 			}
 
 			array_unshift($parts, $type);
@@ -139,7 +140,6 @@ class Site
 			}
 
 			file_put_contents($file, preg_replace($regex, $replace, $data));
-			array_push($this->_sitemap, $this->_domain.$prefix.$page->get_filename());
 		}
 
 		//generate news archives
@@ -171,8 +171,8 @@ class Site
 				}
 			}
 
-			$regex = array("#\[PAGE_TITLE\]#","#\[PREFIX\]#","#\[PREFIX_FINAL\]#","#\[WEBMASTER\]#","#\[ANALYTICS_ID\]#","#\[GOOGLE_VERIFY\]#");
-			$replace = array($adata["title"], $prefix, $this->_link_prefix_final, $this->_webmaster, $this->_analytics, $this->_google_verify);
+			$regex = array("#\[PAGE_TITLE\]#","#\[PREFIX\]#","#\[PREFIX_FINAL\]#","#\[RSS_LINK\]#","#\[WEBMASTER\]#","#\[ANALYTICS_ID\]#","#\[GOOGLE_VERIFY\]#");
+			$replace = array($adata["title"], $prefix, $this->_link_prefix_final, "", $this->_webmaster, $this->_analytics, $this->_google_verify);
 
 			file_put_contents($file, preg_replace($regex, $replace, $data));
 			array_push($this->_sitemap, $this->_domain.$prefix.$adata["filename"]);

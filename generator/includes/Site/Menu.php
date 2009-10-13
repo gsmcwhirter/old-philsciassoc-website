@@ -100,4 +100,55 @@ class Site_Menu
 
 		return array($ret, $this->_allitems[$item]->get_target());
 	}
+
+	public function output_menu()
+	{
+		$struct_data = $this->menu_structure();
+
+		$data = "<div class='menu'>";
+		$data .= "<ul>";
+		$data .= $this->_output_menu_recursive($struct_data);
+		$data .= "</ul>";
+		$data .= "</div>";
+
+		return $data;
+	}
+
+	protected function _output_menu_recursive($data_array)
+	{
+		$data = "";
+		foreach($data_array as $value)
+		{
+			list($text, $target, $val_data, $skip) = $value;
+			if(!preg_match("#^http(s?):#", $target))
+			{
+				$target = '[PREFIX]'.translate_filename($target);
+			}
+
+			$data .= "<li";
+			if($skip)
+			{
+				$data .= " class='menu_skip'";
+			}
+			$data .= "><a href='".$target."'>".$text."</a>";
+			if($val_data != array())
+			{
+				$data .= "<ul>".$this->_output_menu_recursive($val_data)."</ul>";
+			}
+			$data .= "</li>";
+		}
+		return $data;
+	}
+
+	public function output_breadcrumbs($crumbs)
+	{
+		$data = array();
+
+		foreach($crumbs as $href => $text)
+		{
+			$data[] = "<span class='crumb'><a href='[PREFIX]".$href."'>".$text."</a></span>";
+		}
+
+		return "<div class='breadcrumbs'>".implode("<span class='crumb_sep'>&raquo;</span>", $data)."</div>";
+	}
 }

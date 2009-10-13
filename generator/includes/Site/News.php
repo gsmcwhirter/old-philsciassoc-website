@@ -82,48 +82,15 @@ class Site_News
 	public function output_menu()
 	{
 		$this->_menu->set_page_level($this->_menuitem);
-		$struct_data = $this->_menu->menu_structure();
+		$data = $this->_menu->output_menu();
 		$this->_menu->reset_menu();
 
-		$data = "<div class='menu'>";
-		$data .= "<ul>";
-		$data .= $this->_output_menu_recursive($struct_data);
-		$data .= "</ul>";
-		$data .= "</div>";
-
-		return $data;
-	}
-
-	protected function _output_menu_recursive($data_array)
-	{
-		$data = "";
-		foreach($data_array as $value)
-		{
-			list($text, $target, $val_data) = $value;
-			if(!preg_match("#^http(s?):#", $target))
-			{
-				$target = '[PREFIX]'.translate_filename($target);
-			}
-			$data .= "<li><a href='".$target."'>".$text."</a>";
-			if($val_data != array())
-			{
-				$data .= "<ul>".$this->_output_menu_recursive($val_data)."</ul>";
-			}
-			$data .= "</li>";
-		}
 		return $data;
 	}
 
 	public function output_breadcrumbs($crumbs)
 	{
-		$data = array();
-
-		foreach($crumbs as $href => $text)
-		{
-			$data[] = "<span class='crumb'><a href='[PREFIX]".$href.".html'>".$text."</a></span>";
-		}
-
-		return "<div class='breadcrumbs'>".implode("<span class='crumb_sep'>&raquo;</span>", $data)."</div>";
+		return $this->_menu->output_breadcrumbs($crumbs);
 	}
 
 	public function generate_archives()
@@ -152,7 +119,7 @@ class Site_News
 	protected function _generate_archive()
 	{
 		$filename = "news/index.html";
-		$crumb = array("index" => "Announcements", "news/index" => "News Archives");
+		$crumb = array("index.html" => "Announcements", "news/index.html" => "News Archives");
 		$title = "News Archives";
 		$data = "<h1>".$title."</h1>";
 		$data .= "<ul class='archive_list'>";
@@ -174,7 +141,7 @@ class Site_News
 
 			if(array_key_exists($i, $this->_month_years))
 			{
-				$data .= "<a href='[PREFIX]news/".$i.".html'>".$text."</a>";
+				$data .= "<a href='[PREFIX]news/".$i."/index.html'>".$text."</a>";
 			}
 			else
 			{
@@ -190,8 +157,8 @@ class Site_News
 
 	protected function _generate_archive_year($year, $mdata)
 	{
-		$filename = "news/".$year.".html";
-		$crumb = array("index" => "Announcements", "news/index" => "News Archives","news/".$year => $year);
+		$filename = "news/".$year."/index.html";
+		$crumb = array("index.html" => "Announcements", "news/index.html" => "News Archives","news/".$year."/index.html" => $year);
 		$title = $year." News Archive";
 		$data = "<h1>".$title."</h1>";
 		$data .= "<ul class='archive_list'>";
@@ -232,7 +199,7 @@ class Site_News
 		$mtimestamp = strtotime($year."/".$month."/03 12:00pm");
 		$mname = date("F", $mtimestamp);
 		$filename = "news/".$year."/".$month.".html";
-		$crumb = array("index" => "Announcements", "news/index" => "News Archives", "news/".$year => $year, "news/".$year."/".$month => $mname);
+		$crumb = array("index.html" => "Announcements", "news/index.html" => "News Archives", "news/".$year."/index.html" => $year, "news/".$year."/".$month.".html" => $mname);
 		$title = "News for ".$mname." ".$year;
 		$data = "<h1>".$title."</h1>";
 

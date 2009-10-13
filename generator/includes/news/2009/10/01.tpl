@@ -5,7 +5,8 @@ Comprehensive TODO
 </p>
 <p>
 	<span class="bold">Edit 2009/10/05</span>: Crossing some of the items off the list.<br />
-	<span class="bold">Edit 2009/10/08</span>: Crossing another item off the list.
+	<span class="bold">Edit 2009/10/08</span>: Crossing another item off the list.<br />
+	<span class="bold">Edit 2009/10/13</span>: Crossing some more off, and removing some items that did not make sense.
 </p>
 [split here]
 <ul>
@@ -39,14 +40,9 @@ Comprehensive TODO
 		</ul></li>
 	<li>Page Content:
 		<ul class="bullets">
-			<li>Actual News Stories</li>
-			<li>Resources</li>
-			<li>Resources -> for Students</li>
-			<li>Resources -> for PhilSci -> Archives</li>
+			<li class="strikeout">Resources</li>
+			<li class="strikeout">Resources -> for Students</li>
 			<li>Resources -> for PhilSci -> Engagement</li>
-			<li>Resources -> for PhilSci -> Funding Sources</li>
-			<li>Resources -> for PhilSci -> Journals</li>
-			<li>Resources -> for PhilSci -> On-Line</li>
 		</ul></li>
 	<li>Link Content:
 		<ul class="bullets">

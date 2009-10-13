@@ -4,7 +4,6 @@ search: _none
 index: welcome
 mailinglist: mailinglist
 newsletter_index: newsletter
-newsletter_14-1: newsletter
 #about: about
 news_index: narchives
 membership: membership
@@ -24,3 +23,8 @@ resources_philsci_online: philsci
 resources_philsci_archives: philsci
 resources_philsci_funding: philsci
 resources_philsci_engagement: philsci
+newsletter_14-1: newsletter
+newsletter_1-4: newsletter
+newsletter_1-3: newsletter
+newsletter_1-2: newsletter
+newsletter_1-1: newsletter

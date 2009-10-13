@@ -123,9 +123,9 @@ PSA Newsletter
 
 <h3>Volume 1 (1995)</h3>
 <ul class="newsletter">
-	<li class="odd"><a href="http://www.philsci.org/news/newsletters/1-1.html">Number 1</a></li>
-	<li class="even"><a href="http://www.philsci.org/news/newsletters/1-2.html">Number 2</a></li>
-	<li class="odd"><a href="http://www.philsci.org/news/newsletters/1-3.html">Number 3</a></li>
-	<li class="even"><a href="http://www.philsci.org/news/newsletters/1-4.html">Number 4</a></li>
+	<li class="odd"><a href="[PREFIX]newsletter/1-1.html">Number 1</a></li>
+	<li class="even"><a href="[PREFIX]newsletter/1-2.html">Number 2</a></li>
+	<li class="odd"><a href="[PREFIX]newsletter/1-3.html">Number 3</a></li>
+	<li class="even"><a href="[PREFIX]newsletter/1-4.html">Number 4</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
