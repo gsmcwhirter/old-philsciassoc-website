@@ -10,9 +10,6 @@ welcome:
   narchives:
     _name: News Archives
     _page: news_index
-#about:
-#  _name: About the PSA
-#  _page: about
 governance:
   _name: PSA Governance
   _page: governance
@@ -25,9 +22,14 @@ membership:
 meetings:
   _name: PSA Meetings
   _page: meetings_index
-  #meetings_archive:
-  #  _name: Meeting History
-  #  _page: meetings_archive
+  meetings_psa2010:
+    _name: PSA 2010
+    _page: meetings_psa2010_index
+    _show: false
+  meetings_psa2008:
+    _name: PSA 2008
+    _page: meetings_psa2008_index
+    _show: false
 resources:
   _name: Resources
   _page: resources_index
@@ -41,7 +43,6 @@ womens:
   _name: PSA Women's Caucus
   _page: http://www.philsci.org/psawomenscaucus/
   _skip_before: true
-  #_page: womens
 philsci_journal:
   _name: Journal
   _page: http://journal.philsci.org/

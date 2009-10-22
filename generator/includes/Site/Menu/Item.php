@@ -9,13 +9,15 @@ class Site_Menu_Item
 	protected $_showchildren = false;
 	protected $_children = array();
 	protected $_skip_before;
+	protected $_show;
 
-	public function __construct($name, $abbrev, $target, $skip_before)
+	public function __construct($name, $abbrev, $target, $skip_before, $show)
 	{
 		$this->_name = $name;
 		$this->_abbrev = $abbrev;
 		$this->_target = $target;
 		$this->_skip_before = $skip_before;
+		$this->_show = $show;
 	}
 
 	public function add_child(Site_Menu_Item &$child)
@@ -61,7 +63,7 @@ class Site_Menu_Item
 			}
 		}
 
-		return array($this->_name, $this->_target, $data, $this->_skip_before);
+		return array($this->_name, $this->_target, $data, $this->_skip_before, $this->_show);
 	}
 
 	public function &get_parent()
@@ -87,5 +89,10 @@ class Site_Menu_Item
 	public function skip_before()
 	{
 		return $this->_skip_before;
+	}
+
+	public function should_show()
+	{
+		return $this->_show;
 	}
 }

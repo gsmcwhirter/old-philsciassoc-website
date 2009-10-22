@@ -1,6 +1,6 @@
 1:1 - May 1995
 %%%
-<h1>PSA Newsletter: Volume 1 Number 1: May 1995</h1>
+<h1>PSA Newsletter: Vol. 1 No. 1: May 1995</h1>
 <p>
 Enclosed is the first issue of the newly reborn PSA Newsletter.  This
 newsletter is being created to provide timely distribution of information

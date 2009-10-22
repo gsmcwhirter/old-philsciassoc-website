@@ -27,10 +27,11 @@ class Site_Menu
 				throw new Exception("Site_Menu item key duplicate: ".$key);
 			}
 
-			$this->_allitems[$key] = new Site_Menu_Item($newdata["_name"], $key, array_key_exists("_page", $newdata) ? $newdata["_page"] : null, array_key_exists("_skip_before", $newdata) ? $newdata["_skip_before"] : null);
+			$this->_allitems[$key] = new Site_Menu_Item($newdata["_name"], $key, array_key_exists("_page", $newdata) ? $newdata["_page"] : null, array_key_exists("_skip_before", $newdata) ? $newdata["_skip_before"] : null, array_key_exists("_show", $newdata) ? $newdata["_show"] : true);
 			unset($newdata["_name"]);
 			unset($newdata["_page"]);
 			unset($newdata["_skip_before"]);
+			unset($newdata["_show"]);
 			$structure2 = $this->_parse_menu_data_recursive($newdata);
 			$structure[$key] = $structure2;
 		}
@@ -119,23 +120,40 @@ class Site_Menu
 		$data = "";
 		foreach($data_array as $value)
 		{
-			list($text, $target, $val_data, $skip) = $value;
-			if(!preg_match("#^http(s?):#", $target))
-			{
-				$target = '[PREFIX]'.translate_filename($target);
-			}
+			list($text, $target, $val_data, $skip, $show) = $value;
 
-			$data .= "<li";
-			if($skip)
+			if($show)
 			{
-				$data .= " class='menu_skip'";
+				if(!preg_match("#^http(s?):#", $target))
+				{
+					$target = '[PREFIX]'.translate_filename($target);
+				}
+
+				$data .= "<li";
+				if($skip)
+				{
+					$data .= " class='menu_skip'";
+				}
+				$data .= "><a href='".$target."'>".$text."</a>";
+				if($val_data != array())
+				{
+					$all_hidden = true;
+					foreach($val_data as $val2)
+					{
+						if($val2[4])
+						{
+							$all_hidden = false;
+							break;
+						}
+					}
+
+					if(!$all_hidden)
+					{
+						$data .= "<ul>".$this->_output_menu_recursive($val_data)."</ul>";
+					}
+				}
+				$data .= "</li>";
 			}
-			$data .= "><a href='".$target."'>".$text."</a>";
-			if($val_data != array())
-			{
-				$data .= "<ul>".$this->_output_menu_recursive($val_data)."</ul>";
-			}
-			$data .= "</li>";
 		}
 		return $data;
 	}

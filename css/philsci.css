@@ -234,8 +234,31 @@ hr
 	border: none;
 }
 
+table
+{
+	margin-left: 25px;
+	border: none;
+	border-spacing: 5px;
+	margin-bottom: 20px;
+}
+
+table td
+{
+	border: none;
+	padding: 5px;
+	border-bottom: 1px solid #ccc;
+}
+
+table th
+{
+	border-bottom: 1px solid #900;
+	font-weight: bold;
+}
+
 .bold { font-weight: bold; }
 .strikeout { text-decoration: line-through; }
+.center {text-align: center;}
+.nowrap {white-space: nowrap;}
 
 .clear_both { clear: both; }
 

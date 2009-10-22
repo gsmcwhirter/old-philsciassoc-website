@@ -22,7 +22,7 @@ The twenty-first PSA biennial meeting will take place November 6–8, 2008, in P
 			For details and a schedule visit the Port Authority <a href="http://www.portauthority.org/PAAC/tabid/241/default.aspx" rel="external">website</a>.</li>
 		<li>A discount coupon is available for airport shuttle service <a href="[PREFIX_FINAL]files/psa2008-express-shuttle-coupon.doc" rel="download">here</a>.</li>
 	</ul></li>
-	<li><span class="bold">THINGS TO DO IN DOWNTOWN PITTSBURGH</span> information is <a href="http://philsci.org/conferences/psa2008/to-do-in-pitt.html">here</a>.</li>
+	<li><span class="bold">THINGS TO DO IN DOWNTOWN PITTSBURGH</span> information is <a href="[PREFIX]meetings/psa2008/todoinpitt.html">here</a>.</li>
 	<li><span class="bold">CHILDCARE IN PITTSBURGH</span> at the PSA/HSS Meetings.<br />
 		Parents and guardians may arrange for childcare through <a href="http://www.rentamominpittsburgh.com/" rel="external">Rent-A-Mom, Inc.</a>
 		The agency prefers that you contact them directly.

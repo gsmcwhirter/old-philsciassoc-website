@@ -1,6 +1,6 @@
 1:4 - October 1995
 %%%
-<h1>PSA Newsletter: Volume 1 Number 4: October 1995</h1>
+<h1>PSA Newsletter: Vol. 1 No. 4: October 1995</h1>
 <p style="display: none;">
 **************************************************************************
 *           _________________   ___________________   _________________  *
