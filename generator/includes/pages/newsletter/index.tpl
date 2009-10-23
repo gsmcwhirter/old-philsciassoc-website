@@ -99,15 +99,15 @@ PSA Newsletter
 
 <h3>Volume 4 (1998)</h3>
 <ul class="newsletter">
-	<li class="odd"><a href="http://www.philsci.org/news/newsletters/4-1.html">Number 1</a></li>
-	<li class="even"><a href="http://www.philsci.org/news/newsletters/4-2.html">Number 2</a></li>
+	<li class="odd"><a href="[PREFIX]newsletter/4-1.html">Number 1</a></li>
+	<li class="even"><a href="[PREFIX]newsletter/4-2.html">Number 2</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
 
 <h3>Volume 3 (1997)</h3>
 <ul class="newsletter">
-	<li class="odd"><a href="http://www.philsci.org/news/newsletters/3-1.html">Number 1</a></li>
-	<li class="even"><a href="http://www.philsci.org/news/newsletters/3-2.html">Number 2</a></li>
+	<li class="odd"><a href="[PREFIX]newsletter/3-1.html">Number 1</a></li>
+	<li class="even"><a href="[PREFIX]newsletter/3-2.html">Number 2</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
 
@@ -117,7 +117,7 @@ PSA Newsletter
 	<li class="even"><a href="[PREFIX]newsletter/2-2.html">Number 2</a></li>
 	<li class="odd"><a href="[PREFIX]newsletter/2-3.html">Number 3</a></li>
 	<li class="even"><a href="[PREFIX]newsletter/2-4.html">Number 4</a></li>
-	<li class="odd"><a href="http://www.philsci.org/news/newsletters/2-5.html">Number 5</a></li>
+	<li class="odd"><a href="[PREFIX]newsletter/2-5.html">Number 5</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
 

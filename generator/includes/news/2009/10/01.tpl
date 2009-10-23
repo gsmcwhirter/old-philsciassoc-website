@@ -8,6 +8,7 @@ Comprehensive TODO
 	<span class="bold">Edit 2009/10/08</span>: Crossing another item off the list.<br />
 	<span class="bold">Edit 2009/10/13</span>: Crossing some more off, and removing some items that did not make sense.<br />
 	<span class="bold">Edit 2009/10/22</span>: Crossing off some other items, expanded the porting list for newsletters.<br />
+	<span class="bold">Edit 2009/10/23</span>: Continuing porting old newsletters over to the new format.<br />
 </p>
 [split here]
 <ul>
@@ -65,11 +66,11 @@ Comprehensive TODO
 					<li class="strikeout">2-2</li>
 					<li class="strikeout">2-3</li>
 					<li class="strikeout">2-4</li>
-					<li>2-5</li>
-					<li>3-1</li>
-					<li>3-2</li>
-					<li>4-1</li>
-					<li>4-2</li>
+					<li class="strikeout">2-5</li>
+					<li class="strikeout">3-1</li>
+					<li class="strikeout">3-2</li>
+					<li class="strikeout">4-1</li>
+					<li class="strikeout">4-2</li>
 					<li>5-1</li>
 					<li>5-2</li>
 					<li>5-3</li>

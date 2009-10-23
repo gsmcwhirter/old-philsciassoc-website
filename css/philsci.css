@@ -588,7 +588,8 @@ img.rssfeed
 
 .address li.phone,
 .address li.fax,
-.address li.email
+.address li.email,
+.address li.website
 {
 	border-top: 1px solid #ccccaa;
 	margin-top: 5px;
