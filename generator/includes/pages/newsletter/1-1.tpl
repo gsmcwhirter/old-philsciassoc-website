@@ -69,6 +69,16 @@ as to the format of this newsletter, please contact me directly.
 *									 *
 **************************************************************************
 </p>
+<p class="center">
+         Edited for the Philosophy of Science Association by:<br />
+								<br />
+			     William Bechtel	<br />
+               Philosophy-Neuroscience-Psychology Program   <br />
+                       Department of Philosophy        <br />
+                  Washington University in St. Louis     <br />
+								<br />
+	        Send submissions to psa@twinearth.wustl.edu
+</p>
 <p>
 CONTENTS:
 </p>

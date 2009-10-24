@@ -71,10 +71,10 @@ Comprehensive TODO
 					<li class="strikeout">3-2</li>
 					<li class="strikeout">4-1</li>
 					<li class="strikeout">4-2</li>
-					<li>5-1</li>
-					<li>5-2</li>
-					<li>5-3</li>
-					<li>5-4</li>
+					<li class="strikeout">5-1</li>
+					<li class="strikeout">5-2</li>
+					<li class="strikeout">5-3</li>
+					<li class="strikeout">5-4</li>
 					<li>6-1</li>
 					<li>6-2</li>
 					<li>6-3</li>
