@@ -1,0 +1,42 @@
+all:
+  page_output_order:
+    - header
+    - (content)
+    - separator
+    - (menu)
+    - footer
+  news_page: index
+  rss_file: news.rss
+  rss_title: Philosophy of Science Association News
+  rss_description:
+  webmaster: philsci.webmaster@gmail.com
+development:
+  content_file_path: /home/hallofkv/public_html/generator/includes/
+  page_output_dir: /home/hallofkv/public_html/generator/output/
+  page_final_dir: /home/hallofkv/public_html/generator/target/
+  page_output_template_dir: /home/hallofkv/public_html/generator/includes/templates/
+  link_prefix_testing: /generator/output/testing/
+  link_prefix_final: /generator/target/
+  domain_prefix: http://www.hallofkvasir.org
+  analytics_id: UA-10966779-2
+  google_verify: dYMzdN7-m4SN-XPQnSJTpB9d7-2y-Zb49CKag-YmIuA
+local:
+  content_file_path: /var/www/generator/includes/
+  page_output_dir: /var/www/generator/output/
+  page_final_dir: /var/www/generator/target/
+  page_output_template_dir: /var/www/generator/includes/templates/
+  link_prefix_testing: /generator/output/testing/
+  link_prefix_final: /generator/target/
+  domain_prefix: http://localhost
+  analytics_id: UA-10966779-2
+  google_verify: dYMzdN7-m4SN-XPQnSJTpB9d7-2y-Zb49CKag-YmIuA
+production:
+  content_file_path: /home/hallofkv/public_html/generator/includes/
+  page_output_dir: /home/hallofkv/public_html/generator/output/
+  page_final_dir: /home/hallofkv/public_html/generator/target/
+  page_output_template_dir: /home/hallofkv/public_html/generator/includes/templates/
+  link_prefix_testing: /generator/output/testing/
+  link_prefix_final: /generator/target/
+  domain_prefix: http://www.philsci.org
+  analytics_id: UA-10966779-1
+  google_verify: dYMzdN7-m4SN-XPQnSJTpB9d7-2y-Zb49CKag-YmIuA

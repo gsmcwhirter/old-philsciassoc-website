@@ -1,6 +1,7 @@
 #!/bin/sh
 
 mkdir generator/target/
+mkdir generator/output/
 cp -r css/ generator/target/
 cp -r images/ generator/target/
 cp -r javascript/ generator/target/

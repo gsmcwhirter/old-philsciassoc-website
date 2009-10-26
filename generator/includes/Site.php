@@ -77,7 +77,7 @@ class Site
 		$template_data = array();
 		foreach($this->_output_order as $out_item)
 		{
-			if(!preg_match("#^\[.*\]$#", $out_item))
+			if(!preg_match("#^\(.*\)$#", $out_item))
 			{
 				$template_data[$out_item] = file_get_contents($this->_template_dir.$out_item.".tpl");
 			}
@@ -117,10 +117,10 @@ class Site
 				{
 					switch($out_item)
 					{
-						case "[menu]":
+						case "(menu)":
 							$data .= $page->output_menu();
 							break;
-						case "[content]":
+						case "(content)":
 							$data .= $page->output_breadcrumbs();
 							$data .= $page->output_content();
 							break;
@@ -159,10 +159,10 @@ class Site
 			{
 				switch($out_item)
 				{
-					case "[menu]":
+					case "(menu)":
 						$data .= $this->_news->output_menu();
 						break;
-					case "[content]":
+					case "(content)":
 						$data .= $this->_news->output_breadcrumbs($adata["crumbs"]);
 						$data .= $adata["content"];
 						break;
