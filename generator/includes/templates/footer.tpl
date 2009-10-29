@@ -1,9 +1,10 @@
 				<form action="[PREFIX]search.html" id="cse-search-box">
 				  <div id="l_search_box" style="margin-top: 10px;">
+					<label for="qsearch">Search the PSA</label><br />
 					<input type="hidden" name="cx" value="000986458034667796526:uy3a8ml6qve" />
 					<input type="hidden" name="cof" value="FORID:9" />
 					<input type="hidden" name="ie" value="UTF-8" />
-					<input type="text" name="q" />
+					<input type="text" name="q" id="qsearch"/><br />
 					<input type="submit" name="sa" value="Search" />
 				  </div>
 				</form>

@@ -8,7 +8,7 @@ Comprehensive TODO
 	<span class="bold">Edit 2009/10/08</span>: Crossing another item off the list.<br />
 	<span class="bold">Edit 2009/10/13</span>: Crossing some more off, and removing some items that did not make sense.<br />
 	<span class="bold">Edit 2009/10/22</span>: Crossing off some other items, expanded the porting list for newsletters.<br />
-	<span class="bold">Edit 2009/10/23</span>: Continuing porting old newsletters over to the new format.<br />
+	<span class="bold">Edit 2009/10/23,27-9</span>: Continuing porting old newsletters over to the new format.<br />
 </p>
 [split here]
 <ul>
@@ -75,19 +75,19 @@ Comprehensive TODO
 					<li class="strikeout">5-2</li>
 					<li class="strikeout">5-3</li>
 					<li class="strikeout">5-4</li>
-					<li>6-1</li>
-					<li>6-2</li>
-					<li>6-3</li>
-					<li>6-4</li>
-					<li>7-1</li>
-					<li>7-2</li>
-					<li>7-3</li>
-					<li>7-4</li>
-					<li>8-1</li>
-					<li>8-2</li>
-					<li>8-3</li>
-					<li>8-4</li>
-					<li>8-5</li>
+					<li class="strikeout">6-1</li>
+					<li class="strikeout">6-2</li>
+					<li class="strikeout">6-3</li>
+					<li class="strikeout">6-4</li>
+					<li class="strikeout">7-1</li>
+					<li class="strikeout">7-2</li>
+					<li class="strikeout">7-3</li>
+					<li class="strikeout">7-4</li>
+					<li class="strikeout">8-1</li>
+					<li class="strikeout">8-2</li>
+					<li class="strikeout">8-3</li>
+					<li class="strikeout">8-4</li>
+					<li class="strikeout">8-5</li>
 					<li>9-1</li>
 					<li>9-2</li>
 					<li>9-3</li>
@@ -100,10 +100,11 @@ Comprehensive TODO
 					<li>11-2</li>
 					<li>11-3</li>
 					<li>11-4</li>
-					<li>12-1</li>
-					<li>12-2</li>
-					<li>12-3</li>
-					<li>13-1</li>
+					<li class="strikeout">12-1</li>
+					<li class="strikeout">12-2</li>
+					<li class="strikeout">12-3</li>
+					<li class="strikeout">13-1</li>
+					<li class="strikeout">13-2</li>
 					<li class="strikeout">14-1</li>
 				</ul>
 			</li>

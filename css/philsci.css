@@ -396,6 +396,14 @@ table th
 {
 	border: 1px solid #900;
 	padding: 2px;
+	margin-bottom: 5px;
+}
+
+#l_search_box label
+{
+	color: #c00;
+	font-variant: small-caps;
+	margin-bottom: 5px;
 }
 
 #content
