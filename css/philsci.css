@@ -364,9 +364,9 @@ table th
 .menu
 {
 	line-height: 1.5em;
-	border-bottom: 2px solid #900;
+	/*border-bottom: 2px solid #900;*/
 	margin-right: 10px;
-	padding: 5px 0;
+	padding: 0 0 15px 0;
 }
 
 .menu_header
@@ -392,6 +392,11 @@ table th
 	/*border-bottom: 2px solid #900;*/
 }
 
+#l_search_box
+{
+	margin-left: 10px;
+}
+
 #l_search_box input[type='text']
 {
 	border: 1px solid #900;
@@ -399,11 +404,16 @@ table th
 	margin-bottom: 5px;
 }
 
-#l_search_box label
+.menu_header
 {
-	color: #c00;
-	font-variant: small-caps;
+	color: #000;
+	font-weight: bold;
 	margin-bottom: 5px;
+}
+
+.menu>ul>li
+{
+	border-top: 1px dotted #ccccaa;
 }
 
 #content
@@ -640,7 +650,7 @@ img.rssfeed
 
 #subfooter
 {
-	text-align: center;
+	text-align: right;
 	clear: both;
 	background-color: #300;/*#cccccc;*/
 	padding-top: 5px;

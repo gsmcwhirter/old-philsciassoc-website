@@ -8,7 +8,7 @@ PSA Newsletter
 	Instructions for subscriptions can be found <a href="[PREFIX]mailinglist.html">here</a>.
 </p>
 <p>
-	The most recent edition of the PSA Newsletter can be found <a href="http://www.philsci.org/news/newsletters/14-1.html">here</a>.
+	The most recent edition of the PSA Newsletter can be found <a href="[PREFIX]newsletter/14-1.html">here</a>.
 </p>
 
 <h2>Newsletter Archives</h2>
@@ -54,10 +54,10 @@ PSA Newsletter
 
 <h3>Volume 9 (2003)</h3>
 <ul class="newsletter">
-	<li class="odd"><a href="http://www.philsci.org/news/newsletters/9-1.html">Number 1</a></li>
-	<li class="even"><a href="http://www.philsci.org/news/newsletters/9-2.html">Number 2</a></li>
-	<li class="odd"><a href="http://www.philsci.org/news/newsletters/9-3.html">Number 3</a></li>
-	<li class="even"><a href="http://www.philsci.org/news/newsletters/9-4.html">Number 4</a></li>
+	<li class="odd"><a href="[PREFIX]newsletter/9-1.html">Number 1</a></li>
+	<li class="even"><a href="[PREFIX]newsletter/9-2.html">Number 2</a></li>
+	<li class="odd"><a href="[PREFIX]newsletter/9-3.html">Number 3</a></li>
+	<li class="even"><a href="[PREFIX]newsletter/9-4.html">Number 4</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
 
