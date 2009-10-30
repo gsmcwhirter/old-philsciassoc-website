@@ -197,7 +197,7 @@ class Site_News
 			$timestamp = strtotime($year."/".$str."/03 12:00pm");
 			$text = date("F", $timestamp);
 
-			$ct = array_key_exists($str, $mdata) ? count($mdata[$str]) : 0;
+			$ct = array_key_exists($str, $mdata) ? $this->_get_article_count($mdata[$str]) : 0;
 			if($ct != 0)
 			{
 				$data .= "<a href='[PREFIX]news/".$year."/".$str.".html'>".$text." ".$year." (".$ct." article".($ct != 1 ? "s" : "").")</a>";
@@ -213,6 +213,23 @@ class Site_News
 		$data .= "</ul>";
 
 		return array("content" => $data, "crumbs" => $crumb, "filename" => $filename, "title" => $title);
+	}
+
+	protected function _get_article_count($articles)
+	{
+		$count = 0;
+		foreach($articles as $art)
+		{
+			if(is_array($art))
+			{
+				$count += count($art);
+			}
+			else
+			{
+				$count += 1;
+			}
+		}
+		return $count;
 	}
 
 	protected function _generate_archive_month($year, $month, $articles)

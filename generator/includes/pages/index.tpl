@@ -10,3 +10,4 @@ To this end, the PSA engages in activities such as: the publishing of periodical
 <a href='[PREFIX]news.rss'><img class="rssfeed" alt="RSS Feed" src="[PREFIX_FINAL]images/feed-icon-14x14.png" /></a>
 <h1>PSA Announcements</h1>
 [NEWS_CONTENT]
+<p class="center"><a href="[PREFIX]news/index.html">Older News...</a></p>
