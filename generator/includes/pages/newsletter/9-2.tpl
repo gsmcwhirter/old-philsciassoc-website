@@ -21,7 +21,7 @@ Newsletter: Volume 9 : Number 2: May  2003
 for the Philosophy of Science Association by
 
        Malcolm
-Forster, http://philosophy.wisc.edu/forster
+Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 
 </p>
 <p>
@@ -56,7 +56,7 @@ Publishing Group seeks authors for books in several new reference series
 <li>OPPORTUNITIES at the INSTITUTE FOR ADVANCED
 STUDY, Princeton, New Jersey.
 
-      For details, go to http://www.hs.ias.edu/hsannoun.htm
+      For details, go to <a href="http://www.hs.ias.edu/hsannoun.htm" rel="external">http://www.hs.ias.edu/hsannoun.htm</a>
 </li>
 
 
@@ -74,16 +74,16 @@ QUICK LINKS:
  </p>
 <p>
 
-PSA website:  http://philosophy.wisc.edu/PSA/<br />
+PSA website:  <a href="http://philosophy.wisc.edu/PSA/" rel="external">http://philosophy.wisc.edu/PSA/</a><br />
 
 
 
 Philosophy of Science
-journal: http://www.journals.uchicago.edu/PHILSCI/home.html<br />
+journal: <a href="http://www.journals.uchicago.edu/PHILSCI/home.html" rel="external">http://www.journals.uchicago.edu/PHILSCI/home.html</a><br />
 
 
 
-PhilSci Archives:  http://philsci-archive.pitt.edu/
+PhilSci Archives:  <a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>
 </p>
 <hr />
 <p>
@@ -143,7 +143,7 @@ Committee</li>
 
 <li>Philadelphia, PA 19122</li>
 
-<li class="email">psa2004@temple.edu</li>
+<li class="email"><a href="mailto:psa2004@temple.edu" rel="email">psa2004@temple.edu</a></li>
 
  </ul>
 <hr />
@@ -283,8 +283,8 @@ mid-January, 2004.
 <p>
 
 Submissions may be sent
-EITHER by e-mail as an attachment in Word or PDF to psa2004@temple.edu OR
-electronically at an interactive web site at http://www.temple.edu/psa2004
+EITHER by e-mail as an attachment in Word or PDF to <a href="mailto:psa2004@temple.edu" rel="email">psa2004@temple.edu</a> OR
+electronically at an interactive web site at <a href="http://www.temple.edu/psa2004" rel="external">http://www.temple.edu/psa2004</a>
 
  </p>
 <p>
@@ -333,7 +333,7 @@ length is 5,000 words, including footnotes and references.  If the text includes
 appropriate number of words should be subtracted from the limit.  Submissions must include a 100-word abstract
 and a word count.  Format and citation
 style should match those of the journal Philosophy of Science (see
-http://www.indiana.edu/~philsci/submit.html#finalts for details).  Submissions should be prepared for blind review,
+<a href="http://www.indiana.edu/~philsci/submit.html#finalts" rel="external">http://www.indiana.edu/~philsci/submit.html#finalts</a> for details).  Submissions should be prepared for blind review,
 with no identifying information in the body of the paper or abstract.  Your identifying information can appear in
 the body of an e-mail (where the paper is an attachment file) or will be
 requested online if you submit at the program website.
@@ -349,8 +349,8 @@ time limit of twenty minutes.
 </p>
 <p>
 Submissions may be sent
-EITHER by e-mail as an attachment in Word or PDF to psa2004@temple.edu OR
-electronically at an interactive web site at http://www.temple.edu/psa2004
+EITHER by e-mail as an attachment in Word or PDF to <a href="mailto:psa2004@temple.edu" rel="email">psa2004@temple.edu</a> OR
+electronically at an interactive web site at <a href="http://www.temple.edu/psa2004" rel="external">http://www.temple.edu/psa2004</a>
 
 
 </p>
@@ -442,7 +442,7 @@ For further information on any of these series, please write or call:
 <li>532 Northridge Rd.</li>
 <li>Highlands Ranch, CO 80126</li>
 <li class="phone">Phone:303-791-8243</li>
-<li class="email">Email:kdowning@greenwood.com</li>
+<li class="email"><a href="mailto:Email:kdowning@greenwood.com" rel="email">Email:kdowning@greenwood.com</a></li>
 </ul>
 <p style="display: none;">
 
@@ -480,7 +480,7 @@ within philosophy of science.
 <p>
 Send information for
 possible inclusion in a future issue of the newsletter to the editor
-(mforster@facstaff.wisc.edu).  It is best
+(<a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>).  It is best
 to send the information directly to the editor as early as possible because
 publication dates are unpredictable.
 Please include PSA somewhere in the subject line, or title (so that the
@@ -495,7 +495,7 @@ served from a different location as of this mailing, and the subscription
 commands and address have changed.
 
 Send an email message to
-listserv@listserv.umkc.edu with your command as the ONLY body text
+<a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a> with your command as the ONLY body text
 (leave the subject line blank).
 
  To subscribe, type as the only body text:

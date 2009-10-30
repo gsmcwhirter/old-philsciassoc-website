@@ -10,7 +10,7 @@
 </p>
 <p class="center">
       Edited for the Philosophy of Science Association by
-      Malcolm Forster, http://philosophy.wisc.edu/forster
+      Malcolm Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 </p>
 <p>
    IN THIS ISSUE:
@@ -241,7 +241,7 @@
 <p>
   UNTIL 15 JUNE 2001 Submissions are to be sent by email as attachments in
   Portable Document Format (pdf), PostScript (ps), Plain Text (ASCII) Word
-  (doc) or HTML (html) to the following address: psa2002@pitt.edu.
+  (doc) or HTML (html) to the following address: <a href="mailto:psa2002@pitt.edu" rel="email">psa2002@pitt.edu</a>.
   AFTER 15 JUNE 2001 Submissions may be sent EITHER by email as described
   above OR by means of an interactive web site at www.pitt.edu/~psa2002
 </p>
@@ -277,7 +277,7 @@ accepted papers and their abstracts prior to meeting. We are going totally
 electronic for this meeting.
 </p>
 <p>
-  UNTIL 15 JUNE 2001 Submissions are to be sent by email to: psa2002@pitt.edu
+  UNTIL 15 JUNE 2001 Submissions are to be sent by email to: <a href="mailto:psa2002@pitt.edu" rel="email">psa2002@pitt.edu</a>
   The following information must appear in the email body:
 </p>
 <ol>
@@ -339,7 +339,7 @@ citation style should match those of the journal, Philosophy of Science
   <li>1017 Cathedral of Learning</li>
   <li>University of Pittsburgh</li>
   <li>Pittsburgh, PA  15260</li>
-  <li class="email">psa2002@pitt.edu</li>
+  <li class="email"><a href="mailto:psa2002@pitt.edu" rel="email">psa2002@pitt.edu</a></li>
 </ul>
 <hr />
 <p>
@@ -347,7 +347,7 @@ citation style should match those of the journal, Philosophy of Science
 </p>
 <p>
   Now philosophers of science have an on-line pre-print archive:
-              <code>http://philsci-archive.pitt.edu</code>
+              <code><a href="http://philsci-archive.pitt.edu" rel="external">http://philsci-archive.pitt.edu</a></code>
 </p>
 <p>
   This is an important development! If you haven't visited the site, please do
@@ -362,7 +362,7 @@ citation style should match those of the journal, Philosophy of Science
   Energy, Development is now on line.
 </p>
 <p>
-  The URL is http://www.library.utoronto.ca/see/pages/SEED_Journal.html
+  The URL is <a href="http://www.library.utoronto.ca/see/pages/SEED_Journal.html" rel="external">http://www.library.utoronto.ca/see/pages/SEED_Journal.html</a>
 </p>
 <p>
   The journal is refereed and has an ISSN number. Instructions for
@@ -390,8 +390,8 @@ are also welcome.
 </p>
 <p>
   Details available at:
-  http://www.personal.leeds.ac.uk/%7Ephldpr/frameset.html
-  or on request from s.r.d.french@leeds.ac.uk
+  <a href="http://www.personal.leeds.ac.uk/%7Ephldpr/frameset.html" rel="external">http://www.personal.leeds.ac.uk/%7Ephldpr/frameset.html</a>
+  or on request from <a href="mailto:s.r.d.french@leeds.ac.uk" rel="email">s.r.d.french@leeds.ac.uk</a>
 </p>
 <p>
    8. REASON PARK: Deadline May 15th, 2001
@@ -401,7 +401,7 @@ are also welcome.
   Knowledge" Foligno (Perugia), ITALY. 27th August - 6th September 2001
 </p>
 <p>
-  http://www.dipmat.unipg.it/reasonpark
+  <a href="http://www.dipmat.unipg.it/reasonpark" rel="external">http://www.dipmat.unipg.it/reasonpark</a>
 </p>
 <p>
   REMINDER: the deadline for application is May 15th, 2001
@@ -413,7 +413,7 @@ are also welcome.
 <p>
   Do you or your students need a free user-friendly guide to virtual
   resources in history &amp; philosophy of science, technology and medicine?
-  If so you can now find one at: http://www.humbul.ac.uk/vts/hps/index.htm
+  If so you can now find one at: <a href="http://www.humbul.ac.uk/vts/hps/index.htm" rel="external">http://www.humbul.ac.uk/vts/hps/index.htm</a>
 </p>
 <p>
   This is the recently launched on line tutorial 'Internet for History and
@@ -421,12 +421,12 @@ are also welcome.
   University of Leeds, as one of 29 new such 'virtual training suites'
   supported by the Resource Discovery Network for HUMBUL in a wide range
   of disciplines. A complete list of these suites with hyperlinked
-  gateways can be found at  http://www.vts.rdn.ac.uk/
+  gateways can be found at  <a href="http://www.vts.rdn.ac.uk/" rel="external">http://www.vts.rdn.ac.uk/</a>
 </p>
 <p>
   The complete range humanities suites - including specialist tutorials
   for History and for Philosophy - can also be accessed at
-  http://www.humbul.ac.uk/vts/
+  <a href="http://www.humbul.ac.uk/vts/" rel="external">http://www.humbul.ac.uk/vts/</a>
 </p>
 <p style="display: none;">
   ***************************************************************
@@ -453,7 +453,7 @@ are also welcome.
 </p>
 <p>
   Send information for possible inclusion in a future issue of the newsletter
-  to the editor (mforster@facstaff.wisc.edu).  IT IS BEST to send the
+  to the editor (<a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>).  IT IS BEST to send the
 information
   directly to the editor AS EARLY AS POSSIBLE because publication dates are
   unpredictable.  Please include PSA somewhere in the subject line, or title
@@ -464,7 +464,7 @@ information
    C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-  Send an email message to psa@scistud.ch.umkc.edu with your command on
+  Send an email message to <a href="mailto:psa@scistud.ch.umkc.edu" rel="email">psa@scistud.ch.umkc.edu</a> with your command on
   the subject line (leave the body of the message blank).
 </p>
 <p>

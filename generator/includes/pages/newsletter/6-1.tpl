@@ -3,7 +3,7 @@
 <h1>PSA Newsletter: Vol. 6 No. 1: February 2000</h1>
 <p>
 *** NOTE ***<br />
-The PSA newsletter has a new address: psa@scistud.umkc.edu. List commands,
+The PSA newsletter has a new address: <a href="mailto:psa@scistud.umkc.edu" rel="email">psa@scistud.umkc.edu</a>. List commands,
 however, remain the same. Information about how to unsubscribe or subscribe
 is at the end of this newsletter.
 </p>
@@ -16,7 +16,7 @@ is at the end of this newsletter.
 </p>
 <p class="center">
     Edited for the Philosophy of Science Association by
-    Malcolm Forster, http://philosophy.wisc.edu/forster
+    Malcolm Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 </p>
 <p>
  IN THIS ISSUE:
@@ -42,7 +42,7 @@ is at the end of this newsletter.
     PHILOSOPHICAL FOUNDATIONS OF SOCIAL EPISTEMOLOGY
 </p>
 <p>
-Director: Alvin Goldman (goldman@u.arizona.edu)<br />
+Director: Alvin Goldman (<a href="mailto:goldman@u.arizona.edu" rel="email">goldman@u.arizona.edu</a>)<br />
 Dates: June 26 - August 4, 2000  (6 weeks)<br />
 Location: Tucson, Arizona<br />
 Stipend: $3,700<br />
@@ -84,7 +84,7 @@ For further information, see a description of the seminar available
 on the following Web site:
 </p>
 <p>
-http://w3.arizona.edu/~phil/nehsummerseminar.htm
+<a href="http://w3.arizona.edu/~phil/nehsummerseminar.htm" rel="external">http://w3.arizona.edu/~phil/nehsummerseminar.htm</a>
 </p>
 <p>
 Application materials are also available from that site.
@@ -100,7 +100,7 @@ intensively as a function of the interests of the actual participants.)
  2. LAST CALL: PSA Contributed papers DEADLINE, 1 March 2000.
 </p>
 <p>
-Please visit http://scistud.umkc.edu/psa2k/ for further information.
+Please visit <a href="http://scistud.umkc.edu/psa2k/" rel="external">http://scistud.umkc.edu/psa2k/</a> for further information.
 Note: The PSA 2000 biennial conference will be 2-5 November 2000.
 </p>
 <hr />
@@ -204,8 +204,8 @@ Sponsored by the College of Arts and Sciences and the Department of
 Philosophy, Virginia Tech, and the Matchette Foundation.
 </p>
 <p>
-For further information, please contact Andrew Garnar (agarnar@vt.edu)
-540-231-8483 or visit http://www.phil.vt.edu/Kuhn/Kuhn.html.
+For further information, please contact Andrew Garnar (<a href="mailto:agarnar@vt.edu" rel="email">agarnar@vt.edu</a>)
+540-231-8483 or visit <a href="http://www.phil.vt.edu/Kuhn/Kuhn.html." rel="external">http://www.phil.vt.edu/Kuhn/Kuhn.html.</a>
 </p>
 <hr />
 <p>
@@ -219,7 +219,7 @@ serve as a member of the STS faculty and as Assistant Director of the STS
 Graduate Program at the University's Northern Virginia Center in Falls
 Church, located in the northern Virginia/Washington, D.C. metropolitan
 area.  For a more complete description of the position, consult
-http://www.cis.vt.edu/stspositions/.
+<a href="http://www.cis.vt.edu/stspositions/." rel="external">http://www.cis.vt.edu/stspositions/.</a>
 </p>
 <p style="display: none;">
 ***************************************************************
@@ -249,7 +249,7 @@ topics within philosophy of science.
 </p>
 <p>
 Send information for possible inclusion in a future issue
-of the newsletter to mforster@facstaff.wisc.edu.  Please
+of the newsletter to <a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>.  Please
 include PSA somewhere in the subject title (to aid electronic
 searches). It should also be noted that this is a READ-ONLY
 service; please do NOT submit material to the list.
@@ -259,7 +259,7 @@ It should be sent to the editor.
  C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-Send an email message to psa@scistud.umkc.edu with your command
+Send an email message to <a href="mailto:psa@scistud.umkc.edu" rel="email">psa@scistud.umkc.edu</a> with your command
 on the subject line (leave the body of the message blank).
 </p>
 <p>

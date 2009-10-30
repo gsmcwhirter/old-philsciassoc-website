@@ -10,7 +10,7 @@
 </p>
 <p class="center">
     Edited for the Philosophy of Science Association by
-    Malcolm Forster, http://philosophy.wisc.edu/forster
+    Malcolm Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 </p>
 <p>
  IN THIS ISSUE:
@@ -87,7 +87,7 @@
  important scientific questions facing social and behavioral science in the
  next decade."  Much further information about this competition appears in
  the formal Program Announcement, most readily available at
- http://www.nsf.gov/sbe/ses/infra/start.htm.  Proposals must be submitted
+ <a href="http://www.nsf.gov/sbe/ses/infra/start.htm." rel="external">http://www.nsf.gov/sbe/ses/infra/start.htm.</a>  Proposals must be submitted
  to NSF by August 4, 2000.
 </p>
 <p>
@@ -102,13 +102,13 @@
  Multi-disciplinary collaboration among researchers in all fields are
  encouraged, and proposals must be submitted to NSF by June 22, 2000.  The
  "Dear Colleague Letter" is most readily available at
- http://www.nsf.gov/cgi-bin/getpub?nsf0077.
+ <a href="http://www.nsf.gov/cgi-bin/getpub?nsf0077." rel="external">http://www.nsf.gov/cgi-bin/getpub?nsf0077.</a>
 </p>
 <p>
  Each of these Websites provides the names and e-mail addresses of those
  overseeing these competitions, from whom additional information may be
  requested.  Potential applicants may also contact the NSF STS Program
- Officer, Michael M. Sokal, at msokal@nsf.gov.
+ Officer, Michael M. Sokal, at <a href="mailto:msokal@nsf.gov" rel="email">msokal@nsf.gov</a>.
 </p>
 <hr />
 <p>
@@ -175,7 +175,7 @@
  to the PSA/HSS meetings in Vancouver BC.
 </p>
 <p>
- For details, go to: http://www.ups.edu/physics/maxplanck
+ For details, go to: <a href="http://www.ups.edu/physics/maxplanck" rel="external">http://www.ups.edu/physics/maxplanck</a>
 </p>
 <hr />
 <p>
@@ -226,7 +226,7 @@
 </p>
 <p>
     Send information for possible inclusion in a future issue
-    of the newsletter to mforster@facstaff.wisc.edu.  Please
+    of the newsletter to <a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>.  Please
     include PSA somewhere in the subject title (to aid electronic
     searches). It should also be noted that this is a READ-ONLY
     service; please do NOT submit material to the list.
@@ -236,7 +236,7 @@
  C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-    Send an email message to psa@kant.ch.umkc.edu with your command
+    Send an email message to <a href="mailto:psa@kant.ch.umkc.edu" rel="email">psa@kant.ch.umkc.edu</a> with your command
     on the subject line (leave the body of the message blank).
 </p>
 <p>

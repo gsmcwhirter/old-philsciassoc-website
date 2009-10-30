@@ -36,7 +36,7 @@
 *                       Department of Philosophy                         *
 *                  Washington University in St. Louis                    *
 *									 *
-*	        Send submissions to psa@twinearth.wustl.edu		 *
+*	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>		 *
 *									 *
 **************************************************************************
 </p>
@@ -48,7 +48,7 @@
                        Department of Philosophy        <br />
                   Washington University in St. Louis     <br />
 								<br />
-	        Send submissions to psa@twinearth.wustl.edu
+	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>
 </p>
 <p>
 CONTENTS:
@@ -76,7 +76,7 @@ upcoming meetings of the Association, and information about other meetings
 likely to be of interest to a broad range of the membership.  It is NOT
 intended for ungoing discussions of intellectual topics within philosophy
 of science.  If you have information that you would like to submit for
-possible inclusion in a future issue of the newsletter, please send it to the editor at psa@twinearth.wustl.edu.
+possible inclusion in a future issue of the newsletter, please send it to the editor at <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>.
 </p>
 <p>
 Directions for subscribing and unsubscribing:
@@ -159,7 +159,7 @@ Web site and clicking on the PSA96 button.  Please note the date of
 the version you view, because minor items are still changing.
 </p>
 <p>
-http://www.inform.umd.edu:8080/EdRes/Colleges/ARHU/Depts/chps
+<a href="http://www.inform.umd.edu:8080/EdRes/Colleges/ARHU/Depts/chps" rel="external">http://www.inform.umd.edu:8080/EdRes/Colleges/ARHU/Depts/chps</a>
 </p>
 <hr />
 <p>

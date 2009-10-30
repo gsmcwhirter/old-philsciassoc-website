@@ -36,7 +36,7 @@
 *                       Department of Philosophy                         *
 *                  Washington University in St. Louis                    *
 *									 *
-*	        Send submissions to psa@twinearth.wustl.edu		 *
+*	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>		 *
 *									 *
 **************************************************************************
 </p>
@@ -48,7 +48,7 @@
                        Department of Philosophy        <br />
                   Washington University in St. Louis     <br />
 								<br />
-	        Send submissions to psa@twinearth.wustl.edu
+	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>
 </p>
 <p>
 CONTENTS:
@@ -78,11 +78,11 @@ about other meetings likely to be of interest to a broad range of the
 membership.  It is NOT intended for ungoing discussions of intellectual
 topics within philosophy of science.  If you have information that you
 would like to submit for possible inclusion in a future issue of the
-newsletter, please send it to the editor at psa@twinearth.wustl.edu.
+newsletter, please send it to the editor at <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>.
 </p>
 <p>
 Directions for subscribing and unsubscribing:
-<code>Send an email message with NO subject to mailserv@cctr.umkc.edu</code>
+<code>Send an email message with NO subject to <a href="mailto:mailserv@cctr.umkc.edu" rel="email">mailserv@cctr.umkc.edu</a></code>
 To subscribe, include the following as the ONLY line:
         <code>SUBSCRIBE PSA &lt;your name&gt;</code>
 To unsubscribe, include the following as the ONLY line:
@@ -123,7 +123,7 @@ Symposium proposals should reach the Program Committee Chair, Don Howard,
 no later than 31 July 1997. Send to:  Don Howard, Chair, PSA 1998 Program
 Committee, History and Philosophy of Science, 346 O'Shaughnessy,
 University of Notre Dame, Notre Dame, Indiana 46556.  Telephone:
-219-631-5015; Fax: 219-631-8209.  email: Don.A.Howard.43@nd.edu
+219-631-5015; Fax: 219-631-8209.  email: <a href="mailto:Don.A.Howard.43@nd.edu" rel="email">Don.A.Howard.43@nd.edu</a>
 </p>
 <p>
 The Program Committee is: Robert Brandon (Duke), James Cushing (Notre
@@ -176,7 +176,7 @@ officer.
  </p>
 <p>
 Bonney Sheahan, Program Director, Infrastructure Phone: (703) 306-1733<br />
-     E-mail:  bsheahan@nsf.gov
+     E-mail:  <a href="mailto:bsheahan@nsf.gov" rel="email">bsheahan@nsf.gov</a>
 </p>
 <p>
 Disciplinary program officer phone numbers and e-mail addresses are
@@ -195,13 +195,13 @@ brief reminder:
 are large (5 years x $500,000) awards for groups of scholars to combine
 graduate education with research in an interdisciplinary area. The
 program announcement is now available on the NSF web page (www.nsf.gov)
-and questions should be directed to JOHN PERHONIS (jperhoni@nsf.gov).
+and questions should be directed to JOHN PERHONIS (<a href="mailto:jperhoni@nsf.gov" rel="email">jperhoni@nsf.gov</a>).
 </p>
 <p>
 2.  The next Science and Technology Centers competition is in the works.
 These are very large in scope, and very unlikely to suit our field, but
 may be opportunities for us to collaborate with other fields on campus.
-Questions to fferreir@nsf.gov.
+Questions to <a href="mailto:fferreir@nsf.gov" rel="email">fferreir@nsf.gov</a>.
 </p>
 <p>
 3.  And, in case you've forgotten, AUGUST 1 is the next target date for
@@ -215,7 +215,7 @@ about 20 dissertations.
 </p>
 <p>
 Consult our web page (www.nsf.gov/sbe/sber/sts/start.htm) or contact Ed
-Hackett (ehackett@nsf.gov) with questions.
+Hackett (<a href="mailto:ehackett@nsf.gov" rel="email">ehackett@nsf.gov</a>) with questions.
 </p>
 <hr />
 <p>
@@ -246,7 +246,7 @@ March 12-15, 1998.  Second History of Philosophy of Science Conference.
 Reilly Center for Science, Technology, and Values, University of Notre
 Dame, Notre Dame, Indiana.  Keynote address:  Ernan McMullin.  Submissions
 of abstracts for individual papers and full panels are due by September 1,
-1997 to James Maffie, maffiej@spot.colorado.edu.  Queries and
+1997 to James Maffie, <a href="mailto:maffiej@spot.colorado.edu" rel="email">maffiej@spot.colorado.edu</a>.  Queries and
 correspondence
 by email are encouraged; papermail will be directed to 3280 Sentinel Drive,
 Boulder, CO 80301-
@@ -282,7 +282,7 @@ Director, Rockefeller Archive Center, 15 Dayton Avenue, Pocantico Hills,
 Sleepy Hollow, New York 10591-1598.  The grant application along with
 detailed information about the Rockefeller Archive Center and a guide to
 its collections can also be found on the World Wide Web at
-http://www.rockefeller.edu/archive.ctr/
+<a href="http://www.rockefeller.edu/archive.ctr/" rel="external">http://www.rockefeller.edu/archive.ctr/</a>
 </p>
 <p style="display: none;">
 ========================= END OF PSA NEWSLETTER ==========================

@@ -19,7 +19,7 @@
        Edited for the Philosophy of Science Association
 by
 
-       Malcolm Forster, http://philosophy.wisc.edu/forster
+       Malcolm Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 
 </p>
 <p>
@@ -31,7 +31,7 @@ IN THIS ISSUE:
  <li>PSA 2006: Call for Symposium Proposals and Workshop
 Proposals. Deadline: Dec. 1, 2005.
 
-       http://philsci.org/PSA06/
+       <a href="http://philsci.org/PSA06/" rel="external">http://philsci.org/PSA06/</a>
 </li>
 
 
@@ -99,16 +99,16 @@ of Science,
 
           Technology
 and Society (PSTS).
- Go to http://www.psts.utwente.nl/
+ Go to <a href="http://www.psts.utwente.nl/" rel="external">http://www.psts.utwente.nl/</a>
 </li>
 
 
  <li>   CALL FOR
-PAPERS:  EPISTEME (http://www.episteme.us.com), a journal of
+PAPERS:  EPISTEME (<a href="http://www.episteme.us.com" rel="external">http://www.episteme.us.com</a>), a journal of
 social
 epistemology, invites the submission of papers to be considered for publication
 in the next two GENERAL issues of the Journal - October 2005, February 2006.
-Please address all inquiries to Leslie Marsh: l.marsh@sussex.ac.uk
+Please address all inquiries to Leslie Marsh: <a href="mailto:l.marsh@sussex.ac.uk" rel="email">l.marsh@sussex.ac.uk</a>
 </li>
 </ol>
 <hr />
@@ -119,14 +119,14 @@ PSA LINKS:
 </p>
 <p>
 
-PSA 2006:  http://philsci.org/PSA06/<br />
+PSA 2006:  <a href="http://philsci.org/PSA06/" rel="external">http://philsci.org/PSA06/</a><br />
 
 
-PSA website:  http://philsci.org/<br />
+PSA website:  <a href="http://philsci.org/" rel="external">http://philsci.org/</a><br />
 
-Philosophy of Science journal: http://www.journals.uchicago.edu/PHILSCI/home.html<br />
+Philosophy of Science journal: <a href="http://www.journals.uchicago.edu/PHILSCI/home.html" rel="external">http://www.journals.uchicago.edu/PHILSCI/home.html</a><br />
 
-PhilSci Archives:  http://philsci-archive.pitt.edu/
+PhilSci Archives:  <a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>
 
 </p>
 <p style="display: none;">
@@ -267,7 +267,7 @@ be made by mid-February, 2005.
 
 Proposals must be electronically
 submitted at
-http://philsci.org/PSA06/submit
+<a href="http://philsci.org/PSA06/submit" rel="external">http://philsci.org/PSA06/submit</a>
 
 </p>
 <p>
@@ -289,7 +289,7 @@ Scientific Method</li>
 
 <li>United Kingdom</li>
 
-<li class="email">jalex@lse.ac.uk</li>
+<li class="email"><a href="mailto:jalex@lse.ac.uk" rel="email">jalex@lse.ac.uk</a></li>
 
 </ul>
 <hr />
@@ -361,7 +361,7 @@ may be made for one or two terms (September to December, January to
 April).  Further information and
 application materials may be found on the School's web site, www.hs.ias.edu, or they can be obtained from the
 Administrative Officer by electronic mail at
-mzelazny@ias.edu, or inquiries can be
+<a href="mailto:mzelazny@ias.edu" rel="email">mzelazny@ias.edu</a>, or inquiries can be
 sent by post to: School of
 Historical Studies, Institute for Advanced Study, Einstein Drive, Princeton,
 New Jersey 08540.  Completed
@@ -422,12 +422,12 @@ either in the School of Historical Studies or the School of Social Science.
 
 Qualified
 candidates who would like to apply under the auspices of this program should
-visit the ACLS website, http://www.acls.org/burkguid.htm,
+visit the ACLS website, <a href="http://www.acls.org/burkguid.htm," rel="external">http://www.acls.org/burkguid.htm,</a>
 for a more detailed description of the terms of the fellowship and information
 about how to apply. Applications for this program must be submitted through the
 ACLS Online Fellowship Application system (OFA) no later than 9 p.m., Eastern
 Daylight Time, September 28, 2005.
-OFA is accessible at http://ofa.acls.org
+OFA is accessible at <a href="http://ofa.acls.org" rel="external">http://ofa.acls.org</a>
 or through the ACLS website.
 Information about this program may also be obtained from the ACLS
 Fellowships Office, 633 Third Avenue, 8th floor, New York, NY 10017-6795.
@@ -499,7 +499,7 @@ Directions for submissions will
 be posted laterin July  at www.econ.vt.edu/error06
 </p>
 <p>
-Inquiries: error@vt.edu or jemille6@vt.edu
+Inquiries: <a href="mailto:error@vt.edu" rel="email">error@vt.edu</a> or <a href="mailto:jemille6@vt.edu" rel="email">jemille6@vt.edu</a>
 The Program Committee will begin reviewing submissions: November 30; final date
 to receive submissions: January 6, 2006.
 All accepted contributors will have accommodation and partial travel expenses
@@ -574,8 +574,8 @@ individual papers, and assign the place of individual papers within the
 program.  Proposals may be submitted in English or French and must reach
 the Program Committee by December 15, 2005 at the latest.  Submissions
 should be sent via email (RTF or Word format), with "HOPOS Submission" in the
-"Subject" line, to Jean Gayon (gayon@noos.fr)
-or Doug Jesseph (doug_jesseph@ncsu.edu).
+"Subject" line, to Jean Gayon (<a href="mailto:gayon@noos.fr" rel="email">gayon@noos.fr</a>)
+or Doug Jesseph (<a href="mailto:doug_jesseph@ncsu.edu" rel="email">doug_jesseph@ncsu.edu</a>).
 If email is not possible, please direct submissions by regular post to:
 Société de philosophie des sciences (SPS), 45 rue d'Ulm, 75005 Paris,
 France.  Notification of acceptance will be provided by the Program
@@ -609,13 +609,13 @@ Inscription fee
 </p>
 <p>
 Registration and further information details regarding registration, housing,
-etc. will be provided at a later date on the HOPOS 2006 conference website, at http://www.sps.ens.fr/activites/hopos2006/indexhopos.html.
+etc. will be provided at a later date on the HOPOS 2006 conference website, at <a href="http://www.sps.ens.fr/activites/hopos2006/indexhopos.html." rel="external">http://www.sps.ens.fr/activites/hopos2006/indexhopos.html.</a>
 </p>
 <p>
 If you have further questions, contact Anastasios Brenner
-(anastasios.brenner@wanadoo.fr)
+(<a href="mailto:anastasios.brenner@wanadoo.fr" rel="email">anastasios.brenner@wanadoo.fr</a>)
 or Marthe Tournou
-(tournou@paris7.jussieu.fr);
+(<a href="mailto:tournou@paris7.jussieu.fr" rel="email">tournou@paris7.jussieu.fr</a>);
 please refer to "HOPOS 2006" in your mail.
 </p>
 <p>
@@ -629,7 +629,7 @@ including the sponsorship of meetings and conference sessions, the publication
 of books and special issues of journals, maintaining an e-mail discussion
 group, and the dissemination of information about libraries, archives and
 collections, and bibliographic information. For further information, please go
-to http://www.umkc.edu/scistud/hopos.
+to <a href="http://www.umkc.edu/scistud/hopos." rel="external">http://www.umkc.edu/scistud/hopos.</a>
 </p>
 <p>
 The Société de philosophie des sciences (SPS) was founded in Paris in 2003,
@@ -644,7 +644,7 @@ essential. Finally, although academic research constitutes the core of its
 activities, the Society hopes to attract professionals from other areas, such
 as secondary school teachers, journalists and other media specialists, science
 museum personnel, industrial researchers and engineers, and workers in the
-medical and legal professions. For further information, please go to http://www.sps.ens.fr.
+medical and legal professions. For further information, please go to <a href="http://www.sps.ens.fr." rel="external">http://www.sps.ens.fr.</a>
 
 </p>
 <hr />
@@ -670,7 +670,7 @@ perception and perceptual knowledge in philosophy of mind and epistemology.
 </p>
 <p>
 Volunteers to serve as chairs or commentators-at-large are welcome.
-For information contact Dominic McIver Lopes &lt;dom.lopes@ubc.ca&gt;.
+For information contact Dominic McIver Lopes <a href="mailto:dom.lopes@ubc.ca" rel="email">dom.lopes@ubc.ca</a>.
 
 </p>
 <hr />
@@ -691,7 +691,7 @@ Association and the British Academy, University of Bristol, UK, 2-4 December
 Speakers:  Helen Beebee, Alexander Bird, Simon Blackburn, Nancy
 Cartwright, Sungho Choi, Alice Drewery, Toby Handfield, Jennifer McKitrick,
 Stephen Mumford, Claudine Tiercelin, Ann Whittle, Stephen Yablo.  Further information is available from:
-http://www.bris.ac.uk/Depts/Philosophy/Events/Dispositions/
+<a href="http://www.bris.ac.uk/Depts/Philosophy/Events/Dispositions/" rel="external">http://www.bris.ac.uk/Depts/Philosophy/Events/Dispositions/</a>
 email metaphysics-conference@bristol.ac.uk
 
 </p>
@@ -772,7 +772,7 @@ statement detailing teaching philosophy, interests and experience, and request
 3 letters of recommendation to be sent.  Letters of reference, but not
 application materials, may be sent by email.  Send material to:
 Chair, Philosophy of Biology/Epistemology Search Committee, School of Life Sciences,
-PO Box 874501, Arizona State University, Tempe, AZ 85287-4501.  Email &lt;sols@asu.edu&gt;. Initial closing date for
+PO Box 874501, Arizona State University, Tempe, AZ 85287-4501.  Email <a href="mailto:sols@asu.edu" rel="email">sols@asu.edu</a>. Initial closing date for
 applications, including letters, is November 10, 2005; if not filled, weekly
 thereafter until search closed. Anticipated start date is August 16, 2006. A
 background check is required for employment. Arizona State University is an
@@ -957,7 +957,7 @@ information on purchasing this individual issue
 Studies in
 History and Philosophy of Biological and Biomedical Sciences, V. 31, No. 2,
 June 2005
-http://www.elsevier.com/wps/find/journalconditionsofsale.cws_home/600658/conditionsofsale#conditionsofsale
+<a href="http://www.elsevier.com/wps/find/journalconditionsofsale.cws_home/600658/conditionsofsale#conditionsofsale" rel="external">http://www.elsevier.com/wps/find/journalconditionsofsale.cws_home/600658/conditionsofsale#conditionsofsale</a>
 
 </p>
 <p style="display: none;">
@@ -1000,7 +1000,7 @@ interest to a broad range of membership).
 
 Send information for
 possible inclusion in a future issue of the newsletter to the editor
-(mforster@wisc.edu).  It is best to
+(<a href="mailto:mforster@wisc.edu" rel="email">mforster@wisc.edu</a>).  It is best to
 send the information directly to the editor as early as possible because
 publication dates are unpredictable.
 Please include PSA somewhere in the subject line (so that the message is
@@ -1016,7 +1016,7 @@ UNSUBSCRIBING
 <p>
 
 Send an email message to
-listserv@listserv.umkc.edu with your command as the ONLY body text (leave
+<a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a> with your command as the ONLY body text (leave
 the subject line blank).
 
 

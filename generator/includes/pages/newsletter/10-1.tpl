@@ -20,7 +20,7 @@ Newsletter: Volume 10 : Number 1: March  2004
        Edited
 for the Philosophy of Science Association by
 
-       Malcolm Forster, http://philosophy.wisc.edu/forster
+       Malcolm Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 
 </p>
 <p>
@@ -52,7 +52,7 @@ Philosopher Wesley C. Salmon.
         Uncertainty and Ignorance, August
  15-21, 2004.  Application Deadline: April
  1, 2004.
-        http://www.uni-konstanz.de/ppm/summerschool2004
+        <a href="http://www.uni-konstanz.de/ppm/summerschool2004" rel="external">http://www.uni-konstanz.de/ppm/summerschool2004</a>
 </li>
 
 
@@ -61,7 +61,7 @@ for PAPERS:  International
 Congress:  Thought Experiments Rethought.
         September 24 -25, 2004, Ghent University, Belgium.
         Deadline for Abstracts:  April
- 30, 2004.  http://logica.ugent.be/TER/
+ 30, 2004.  <a href="http://logica.ugent.be/TER/" rel="external">http://logica.ugent.be/TER/</a>
 </li>
 
 
@@ -70,7 +70,7 @@ Physical
         Theories, Urbino (Italy) from July 5, to July
  9, 2004  Application Deadline: May
  31, 2004.
-        http://www.ge.infn.it/~zanghi/urbino
+        <a href="http://www.ge.infn.it/~zanghi/urbino" rel="external">http://www.ge.infn.it/~zanghi/urbino</a>
 </li>
 
 
@@ -78,7 +78,7 @@ Physical
 Fellowship in Philosophy of Science:
 Deadline: April 1,
  2004.
-        http://www.uwo.ca/philosophy/Rotman_Postdoc.htm
+        <a href="http://www.uwo.ca/philosophy/Rotman_Postdoc.htm" rel="external">http://www.uwo.ca/philosophy/Rotman_Postdoc.htm</a>
 </li>
 
 
@@ -91,7 +91,7 @@ Journal of the Society for Philosophy and Technology, are
 on &quot;Nanotech Challenges&quot;.
 Deadline:  June
  30, 2004.
-         http://www.hyle.org/journal/issues/9-2/cfp_nano.htm
+         <a href="http://www.hyle.org/journal/issues/9-2/cfp_nano.htm" rel="external">http://www.hyle.org/journal/issues/9-2/cfp_nano.htm</a>
 </li>
 
 
@@ -109,19 +109,19 @@ UNIVERSITY OF WESTERN ONTARIO, LONDON, ONTARIO, CANADA.
 include Han Halvorson (Princeton) and others.
        This year the Rotman Lecture will
 be given by Jeremy Butterfield (Oxford).
-        http://www.uwo.ca/philosophy/lmp.html
+        <a href="http://www.uwo.ca/philosophy/lmp.html" rel="external">http://www.uwo.ca/philosophy/lmp.html</a>
 </li>
 
 
 <li>Association for Informal Logic and Critical Thinking (AILACT) invites applications for
-         its first annual Essay Prize. See http://ailact.mcmaster.ca/prize.htm
+         its first annual Essay Prize. See <a href="http://ailact.mcmaster.ca/prize.htm" rel="external">http://ailact.mcmaster.ca/prize.htm</a>
  Deadline: Aug. 31, 2004.
 </li>
 
 
 <li>SECOND
 CALL for papers: Model-Based Reasoning in Science and Engineering, Italy.
-        http://www.unipv.it/webphilos_lab/courses/progra1.html  Deadline: May 1,
+        <a href="http://www.unipv.it/webphilos_lab/courses/progra1.html" rel="external">http://www.unipv.it/webphilos_lab/courses/progra1.html</a>  Deadline: May 1,
  2004.
 </li>
 </ol>
@@ -132,12 +132,12 @@ PSA LINKS:
 </p>
 <p>
 PSA 2004 Biennial
-Meeting:   http://www.temple.edu/psa2004 <br />
-PSA website:  http://philosophy.wisc.edu/PSA/ <br />
-Philosophy of Science journal: http://www.journals.uchicago.edu/PHILSCI/home.html<br />
+Meeting:   <a href="http://www.temple.edu/psa2004" rel="external">http://www.temple.edu/psa2004</a> <br />
+PSA website:  <a href="http://philosophy.wisc.edu/PSA/" rel="external">http://philosophy.wisc.edu/PSA/</a> <br />
+Philosophy of Science journal: <a href="http://www.journals.uchicago.edu/PHILSCI/home.html" rel="external">http://www.journals.uchicago.edu/PHILSCI/home.html</a><br />
 
 PhilSci Archives:
-http://philsci-archive.pitt.edu/
+<a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>
 </p>
 <p style="display: none;">
 
@@ -286,13 +286,13 @@ research in the Philosophy of Science at the University of Pittsburgh visit:
 </p>
 <p>
 Archives of Scientific Philosophy
-http://www.library.pitt.edu/libraries/special/asp/archive.html<br />
+<a href="http://www.library.pitt.edu/libraries/special/asp/archive.html" rel="external">http://www.library.pitt.edu/libraries/special/asp/archive.html</a><br />
 
 University Library System University of Pittsburgh
-http://www.library.pitt.edu/<br />
+<a href="http://www.library.pitt.edu/" rel="external">http://www.library.pitt.edu/</a><br />
 
 Center for Philosophy of Science
-http://www.pitt.edu/~pittcntr<br />
+<a href="http://www.pitt.edu/~pittcntr" rel="external">http://www.pitt.edu/~pittcntr</a><br />
 </p>
 <hr />
 <p>
@@ -389,7 +389,7 @@ to a broad range of membership).
 <p>
 Send information for
 possible inclusion in a future issue of the newsletter to the editor
-(mforster@wisc.edu).  It is best to send
+(<a href="mailto:mforster@wisc.edu" rel="email">mforster@wisc.edu</a>).  It is best to send
 the information directly to the editor as early as possible because publication
 dates are unpredictable.  Please include
 PSA somewhere in the subject line (so that the message is automatically filed).
@@ -399,7 +399,7 @@ PSA somewhere in the subject line (so that the message is automatically filed).
 </p>
 <p>
 Send an email message to
-listserv@listserv.umkc.edu with your command as the ONLY body text
+<a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a> with your command as the ONLY body text
 (leave the subject line blank).
 
 

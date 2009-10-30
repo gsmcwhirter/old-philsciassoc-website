@@ -10,7 +10,7 @@
 </p>
 <p class="center">
     Edited for the Philosophy of Science Association by
-    Malcolm Forster, http://philosophy.wisc.edu/forster/
+    Malcolm Forster, <a href="http://philosophy.wisc.edu/forster/" rel="external">http://philosophy.wisc.edu/forster/</a>
 </p>
 <p>
  IN THIS ISSUE:
@@ -42,7 +42,7 @@ one or two tenure-track or tenured faculty beginning August 2000 for the new
 program. Consideration of applications will begin February 7, 2000.
 </p>
 <p>
-For the job advertisement, visit http://philosophy.wisc.edu/job2000.htm
+For the job advertisement, visit <a href="http://philosophy.wisc.edu/job2000.htm" rel="external">http://philosophy.wisc.edu/job2000.htm</a>
 </p>
 <p>
 Candidates' specific fields or disciplines are less important than a
@@ -62,7 +62,7 @@ domain of science studies.
     Deadline for submitting Contributed papers: 1 March 2000.
 </p>
 <p>
- Please visit http://scistud.umkc.edu/psa2k/ for further information.
+ Please visit <a href="http://scistud.umkc.edu/psa2k/" rel="external">http://scistud.umkc.edu/psa2k/</a> for further information.
 </p>
 <hr />
 <p>
@@ -102,8 +102,8 @@ be devoted to these and related issues in the foundations of probability.
    Advisory editors:
 </p>
 <p>
-      Henry Kyburg, Jr. (Rochester; email: kyburg@cs.rochester.edu)<br />
-      Mariam Thalos (Buffalo; email: thalos@acsu.buffalo.edu)
+      Henry Kyburg, Jr. (Rochester; email: <a href="mailto:kyburg@cs.rochester.edu" rel="email">kyburg@cs.rochester.edu</a>)<br />
+      Mariam Thalos (Buffalo; email: <a href="mailto:thalos@acsu.buffalo.edu" rel="email">thalos@acsu.buffalo.edu</a>)
 </p>
 <p>
 Anyone interested in contributing a paper is invited to submit an abstract,
@@ -124,7 +124,7 @@ previous six years. The Award is in memory of Imre Lakatos and has been
 endowed by the Latsis Foundation. For information, visit:
 </p>
 <p>
- http://www.lse.ac.uk/Depts/Philosophy/LakatosAward.htm
+ <a href="http://www.lse.ac.uk/Depts/Philosophy/LakatosAward.htm" rel="external">http://www.lse.ac.uk/Depts/Philosophy/LakatosAward.htm</a>
 </p>
 <p style="display: none;">
 ***************************************************************
@@ -151,7 +151,7 @@ discussions of intellectual topics within philosophy of science.
 </p>
 <p>
 Send information for possible inclusion in a future issue of the
-newsletter to mforster@facstaff.wisc.edu.  Please include PSA somewhere
+newsletter to <a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>.  Please include PSA somewhere
 in the subject title (to aid electronic searches). It should also be noted
 that this is a READ-ONLY service; please do NOT submit material to the list.
 It should be sent to the editor.
@@ -160,7 +160,7 @@ It should be sent to the editor.
  C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-Send an email message to psa@kant.ch.umkc.edu with your command on
+Send an email message to <a href="mailto:psa@kant.ch.umkc.edu" rel="email">psa@kant.ch.umkc.edu</a> with your command on
 the subject line (leave the body of the message blank).
 </p>
 <p>

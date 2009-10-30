@@ -21,7 +21,7 @@ Newsletter: Volume 10 : Number 3: September  2004
 for the Philosophy of Science Association by
 
        Malcolm
-Forster, http://philosophy.wisc.edu/forster
+Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 </p>
 <p>
 
@@ -39,7 +39,7 @@ from November 18-20.  It is
 hotel reservations as soon as possible.
 Full details of the
        program and links to registration
-and hotel reservations are at http://www.temple.edu/psa2004 .
+and hotel reservations are at <a href="http://www.temple.edu/psa2004" rel="external">http://www.temple.edu/psa2004</a> .
 </li>
 
 
@@ -54,7 +54,7 @@ Annual Philosophy of Social Science Roundtable,
 
 <li>NEWSLETTER:
  History of Philosophy of Science
-(HOPOS): http://scistud.umkc.edu/hopos
+(HOPOS): <a href="http://scistud.umkc.edu/hopos" rel="external">http://scistud.umkc.edu/hopos</a>
        Also see
 3 below.
 </li>
@@ -88,7 +88,7 @@ details.
 International History, Philosophy and Science Teaching (IHPST).
         Deadline for 500 word
 abstracts:  January 2005.  Link: www.ihpst.org
-    Also see IHPST Newsletter:  http://ihpst.arts.unsw.edu.au/sept2004newsletter.html
+    Also see IHPST Newsletter:  <a href="http://ihpst.arts.unsw.edu.au/sept2004newsletter.html" rel="external">http://ihpst.arts.unsw.edu.au/sept2004newsletter.html</a>
 </li>
 
 
@@ -100,7 +100,7 @@ history of science in the history of philosophy,
 Michael Friedman's work in philosophy and the history of
        philosophy of science.  It will take place October 1-3 on the campus
 of the University of South
-         Carolina.  Please visit http://www.friedmanconference.net
+         Carolina.  Please visit <a href="http://www.friedmanconference.net" rel="external">http://www.friedmanconference.net</a>
 for details.
 </li>
 </ol>
@@ -113,12 +113,12 @@ PSA LINKS:
 </p>
 <p>
 PSA 2004 Biennial
-Meeting:   http://www.temple.edu/psa2004 <br />
-PSA website:  http://philosophy.wisc.edu/PSA/ <br />
-Philosophy of Science journal: http://www.journals.uchicago.edu/PHILSCI/home.html<br />
+Meeting:   <a href="http://www.temple.edu/psa2004" rel="external">http://www.temple.edu/psa2004</a> <br />
+PSA website:  <a href="http://philosophy.wisc.edu/PSA/" rel="external">http://philosophy.wisc.edu/PSA/</a> <br />
+Philosophy of Science journal: <a href="http://www.journals.uchicago.edu/PHILSCI/home.html" rel="external">http://www.journals.uchicago.edu/PHILSCI/home.html</a><br />
 
 PhilSci Archives:
-http://philsci-archive.pitt.edu/
+<a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>
 </p>
 <p style="display: none;">
 
@@ -155,26 +155,26 @@ Send a one-page abstract to any of the organizers by December
 </p>
 <p>
 James Bohman: Department of Philosophy, Saint Louis University,
-3800 Lindell Blvd., St. Louis, MO 63156-0907 &lt;bohmanjf@slu.edu&gt;.<br />
+3800 Lindell Blvd., St. Louis, MO 63156-0907 <a href="mailto:bohmanjf@slu.edu.<br" rel="email">bohmanjf@slu.edu.<br</a> />
 Paul Roth: Department of Philosophy, University of California - Santa Cruz, 1156
-High Street, Santa Cruz, CA 95064 &lt;paroth@ucsc.edu&gt;.<br />
+High Street, Santa Cruz, CA 95064 <a href="mailto:paroth@ucsc.edu.<br" rel="email">paroth@ucsc.edu.<br</a> />
 Alison Wylie: Department of Women's Studies, Barnard College/Columbia
-University, 3009 Broadway, New York, NY 10027 &lt;awylie@barnard.edu&gt;
+University, 3009 Broadway, New York, NY 10027 <a href="mailto:awylie@barnard.edu" rel="email">awylie@barnard.edu</a>
 </p>
 <p>
 Roundtable website:
-http://bc.barnard.columbia.edu/~awylie/RoundtableIndex.html
+<a href="http://bc.barnard.columbia.edu/~awylie/RoundtableIndex.html" rel="external">http://bc.barnard.columbia.edu/~awylie/RoundtableIndex.html</a>
 </p>
 <p>
 Call for papers:
-http://bc.barnard.columbia.edu/~awylie/roundtable05_call.html
+<a href="http://bc.barnard.columbia.edu/~awylie/roundtable05_call.html" rel="external">http://bc.barnard.columbia.edu/~awylie/roundtable05_call.html</a>
 </p>
 <p>
 Alison Wylie<br />
 Women's Studies/Barnard College<br />
 Philosophy/Columbia University<br />
 Acting Director, Barnard Center for Research on Women<br />
-http://bc.barnard.columbia.edu/~awylie/
+<a href="http://bc.barnard.columbia.edu/~awylie/" rel="external">http://bc.barnard.columbia.edu/~awylie/</a>
 
 
 
@@ -185,7 +185,7 @@ http://bc.barnard.columbia.edu/~awylie/
 
 
 
-     3.  NEWSLETTER:  History of Philosophy of Science (HOPOS): http://scistud.umkc.edu/hopos
+     3.  NEWSLETTER:  History of Philosophy of Science (HOPOS): <a href="http://scistud.umkc.edu/hopos" rel="external">http://scistud.umkc.edu/hopos</a>
 
 
 </p>
@@ -213,7 +213,7 @@ Philosophy of Carl G. Hempel (2000).</li>
 </ul>
 <p>
 Please visit the webpage of HOPOS, The International Society for the History of
-Philosophy of Science, at: http://scistud.umkc.edu/hopos
+Philosophy of Science, at: <a href="http://scistud.umkc.edu/hopos" rel="external">http://scistud.umkc.edu/hopos</a>
 On the Newsletter page, you will find the current edition (Volume VIII, Number
 1) on the right-hand side. You will need Adobe Reader to read and print the
 Newsletter.
@@ -241,7 +241,7 @@ conference, June 24-25, 2005.
 
 </p>
 <p>
- Episteme (A Journal of Social Epistemology; http://www.episteme.us.com) will be
+ Episteme (A Journal of Social Epistemology; <a href="http://www.episteme.us.com" rel="external">http://www.episteme.us.com</a>) will be
 holding its second annual conference at the University of Massachusetts, Amherst, on June
  24-25, 2005.
 The theme of the conference is &quot;rationality&quot; and a special issue of
@@ -252,9 +252,9 @@ arrangements.  Papers of approximately
 5000 words on the theme of rationality and social epistemology should be
 submitted by (postmarked) January 31, 2005 to Professor Miriam
 Solomon, Philosophy Department, Temple University 022-32, Philadelphia PA19122.  Electronic submission (as a Word
-or PDF attachment) to msolomon@temple.edu
+or PDF attachment) to <a href="mailto:msolomon@temple.edu" rel="email">msolomon@temple.edu</a>
 is preferred, and papers should be prepared for blind refereeing.  For
-further details, contact Miriam Solomon at msolomon@temple.edu
+further details, contact Miriam Solomon at <a href="mailto:msolomon@temple.edu" rel="email">msolomon@temple.edu</a>
 
 
 </p>
@@ -276,7 +276,7 @@ participate in the philosophy of biology faculty seminar. 10
 month Salary $30,000 plus fringe benefits. Send vita, names of three
 referees, a sample of written work and a description
 of proposed research focus to Alex Rosenberg, Center for Philosophy of Biology,
-Box 90743, Duke University, Durham, NC. 27708, USA., alexrose@duke.edu. Electronic
+Box 90743, Duke University, Durham, NC. 27708, USA., <a href="mailto:alexrose@duke.edu" rel="email">alexrose@duke.edu</a>. Electronic
 submission welcome.
 
 
@@ -375,7 +375,7 @@ By mail:
 
 <li class="fax">By fax: 574-631-7418</li>
 
-<li class="email">By email: Cushing.Prize.1@nd.edu</li>
+<li class="email">By email: <a href="mailto:Cushing.Prize.1@nd.edu" rel="email">Cushing.Prize.1@nd.edu</a></li>
 </ul>
 <p>
 Please be sure to include the following information:
@@ -413,7 +413,7 @@ professional colleagues. The members of the Advisory Committee are:
 For further information, please visit the website for the Cushing Memorial
 Prize:
 
-http://www.nd.edu/~cushpriz/
+<a href="http://www.nd.edu/~cushpriz/" rel="external">http://www.nd.edu/~cushpriz/</a>
 </p>
 <p>
 or contact:
@@ -426,7 +426,7 @@ or contact:
 <li>Notre Dame, IN 46556</li>
 <li class="phone">574-631-7547 (Private Office)</li>
 <li class="phone">574-631-5015 (HPS Program)</li>
-<li class="email">Don.A.Howard.43@nd.edu</li>
+<li class="email"><a href="mailto:Don.A.Howard.43@nd.edu" rel="email">Don.A.Howard.43@nd.edu</a></li>
 </ul>
 <p style="display: none;">
 
@@ -461,7 +461,7 @@ broad range of membership).
 <p>
 Send information for
 possible inclusion in a future issue of the newsletter to the editor
-(mforster@wisc.edu).  It is best to send
+(<a href="mailto:mforster@wisc.edu" rel="email">mforster@wisc.edu</a>).  It is best to send
 the information directly to the editor as early as possible because publication
 dates are unpredictable.  Please include
 PSA somewhere in the subject line (so that the message is automatically filed).
@@ -471,7 +471,7 @@ PSA somewhere in the subject line (so that the message is automatically filed).
 </p>
 <p>
 Send an email message to
-listserv@listserv.umkc.edu with your command as the ONLY body text
+<a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a> with your command as the ONLY body text
 (leave the subject line blank).
 
 

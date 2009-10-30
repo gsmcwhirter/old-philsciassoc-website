@@ -21,14 +21,14 @@ Newsletter: Volume 8 : Number 4: September 2002
 for the Philosophy of Science Association by
 
        Malcolm
-Forster, http://philosophy.wisc.edu/forster
+Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 
 
 </p>
 <p>
 IN MEMORIAM:  Robert Clifton (1964-2002).  Please honor his memory by reading the
 memorial notice in the University
- of Pittsburgh newspaper: http://www.pitt.edu/utimes/issues/35/020829/03.html.
+ of Pittsburgh newspaper: <a href="http://www.pitt.edu/utimes/issues/35/020829/03.html." rel="external">http://www.pitt.edu/utimes/issues/35/020829/03.html.</a>
 
  </p>
 <ol>
@@ -61,7 +61,7 @@ Student Workshop, Virginia Tech STS, 2003.
 &quot;Technologies/Moralities: The Ethical Grammar of Technological Systems&quot;  Abstracts
 due:  15
  October 2002 (for notification by 1
-December). See http://www.cis.vt.edu/sts/workshop2003/
+December). See <a href="http://www.cis.vt.edu/sts/workshop2003/" rel="external">http://www.cis.vt.edu/sts/workshop2003/</a>
 </li>
 
 
@@ -69,7 +69,7 @@ December). See http://www.cis.vt.edu/sts/workshop2003/
 2002, MILWAUKEE,
 November 7 to 10.  Current versions of
 the contributed papers are posted on the PhilSci
-Archives:  http://philsci-archive.pitt.edu/
+Archives:  <a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>
 </li>
 
 
@@ -78,7 +78,7 @@ Archives:  http://philsci-archive.pitt.edu/
 (Spain),
 August
  7-13, 2003.  Website:
-            Website:  http://www.uniovi.es/Congresos/2003/DLMPS/.
+            Website:  <a href="http://www.uniovi.es/Congresos/2003/DLMPS/." rel="external">http://www.uniovi.es/Congresos/2003/DLMPS/.</a>
             Deadline for abstracts of
 contributed papers: February
  1, 2003.
@@ -89,7 +89,7 @@ contributed papers: February
 CENTENARY CONFERENCE, BAYLOR
  UNIVERSITY,
 September 30 - October
- 2, 2002: Website: http://www.baylor.edu/Dirac/.  Conference
+ 2, 2002: Website: <a href="http://www.baylor.edu/Dirac/." rel="external">http://www.baylor.edu/Dirac/.</a>  Conference
 scholarships in the amount of $250.00 and a registration waiver will be
 available on a limited basis for student participation.
 </li>
@@ -97,7 +97,7 @@ available on a limited basis for student participation.
 
 <li> GRADUATE STUDENT CONFERENCE:  Mephistos
 2003 - A Graduate Student Conference on the History, Philosophy, and  Sociology of  Science, Technology, and Medicine.  March 6-8, 2003, University of Wisconsin - Madison, USA.
-            Webpage: http://philosophy.wisc.edu/Mephistos2003/
+            Webpage: <a href="http://philosophy.wisc.edu/Mephistos2003/" rel="external">http://philosophy.wisc.edu/Mephistos2003/</a>
 
             Deadline for submissions: January 15th, 2003.
 
@@ -110,21 +110,21 @@ help will be offered to those participating in the conference.
 <li> CALL
 FOR PAPERS: ISHPSSB 2003, International Society for the History, Philosophy,
 and Social Studies of
-Biology.  Vienna University, Vienna, Austria.  July 16-20, 2003.  Website: http://www.phil.vt.edu/ishpssb/.  Deadline for submissions: Feb. 1, 2003.  There are some travel funds available to
+Biology.  Vienna University, Vienna, Austria.  July 16-20, 2003.  Website: <a href="http://www.phil.vt.edu/ishpssb/." rel="external">http://www.phil.vt.edu/ishpssb/.</a>  Deadline for submissions: Feb. 1, 2003.  There are some travel funds available to
 support graduate students presenting papers at the conference -- contact Keith
-Benson krbenson@u.washington.edu.
+Benson <a href="mailto:krbenson@u.washington.edu" rel="email">krbenson@u.washington.edu</a>.
 </li>
 
 
 <li> LECTURE
 SERIES.  University of Pittsburgh Center for the Philosophy of Science, 43rd Annual
-Lecture Series Schedule.  Go to http://www.pitt.edu/~pittcntr/Events/43rd_annual_lecture_series.htm
+Lecture Series Schedule.  Go to <a href="http://www.pitt.edu/~pittcntr/Events/43rd_annual_lecture_series.htm" rel="external">http://www.pitt.edu/~pittcntr/Events/43rd_annual_lecture_series.htm</a>
 </li>
 
 
 <li> COLLOQUIUM.  University of Pittsburgh Center for the Philosophy of Science.  Science, Values, and Objectivity.  The 6th Pittsburgh-Konstanz
 Colloquium in the Philosophy of Science, October 3 &#8211; 6, 2002.
-Go to http://www.pitt.edu/~pittcntr/Events/PK6_Oct2002/PK6_Thu.htm
+Go to <a href="http://www.pitt.edu/~pittcntr/Events/PK6_Oct2002/PK6_Thu.htm" rel="external">http://www.pitt.edu/~pittcntr/Events/PK6_Oct2002/PK6_Thu.htm</a>
 </li>
  </ol>
 <p style="display: none;">
@@ -199,7 +199,7 @@ in groundbreaking work in psychology, neuroscience, physics, computer science,
 artificial intelligence, and a host of other areas.
 </p>
 <p>
-   For further information write Jim Bogen, care of the Center, or email (jbogen@pittl.edu).
+   For further information write Jim Bogen, care of the Center, or email (<a href="mailto:jbogen@pittl.edu" rel="email">jbogen@pittl.edu</a>).
 </p>
 <hr />
 <p>
@@ -329,8 +329,8 @@ postdoctoral fellows.  Finally, the Program provides partial support for
 Conferences and Workshops, usually  national or international
 conferences, symposia, and research workshops.  Information on specific requirements
 and any budgetary and programmatic limits can be found in the program
-announcement on the STS home page (http://www.nsf.gov/sbe/ses/sts/start.htm)
-or directly at http://www.nsf.gov/pubsys/ods/getpub.cfm?nsf01159
+announcement on the STS home page (<a href="http://www.nsf.gov/sbe/ses/sts/start.htm" rel="external">http://www.nsf.gov/sbe/ses/sts/start.htm</a>)
+or directly at <a href="http://www.nsf.gov/pubsys/ods/getpub.cfm?nsf01159" rel="external">http://www.nsf.gov/pubsys/ods/getpub.cfm?nsf01159</a>
 . Also, please pay attention to the  various
 documents linked to this page that offer suggestions and ideas about proposal
 preparation and writing.
@@ -351,7 +351,7 @@ research were made to research teams headed by Davis Baird (philosophy of
 science, University of South
   Carolina) and Michael Gorman (science studies, University
  of Virginia).   The NANO
-announcement for FY 2003 is available (http://www.nsf.gov/pubsys/ods/getpub.cfm?nsf02148
+announcement for FY 2003 is available (<a href="http://www.nsf.gov/pubsys/ods/getpub.cfm?nsf02148" rel="external">http://www.nsf.gov/pubsys/ods/getpub.cfm?nsf02148</a>
 ), and the Social Science Directorate expects to commit $1 million to this
 area.  The ITR announcement is just being approved as I write this note,
 and will offer even more support for social science research of all kinds, not
@@ -479,7 +479,7 @@ however important or humble.
 <p>
 
 Michael Ruse<br />
- mruse@mailer.fsu.edu
+ <a href="mailto:mruse@mailer.fsu.edu" rel="email">mruse@mailer.fsu.edu</a>
 </p>
 <hr />
 <p>
@@ -489,12 +489,12 @@ LINKS:
 </p>
 <p>
 PSA
-2002, Milwaukee:  http://www.pitt.edu/~psa2002/<br />
+2002, Milwaukee:  <a href="http://www.pitt.edu/~psa2002/" rel="external">http://www.pitt.edu/~psa2002/</a><br />
 
 
 
 PhilSci
-Archives:  http://philsci-archive.pitt.edu/
+Archives:  <a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>
 </p>
 <p style="display: none;">
 
@@ -529,7 +529,7 @@ within philosophy of science.
 <p>
 Send
 information for possible inclusion in a future issue of the newsletter to the
-editor (mforster@facstaff.wisc.edu).  It
+editor (<a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>).  It
 is best to send the information directly to the editor as early as possible
 because publication dates are unpredictable.
 Please include PSA somewhere in the subject line,
@@ -541,7 +541,7 @@ deadline.
 </p>
 <p>
 Send
-an email message to psa@scistud.ch.umkc.edu with your command on  the subject line
+an email message to <a href="mailto:psa@scistud.ch.umkc.edu" rel="email">psa@scistud.ch.umkc.edu</a> with your command on  the subject line
 (leave the body of the message blank).
 
 

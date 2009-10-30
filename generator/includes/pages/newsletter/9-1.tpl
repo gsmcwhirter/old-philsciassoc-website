@@ -21,7 +21,7 @@ Newsletter: Volume 9 : Number 1: February  2003
 for the Philosophy of Science Association by
 
        Malcolm
-Forster, http://philosophy.wisc.edu/forster
+Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 
 </p>
 <p>
@@ -93,15 +93,15 @@ QUICK LINKS:
 </p>
 <p>
 
-NEW PSA website:  http://philosophy.wisc.edu/PSA/<br />
+NEW PSA website:  <a href="http://philosophy.wisc.edu/PSA/" rel="external">http://philosophy.wisc.edu/PSA/</a><br />
 
 
 
-Philosophy of Science journal: http://www.journals.uchicago.edu/PHILSCI/home.html<br />
+Philosophy of Science journal: <a href="http://www.journals.uchicago.edu/PHILSCI/home.html" rel="external">http://www.journals.uchicago.edu/PHILSCI/home.html</a><br />
 
 
 
-PhilSci Archives:  http://philsci-archive.pitt.edu/
+PhilSci Archives:  <a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>
 
 </p>
 <hr />
@@ -153,8 +153,8 @@ International Congress of Logic, Methodology and Philosophy of Science.
 <p>
  Deadline
 for the submission of abstracts of contributed papers has been extended until March
- 10, 2003.  See  http://www.uniovi.es/Congresos/2003/DLMPS,
-E-mail: frege@correo.uniovi.es
+ 10, 2003.  See  <a href="http://www.uniovi.es/Congresos/2003/DLMPS," rel="external">http://www.uniovi.es/Congresos/2003/DLMPS,</a>
+E-mail: <a href="mailto:frege@correo.uniovi.es" rel="email">frege@correo.uniovi.es</a>
 </p>
 <hr />
 <p>
@@ -196,7 +196,7 @@ contributed papers, for which there is a call for papers. Further details of
 the programme, including the invited papers and details of how to register,
 will soon be available via the Society's events page, or from the local organiser:
 
-Professor David Evans (jdg.evans@qub.ac.uk)
+Professor David Evans (<a href="mailto:jdg.evans@qub.ac.uk" rel="email">jdg.evans@qub.ac.uk</a>)
 </p>
 <p>
 CALL FOR PAPERS
@@ -221,7 +221,7 @@ within the UK.
 <li>University of Durham</li>
 <li>50 Old Elvet</li>
 <li>Durham DH1 3HN</li>
-<li class="email">a.r.booth@durham.ac.uk</li>
+<li class="email"><a href="mailto:a.r.booth@durham.ac.uk" rel="email">a.r.booth@durham.ac.uk</a></li>
 </ul>
 <hr />
 <p>
@@ -260,7 +260,7 @@ Society in June 2004.
 <li>University of Bristol</li>
 <li>9 Woodland Road</li>
 <li>Bristol BS8 1TB</li>
-<li class="email">email James.Ladyman@bristol.ac.uk</li>
+<li class="email">email <a href="mailto:James.Ladyman@bristol.ac.uk" rel="email">James.Ladyman@bristol.ac.uk</a></li>
 </ul>
 <hr />
 <p>
@@ -274,7 +274,7 @@ sciences],  Vaxjo
 </p>
 <p>
 
-http://www.msi.vxu.se/aktuellt/konferens/Quantum.pdf
+<a href="http://www.msi.vxu.se/aktuellt/konferens/Quantum.pdf" rel="external">http://www.msi.vxu.se/aktuellt/konferens/Quantum.pdf</a>
 Supported by EU-network: &quot;Quantum Probability and Applications.&quot;
 </p>
 <p>
@@ -314,7 +314,7 @@ and  lectures will finish at
 </p>
 <p>
 Abstract ,1 page + application form can be found at
-conference homepage. All possible questions to our secretary: to: cecilia.eriksson@msi.vxu.se  It would be nice to
+conference homepage. All possible questions to our secretary: to: <a href="mailto:cecilia.eriksson@msi.vxu.se" rel="email">cecilia.eriksson@msi.vxu.se</a>  It would be nice to
 get abstract/application form before 1 April.
 </p>
 <p>
@@ -362,7 +362,7 @@ The Conference Chair is
 <li>Faculty of Education,</li>
 <li>University of Manitoba,</li>
 <li>Winnipeg, Manitoba, Canada, R3T 2N2.</li>
-<li class="email">Email: stinner@cc.umanitoba.ca</li>
+<li class="email">Email: <a href="mailto:stinner@cc.umanitoba.ca" rel="email">stinner@cc.umanitoba.ca</a></li>
 </ul>
 <hr />
 <p>
@@ -431,8 +431,8 @@ range of topics.
 </p>
 <p>
 For more information about the institute, the graduate programme, and application
-procedures see our web site: http://www.eur.nl/fw/philecon/
-or contact the secretary of the institute, Loes van Dijk (vandijk@fwb.eur.nl,
+procedures see our web site: <a href="http://www.eur.nl/fw/philecon/" rel="external">http://www.eur.nl/fw/philecon/</a>
+or contact the secretary of the institute, Loes van Dijk (<a href="mailto:vandijk@fwb.eur.nl" rel="email">vandijk@fwb.eur.nl</a>,
 +31-10-408 8967).
 </p>
 <p style="display: none;">
@@ -467,7 +467,7 @@ within philosophy of science.
 <p>
 Send information for
 possible inclusion in a future issue of the newsletter to the editor
-(mforster@facstaff.wisc.edu).  It is best
+(<a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>).  It is best
 to send the information directly to the editor as early as possible because
 publication dates are unpredictable.
 Please include PSA somewhere in the subject line, or title (so that the
@@ -478,7 +478,7 @@ message is automatically filed), together with the deadline.
 </p>
 <p>
 Send an email message to
-psa@kant.ch.umkc.edu with your command on  the subject line (leave the body of
+<a href="mailto:psa@kant.ch.umkc.edu" rel="email">psa@kant.ch.umkc.edu</a> with your command on  the subject line (leave the body of
 the message blank).
 
  To subscribe, type on the subject line:

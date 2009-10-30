@@ -36,7 +36,7 @@
 *                       Department of Philosophy                         *
 *                  Washington University in St. Louis                    *
 *									 *
-*	        Send submissions to psa@twinearth.wustl.edu		 *
+*	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>		 *
 *									 *
 **************************************************************************
 </p>
@@ -48,7 +48,7 @@
                        Department of Philosophy        <br />
                   Washington University in St. Louis     <br />
 								<br />
-	        Send submissions to psa@twinearth.wustl.edu
+	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>
 </p>
 <p>
 CONTENTS:
@@ -79,7 +79,7 @@ about other meetings likely to be of interest to a broad range of the
 membership.  It is NOT intended for ungoing discussions of intellectual
 topics within philosophy of science.  If you have information that you
 would like to submit for possible inclusion in a future issue of the
-newsletter, please send it to the editor at psa@twinearth.wustl.edu.
+newsletter, please send it to the editor at <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>.
 
 Directions for subscribing and unsubscribing:
 <code>Send an email message with NO subject to psa-request@cctr.umkc.edu</code>
@@ -140,7 +140,7 @@ Please send syllabi for consideration to:
         <li>Dept. of Biology</li>
         <li>University of Texas at El Paso</li>
         <li>El Paso  TX  79968</li>
-        <li class="email">allchin@utep.edu</li>
+        <li class="email"><a href="mailto:allchin@utep.edu" rel="email">allchin@utep.edu</a></li>
 </ul>
 <p>
 If you are interested in helping to review the syllabi, contact Douglas A.
@@ -171,7 +171,7 @@ research expenses.
 Applications should be postmarked by January 15, 1997.  Contact: Dr. Gregg
 Mitman; Department of History of Science; The University of Oklahoma; 601
 Elm, Rm. 622; Norman, OK 73019-0315; Tel. 405-325-6476; Fax 405-325-2363;
-E-mail gmitman@uoknor.edu, The University of Oklahoma is an Equal
+E-mail <a href="mailto:gmitman@uoknor.edu" rel="email">gmitman@uoknor.edu</a>, The University of Oklahoma is an Equal
 Opportunity, Affirmative Action employer.
 </p>
 <hr />
@@ -246,11 +246,11 @@ For further information contact me at address below, or by email.
 	<li class="phone">Office phone: (416) 978-1727</li>
 	<li class="phone">Home phone: (519) 439-2889</li>
 	<li class="fax">FAX (office): (416) 978-8703</li>
-	<li class="email">jrbrown@chass.utoronto.ca</li>
+	<li class="email"><a href="mailto:jrbrown@chass.utoronto.ca" rel="email">jrbrown@chass.utoronto.ca</a></li>
 </ul>
 <p>
 International Studies in the Philosophy of Science home page:
-http://www.chass.utoronto.ca:8080/~jrbrown/ISPS.html
+<a href="http://www.chass.utoronto.ca:8080/~jrbrown/ISPS.html" rel="external">http://www.chass.utoronto.ca:8080/~jrbrown/ISPS.html</a>
 </p>
 <hr />
 <p>
@@ -308,8 +308,8 @@ or Diner's cards.
 Registration: must be postmarked by January, 25, 1997.
 </p>
 <p>
-For more information, contact  Prof. Robert Koons:  koons@phil.utexas.edu
-http://www.dla.utexas.edu/depts/philosophy/faculty/koons/ntse/ntse.html
+For more information, contact  Prof. Robert Koons:  <a href="mailto:koons@phil.utexas.edu" rel="email">koons@phil.utexas.edu</a>
+<a href="http://www.dla.utexas.edu/depts/philosophy/faculty/koons/ntse/ntse.html" rel="external">http://www.dla.utexas.edu/depts/philosophy/faculty/koons/ntse/ntse.html</a>
 </p>
 <hr />
 <p>
@@ -330,8 +330,8 @@ profession as a whole.
 <p>
 Further information regarding the conference, including on-line
 registration, can b e found at the CAP Rome Page
-(http://www.Icl.cmu.edu/CAAE/CAP/CAPpage.html). This year's conference
-coordinator is Robert Cavalier (rc2z@andrew.cmu.edu).
+(<a href="http://www.Icl.cmu.edu/CAAE/CAP/CAPpage.html" rel="external">http://www.Icl.cmu.edu/CAAE/CAP/CAPpage.html</a>). This year's conference
+coordinator is Robert Cavalier (<a href="mailto:rc2z@andrew.cmu.edu" rel="email">rc2z@andrew.cmu.edu</a>).
 </p>
 <hr />
 <p>
@@ -452,7 +452,7 @@ For information and/or to register, contact:
 	<li>New York, New York 10013</li>
 	<li class="phone">Phone: (212) 941-8906</li>
 	<li class="fax">Fax: (212) 941-8340</li>
-	<li class="email">email: esiesc@aol.com</li>
+	<li class="email">email: <a href="mailto:esiesc@aol.com" rel="email">esiesc@aol.com</a></li>
 	<li class="website">On the Internet:  www.castillo.org</li>
 </ul>
 <hr />
@@ -507,7 +507,7 @@ For information and application forms please contact:
 	<li>3000 DR Rotterdam</li>
 	<li>The Netherlands</li>
 	<li class="fax">fax.: +31-10-2120448</li>
-	<li class="email">e-mail: a.jolink@fwb.eur.nl</li>
+	<li class="email">e-mail: <a href="mailto:a.jolink@fwb.eur.nl" rel="email">a.jolink@fwb.eur.nl</a></li>
 </ul>
 <p style="display: none;">
 ========================= END OF PSA NEWSLETTER ==========================

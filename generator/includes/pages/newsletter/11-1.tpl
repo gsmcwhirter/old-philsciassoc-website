@@ -5,7 +5,7 @@
 <p class="center">
 
 	 Edited for the Philosophy of Science Association
-	by Malcolm Forster, http://philosophy.wisc.edu/forster
+	by Malcolm Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 </p>
 <p>
  IN THIS ISSUE
@@ -15,7 +15,7 @@
 	<li>
 		SUMMER SCHOOL: Chance and Necessity, July 18-29, 2005 -- Vienna, Austria
 		 Extended Application Deadline: Feb. 15, 2005.
-		 http://www.univie.ac.at/ivc/VISU/
+		 <a href="http://www.univie.ac.at/ivc/VISU/" rel="external">http://www.univie.ac.at/ivc/VISU/</a>
 	</li>
 	<li>
 		CONFERENCE: Dutch Book Arguments, Aug. 2005 -- Prague, Czech Republic.
@@ -25,7 +25,7 @@
 	<li>
 		CONFERENCE: Scientific Understanding, Aug. 2005 -- Amsterdam, The Netherlands
 		Call for Papers, Deadline: March 1, 2005.
-		 http://www.ph.vu.nl/~understanding
+		 <a href="http://www.ph.vu.nl/~understanding" rel="external">http://www.ph.vu.nl/~understanding</a>
 	</li>
 	<li>
 		SUMMER SCHOOL: Philosophy, Probability and Physics -- Konstanz, Germany
@@ -54,7 +54,7 @@
 <hr />
 <p>
 1. SUMMER SCHOOL: Chance and Necessity, July 18-29, 2005 , Vienna , Austria .
-Extendedapplication deadline: Feb. 15, 2005 . http://www.univie.ac.at/ivc/VISU/
+Extendedapplication deadline: Feb. 15, 2005 . <a href="http://www.univie.ac.at/ivc/VISU/" rel="external">http://www.univie.ac.at/ivc/VISU/</a>
 </p>
 <p>
 VIENNA INTERNATIONAL SUMMER UNIVERSITY
@@ -86,7 +86,7 @@ Franz Huber (University of Konstanz, Germany)<br />
 Deborah R. Coen( Cambridge, Mass., USA)
 </p>
 <p>
-Applicants should go to http://www.univie.ac.at/ivc/VISU/and click on the Application link.
+Applicants should go to <a href="http://www.univie.ac.at/ivc/VISU/and" rel="external">http://www.univie.ac.at/ivc/VISU/and</a> click on the Application link.
 </p>
 <hr />
 <p>
@@ -117,13 +117,13 @@ www.flu.cas.cz/Logica/Aconf/col2005.html or www.uni-konstanz.de/ppm/Events/Dutch
 The conference is organized by TIMOTHY CHILDERS ( Prague ), ALAN HÁJEK (ANU), and FRANZ HUBER ( Konstanz ).
 </p>
 <p>
-All correspondence concerning the symposium should be directed to DutchBook@flu.cas.cz
+All correspondence concerning the symposium should be directed to <a href="mailto:DutchBook@flu.cas.cz" rel="email">DutchBook@flu.cas.cz</a>
 If this email address does not work, follow the instructions on the websites above.
 </p>
 <hr />
 <p>
 3. CONFERENCE: Scientific Understanding, Aug. 2005, Amsterdam , The Netherlands .
-Call for Papers, deadline March 1, 2005 . http://www.ph.vu.nl/~understanding
+Call for Papers, deadline March 1, 2005 . <a href="http://www.ph.vu.nl/~understanding" rel="external">http://www.ph.vu.nl/~understanding</a>
 </p>
 <p>
 PHILOSOPHICAL PERSPECTIVES ON SCIENTIFIC UNDERSTANDING
@@ -153,11 +153,11 @@ ORGANIZATION
 <p>
 Henk W. de Regt, Sabina Leonelli, and Kai Eigner(Faculty of Philosophy, Vrije
 Universiteit Amsterdam)<br />
-Contact: understanding@ph.vu.nl
+Contact: <a href="mailto:understanding@ph.vu.nl" rel="email">understanding@ph.vu.nl</a>
 </p>
 <p>
 WEBSITE
-http://www.ph.vu.nl/~understanding
+<a href="http://www.ph.vu.nl/~understanding" rel="external">http://www.ph.vu.nl/~understanding</a>
 </p>
 <p>
 CALL FOR PAPERS:
@@ -177,7 +177,7 @@ Possible topics are:
 <li>Case studies from the practice and history of science</li>
 </ul>
 <p>
-Please send an abstract of 450 words, and full contact information, to: understanding@ph.vu.nl
+Please send an abstract of 450 words, and full contact information, to: <a href="mailto:understanding@ph.vu.nl" rel="email">understanding@ph.vu.nl</a>
 </p>
 <p>
 Deadline for submission: March 1, 2005 .
@@ -185,7 +185,7 @@ Deadline for submission: March 1, 2005 .
 <p>
 REGISTRATION INFORMATION
 Information about modalities of payment and the registration form are available at
-http://www.ph.vu.nl/~understanding.
+<a href="http://www.ph.vu.nl/~understanding." rel="external">http://www.ph.vu.nl/~understanding.</a>
 </p>
 <hr />
 <p>
@@ -210,7 +210,7 @@ The summer school is being organized by Claus Beisbart ( University of Konstanz)
 </p>
 <p>
 For further details check the webpage:
-http://www.uni-konstanz.de/ppm/summerschool2005/
+<a href="http://www.uni-konstanz.de/ppm/summerschool2005/" rel="external">http://www.uni-konstanz.de/ppm/summerschool2005/</a>
 </p>
 <p>
 Applications must be received by April 15 2005.
@@ -250,18 +250,18 @@ The deadline for the first round papers is March 1, 2005. The registration fee f
 <li>Grand Central Station</li>
 <li>New York, NY 10162</li>
 <li class="phone">Phone: (212) 687 3324</li>
-<li class="email">analita@iheu.org</li>
+<li class="email"><a href="mailto:analita@iheu.org" rel="email">analita@iheu.org</a></li>
 </ul>
 <p>
 Registration forms and other details are posted on www.iheu.org
 </p>
 <p>
-NB: Accommodation packages (book by March 15 th, 2005) are available from the Pickwick Hotel, E 51 stStreet and Second Avenue . Tel: 1 212 355 0300,e-mail: info@pickwickarms.com. Please quote conference name when booking.
+NB: Accommodation packages (book by March 15 th, 2005) are available from the Pickwick Hotel, E 51 stStreet and Second Avenue . Tel: 1 212 355 0300,e-mail: <a href="mailto:info@pickwickarms.com" rel="email">info@pickwickarms.com</a>. Please quote conference name when booking.
 </p>
 <p>
 MilleniumUN Plaza Hotel New York, United Nations Plaza , 44th Street between First and Second Avenue , New York , NY , USA10017-3575
 Tel: +1 212 758 1234 fax: +1 212 702 5051 reservation: +1 866 8668086
-email: unplaza@mhrmail.com Please quote conference name when booking.
+email: <a href="mailto:unplaza@mhrmail.com" rel="email">unplaza@mhrmail.com</a> Please quote conference name when booking.
 </p>
 <p>
 Hotel Bedford NY , 118 E 40 thSt. New York , NY , USA 10016, Tel :+1 212 697 4800, +1 800 221 6881, Fax: 1 212 697 1093 (Book by March 31, 2004 )
@@ -272,7 +272,7 @@ Hotel Bedford NY , 118 E 40 thSt. New York , NY , USA 10016, Tel :+1 212 697 480
 Deadline: Feb. 1, 2005 .
 </p>
 <p>
-The Philosophy Department at the University of California, Santa Cruz announces a recruitment for a tenure-track Assistant Professor in one of the following areas: EITHERAOS: Philosophy of Science (with a strong preference for Philosophy of Biology), AOC: some area of the history and philosophy of science ORAOS: Ancient Philosophy orMetaphysics (broadly construed), AOC: Ancient Philosophy andMetaphysics (broadly construed). Four courses a year (over three quarters), and one course equivalent of academic service-related activities. Ph.D. or equivalent by June 30, 2005 ; proven abilities in teaching and demonstrated excellence in research. SALARY:$46,300-$51,700, commensurate with experience . EO/AAE. Send letter of application, curriculum vitae, three recent (2003 or later) letters of recommendation (all letters of recommendation will be treated as confidential documents), a writing sample, and graduate school transcript to: Department of Philosophy, Stevenson College, University of California, Santa Cruz, Santa Cruz, CA 95064. Refer to position #515-05in all correspondence. Applications must be postmarked by February 1, 2005 . If you have applied to the Visiting Assistant Professor position (#T05-15) and would like to be considered for this tenured position also, please email the department ( elizg@ucsc.edu) to indicate this. Your materials will be considered for both positions.
+The Philosophy Department at the University of California, Santa Cruz announces a recruitment for a tenure-track Assistant Professor in one of the following areas: EITHERAOS: Philosophy of Science (with a strong preference for Philosophy of Biology), AOC: some area of the history and philosophy of science ORAOS: Ancient Philosophy orMetaphysics (broadly construed), AOC: Ancient Philosophy andMetaphysics (broadly construed). Four courses a year (over three quarters), and one course equivalent of academic service-related activities. Ph.D. or equivalent by June 30, 2005 ; proven abilities in teaching and demonstrated excellence in research. SALARY:$46,300-$51,700, commensurate with experience . EO/AAE. Send letter of application, curriculum vitae, three recent (2003 or later) letters of recommendation (all letters of recommendation will be treated as confidential documents), a writing sample, and graduate school transcript to: Department of Philosophy, Stevenson College, University of California, Santa Cruz, Santa Cruz, CA 95064. Refer to position #515-05in all correspondence. Applications must be postmarked by February 1, 2005 . If you have applied to the Visiting Assistant Professor position (#T05-15) and would like to be considered for this tenured position also, please email the department ( <a href="mailto:elizg@ucsc.edu" rel="email">elizg@ucsc.edu</a>) to indicate this. Your materials will be considered for both positions.
 </p>
 <hr />
 <p>
@@ -302,7 +302,7 @@ For more information on the Department, including papers taught and staff resear
 </p>
 <p>
 Specific enquiries may be directed to Professor Alan Musgrave, Head of Department, Department of Philosophy, Tel +64 (0)3 479 8723, Fax +64 (0)3 479 5035,
-Email alan.musgrave@stonebow.otago.ac.nz
+Email <a href="mailto:alan.musgrave@stonebow.otago.ac.nz" rel="email">alan.musgrave@stonebow.otago.ac.nz</a>
 </p>
 <p>
 Reference Number: A04/167. Closing Date: Friday 25 March 2005 .
@@ -311,7 +311,7 @@ Reference Number: A04/167. Closing Date: Friday 25 March 2005 .
 APPLICATION INFORMATION
 </p>
 <p>
-For application information and a full job description go to: www.otago.ac.nz/jobs Alternatively, contact the Human Resources Division, Tel 64 3 479 8269, Fax 64 3 474 1607, Email karen.sutherland@stonebow.otago.ac.nz
+For application information and a full job description go to: www.otago.ac.nz/jobs Alternatively, contact the Human Resources Division, Tel 64 3 479 8269, Fax 64 3 474 1607, Email <a href="mailto:karen.sutherland@stonebow.otago.ac.nz" rel="email">karen.sutherland@stonebow.otago.ac.nz</a>
 </p>
 <p>
 Equal opportunity in employment is University policy.
@@ -353,7 +353,7 @@ APPLY TO: Applicants should submit a letter of application specifying areas of t
 <li>Department of History of Consciousness</li>
 <li>University of California</li>
 <li>Santa Cruz , CA 95064</li>
-<li class="email">e-mail : jcliff@ucsc.edu</li>
+<li class="email">e-mail : <a href="mailto:jcliff@ucsc.edu" rel="email">jcliff@ucsc.edu</a></li>
 </ul>
 <p>
 Please refer to position # 640-05 in your reply
@@ -362,7 +362,7 @@ Please refer to position # 640-05 in your reply
 CLOSING DATE: Consideration of applications will begin on February 21st, 2005 . Applications will be accepted after that date, and the position will remain open until filled.
 </p>
 <p>
-Information about UC Santa Cruz is available on our website at http://www.ucsc.edu .
+Information about UC Santa Cruz is available on our website at <a href="http://www.ucsc.edu" rel="external">http://www.ucsc.edu</a> .
 </p>
 <p>
 UCSC IS AN AFFIRMATIVE ACTION/EQUAL EMPLOYMENT OPPORTUNITY EMPLOYER. WOMEN AND MINORITIES ARE ENCOURAGED TO APPLY.
@@ -387,13 +387,13 @@ The PSA Newsletter is published electronically on an "as needed" basis bythe Phi
 B. INSTRUCTIONS FOR SUBMISSIONS
 </p>
 <p>
-Send information for possible inclusion in a future issue of the newsletter to the editor (mforster@wisc.edu). It is best to send the information directly to the editor as early as possible because publication dates are unpredictable. Please include PSA somewhere in the subject line (so that the message is automatically filed).
+Send information for possible inclusion in a future issue of the newsletter to the editor (<a href="mailto:mforster@wisc.edu" rel="email">mforster@wisc.edu</a>). It is best to send the information directly to the editor as early as possible because publication dates are unpredictable. Please include PSA somewhere in the subject line (so that the message is automatically filed).
 </p>
 <p>
 C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-Send an email message to listserv@listserv.umkc.eduwith your command as the ONLY body text (leave the subject line blank).
+Send an email message to <a href="mailto:listserv@listserv.umkc.eduwith" rel="email">listserv@listserv.umkc.eduwith</a> your command as the ONLY body text (leave the subject line blank).
 
 To subscribe, type as the only body text:
 

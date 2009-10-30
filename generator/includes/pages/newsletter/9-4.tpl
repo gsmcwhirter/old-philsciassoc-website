@@ -21,7 +21,7 @@ Newsletter: Volume 9 : Number 4: December  2003
 for the Philosophy of Science Association by
 
        Malcolm
-Forster, http://philosophy.wisc.edu/forster
+Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 
 </p>
 <p>
@@ -38,21 +38,21 @@ ANNOUNCEMENT from PSA President Elliott Sober.
 
 <li>Sixth Annual St. Louis PHILOSOPHY OF
 SOCIAL SCIENCE Roundtable.
-        http://artsci.wustl.edu/~awylie/RoundtableIndex.html
+        <a href="http://artsci.wustl.edu/~awylie/RoundtableIndex.html" rel="external">http://artsci.wustl.edu/~awylie/RoundtableIndex.html</a>
 </li>
 
 
 <li>CALL
 for papers: COMPUTING and PHILOSOPHY, Italy. Deadline: Jan.
  7, 2004.
-         http://www.unipv.it/webphilos_lab/courses/progra2.html
+         <a href="http://www.unipv.it/webphilos_lab/courses/progra2.html" rel="external">http://www.unipv.it/webphilos_lab/courses/progra2.html</a>
 </li>
 
 
 <li>REMINDER,
 PSA 2004. CALL for Contributed Papers. Deadline: March
  1, 2004.
-       http://www.temple.edu/psa2004
+       <a href="http://www.temple.edu/psa2004" rel="external">http://www.temple.edu/psa2004</a>
 </li>
 
 
@@ -72,7 +72,7 @@ Deadline: Feb. 1, 2004.
 <li>
  CALL for papers: Model-Based Reasoning in
 Science and Engineering, Italy.
-        http://www.unipv.it/webphilos_lab/courses/progra1.html
+        <a href="http://www.unipv.it/webphilos_lab/courses/progra1.html" rel="external">http://www.unipv.it/webphilos_lab/courses/progra1.html</a>
 </li>
 
 
@@ -81,7 +81,7 @@ anniversary of the death of
        Karl Popper
 (28.vii.1902-17.ix.1994).
 
-       http://www2.warwick.ac.uk/fac/soc/philosophy/staff/miller/phpar/
+       <a href="http://www2.warwick.ac.uk/fac/soc/philosophy/staff/miller/phpar/" rel="external">http://www2.warwick.ac.uk/fac/soc/philosophy/staff/miller/phpar/</a>
 </li>
 
 
@@ -93,7 +93,7 @@ the Society for Philosophy &amp; Psychology and the
 Psychology.  July
 3 - July 6
  2004, Barcelona, Spain.
-       Please see http://www.ub.es/grc_logos/spp_espp_04
+       Please see <a href="http://www.ub.es/grc_logos/spp_espp_04" rel="external">http://www.ub.es/grc_logos/spp_espp_04</a>
 for information and submission
        instructions.  Submission deadline for papers, posters, and
 symposia is Feb. 20, 2004.
@@ -151,8 +151,8 @@ Department of Philosophy, Duke University
 </p>
 <p>
 If you would like to be on an email distribution list for future mailings, send
-a note to this effect to Jim Bohman (bohmanjf@slu.edu).  And be sure to check the Roundtable website
-for news and updates: http://artsci.wustl.edu/~awylie/RoundtableIndex.html
+a note to this effect to Jim Bohman (<a href="mailto:bohmanjf@slu.edu" rel="email">bohmanjf@slu.edu</a>).  And be sure to check the Roundtable website
+for news and updates: <a href="http://artsci.wustl.edu/~awylie/RoundtableIndex.html" rel="external">http://artsci.wustl.edu/~awylie/RoundtableIndex.html</a>
 
  </p>
 <hr />
@@ -170,7 +170,7 @@ submission of 1,000 word ABSTRACT:  Jan. 7, 2004.
 <p>
 The conference will be held at Pavia, Italy, Collegio
 Ghislieri, June 3-5, 2004.  Further information about the conference is posted
-at: http://www.unipv.it/webphilos_lab/courses/progra2.html
+at: <a href="http://www.unipv.it/webphilos_lab/courses/progra2.html" rel="external">http://www.unipv.it/webphilos_lab/courses/progra2.html</a>
 </p>
 <hr />
 <p>
@@ -211,7 +211,7 @@ length is 5,000 words, including footnotes and references.  If the text includes
 appropriate number of words should be subtracted from the limit.  Submissions must include a 100-word abstract
 and a word count.  Format and citation
 style should match those of the journal Philosophy of Science (see
-http://www.indiana.edu/~philsci/submit.html#finalts for details).  Submissions should be prepared for blind
+<a href="http://www.indiana.edu/~philsci/submit.html#finalts" rel="external">http://www.indiana.edu/~philsci/submit.html#finalts</a> for details).  Submissions should be prepared for blind
 review, with no identifying information in the body of the paper or
 abstract.  Your identifying information
 can appear in the body of an e-mail (where the paper is an attachment file) or
@@ -228,8 +228,8 @@ time limit of twenty minutes.
 <p>
 
 Submissions may be sent
-EITHER by e-mail as an attachment in Word or PDF to psa2004@temple.edu OR
-electronically at an interactive web site at http://www.temple.edu/psa2004
+EITHER by e-mail as an attachment in Word or PDF to <a href="mailto:psa2004@temple.edu" rel="email">psa2004@temple.edu</a> OR
+electronically at an interactive web site at <a href="http://www.temple.edu/psa2004" rel="external">http://www.temple.edu/psa2004</a>
 
 </p>
 <p>
@@ -290,7 +290,7 @@ for both events.
 <p>
 Limited Funds are available to support graduate student travel to attend the
 meeting. For more information please contact Manfred Laubichler
-(manfred.laubichler@asu.edu) or Sahotra Sarkar (sarkar@mail.utexas.edu).
+(<a href="mailto:manfred.laubichler@asu.edu" rel="email">manfred.laubichler@asu.edu</a>) or Sahotra Sarkar (<a href="mailto:sarkar@mail.utexas.edu" rel="email">sarkar@mail.utexas.edu</a>).
 </p>
 <hr />
 <p>
@@ -315,7 +315,7 @@ of special interest. Applicants should submit vita, list of references, one or
 more sample papers, and a statement describing the area of research to which
 the candidate proposes to devote their fellowship period. Electronic submission
 of documents is encouraged. Consideration of candidates will commence on 1
-February. Send material to Alex Rosenberg, alexrose@duke.edu,
+February. Send material to Alex Rosenberg, <a href="mailto:alexrose@duke.edu" rel="email">alexrose@duke.edu</a>,
 Department of Philosophy, Box 90743,
 Duke University Durham, NC, 27516
 
@@ -334,7 +334,7 @@ Deadline for submission of
 </p>
 <p>
 The conference will be held at Pavia, Italy, December 16-18, 2004.  Current information
-about the conference is posted at: http://www.unipv.it/webphilos_lab/courses/progra1.html
+about the conference is posted at: <a href="http://www.unipv.it/webphilos_lab/courses/progra1.html" rel="external">http://www.unipv.it/webphilos_lab/courses/progra1.html</a>
 </p>
 <hr />
 <p>
@@ -402,8 +402,8 @@ early. Those who wish to be kept on the mailing list should write to David
 Miller, Department of Philosophy, University
  of Warwick, COVENTRY CV4 7AL,
  UK.
-E- mail: &lt;d.w.miller@warwick.ac.uk&gt;.
-Website: http://www2.warwick.ac.uk/fac/soc/philosophy/staff/miller/phpar
+E- mail: <a href="mailto:d.w.miller@warwick.ac.uk" rel="email">d.w.miller@warwick.ac.uk</a>.
+Website: <a href="http://www2.warwick.ac.uk/fac/soc/philosophy/staff/miller/phpar" rel="external">http://www2.warwick.ac.uk/fac/soc/philosophy/staff/miller/phpar</a>
 
 
 </p>
@@ -412,12 +412,12 @@ PSA LINKS:
 </p>
 <p>
 PSA 2004 Biennial
-Meeting:   http://www.temple.edu/psa2004 <br />
-PSA website:  http://philosophy.wisc.edu/PSA/ <br />
-Philosophy of Science journal: http://www.journals.uchicago.edu/PHILSCI/home.html <br />
+Meeting:   <a href="http://www.temple.edu/psa2004" rel="external">http://www.temple.edu/psa2004</a> <br />
+PSA website:  <a href="http://philosophy.wisc.edu/PSA/" rel="external">http://philosophy.wisc.edu/PSA/</a> <br />
+Philosophy of Science journal: <a href="http://www.journals.uchicago.edu/PHILSCI/home.html" rel="external">http://www.journals.uchicago.edu/PHILSCI/home.html</a> <br />
 
 PhilSci Archives:
-http://philsci-archive.pitt.edu/
+<a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>
 </p>
 <p style="display: none;">
 ***************************************************************
@@ -451,7 +451,7 @@ interest to a broad range of membership).
 <p>
 Send information for
 possible inclusion in a future issue of the newsletter to the editor
-(mforster@wisc.edu).  It is best to send
+(<a href="mailto:mforster@wisc.edu" rel="email">mforster@wisc.edu</a>).  It is best to send
 the information directly to the editor as early as possible because publication
 dates are unpredictable.  Please include
 PSA somewhere in the subject line (so that the message is automatically filed).
@@ -461,7 +461,7 @@ PSA somewhere in the subject line (so that the message is automatically filed).
 </p>
 <p>
 Send an email message to
-listserv@listserv.umkc.edu with your command as the ONLY body text
+<a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a> with your command as the ONLY body text
 (leave the subject line blank).
 
 

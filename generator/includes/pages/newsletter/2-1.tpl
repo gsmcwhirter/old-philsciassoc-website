@@ -36,7 +36,7 @@
 *                       Department of Philosophy                         *
 *                  Washington University in St. Louis                    *
 *									 *
-*	        Send submissions to psa@twinearth.wustl.edu		 *
+*	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>		 *
 *									 *
 **************************************************************************
 </p>
@@ -48,7 +48,7 @@
                        Department of Philosophy        <br />
                   Washington University in St. Louis     <br />
 								<br />
-	        Send submissions to psa@twinearth.wustl.edu
+	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>
 </p>
 <p>
 CONTENTS:
@@ -93,7 +93,7 @@ about other meetings likely to be of interest to a broad range of the
 membership.  It is NOT intended for ungoing discussions of intellectual
 topics within philosophy of science.  If you have information that you
 would like to submit for possible inclusion in a future issue of the
-newsletter, please send it to the editor at psa@twinearth.wustl.edu.
+newsletter, please send it to the editor at <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>.
 </p>
 <p>
 Directions for subscribing and unsubscribing:
@@ -111,7 +111,7 @@ Subject 3. PSA96 Web Address:  Editor's Mea Culpa
 In the last issue I included an incorrect web address for the PSA96 WWW
 page.  The correct address is:
 <code>
-http://www.inform.umd.edu:8080/EdRes/Colleges/ARHU/Depts/chps
+<a href="http://www.inform.umd.edu:8080/EdRes/Colleges/ARHU/Depts/chps" rel="external">http://www.inform.umd.edu:8080/EdRes/Colleges/ARHU/Depts/chps</a>
 </code>
 This is the Home Page of the Committee on History and Philosophy of
 Science at the University of Maryland, on which you will find a link to
@@ -130,7 +130,7 @@ The fellowship is funded by ELSI money and is for visiting scholars who
 have research interests related to human genome research.  There is a one
 course teaching requirement and the requirement to deliver a paper to the
 ELSI core group at Utah.  All interested in more details should contact
-Jeff Botkin at botkin@gene1.med.utah.edu.
+Jeff Botkin at <a href="mailto:botkin@gene1.med.utah.edu" rel="email">botkin@gene1.med.utah.edu</a>.
 </p>
 <hr />
 <p>
@@ -141,8 +141,8 @@ MiniConference: FOUNDATIONAL PROBLEMS IN RELATIVITY AND COSMOLOGY
 Date: March 30, 1996    Time: 9:00am - 5:30pm
 Venue: University College Rm. 142, The University of Western Ontario
 Sponsor: The Department of Philosophy
-Organizers: Rob DiSalle (rdisalle@julian.uwo.ca)
-            Rob Clifton (rclifton@julian.uwo.ca)
+Organizers: Rob DiSalle (<a href="mailto:rdisalle@julian.uwo.ca" rel="email">rdisalle@julian.uwo.ca</a>)
+            Rob Clifton (<a href="mailto:rclifton@julian.uwo.ca" rel="email">rclifton@julian.uwo.ca</a>)
 </pre>
 <p>
 Speakers/Titles:
@@ -264,7 +264,7 @@ Applications should be postmarked by January 23, 1996.  Contact:
 <li>Norman, OK 73019-0315</li>
 <li class="phone">Tel. 405-325-2741</li>
 <li class="fax">Fax 405-325-2363</li>
-<li class="email">E-mail mogilvie@uoknor.edu</li>
+<li class="email">E-mail <a href="mailto:mogilvie@uoknor.edu" rel="email">mogilvie@uoknor.edu</a></li>
 </ul>
 <hr />
 <p>
@@ -330,7 +330,7 @@ requests for further information and for applications forms directly to:
 <li>Cambridge, MA 02139</li>
 <li class="phone">Tel. 617 253-6989</li>
 <li class="fax">Fax. 617 253-9858</li>
-<li class="email">E-mail: DIBNER@MIT.EDU</li>
+<li class="email">E-mail: <a href="mailto:DIBNER@MIT.EDU" rel="email">DIBNER@MIT.EDU</a></li>
 </ul>
 <hr />
 <p>
@@ -375,14 +375,14 @@ PROGRAM COMMITTEE:
 Inquiries to:
 </p>
 <ul class="address">
-        <li class="email">isis96@cs.monash.edu.au</li>
-        <li class="email">David Dowe: dld@cs.monash.edu.au</li>
-        <li class="email">Kevin Korb: korb@cs.monash.edu.au</li>
-        <li class="email">Jonathan Oliver: jono@cs.monash.edu.au</li>
+        <li class="email"><a href="mailto:isis96@cs.monash.edu.au" rel="email">isis96@cs.monash.edu.au</a></li>
+        <li class="email">David Dowe: <a href="mailto:dld@cs.monash.edu.au" rel="email">dld@cs.monash.edu.au</a></li>
+        <li class="email">Kevin Korb: <a href="mailto:korb@cs.monash.edu.au" rel="email">korb@cs.monash.edu.au</a></li>
+        <li class="email">Jonathan Oliver: <a href="mailto:jono@cs.monash.edu.au" rel="email">jono@cs.monash.edu.au</a></li>
 </ul>
 <p>
 Information is available on the WWW at:
-        http://www.cs.monash.edu.au/~jono/ISIS/ISIS.shtml
+        <a href="http://www.cs.monash.edu.au/~jono/ISIS/ISIS.shtml" rel="external">http://www.cs.monash.edu.au/~jono/ISIS/ISIS.shtml</a>
 </p>
 <p>
 This conference will explore the use of computational modelling to
@@ -420,13 +420,13 @@ CALL FOR PAPERS.
 <p>
 Prospective authors should mail five copies of their papers to Dr.
 David Dowe, ISIS chair.  Alternatively, authors may submit by email to
-isis96@cs.monash.edu.au.  Email submissions must be in LaTex (using the
+<a href="mailto:isis96@cs.monash.edu.au" rel="email">isis96@cs.monash.edu.au</a>.  Email submissions must be in LaTex (using the
 ISIS style guide [will be available at the ISIS WWW page]).  Submitted
 papers should be in double-column format in 10 point font and not
 exceeding 10 pages.  An additional page should display the title,
 author(s) and affiliation(s), abstract, keywords and identification of
 which of the eight areas of interest
-        (see http://www.cs.monash.edu.au/~jono/ISIS/ISIS.Area.Interest.html)
+        (see <a href="http://www.cs.monash.edu.au/~jono/ISIS/ISIS.Area.Interest.html" rel="external">http://www.cs.monash.edu.au/~jono/ISIS/ISIS.Area.Interest.html</a>)
 are most relevant to the paper.  Refereeing will be blind; that is, this
 additional page will not be passed along to referees.
 </p>
@@ -447,7 +447,7 @@ Papers should be sent to:
 <li>Australia</li>
 <li class="phone">Phone: +61-3-9 905 5226</li>
 <li class="fax">FAX: +61-3-9 905 5146</li>
-<li class="email">Email: isis96@cs.monash.edu.au</li>
+<li class="email">Email: <a href="mailto:isis96@cs.monash.edu.au" rel="email">isis96@cs.monash.edu.au</a></li>
 </ul>
 <p>
 Submission (receipt) deadline: 11 March, 1996<br />
@@ -471,7 +471,7 @@ REGISTRATION
 </p>
 <p>
 A registration form will be available at the WWW site
-        http://www.cs.monash.edu.au/~jono/ISIS/ISIS.shtml,
+        <a href="http://www.cs.monash.edu.au/~jono/ISIS/ISIS.shtml," rel="external">http://www.cs.monash.edu.au/~jono/ISIS/ISIS.shtml,</a>
 or by mail from the conference chair.  Dates for registration will be
 considered to be met assuming that legible postmarks are on or before the
 dates and airmail is used.  Student registrations will be available at a

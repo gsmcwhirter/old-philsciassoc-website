@@ -44,7 +44,7 @@
 
 *												 *
 
-*	        Send submissions to mforster@facstaff.wisc.edu			 *
+*	        Send submissions to <a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>			 *
 *												 *
 **************************************************************************
 </p>
@@ -56,7 +56,7 @@
                        Department of Philosophy        <br />
                   Washington University in St. Louis     <br />
 								<br />
-	        Send submissions to psa@twinearth.wustl.edu
+	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>
 </p>
 <p>
 CONTENTS:
@@ -80,14 +80,14 @@ information about upcoming meetings of the Association, and information
 about other meetings likely to be of interest to a broad range of the
 membership.  It is NOT intended for ongoing discussions of intellectual
 topics within philosophy of science. Please send information for possible
-inclusion in a future issue of the newsletter to mforster@facstaff.wisc.edu.  It
+inclusion in a future issue of the newsletter to <a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>.  It
 would be helpful to include the phrase "PSA Newsletter" somewhere in the subject
 title (so that your email message may be filtered into a special folder and/or
 searched for electronically).
 </p>
 <p>
 Directions for subscribing and unsubscribing:
-<code>Send an email message to psa@kant.ch.umkc.edu with only the following commands
+<code>Send an email message to <a href="mailto:psa@kant.ch.umkc.edu" rel="email">psa@kant.ch.umkc.edu</a> with only the following commands
 on the SUBJECT line:</code>
 To subscribe, include the following as the SUBJECT line:
         <code>SUBSCRIBE &lt;your name&gt;</code>
@@ -106,7 +106,7 @@ way in which it was composed and without awareness that Jeffrey had also
 received the Lakatos Prize for his book INTERPRETING THE QUANTUM
 WORLD (Cambridge University Press) 1998. The full announcement from the LSE as
 well as their acceptance lectures can be found at
-http://www.lse.ac.uk/events/philos-17-03-99.htm
+<a href="http://www.lse.ac.uk/events/philos-17-03-99.htm" rel="external">http://www.lse.ac.uk/events/philos-17-03-99.htm</a>
 </p>
 <hr />
 <p>
@@ -127,11 +127,11 @@ philosophy department at University of Wisconsin-Madison in 1987, where he
 is currently Professor of Philosophy.  Recent interests include the
 foundations of statistics, parsimony, curve-fitting, causal modeling,
 statistical physics, cognitive science, and the general methodology of
-science.  His homepage is at http://philosophy.wisc.edu/forster.
+science.  His homepage is at <a href="http://philosophy.wisc.edu/forster." rel="external">http://philosophy.wisc.edu/forster.</a>
 </p>
 <p>
 Please send information for possible inclusion in a future issue of the
-newsletter to mforster@facstaff.wisc.edu.  It would be helpful to include
+newsletter to <a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>.  It would be helpful to include
 the phrase "PSA Newsletter" somewhere in the subject title (so that your
 email message may be filtered into a special folder and/or searched for
 electronically).

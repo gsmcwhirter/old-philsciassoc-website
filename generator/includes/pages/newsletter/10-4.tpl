@@ -21,7 +21,7 @@ Newsletter: Volume 10 : Number 4: December  2004
 for the Philosophy of Science Association by
 
        Malcolm
-Forster, http://philosophy.wisc.edu/forster
+Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 
 
 </p>
@@ -71,7 +71,7 @@ atoms and his proposal of the light quantum.
 
 For more information see
 
-http://www.pitt.edu/~pittcntr/Events/Upcoming_Special_Events/Einstein/Einstein_program.htm
+<a href="http://www.pitt.edu/~pittcntr/Events/Upcoming_Special_Events/Einstein/Einstein_program.htm" rel="external">http://www.pitt.edu/~pittcntr/Events/Upcoming_Special_Events/Einstein/Einstein_program.htm</a>
 <br /><br />
 John Norton
 </li>
@@ -86,11 +86,11 @@ PSA LINKS:
 </p>
 <p>
 PSA 2004 Biennial
-Meeting:   http://www.temple.edu/psa2004 <br />
-PSA website:  http://philosophy.wisc.edu/PSA/ <br />
-Philosophy of Science journal: http://www.journals.uchicago.edu/PHILSCI/home.html<br />
+Meeting:   <a href="http://www.temple.edu/psa2004" rel="external">http://www.temple.edu/psa2004</a> <br />
+PSA website:  <a href="http://philosophy.wisc.edu/PSA/" rel="external">http://philosophy.wisc.edu/PSA/</a> <br />
+Philosophy of Science journal: <a href="http://www.journals.uchicago.edu/PHILSCI/home.html" rel="external">http://www.journals.uchicago.edu/PHILSCI/home.html</a><br />
 
-PhilSci Archives:  http://philsci-archive.pitt.edu/
+PhilSci Archives:  <a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>
 </p>
 <p style="display: none;">
 
@@ -163,7 +163,7 @@ Editorial Board.
 </p>
 <p>
 The full Report to the
-Governing Board is available as a link to the PSA2004 webpage http://www.temple.edu/psa2004    In response to the report, the President
+Governing Board is available as a link to the PSA2004 webpage <a href="http://www.temple.edu/psa2004" rel="external">http://www.temple.edu/psa2004</a>    In response to the report, the President
 and Governing Board have appointed a committee to recommend changes to the PSA
 Executive Office.  Input is welcome; the
 chair of the committee is our outgoing President Elliott Sober.
@@ -416,7 +416,7 @@ non-formal philosophical frameworks for conceptualising evidence.
 For further information,
 please see www.ucl.ac.uk/sts/chang/job.htm
 and further links there.  Any questions
-should be directed to Hasok Chang by e-mail h.chang@ucl.ac.uk
+should be directed to Hasok Chang by e-mail <a href="mailto:h.chang@ucl.ac.uk" rel="email">h.chang@ucl.ac.uk</a>
 or telephone (+44-(0)20-7679-1324).
 
 
@@ -464,7 +464,7 @@ range of membership).
 <p>
 Send information for
 possible inclusion in a future issue of the newsletter to the editor
-(mforster@wisc.edu).  It is best to send
+(<a href="mailto:mforster@wisc.edu" rel="email">mforster@wisc.edu</a>).  It is best to send
 the information directly to the editor as early as possible because publication
 dates are unpredictable.  Please include
 PSA somewhere in the subject line (so that the message is automatically filed).
@@ -474,7 +474,7 @@ PSA somewhere in the subject line (so that the message is automatically filed).
 </p>
 <p>
 Send an email message to
-listserv@listserv.umkc.edu with your command as the ONLY body text
+<a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a> with your command as the ONLY body text
 (leave the subject line blank).
 
 

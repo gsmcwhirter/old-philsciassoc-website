@@ -20,51 +20,51 @@ IN THIS ISSUE:
 	<li>PSA Election Results</li>
 	<li>LAST CALL:  13th International Congress of Logic, Methodology and
 Philosophy of Science.
-     http://www.clmps2007.org   Deadline for Abstracts, March 1-20, 2007.</li>
+     <a href="http://www.clmps2007.org" rel="external">http://www.clmps2007.org</a>   Deadline for Abstracts, March 1-20, 2007.</li>
 
 	<li>CALL for ABSTRACTS:  Society for Philosophy of Science in Practice
 (SPSP)
      First Biennial Conference, August 23-25, 2007.  University of Twente,
 Enschede,
-     The Netherlands, http://www.gw.utwente.nl/spsp/   Deadline: March 1,
+     The Netherlands, <a href="http://www.gw.utwente.nl/spsp/" rel="external">http://www.gw.utwente.nl/spsp/</a>   Deadline: March 1,
 2007.</li>
 
 	<li>CALL for ABSTRACTS:  Models and Simulations 2.  Conference, Tilburg, The
 Netherlands,
     11-13 October 2007.
-http://www.tilburguniversity.nl/faculties/fww/tilps/MS2/  Deadline: April
+<a href="http://www.tilburguniversity.nl/faculties/fww/tilps/MS2/" rel="external">http://www.tilburguniversity.nl/faculties/fww/tilps/MS2/</a>  Deadline: April
 15, 2007.</li>
 
 	<li>VISITING FELLOWSHIPS: Tilburg Center for Logic and Philosophy of
 Science.
-    http://www.tilburguniversity.nl/faculties/fww/tilps/</li>
+    <a href="http://www.tilburguniversity.nl/faculties/fww/tilps/" rel="external">http://www.tilburguniversity.nl/faculties/fww/tilps/</a></li>
 
 	<li>CALL for PAPERS: EPSA07: 1st Conference of the European Philosophy of
 Science Association.
-     http://www.ucm.es/info/epsa07/    Deadline for ABSTRACTS:  May 1,
+     <a href="http://www.ucm.es/info/epsa07/" rel="external">http://www.ucm.es/info/epsa07/</a>    Deadline for ABSTRACTS:  May 1,
 2007.</li>
 
 	<li>PODCAST SITE:  The Biohumanities Project at the University of
 Queensland.
-    http://www.representinggenes.org/biohumanities/podcasts/</li>
+    <a href="http://www.representinggenes.org/biohumanities/podcasts/" rel="external">http://www.representinggenes.org/biohumanities/podcasts/</a></li>
 
 	<li>CONFERENCE: The War on Induction, The Johns Hopkins Center for History
 and Philosophy of Science,
      March 23-24, 2007.</li>
 
 	<li>CONFERENCE on Theoretical Aspects of Rationality and Knowledge (TARK XI)
-    June 25-27, 2007.  Brussels, Belgium.  http://www.tark.be</li>
+    June 25-27, 2007.  Brussels, Belgium.  <a href="http://www.tark.be" rel="external">http://www.tark.be</a></li>
 </ol>
 <hr />
 <p>
 PSA LINKS:
 </p>
 <p>
-PSA 2006: http://philsci.org/PSA06/<br />
-PSA website: http://philsci.org/<br />
-PhilSci Archives: http://philsci-archive.pitt.edu/<br />
+PSA 2006: <a href="http://philsci.org/PSA06/" rel="external">http://philsci.org/PSA06/</a><br />
+PSA website: <a href="http://philsci.org/" rel="external">http://philsci.org/</a><br />
+PhilSci Archives: <a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a><br />
 Philosophy of Science journal:
-http://www.journals.uchicago.edu/PHILSCI/home.html
+<a href="http://www.journals.uchicago.edu/PHILSCI/home.html" rel="external">http://www.journals.uchicago.edu/PHILSCI/home.html</a>
 </p>
 <p style="display: none;">
 **************************************************************************
@@ -81,9 +81,9 @@ Governing Board members, Heather Douglas, Sandra Mitchell, John Norton, and
 Kyle Stanford.  Your elected officials are now:
 </p>
 <ul>
-<li>President: Larry Sklar               lsklar@UMICH.EDU (term ends 31 Dec 08)</li>
-<li>Pres.-elect: Nancy Cartwright   n.l.cartwright@LSE.AC.UK</li>
-<li>Past-president: Brian Skyrms  bskyrms@BENFRANKLIN.HNET.UCI.EDU</li>
+<li>President: Larry Sklar               <a href="mailto:lsklar@UMICH.EDU" rel="email">lsklar@UMICH.EDU</a> (term ends 31 Dec 08)</li>
+<li>Pres.-elect: Nancy Cartwright   <a href="mailto:n.l.cartwright@LSE.AC.UK" rel="email">n.l.cartwright@LSE.AC.UK</a></li>
+<li>Past-president: Brian Skyrms  <a href="mailto:bskyrms@BENFRANKLIN.HNET.UCI.EDU" rel="email">bskyrms@BENFRANKLIN.HNET.UCI.EDU</a></li>
 </ul>
 <p>
 GOVERNING BOARD:
@@ -92,19 +92,19 @@ GOVERNING BOARD:
 Continuing members:
 </p>
 <ul>
-<li>Ken Schaffner  kfs12@ATTGLOBAL.NET ,                  (final term ends 31 Dec 07)</li>
-<li>Alan Hajek  alanh@COOMBS.ANU.EDU.AU,              (first term ends 31 Dec 07)</li>
-<li>Craig Callender  ccallender@UCSD.EDU                    (first term ends 31 Dec 07)</li>
-<li>Laura Ruetsche   ruetsche@PITT.EDU                          (first term ends 31 Dec 07)</li>
+<li>Ken Schaffner  <a href="mailto:kfs12@ATTGLOBAL.NET" rel="email">kfs12@ATTGLOBAL.NET</a> ,                  (final term ends 31 Dec 07)</li>
+<li>Alan Hajek  <a href="mailto:alanh@COOMBS.ANU.EDU.AU" rel="email">alanh@COOMBS.ANU.EDU.AU</a>,              (first term ends 31 Dec 07)</li>
+<li>Craig Callender  <a href="mailto:ccallender@UCSD.EDU" rel="email">ccallender@UCSD.EDU</a>                    (first term ends 31 Dec 07)</li>
+<li>Laura Ruetsche   <a href="mailto:ruetsche@PITT.EDU" rel="email">ruetsche@PITT.EDU</a>                          (first term ends 31 Dec 07)</li>
 </ul>
 <p>
 Newly elected members:
 </p>
 <ul>
-<li>Heather Douglas  hdouglas@UTK.EDU                        (first term ends 31 Dec 08)</li>
-<li>Sandra Mitchell  smitchel@PITT.EDU                            (first term ends 31 Dec 08)</li>
+<li>Heather Douglas  <a href="mailto:hdouglas@UTK.EDU" rel="email">hdouglas@UTK.EDU</a>                        (first term ends 31 Dec 08)</li>
+<li>Sandra Mitchell  <a href="mailto:smitchel@PITT.EDU" rel="email">smitchel@PITT.EDU</a>                            (first term ends 31 Dec 08)</li>
 <li>John Norton      jdnorton+@PITT.EDU                            (first term ends 31 Dec 08)</li>
-<li>Kyle Stanford    stanford@UCI.EDU                               (first term ends 31 Dec 08)</li>
+<li>Kyle Stanford    <a href="mailto:stanford@UCI.EDU" rel="email">stanford@UCI.EDU</a>                               (first term ends 31 Dec 08)</li>
 </ul>
 <hr />
 <p>
@@ -112,7 +112,7 @@ Newly elected members:
 Philosophy of Science.
 </p>
 <p>
-     http://www.clmps2007.org   Deadline for Abstracts, March 1-20, 2007.
+     <a href="http://www.clmps2007.org" rel="external">http://www.clmps2007.org</a>   Deadline for Abstracts, March 1-20, 2007.
 </p>
 <p>
 LMPS 2007<br />
@@ -158,9 +158,9 @@ For information about organizers, invited speakers, symposia,
 registration, submission of abstracts, accommodation, travel,
 excursions, etc. visit
 
-     http://www.clmps2007.org
+     <a href="http://www.clmps2007.org" rel="external">http://www.clmps2007.org</a>
 
-or send an email to lmps2007@tsinghua.edu.cn
+or send an email to <a href="mailto:lmps2007@tsinghua.edu.cn" rel="email">lmps2007@tsinghua.edu.cn</a>
 </p>
 <p>
 Some main points:
@@ -189,19 +189,19 @@ Publications, 2005), available in internet bookstores.</li>
 3. CALL for ABSTRACTS:  Society for Philosophy of Science in Practice (SPSP)
      First Biennial Conference, August 23-25, 2007.  University of Twente,
 Enschede,
-     The Netherlands, http://www.gw.utwente.nl/spsp/   Deadline: March 1,
+     The Netherlands, <a href="http://www.gw.utwente.nl/spsp/" rel="external">http://www.gw.utwente.nl/spsp/</a>   Deadline: March 1,
 2007.
 </p>
 <p>
 Please send an abstract of 500 words, and full contact information to
-Katinka Waelbers, k.waelbers@utwente.nl.
+Katinka Waelbers, <a href="mailto:k.waelbers@utwente.nl" rel="email">k.waelbers@utwente.nl</a>.
 Deadline for submission: 1 March 2007.
 </p>
 <p>
 The Society for Philosophy of Science in Practice (SPSP) aims to bring
 together a community of scholars that approach topics in the philosophy of
 science from the perspective of scientific practice.  For further details on
-our objectives, see our mission statement at http://www.gw.utwente.nl/spsp/
+our objectives, see our mission statement at <a href="http://www.gw.utwente.nl/spsp/" rel="external">http://www.gw.utwente.nl/spsp/</a>
 </p>
 <p>
 The first SPSP biennial conference is intended as a broad agenda-setting
@@ -252,7 +252,7 @@ Mieke Boon (University of Twente, The Netherlands), Rachel Ankeny
 Amsterdam, The Netherlands), Hasok Chang (University College London, UK),
 Henk de Regt, ( VU Amsterdam, The Netherlands), Nancy Nersessian (Georgia
 Institute of Technology), Margaret Morrison (University of Toronto).
-Contact: k.waelbers@utwente.nl
+Contact: <a href="mailto:k.waelbers@utwente.nl" rel="email">k.waelbers@utwente.nl</a>
 </p>
 <p>
 REGISTRATION INFORMATION
@@ -263,14 +263,14 @@ before June 1st, 2007; 250 (100 for PhD students) when paid after June 1st,
 2007. The fee includes abstract booklet, welcoming reception on Thursday,
 coffee/tea and lunch on Thursday, Friday and Saturday, and the conference
 dinner. Information about modalities of payment and the registration form
-are available on our website. http://www.gw.utwente.nl/spsp/
+are available on our website. <a href="http://www.gw.utwente.nl/spsp/" rel="external">http://www.gw.utwente.nl/spsp/</a>
 </p>
 <hr />
 <p>
 4. CALL for ABSTRACTS:  Models and Simulations 2.  Conference, Tilburg, The
 Netherlands,
    11-13 October 2007.
-http://www.tilburguniversity.nl/faculties/fww/tilps/MS2/  Deadline: April
+<a href="http://www.tilburguniversity.nl/faculties/fww/tilps/MS2/" rel="external">http://www.tilburguniversity.nl/faculties/fww/tilps/MS2/</a>  Deadline: April
 15, 2007.
 </p>
 <p>
@@ -324,7 +324,7 @@ submission system (see website) by 15 April 2007; decisions will be made by
 <hr />
 <p>
 5. VISITING FELLOWSHIPS: Tilburg Center for Logic and Philosophy of Science.
-    http://www.tilburguniversity.nl/faculties/fww/tilps/
+    <a href="http://www.tilburguniversity.nl/faculties/fww/tilps/" rel="external">http://www.tilburguniversity.nl/faculties/fww/tilps/</a>
 </p>
 <p>
 The Tilburg Center for Logic and Philosophy of Science invites applications
@@ -335,7 +335,7 @@ interdisciplinary and collaborative work. Candidates are requested to send a
 hardcopy of their application package to Fellowships Committee, c/o Ms
 Monique van Alphen, Department of Philosophy, Tilburg University,
 Warandelaan 2, P.O. Box 90153, 5000 LE Tilburg, The Netherlands, or email to
-solliciterenfdl@uvt.nl. Candidates should include a letter of interest, a
+<a href="mailto:solliciterenfdl@uvt.nl" rel="email">solliciterenfdl@uvt.nl</a>. Candidates should include a letter of interest, a
 CV, a project outline of no more than 1000 words and one letter of
 recommendation. Senior candidates should supply three names of references.
 Applications must be submitted at least three months before the planned
@@ -349,13 +349,13 @@ maximally 500 Euro for trips to and from Tilburg.
 </p>
 <p>
 For more information about the Center, visit
-http://www.tilburguniversity.nl/faculties/fww/tilps/
+<a href="http://www.tilburguniversity.nl/faculties/fww/tilps/" rel="external">http://www.tilburguniversity.nl/faculties/fww/tilps/</a>
 </p>
 <hr />
 <p>
 6. CALL for PAPERS: EPSA07: 1st Conference of the European Philosophy of
 Science Association.
-     http://www.ucm.es/info/epsa07/    Deadline for ABSTRACTS:  May 1,
+     <a href="http://www.ucm.es/info/epsa07/" rel="external">http://www.ucm.es/info/epsa07/</a>    Deadline for ABSTRACTS:  May 1,
 2007.
 </p>
 <p>
@@ -367,8 +367,8 @@ place at Complutense University, Madrid, from 15-17 November 2007.
 For details of the Association (EPSA) and the Conference (EPSA07) see:
 </p>
 <ul>
-<li>The EPSA website at http://www.epsa.ac.at</li>
-<li>The EPSA07 Conference homepage at: http://www.ucm.es/info/epsa07/</li>
+<li>The EPSA website at <a href="http://www.epsa.ac.at" rel="external">http://www.epsa.ac.at</a></li>
+<li>The EPSA07 Conference homepage at: <a href="http://www.ucm.es/info/epsa07/" rel="external">http://www.ucm.es/info/epsa07/</a></li>
 </ul>
 <p>
 Papers are welcome in any of the five different sections of the conference
@@ -383,7 +383,7 @@ as follows:
 </ol>
 <p>
 Abstracts of contributed papers should be submitted directly to the
-Programme Committee through the webpage http://www.easychair.org/EPSA07
+Programme Committee through the webpage <a href="http://www.easychair.org/EPSA07" rel="external">http://www.easychair.org/EPSA07</a>
 </p>
 <p>
 Abstracts must not exceed 500 words, should start with the number and title
@@ -396,7 +396,7 @@ name, address, and email address. For example:
 <li>Moritz Schlick Jnr.,</li>
 <li>University of Logical Positivism,</li>
 <li>1925 Carnapstrasse, Twin Vienna, Otherland.</li>
-<li class="email">mschlick@viennacircle.com</li>
+<li class="email"><a href="mailto:mschlick@viennacircle.com" rel="email">mschlick@viennacircle.com</a></li>
 </ul>
 <p>
 The allocated time for delivering contributed papers at the conference will
@@ -413,13 +413,13 @@ Deadline for the submission of abstracts: 1st May 2007.
 <hr />
 <p>
 7. PODCAST SITE:  The Biohumanities Project at the University of Queensland.
-    http://www.representinggenes.org/biohumanities/podcasts/
+    <a href="http://www.representinggenes.org/biohumanities/podcasts/" rel="external">http://www.representinggenes.org/biohumanities/podcasts/</a>
 </p>
 <p>
 The Biohumanities Project at the University of Queensland announces its
 revamped podcast site
 
-http://www.representinggenes.org/biohumanities/podcasts/
+<a href="http://www.representinggenes.org/biohumanities/podcasts/" rel="external">http://www.representinggenes.org/biohumanities/podcasts/</a>
 </p>
 <p>
 Including the proceedings of:
@@ -452,8 +452,8 @@ and Philosophy of Science,
 </p>
 <p>
 Location: The Space Telescope Institute Auditorium, Baltimore, Maryland<br />
-Contacts: Victor Di Fate: vdifate1@jhu.edu<br />
-Peter Achinstein: peter.achinstein@jhu.edu<br />
+Contacts: Victor Di Fate: <a href="mailto:vdifate1@jhu.edu<br" rel="email">vdifate1@jhu.edu<br</a> />
+Peter Achinstein: <a href="mailto:peter.achinstein@jhu.edu<br" rel="email">peter.achinstein@jhu.edu<br</a> />
 </p>
 <p>
 Session 1: Friday, March 23, 9AM-10:35AM<br />
@@ -493,7 +493,7 @@ General Discussion.
 <hr />
 <p>
 9. CONFERENCE on Theoretical Aspects of Rationality and Knowledge (TARK XI)
-    June 25-27, 2007.  Brussels, Belgium.  http://www.tark.be
+    June 25-27, 2007.  Brussels, Belgium.  <a href="http://www.tark.be" rel="external">http://www.tark.be</a>
 </p>
 <p>
 About the Conference
@@ -518,12 +518,12 @@ Registration fees
 Early registration (before 30th April 2007): 260 EUR (100 EUR for students).
 Late registration (from 1st May 2007): 350 EUR (150 EUR for students). The
 Registration fee includes: a reception at the Roy d'Espagne
-(http://www.roydespagne.be/index.html), three lunches, a gala dinner at the
-Hotel Metropole (http://www.metropolehotel.com/EN/home.cfm?Lang=EN), morning
+(<a href="http://www.roydespagne.be/index.html" rel="external">http://www.roydespagne.be/index.html</a>), three lunches, a gala dinner at the
+Hotel Metropole (<a href="http://www.metropolehotel.com/EN/home.cfm?Lang=EN" rel="external">http://www.metropolehotel.com/EN/home.cfm?Lang=EN</a>), morning
 and afternoon coffee breaks, one copy of the proceedings.
 </p>
 <p>
-Accommodations: see http://www.tark.be.
+Accommodations: see <a href="http://www.tark.be." rel="external">http://www.tark.be.</a>
 </p>
 <p>
 Sponsors
@@ -594,7 +594,7 @@ B. INSTRUCTIONS FOR SUBMISSIONS
 </p>
 <p>
 Send information for possible inclusion in a future issue of the newsletter
-to the editor (mforster@wisc.edu). It is best to send the information
+to the editor (<a href="mailto:mforster@wisc.edu" rel="email">mforster@wisc.edu</a>). It is best to send the information
 directly to the editor 4 months in advance of any deadline because
 publication dates are usually unpredictable. Please include PSA somewhere in
 the subject line (so that the message is automatically filed).
@@ -603,17 +603,17 @@ the subject line (so that the message is automatically filed).
 C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-Send an email message to listserv@listserv.umkc.edu with your command as the
+Send an email message to <a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a> with your command as the
 ONLY body text (leave the subject line blank).
 </p>
 <p>
 To subscribe, type as the only body text:
 <code>subscribe psa</code>
 To be removed from this mailing list, please go to
-http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1
-or send an email message to the address listserv@listserv.umkc.edu, with the
+<a href="http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1" rel="external">http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1</a>
+or send an email message to the address <a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a>, with the
 text <code>SIGNOFF PSA</code> in the body of the message.
 
-Problems or questions should be directed to manager@listserv.umkc.edu.
+Problems or questions should be directed to <a href="mailto:manager@listserv.umkc.edu" rel="email">manager@listserv.umkc.edu</a>.
 </p>
 <hr />

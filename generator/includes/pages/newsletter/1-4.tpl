@@ -36,7 +36,7 @@
 *                       Department of Philosophy                         *
 *                  Washington University in St. Louis                    *
 *									 *
-*	        Send submissions to psa@twinearth.wustl.edu		 *
+*	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>		 *
 *									 *
 **************************************************************************
 </p>
@@ -48,7 +48,7 @@
                        Department of Philosophy        <br />
                   Washington University in St. Louis     <br />
 								<br />
-	        Send submissions to psa@twinearth.wustl.edu
+	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>
 </p>
 <p>
 CONTENTS:
@@ -75,11 +75,11 @@ about other meetings likely to be of interest to a broad range of the
 membership).  It is NOT intended for ungoing discussions of intellectual
 topics within philosophy of science.  If you have information that you
 would like to submit for possible inclusion in a future issue of the
-newsletter, please send it to the editor at psa@twinearth.wustl.edu.
+newsletter, please send it to the editor at <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>.
 </p>
 <p>
 Directions for subscribing and unsubscribing:
-<code>Send an emailmessage with NO subject to listserv@kasey.umkc.edu</code>
+<code>Send an emailmessage with NO subject to <a href="mailto:listserv@kasey.umkc.edu" rel="email">listserv@kasey.umkc.edu</a></code>
 To subscribe, include the following as the ONLY line:
         <code>SUBSCRIBE PSA-NEWS &lt;your name&gt;</code>
 To unsubscribe, include the following as the ONLY line:
@@ -139,7 +139,7 @@ Address program inquiries and paper submissions to:
      <li class="phone">301-405-5699 (office)</li>
      <li class="phone">301-474-0037 (home)</li>
      <li class="fax">301-405-5690 (fax)</li>
-     <li class="email">email:  darden@umiacs.umd.edu</li>
+     <li class="email">email:  <a href="mailto:darden@umiacs.umd.edu" rel="email">darden@umiacs.umd.edu</a></li>
 </ul>
 <p>
 The Program Committee consists of: Lindley Darden, Chair
@@ -156,7 +156,7 @@ Thagard (University of  Waterloo).
 </p>
 <p>
 The Program Committee for the 1996 PSA meeting has established a Web page that contains information about the upcoming meeting.  In the near future it will contain information about the invited symposia.  The addresss for this page is:
-	http://www.inform.umd.edu:8080/EdRes/Colleges/ARHU/Depts/chps/PSA
+	<a href="http://www.inform.umd.edu:8080/EdRes/Colleges/ARHU/Depts/chps/PSA" rel="external">http://www.inform.umd.edu:8080/EdRes/Colleges/ARHU/Depts/chps/PSA</a>
 </p>
 <hr />
 <p>
@@ -183,7 +183,7 @@ For more information, contact:
 <li>Tacoma, Wa  98416</li>
 <li class="phone">Tel: (206)756-3508</li>
 <li class="fax">Fax: (206)756-3500</li>
-<li class="email">e-mail: dmagnus@ups.edu</li>
+<li class="email">e-mail: <a href="mailto:dmagnus@ups.edu" rel="email">dmagnus@ups.edu</a></li>
 </ul>
 <hr />
 <p>
@@ -239,7 +239,7 @@ archive a cumulative file of annotated citations.
     Perhaps before you sign up to regularly receive all new messages, you
 would like to browse in the currently accumulated text.  To do this you would
 address:
-    <code>LISTSERV@LEHIGH.EDU</code>
+    <a href="mailto:LISTSERV@LEHIGH.EDU" rel="email">LISTSERV@LEHIGH.EDU</a>
 and make the body of the message (rather than the subject line) read:
     <code>GET SOCSCIVAL-L/ARCHIVES 9509</code>
 </p>
@@ -256,7 +256,7 @@ dialogue, by addressing your message to:
 (Some of you may want to continue in this browsing status, rather than
 automatically receiving each addition to the conversation as it is added.)
     To join as a regular member of the discussion groups, address:
-    <code>LISTSERV@LEHIGH.EDU</code>
+    <a href="mailto:LISTSERV@LEHIGH.EDU" rel="email">LISTSERV@LEHIGH.EDU</a>
 and enter in the body of the message (not the subject line):
     <code>Subscribe SOCSCIVAL-L John Doe (ie., your name)</code>
 From then on, any new additions will come your way automatically, and while
@@ -265,7 +265,7 @@ they are on your screen you may add your comments without inserting an address
 cumulation prior to their joining.  To receive these, use the "get" request
 described above.)  Your name will be added to list of members.  To see who all
 is on this list, address:
-    <code>LISTSERV@LEHIGH.EDU</code>
+    <a href="mailto:LISTSERV@LEHIGH.EDU" rel="email">LISTSERV@LEHIGH.EDU</a>
 and for the message:
     <code>RECIPIENTS SOCSCIVAL-L</code>
 (Perhaps some of you permanent browsers avoiding automatic receipt of new
@@ -275,14 +275,14 @@ the "subscribe" instructions above and on the line following your name, enter:
     Your contributions to the annotated bibliography will be sent in as
 discussion text.  We will later excerpt them into a cumulative reference
 list.  To access this special archive, address:
-    <code>LISTSERV@LEHIGH.EDU</code>
+    <a href="mailto:LISTSERV@LEHIGH.EDU" rel="email">LISTSERV@LEHIGH.EDU</a>
 and for the message send:
     <code>GET SOCSCIVAL-L REFS</code>
 </p>
 <pre>
 Greetings
-    Donald T. Campbell       dtc0@lehigh.edu
-    Robert E. Rosenwein      rer6@lehigh.edu
+    Donald T. Campbell       <a href="mailto:dtc0@lehigh.edu" rel="email">dtc0@lehigh.edu</a>
+    Robert E. Rosenwein      <a href="mailto:rer6@lehigh.edu" rel="email">rer6@lehigh.edu</a>
     21 Sept 1995
 </pre>
 <p>
@@ -513,7 +513,7 @@ administered in accordance with the terms and conditions of NSF GC-1,
 General Terms and Conditions," depending on the grantee organization.
 Copies of these and other NSF publications are available at no cost from
 the NSF Forms and Publications Unit, phone (703) 306-1130, or via e-mail
-pubs@nsf.gov (Internet). More comprehensive information is contained in
+<a href="mailto:pubs@nsf.gov" rel="email">pubs@nsf.gov</a> (Internet). More comprehensive information is contained in
 the NSF Grant Policy Manual (NSF 88-47, July 1989), for sale through the
 Superintendent of Documents, Government Printing Office, Washington, DC
 20402. The telephone number at GPO is (202) 783-3238 for subscription
@@ -561,7 +561,7 @@ proposals should contain the sections outlined in GPG in the order
 indicated.  GPG contains all of the forms needed for formal submissions.
 It is available from Forms and Publications Unit, NSF, 4201 Wilson Blvd.,
 Arlington VA 22230; 703-306-1130, and can be requested electronically via
-Internet: pubs@nsf.gov.
+Internet: <a href="mailto:pubs@nsf.gov" rel="email">pubs@nsf.gov</a>.
 </p>
 <p>
 For further information on application procedures for the STS program, contact:
@@ -573,7 +573,7 @@ For further information on application procedures for the STS program, contact:
 <li>Arlington, VA 22230</li>
 <li class="phone">Tel: 703-306-1743</li>
 <li class="fax">Fax: 703-306-0485 or 0486</li>
-<li class="email">email: roverman@nsf.gov or jperhoni@nsf.gov</li>
+<li class="email">email: <a href="mailto:roverman@nsf.gov" rel="email">roverman@nsf.gov</a> or <a href="mailto:jperhoni@nsf.gov" rel="email">jperhoni@nsf.gov</a></li>
 </ul>
 <p>
 19 copies of each proposal, including one copy bearing original signatures,

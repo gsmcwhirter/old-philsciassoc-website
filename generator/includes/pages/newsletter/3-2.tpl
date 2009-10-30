@@ -37,7 +37,7 @@
 *                       Department of Philosophy                         *
 *                  Washington University in St. Louis                    *
 *									 *
-*	        Send submissions to psa@twinearth.wustl.edu		 *
+*	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>		 *
 *									 *
 **************************************************************************
 </p>
@@ -49,7 +49,7 @@
                        Department of Philosophy        <br />
                   Washington University in St. Louis     <br />
 								<br />
-	        Send submissions to psa@twinearth.wustl.edu
+	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>
 </p>
 <p>
 CONTENTS:
@@ -82,7 +82,7 @@ about other meetings likely to be of interest to a broad range of the
 membership.  It is NOT intended for ungoing discussions of intellectual
 topics within philosophy of science.  If you have information that you
 would like to submit for possible inclusion in a future issue of the
-newsletter, please send it to the editor at psa@twinearth.wustl.edu.
+newsletter, please send it to the editor at <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>.
 </p>
 <p>
 Directions for subscribing and unsubscribing:
@@ -113,7 +113,7 @@ presentation at the meeting will not be published before the meeting.
 Instead, after the meeting the Program Committee will make a selection of
 contributed papers for publication in a supplemental issue of Philosophy
 of Science.  Papers whose authors so wish will be made available prior to
-the meeting on the PSA 1998 web site (http://scistud.umkc.edu/psa98) and
+the meeting on the PSA 1998 web site (<a href="http://scistud.umkc.edu/psa98" rel="external">http://scistud.umkc.edu/psa98</a>) and
 abstracts of all papers accepted for presentation will be published in an
 expanded meeting program.
 </p>
@@ -159,8 +159,8 @@ All inquiries and submissions should be directed to:
 <li class="phone">Tel.    219-631-5015 (Program Office)</li>
 <li class="phone">219-631-7547 (Private Office)</li>
 <li class="fax">Fax     219-631-8209/4268</li>
-<li class="email">email:  Don.A.Howard.43@nd.edu</li>
-<li class="email">(Correspondence) Philosophy.PSA1998.1@nd.edu</li>
+<li class="email">email:  <a href="mailto:Don.A.Howard.43@nd.edu" rel="email">Don.A.Howard.43@nd.edu</a></li>
+<li class="email">(Correspondence) <a href="mailto:Philosophy.PSA1998.1@nd.edu" rel="email">Philosophy.PSA1998.1@nd.edu</a></li>
 </ul>
 <hr />
 <p>
@@ -213,7 +213,7 @@ be awarded across five areas:
 <p>
 Applications are due December 15, 1997.  All information and application
 guidelines are available at www.jsmf.org or can be obtained via email by
-contacting centennial@jsmf.org, or by writing Centennial Fellowship
+contacting <a href="mailto:centennial@jsmf.org" rel="email">centennial@jsmf.org</a>, or by writing Centennial Fellowship
 Program, James S. McDonnell Foundation, 1034 South Brentwood Blvd, Suite
 1850, Saint Louis, MO 63117 USA.
 </p>
@@ -223,8 +223,8 @@ Program, James S. McDonnell Foundation, 1034 South Brentwood Blvd, Suite
 <li>James S. McDonnell Fdn</li>
 <li>1034 South Brentwood Blvd, Suite 1850</li>
 <li>St. Louis, Mo 63117</li>
-<li class="email">email: susan@jsmf.org</li>
-<li class="website">http://www.jsmf.org</li>
+<li class="email">email: <a href="mailto:susan@jsmf.org" rel="email">susan@jsmf.org</a></li>
+<li class="website"><a href="http://www.jsmf.org" rel="external">http://www.jsmf.org</a></li>
 </ul>
 <p>
 6. NSF OPENNING FOR PROGRAM OFFICER FOR STS
@@ -271,11 +271,11 @@ within close proximity to the NSF offices.
 <p>
 Please direct inquiries and expressions of interest to Mr. William P.
 Butz, Director of the Division of Social, Behavioral and Economic
-Research, phone: (703) 306-1760; e-mail:  wbutz@nsf.gov; or Dr. Edward
+Research, phone: (703) 306-1760; e-mail:  <a href="mailto:wbutz@nsf.gov" rel="email">wbutz@nsf.gov</a>; or Dr. Edward
 J. Hackett, Program Director, Science and Technology Studies, phone: (703)
-306-1742, e-mail:  ehackett@nsf.gov; or Dr. Rachelle D.
+306-1742, e-mail:  <a href="mailto:ehackett@nsf.gov" rel="email">ehackett@nsf.gov</a>; or Dr. Rachelle D.
 Hollander, coordinator of the cluster housing the STS program, phone:
-(703) 306-1743, or e-mail: rholland@nsf.gov.  All are located in Suite
+(703) 306-1743, or e-mail: <a href="mailto:rholland@nsf.gov" rel="email">rholland@nsf.gov</a>.  All are located in Suite
 995, National Science Foundation, 4201 Wilson Blvd., Arlington, VA
 22230, fax: (703) 306-0485.
 </p>
@@ -349,7 +349,7 @@ University of Pittsburgh Center for Philosophy of Science.  For the
 program, additional information, abstracts of colloquium papers, etc.,
 please visit the home page of the Center for Philosophy of Science,
 University of Pittsburgh, on the World Wide Web at
-http://www.pitt.edu/~pittcntr and click on Schedule of Events.
+<a href="http://www.pitt.edu/~pittcntr" rel="external">http://www.pitt.edu/~pittcntr</a> and click on Schedule of Events.
 </p>
 <hr />
 <p>
@@ -358,7 +358,7 @@ http://www.pitt.edu/~pittcntr and click on Schedule of Events.
 <p>
 Science &amp; Education is published by Kluwer Academic Publishers, Dordrecht,
 The Netherlands.  It is edited by Michael R. Matthews
-m.matthews@unsw.edu.au and is associated with the International History,
+<a href="mailto:m.matthews@unsw.edu.au" rel="email">m.matthews@unsw.edu.au</a> and is associated with the International History,
 Philosophy, and Science Teaching Group.
 </p>
 <p>
@@ -375,7 +375,7 @@ ELECTRONIC MAIL NETWORK
 The group maintains an Electronic Mail list for exchange of information.
 Details about this can be obtained from Professor Skip Hills, Faculty of
 Education, Queen's University, Kingston, Ontario, Canada.  E-mail:
-hillss@qucdn.queensu.ca
+<a href="mailto:hillss@qucdn.queensu.ca" rel="email">hillss@qucdn.queensu.ca</a>
 </p>
 <p>
 FIFTH INTERNATIONAL CONFERENCE, PAVIA, SEPTEMBER 1999

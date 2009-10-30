@@ -59,7 +59,7 @@
 *                  Washington University in St. Louis
 *
 *									 *
-*	        Send submissions to psa@twinearth.wustl.edu		 *
+*	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>		 *
 *									 *
 ************************************************************************
 **
@@ -72,7 +72,7 @@
                        Department of Philosophy        <br />
                   Washington University in St. Louis     <br />
 								<br />
-	        Send submissions to psa@twinearth.wustl.edu
+	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>
 </p>
 <p>
 CONTENTS:
@@ -101,7 +101,7 @@ range of the membership.  It is NOT intended for ungoing discussions of
 intellectual topics within philosophy of science.  If you have
 information that you would like to submit for possible inclusion in a
 future issue of the newsletter, please send it to the editor at
-psa@twinearth.wustl.edu.
+<a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>.
 </p>
 <p>
 Directions for subscribing and unsubscribing:
@@ -219,7 +219,7 @@ information and for application forms directly to:
 <li>Cambridge, Massachusetts 02139</li>
 <li class="phone">Telephone:	617. 253.6989</li>
 <li class="fax">Facsimile:	617. 253.9858</li>
-<li class="email">E-mail:	DIBNER@MIT.EDU</li>
+<li class="email">E-mail:	<a href="mailto:DIBNER@MIT.EDU" rel="email">DIBNER@MIT.EDU</a></li>
 </ul>
 <hr />
 <p>
@@ -251,10 +251,10 @@ generally, is particularly searching to hire a staff that reflects the
 nation's diverse population.  Copies of the vacancy announcements that
 explain what the general duties and responsibilities will be, what
 factors applications will be ranked on, and how to apply are avilable
-on the NSF Homepage, at http://www.nsf.gov/home/chart/start.htm, under
+on the NSF Homepage, at <a href="http://www.nsf.gov/home/chart/start.htm," rel="external">http://www.nsf.gov/home/chart/start.htm,</a> under
 Vacancies, then under Scientific and Professional.  The SRS Homepage,
 that gives a good deal of information about the scope of work at SRS,
-is at http://www.nsf.gov/sbe/srs.  Interested applicants should be
+is at <a href="http://www.nsf.gov/sbe/srs." rel="external">http://www.nsf.gov/sbe/srs.</a>  Interested applicants should be
 sure to read the entire announcement carefully, as incomplete
 applications are not looked upon favorably by government personnel
 offices!
@@ -272,7 +272,7 @@ from $39,270 to $72,758.
 <p>
 Potential applicants who have any questions about these positions or
 how to apply may call Jeanne E. Griffith at 703-306-1785, or send an
-email to jgriffit@nsf.gov.
+email to <a href="mailto:jgriffit@nsf.gov" rel="email">jgriffit@nsf.gov</a>.
 </p>
 <hr />
 <p>
@@ -321,7 +321,7 @@ APPLICATION may be made for one or two terms (September to December,
 January to April).  Further information and application materials may be
 obtained from the Administrative Officer, School of Historical Studies,
 Institute for Advanced Study, Princeton, New Jersey 08540 (electronic
-mail address: mzelazny@ias.edu).   Completed applications must be
+mail address: <a href="mailto:mzelazny@ias.edu" rel="email">mzelazny@ias.edu</a>).   Completed applications must be
 returned to the Administrative Officer by 15 November 1998.
 </p>
 <p>

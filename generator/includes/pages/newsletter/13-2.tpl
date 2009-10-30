@@ -20,10 +20,10 @@ IN THIS ISSUE:
 
 <li>PSA 2008: Call for Contributed Papers, Symposia and Workshops.  Deadline: February 1, 2008.
      The twenty-first PSA biennial meeting will take place November 6-9, 2008, in Pittsburgh, Pennsylvania.
-     http://philsci.org/conferences/psa2008/</li>
+     <a href="http://philsci.org/conferences/psa2008/" rel="external">http://philsci.org/conferences/psa2008/</a></li>
 
 <li>Call for Papers:  Tilburg-Sydney Conference on REDUCTION and the SPECIAL SCIENCES.
-      Deadline:  15 November 2007.  http://www.tilburguniversity.nl/faculties/humanities/tilps/RSS2008/</li>
+      Deadline:  15 November 2007.  <a href="http://www.tilburguniversity.nl/faculties/humanities/tilps/RSS2008/" rel="external">http://www.tilburguniversity.nl/faculties/humanities/tilps/RSS2008/</a></li>
 
 <li>Lakatos Award:  Winners of the in Philosophy of Science 2006: Harvey Brown and Hasok Chang.</li>
 
@@ -34,11 +34,11 @@ IN THIS ISSUE:
       Konstanz, July 28-30, 2008.  Deadline for submissions: February 29, 2008.</li>
 
 <li>Call for Papers:  MEPHISTOS graduate student conference:  Deadline: January 1, 2008.
-     http://studentorgs.utexas.edu/mephistos/</li>
+     <a href="http://studentorgs.utexas.edu/mephistos/" rel="external">http://studentorgs.utexas.edu/mephistos/</a></li>
 
 <li>Call for Papers: 10th Annual Philosophy of Social Science Roundtable, University of Washington,
       Seattle, March 7-9, 2008.  Deadline:  December 15, 2007.
-      http://philosophy.ucsc.edu/Roundtable.html</li>
+      <a href="http://philosophy.ucsc.edu/Roundtable.html" rel="external">http://philosophy.ucsc.edu/Roundtable.html</a></li>
 
 <li>Call for Abstracts:  Biological Explanations of Behavior: Philosophical Perspectives.
      Deadline:  December 1, 2007.</li>
@@ -47,16 +47,16 @@ IN THIS ISSUE:
         Deadline:  November 1, 2007.</li>
 
 <li>JOB:  University of Wisconsin-Madison.  Tenure-track, AOS:  Philosophy of Science.
-        Deadline:  November 15, 2007.  http://philosophy.wisc.edu/news/opening.html</li>
+        Deadline:  November 15, 2007.  <a href="http://philosophy.wisc.edu/news/opening.html" rel="external">http://philosophy.wisc.edu/news/opening.html</a></li>
 </ol>
 <hr />
 <p>
 PSA LINKS:
 </p>
 <p>
-PSA website: http://philsci.org/<br />
-PhilSci Archives: http://philsci-archive.pitt.edu/<br />
-Philosophy of Science journal: http://www.journals.uchicago.edu/PHILSCI/home.html
+PSA website: <a href="http://philsci.org/" rel="external">http://philsci.org/</a><br />
+PhilSci Archives: <a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a><br />
+Philosophy of Science journal: <a href="http://www.journals.uchicago.edu/PHILSCI/home.html" rel="external">http://www.journals.uchicago.edu/PHILSCI/home.html</a>
 </p>
 <p style="display: none;">
 **************************************************************************
@@ -93,7 +93,7 @@ Pittsburgh.
 <p>
 2.  PSA 2008: Call for Contributed Papers, Symposia and Workshops.  Deadline: February 1, 2008.
      The twenty-first PSA biennial meeting will take place November 6-9, 2008, in Pittsburgh, Pennsylvania.
-     http://philsci.org/conferences/psa2008/
+     <a href="http://philsci.org/conferences/psa2008/" rel="external">http://philsci.org/conferences/psa2008/</a>
 </p>
 <p>
 Twentieth Biennial Meeting: November 6-9, 2008, Pittsburgh, Pennsylvania, U.S.A.
@@ -125,13 +125,13 @@ British Columbia), is as follows:
 </p>
 <p>
 3.   Call for Papers:  Tilburg-Sydney Conference on REDUCTION and the SPECIAL SCIENCES.
-      Deadline:  15 November 2007. http://www.tilburguniversity.nl/faculties/humanities/tilps/RSS2008/
+      Deadline:  15 November 2007. <a href="http://www.tilburguniversity.nl/faculties/humanities/tilps/RSS2008/" rel="external">http://www.tilburguniversity.nl/faculties/humanities/tilps/RSS2008/</a>
 </p>
 <p>
 Tilburg Center for Logic and Philosophy of Science, 10-12 April 2008.
 </p>
 <p>
-http://www.tilburguniversity.nl/faculties/humanities/tilps/RSS2008/
+<a href="http://www.tilburguniversity.nl/faculties/humanities/tilps/RSS2008/" rel="external">http://www.tilburguniversity.nl/faculties/humanities/tilps/RSS2008/</a>
 </p>
 <p>
 KEYNOTE SPEAKERS: William Bechtel (UCSD), Craig Callender (UCSD), Paul Griffiths
@@ -209,7 +209,7 @@ authority of science.
 </p>
 <p>
 For more information, go to:
-http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/lakatos/LakatosAwardWinner.htm
+<a href="http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/lakatos/LakatosAwardWinner.htm" rel="external">http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/lakatos/LakatosAwardWinner.htm</a>
 </p>
 <hr />
 <p>
@@ -236,7 +236,7 @@ To be eligible scholars must have the Ph.D. (or equivalent) and substantial
 publications.  Information and application forms may be found on the School's
 web site, www.hs.ias.edu, or contact the School of Historical Studies,
 Institute for Advanced Study, Einstein Dr., Princeton, N.J. 08540
-(E-mail address: mzelazny@ias.edu).  Deadline: 15 November 2007.
+(E-mail address: <a href="mailto:mzelazny@ias.edu" rel="email">mzelazny@ias.edu</a>).  Deadline: 15 November 2007.
 </p>
 <hr />
 <p>
@@ -278,7 +278,7 @@ Notification of Acceptance: April 30, 2008.
 <hr />
 <p>
 7. Call for Papers:  MEPHISTOS graduate student conference:  Deadline: January 1, 2008.
-     http://studentorgs.utexas.edu/mephistos/
+     <a href="http://studentorgs.utexas.edu/mephistos/" rel="external">http://studentorgs.utexas.edu/mephistos/</a>
 </p>
 <p>
 We are pleased to announce the 26th annual MEPHISTOS graduate student conference
@@ -310,7 +310,7 @@ The 2007 conference schedule provides a sample of topics.
 <p>
 HOW TO APPLY: All interested applicants please submit a CV and an Abstract
 (200-300 words, separate attachments preferred) by email to:
-mephistos2008@gmail.com. Please include in your CV full contact information,
+<a href="mailto:mephistos2008@gmail.com" rel="email">mephistos2008@gmail.com</a>. Please include in your CV full contact information,
 department and university affiliation, and level in graduate program.
 </p>
 <p>
@@ -324,13 +324,13 @@ speakers, and some modest travel grants will also be available-for both
 international and domestic travelers.
 </p>
 <p>
-QUESTIONS: Questions may be directed to mephistos2008@gmail.com
+QUESTIONS: Questions may be directed to <a href="mailto:mephistos2008@gmail.com" rel="email">mephistos2008@gmail.com</a>
 </p>
 <hr />
 <p>
 8. Call for Papers: 10th Annual Philosophy of Social Science Roundtable, University of Washington,
       Seattle, March 7-9, 2008.  Deadline:  December 15, 2007.
-      http://philosophy.ucsc.edu/Roundtable.html
+      <a href="http://philosophy.ucsc.edu/Roundtable.html" rel="external">http://philosophy.ucsc.edu/Roundtable.html</a>
 </p>
 <p>
 Abstracts on any topic in philosophy of the social sciences are welcome.  We
@@ -345,19 +345,19 @@ Send a one-page abstract to any of the organizers by December 15, 2007:
 </p>
 <p>
 Alison Wylie: Department of Philosophy, University of Washington, Box 353350,
-Seattle, WA 98195 aw26@u.washington.edu
+Seattle, WA 98195 <a href="mailto:aw26@u.washington.edu" rel="email">aw26@u.washington.edu</a>
 </p>
 <p>
 James Bohman: Department of Philosophy, Saint Louis University, 3800 Lindell
-Blvd., St. Louis, MO 63156-0907 bohmanjf@slu.edu
+Blvd., St. Louis, MO 63156-0907 <a href="mailto:bohmanjf@slu.edu" rel="email">bohmanjf@slu.edu</a>
 </p>
 <p>
 Paul Roth: Department of Philosophy, University of California - Santa Cruz 1156
-High Street, Santa Cruz, CA 95064 paroth@ucsc.edu
+High Street, Santa Cruz, CA 95064 <a href="mailto:paroth@ucsc.edu" rel="email">paroth@ucsc.edu</a>
 </p>
 <p>
 For details, see the call for papers posted on the Roundtable, website:
-http://philosophy.ucsc.edu/Roundtable.html
+<a href="http://philosophy.ucsc.edu/Roundtable.html" rel="external">http://philosophy.ucsc.edu/Roundtable.html</a>
 </p>
 <hr />
 <p>
@@ -432,7 +432,7 @@ prefer that you attach a Word document that includes your contact information
 (Name, Department, Institution, Email) followed by your abstract. The deadline
 for submission is December 1st, 2007. Notifications of acceptance will be sent
 out in February, 2008. For more information, please visit
-http://www.unics.uni-hannover.de/zeww/beb.conf.eng.html
+<a href="http://www.unics.uni-hannover.de/zeww/beb.conf.eng.html" rel="external">http://www.unics.uni-hannover.de/zeww/beb.conf.eng.html</a>
 </p>
 <hr />
 <p>
@@ -475,7 +475,7 @@ B. INSTRUCTIONS FOR SUBMISSIONS
 </p>
 <p>
 Send information for possible inclusion in a future issue of the newsletter to
-the editor (mforster@wisc.edu). It is best to send the information directly to
+the editor (<a href="mailto:mforster@wisc.edu" rel="email">mforster@wisc.edu</a>). It is best to send the information directly to
 the editor 4 months in advance of any deadline because publication dates are
 usually unpredictable. Please include PSA somewhere in the subject line (so that
 the message is automatically filed).
@@ -484,17 +484,17 @@ the message is automatically filed).
 C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-Send an email message to listserv@listserv.umkc.edu with your command as the
+Send an email message to <a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a> with your command as the
 ONLY body text (leave the subject line blank).
 </p>
 <p>
 To subscribe, type as the only body text:
 <code>subscribe psa</code>
 To be removed from this mailing list, please go to
-http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1
-or send an email message to the address listserv@listserv.umkc.edu, with the
+<a href="http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1" rel="external">http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1</a>
+or send an email message to the address <a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a>, with the
 text
 <code>SIGNOFF PSA</code> in the body of the message.
- Problems or questions should be directed to manager@listserv.umkc.edu.
+ Problems or questions should be directed to <a href="mailto:manager@listserv.umkc.edu" rel="email">manager@listserv.umkc.edu</a>.
 </p>
 <hr />

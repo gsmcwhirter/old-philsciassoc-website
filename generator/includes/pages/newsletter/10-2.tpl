@@ -20,7 +20,7 @@ Newsletter: Volume 10 : Number 2: June  2004
        Edited
 for the Philosophy of Science Association by
 
-       Malcolm Forster, http://philosophy.wisc.edu/forster
+       Malcolm Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 </p>
 <p>
 
@@ -32,14 +32,14 @@ IN THIS ISSUE:
 <li>CALL
 FOR APPLICATIONS:  Philosophy of
 Biology Graduate Training Workshop, San
-         Francisco, Sept. 23-26, 2004.  Deadline July 14.  http://www.ishpssb.org/workshop2004/
+         Francisco, Sept. 23-26, 2004.  Deadline July 14.  <a href="http://www.ishpssb.org/workshop2004/" rel="external">http://www.ishpssb.org/workshop2004/</a>
 </li>
 
 
 
 <li>ANNOUNCEMENT:  Memberships in the School of Historical Studies for the
 academic year
-        2005-2006, Institute for Advance Study, Princeton, NJ.  http://www.hs.ias.edu/hsannoun.htm
+        2005-2006, Institute for Advance Study, Princeton, NJ.  <a href="http://www.hs.ias.edu/hsannoun.htm" rel="external">http://www.hs.ias.edu/hsannoun.htm</a>
 </li>
 
 
@@ -51,7 +51,7 @@ Biology.
 <li>GRADUATE
 FELLOWSHIPS:  Science Studies Program at
 the University of California, San
-         Diego.  http://sciencestudies.ucsd.edu
+         Diego.  <a href="http://sciencestudies.ucsd.edu" rel="external">http://sciencestudies.ucsd.edu</a>
 </li>
 
 
@@ -74,12 +74,12 @@ PSA LINKS:
 </p>
 <p>
 PSA 2004 Biennial
-Meeting:   http://www.temple.edu/psa2004 <br />
-PSA website:  http://philosophy.wisc.edu/PSA/ <br />
-Philosophy of Science journal: http://www.journals.uchicago.edu/PHILSCI/home.html<br />
+Meeting:   <a href="http://www.temple.edu/psa2004" rel="external">http://www.temple.edu/psa2004</a> <br />
+PSA website:  <a href="http://philosophy.wisc.edu/PSA/" rel="external">http://philosophy.wisc.edu/PSA/</a> <br />
+Philosophy of Science journal: <a href="http://www.journals.uchicago.edu/PHILSCI/home.html" rel="external">http://www.journals.uchicago.edu/PHILSCI/home.html</a><br />
 
 PhilSci Archives:
-http://philsci-archive.pitt.edu/
+<a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>
 </p>
 <p style="display: none;">
 
@@ -94,7 +94,7 @@ MORE DETAILS:
 </p>
 <p>
 1.      CALL FOR APPLICATIONS:  Philosophy of Biology Graduate
-Training Workshop, San Francisco, Sept. 23-26, 2004.  Deadline July 14.  http://www.ishpssb.org/workshop2004/
+Training Workshop, San Francisco, Sept. 23-26, 2004.  Deadline July 14.  <a href="http://www.ishpssb.org/workshop2004/" rel="external">http://www.ishpssb.org/workshop2004/</a>
 
 
 </p>
@@ -133,7 +133,7 @@ de México), as well as other faculty participants.
 The application deadline is July 14th, so please get those applications in as
 soon as possible! Furthermore, we have funds available for graduate student
 travel reimbursement (though students must be ISHPSSB members to qualify).
-Please apply online: http://www.ishpssb.org/workshop2004/registration.htm
+Please apply online: <a href="http://www.ishpssb.org/workshop2004/registration.htm" rel="external">http://www.ishpssb.org/workshop2004/registration.htm</a>
 </p>
 <p>
 If you have any questions about our workshop, please
@@ -150,11 +150,11 @@ and other, disciplines to join us.
 <p>
 Matt Haber<br />
 UC Davis, Department of Philosophy; Center for Population Biology<br />
-mhhaber@ucdavis.edu
+<a href="mailto:mhhaber@ucdavis.edu" rel="email">mhhaber@ucdavis.edu</a>
 </p>
 <p>
 For
-further information, please visit the website at:  http://www.ishpssb.org/workshop2004/
+further information, please visit the website at:  <a href="http://www.ishpssb.org/workshop2004/" rel="external">http://www.ishpssb.org/workshop2004/</a>
 </p>
 <hr />
 <p>
@@ -210,7 +210,7 @@ December, January to April).  Further
 information and application materials may be found on the School's web site, www.hs.ias.edu, or they can be obtained from the
 Administrative Officer, School of Historical Studies, Institute for Advanced
 Study, Einstein Drive, Princeton, New Jersey 08540 (electronic mail address:
-mzelazny@ias.edu).  Completed
+<a href="mailto:mzelazny@ias.edu" rel="email">mzelazny@ias.edu</a>).  Completed
 applications must be returned to the Administrative Officer by 15 November 2004.
 
 
@@ -264,10 +264,10 @@ the Institute, either in the School of Historical Studies or the School of Socia
 </p>
 <p>
 Qualified candidates who would like to apply under the auspices
-of this program should visit the ACLS website, http://www.acls.org/burkguid.htm,
+of this program should visit the ACLS website, <a href="http://www.acls.org/burkguid.htm," rel="external">http://www.acls.org/burkguid.htm,</a>
 for a more detailed description of the terms of the fellowship and information
 about how to apply. Applications for this program must be submitted through the
-ACLS Online Fellowship Application system (OFA) no later than 9 p.m., Eastern Daylight Time, September 30, 2004.  OFA is accessible at http://ofa.acls.org or through the ACLS
+ACLS Online Fellowship Application system (OFA) no later than 9 p.m., Eastern Daylight Time, September 30, 2004.  OFA is accessible at <a href="http://ofa.acls.org" rel="external">http://ofa.acls.org</a> or through the ACLS
 website.  Information about this program
 may also be obtained from the ACLS Fellowships Office, 633 Third Avenue, 8th floor, New
   York, NY 10017-6795.
@@ -306,7 +306,7 @@ will be available in each of the next three years.
 FELLOWSHIPS:  Science Studies Program at
 the University of California,
 
-          San Diego.  http://sciencestudies.ucsd.edu
+          San Diego.  <a href="http://sciencestudies.ucsd.edu" rel="external">http://sciencestudies.ucsd.edu</a>
 </p>
 <p>
 
@@ -321,8 +321,8 @@ research and training grant by the National Science Foundation, under the title
 graduate and post-doctoral training, focused on three thematic areas:
 Methodologies of the Social Sciences, Models and Prediction, and
 Disease and Health.  Those interested in this initiative may visit our web
-site at http://sciencestudies.ucsd.edu,
-or contact our program at ssadmin@ucsd.edu.
+site at <a href="http://sciencestudies.ucsd.edu," rel="external">http://sciencestudies.ucsd.edu,</a>
+or contact our program at <a href="mailto:ssadmin@ucsd.edu" rel="email">ssadmin@ucsd.edu</a>.
 </p>
 <p>
 GRADUATE FELLOWSHIPS<br />
@@ -333,8 +333,8 @@ the academic year 2005-06 under our National Science Foundation Research and
 Training Grant Initiative, &quot;Proof, Persuasion, and Policy.&quot;
 Students interested in pursuing a Ph.D. in science studies, whose research interests fall under this general rubric, are invited to
 apply for one of the fellowships.  For more information, please visit our
-web site at http://sciencestudies.ucsd.edu,
-or contact our program at ssadmin@ucsd.edu
+web site at <a href="http://sciencestudies.ucsd.edu," rel="external">http://sciencestudies.ucsd.edu,</a>
+or contact our program at <a href="mailto:ssadmin@ucsd.edu" rel="email">ssadmin@ucsd.edu</a>
 </p>
 <ul class="address">
 <li>Dawn Murphy</li>
@@ -458,7 +458,7 @@ interest to a broad range of membership).
 <p>
 Send information for
 possible inclusion in a future issue of the newsletter to the editor
-(mforster@wisc.edu).  It is best to send
+(<a href="mailto:mforster@wisc.edu" rel="email">mforster@wisc.edu</a>).  It is best to send
 the information directly to the editor as early as possible because publication
 dates are unpredictable.  Please include
 PSA somewhere in the subject line (so that the message is automatically filed).
@@ -468,7 +468,7 @@ PSA somewhere in the subject line (so that the message is automatically filed).
 </p>
 <p>
 Send an email message to
-listserv@listserv.umkc.edu with your command as the ONLY body text
+<a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a> with your command as the ONLY body text
 (leave the subject line blank).
 
 

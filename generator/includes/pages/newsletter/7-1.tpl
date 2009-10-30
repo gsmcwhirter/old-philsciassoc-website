@@ -10,7 +10,7 @@
 </p>
 <p class="center">
      Edited for the Philosophy of Science Association by
-     Malcolm Forster, http://philosophy.wisc.edu/forster
+     Malcolm Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 </p>
 <p>
   IN THIS ISSUE:
@@ -60,7 +60,7 @@ me to keep track, and less likely that some items with short deadlines are
 not published in time (my apologies in the cases where this has happened).</li>
 
   <li>Every PSA member could provide an important service to other PSA
-members by emailing links to mforster@facstaff.wisc.edu (putting PSA, deadline
+members by emailing links to <a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a> (putting PSA, deadline
 month/day/year in the title). It is easy for me to copy and paste a brief
 description of the link directly from a webpage.</li>
 </ol>
@@ -106,14 +106,14 @@ April 20, 2001.<br />
 Pittsburgh Center for Philosophy of Science Lecture Series.<br />
 Theme: A Topos Perspective on Quantum Theory.<br />
 Contact: Center for Philosophy of Science, Univ. of Pittsburgh,
-Pittsburgh PA 15260, pittcntr@pitt.edu; www.pitt.edu/~pittcntr.
+Pittsburgh PA 15260, <a href="mailto:pittcntr@pitt.edu" rel="email">pittcntr@pitt.edu</a>; www.pitt.edu/~pittcntr.
 </p>
 <p>
 September 28-30.<br />
 Graduate Student Conference on Philosophy of Mind, Philosophy of Language,
 and Cognitive Science, Carleton University (papers due: May 1, 2001).<br />
 Contact: Alex Wong, Philosophy, Carleton Univ., Ottawa K1S 5B6,
-phics@carlton.ca, www.carleton.ca/iis/PHICS.
+<a href="mailto:phics@carlton.ca" rel="email">phics@carlton.ca</a>, www.carleton.ca/iis/PHICS.
 </p>
 <hr />
 <p>
@@ -165,7 +165,7 @@ to April).  Further information and application materials may be found on
 the School's web site, www.hs.ias.edu, or they can be obtained from the
 Administrative Officer, School of Historical Studies, Institute for Advanced
 Study, Einstein Drive, Princeton, New Jersey 08540 (electronic mail address:
-mzelazny@ias.edu).  Completed applications must be returned to the
+<a href="mailto:mzelazny@ias.edu" rel="email">mzelazny@ias.edu</a>).  Completed applications must be returned to the
 Administrative Officer by 15 November 2001.
 </p>
 <p>
@@ -205,7 +205,7 @@ either in the School of Historical Studies or the School of Social Science.
 Qualified candidates who would like to apply for affiliation with the School
 of Historical Studies under the auspices of this program should contact the
 ACLS, Fellowships Office, 228 East 45th Street, New York, NY 10017-3398 or
-E-mail grants@acls.org for application materials and a more detailed
+E-mail <a href="mailto:grants@acls.org" rel="email">grants@acls.org</a> for application materials and a more detailed
 description of the terms of the fellowship. Applications for this program
 should be submitted directly to the ACLS no later than October 1, 2001.
 </p>
@@ -273,10 +273,10 @@ research and teaching.  EO/AAE.  Send CV, three letters of reference and a
 sample of written work.  Application deadline:  April 15, 2001.  Send
 application to Professor James Griesemer, Chair, Search Committee,
 Department of Philosophy, University of California, Davis, CA 95616-8673.
-530/752-1068.  FAX:  530/752-8964, E- mail: jrgriesemer@ucdavis.edu.  For
+530/752-1068.  FAX:  530/752-8964, E- mail: <a href="mailto:jrgriesemer@ucdavis.edu" rel="email">jrgriesemer@ucdavis.edu</a>.  For
 administrative questions contact Lesley Byrns, 530/752-1291,
-labyrns@ucdavis.edu.   For further information about the department, please
-check our home page at http://hume.ucdavis.edu.
+<a href="mailto:labyrns@ucdavis.edu" rel="email">labyrns@ucdavis.edu</a>.   For further information about the department, please
+check our home page at <a href="http://hume.ucdavis.edu." rel="external">http://hume.ucdavis.edu.</a>
 </p>
 <hr />
 <p>
@@ -320,7 +320,7 @@ non-subscribers.
 </p>
 <p>
 The cost is USD25 (AUD40), air mail included. To request an order form,
-email Michael Matthews at m.matthews@unsw.edu.au
+email Michael Matthews at <a href="mailto:m.matthews@unsw.edu.au" rel="email">m.matthews@unsw.edu.au</a>
 </p>
 <p style="display: none;">
 ***************************************************************
@@ -347,7 +347,7 @@ discussions of intellectual topics within philosophy of science.
 </p>
 <p>
 Send information for possible inclusion in a future issue of the newsletter
-To the editor (mforster@facstaff.wisc.edu).  IT IS BEST to send the information
+To the editor (<a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>).  IT IS BEST to send the information
 directly to the editor AS EARLY AS POSSIBLE because publication dates are
 unpredictable.  Please include PSA somewhere in the subject line, or title
 (so that the message is automatically filed) together with the deadline (so
@@ -357,7 +357,7 @@ that it is published in time).
   C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-Send an email message to psa@scistud.ch.umkc.edu with your command on
+Send an email message to <a href="mailto:psa@scistud.ch.umkc.edu" rel="email">psa@scistud.ch.umkc.edu</a> with your command on
 the subject line (leave the body of the message blank).
 </p>
 <p>

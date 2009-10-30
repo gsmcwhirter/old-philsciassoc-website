@@ -20,7 +20,7 @@ IN THIS ISSUE:
 Kant and Philosophy of Science Today.
 University College London,
 2-3 July 2007.
-http://www.ucl.ac.uk/sts/kant_conference/index.htm</li>
+<a href="http://www.ucl.ac.uk/sts/kant_conference/index.htm" rel="external">http://www.ucl.ac.uk/sts/kant_conference/index.htm</a></li>
 
 <li>JOB: History and Philosophy of Science,
 University of Pittsburgh. Tenured/tenure stream, rank open.
@@ -50,11 +50,11 @@ and Naturalist.</li>
 PSA LINKS:
 </p>
 <p>
-PSA 2006: http://philsci.org/PSA06/<br />
-PSA website: http://philsci.org/<br />
-PhilSci Archives: http://philsci-archive.pitt.edu/<br />
+PSA 2006: <a href="http://philsci.org/PSA06/" rel="external">http://philsci.org/PSA06/</a><br />
+PSA website: <a href="http://philsci.org/" rel="external">http://philsci.org/</a><br />
+PhilSci Archives: <a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a><br />
 Philosophy of Science journal:
-http://www.journals.uchicago.edu/PHILSCI/home.html
+<a href="http://www.journals.uchicago.edu/PHILSCI/home.html" rel="external">http://www.journals.uchicago.edu/PHILSCI/home.html</a>
 </p>
 <p style="display: none;">
 **************************************************************************
@@ -113,7 +113,7 @@ SPEAKERS:
 </ul>
 <p>
 For programme details and booking form, see:
-http://www.ucl.ac.uk/sts/kant_conference/index.htm
+<a href="http://www.ucl.ac.uk/sts/kant_conference/index.htm" rel="external">http://www.ucl.ac.uk/sts/kant_conference/index.htm</a>
 </p>
 <hr />
 <p>
@@ -239,7 +239,7 @@ They should also arrange to have three letters of recommendation, at least one
 commenting on teaching qualifications, sent directly as paper copys to the
 office. Office address: Ms. Barbara Phelan, Program in Science in Human Culture,
 20 University Hall, Northwestern University, Evanston, IL 60208-2245. The due
-date for all materials is January 15, 2007. The SHC website is http://www.shc.northwestern.edu/.
+date for all materials is January 15, 2007. The SHC website is <a href="http://www.shc.northwestern.edu/." rel="external">http://www.shc.northwestern.edu/.</a>
 Questions about administrative matters may be addressed to Ms. Phelan at
 b-phelan2@northwestern.edu, about the content and goals of the program to Ken
 Alder, k-alder@northwestern.edu. AA/EOE: applications from women and minorities
@@ -324,11 +324,11 @@ educational practices into the very constrained real world of science education?
 Manuscripts for this Special Issue should be submitted online. Information
 regarding the preparation of manuscripts and directions for online submission is
 available at:
-http://www3.interscience.wiley.com/cgi-bin/jhome/32122
+<a href="http://www3.interscience.wiley.com/cgi-bin/jhome/32122" rel="external">http://www3.interscience.wiley.com/cgi-bin/jhome/32122</a>
 </p>
 <p>
 For online submissions, submit files at:
-http://mc.manuscriptcentral.com/scied
+<a href="http://mc.manuscriptcentral.com/scied" rel="external">http://mc.manuscriptcentral.com/scied</a>
 </p>
 <p>
 Please indicate in a cover letter to the editor that you would like
@@ -464,8 +464,8 @@ with numerous photographs. This monograph also includes a complete bibliography
 of Ernst Mayr by Jürgen Haffer and a DVD containing excerpts (about 25 minutes
 long) from a video-taped interview with Ernst Mayr in November 2003. It can be
 obtained from Buteo Books, 3130 Laurel Road, Shipman, VA 22971, USA.
-800-722-2460, ph: 434-263-8671, fax:434-263-4842; E-mail: customerservice@buteobooks.com
-http://www.buteobooks.com $ 20.00 + $ 4.00 mailing in the US and $ 5.00 to
+800-722-2460, ph: 434-263-8671, fax:434-263-4842; E-mail: <a href="mailto:customerservice@buteobooks.com" rel="email">customerservice@buteobooks.com</a>
+<a href="http://www.buteobooks.com" rel="external">http://www.buteobooks.com</a> $ 20.00 + $ 4.00 mailing in the US and $ 5.00 to
 other countries. Make checks payable to Buteo Books.
 </p>
 <p style="display: none;">
@@ -492,7 +492,7 @@ B. INSTRUCTIONS FOR SUBMISSIONS
 </p>
 <p>
 Send information for possible inclusion in a future issue of the newsletter to
-the editor (mforster@wisc.edu). It is best to send the information directly to
+the editor (<a href="mailto:mforster@wisc.edu" rel="email">mforster@wisc.edu</a>). It is best to send the information directly to
 the editor well in advance of any deadline because publication dates are
 unpredictable. Please include PSA somewhere in the subject line (so that the
 message is automatically filed).
@@ -501,14 +501,14 @@ message is automatically filed).
 C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-Send an email message to listserv@listserv.umkc.edu with your command as the
+Send an email message to <a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a> with your command as the
 ONLY body text (leave the subject line blank).
 To subscribe, type as the only body text:
 <code>subscribe psa</code>
 To be removed from this mailing list, please go to
-&lt;http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1&gt;
-or send an email message to the address listserv@listserv.umkc.edu, with the
+<a href="http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1" rel="external">http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1</a>
+or send an email message to the address <a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a>, with the
 text <code>SIGNOFF PSA</code> in the body of the message.
-Problems or questions should be directed to manager@listserv.umkc.edu.
+Problems or questions should be directed to <a href="mailto:manager@listserv.umkc.edu" rel="email">manager@listserv.umkc.edu</a>.
 </p>
 <hr />

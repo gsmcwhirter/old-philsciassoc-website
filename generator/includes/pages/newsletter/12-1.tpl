@@ -9,7 +9,7 @@ PSA Newsletter: Volume 12 : Number 1: February 2006
 </p>
 <p class="center">
 Edited for the Philosophy of Science Association by
-Malcolm Forster, http://philosophy.wisc.edu/forster
+Malcolm Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 </p>
 <p>
 IN THIS ISSUE:
@@ -21,7 +21,7 @@ IN THIS ISSUE:
 (ZEWW),
  University of Hannover, Germany.
 Application deadline: March 1, 2006.
-http://www.unics.uni-hannover.de/zeww/index.eng.html</li>
+<a href="http://www.unics.uni-hannover.de/zeww/index.eng.html" rel="external">http://www.unics.uni-hannover.de/zeww/index.eng.html</a></li>
 
 <li>LAKATOS Research FELLOWSHIPS at LSE. Deadline: March 1, 2006.</li>
 
@@ -45,7 +45,7 @@ Chemistry
 <li>PSA: The Essay Contest deadline has been extended until 20 Feb 2006. Please
 check the
  website for further details.
-http://journal.philsci.org/essayPrize.php</li>
+<a href="http://journal.philsci.org/essayPrize.php" rel="external">http://journal.philsci.org/essayPrize.php</a></li>
 
 <li>ANNOUNCEMENT: Visiting Fellows Program, Center for Philosophy of Science,
  University of
@@ -54,19 +54,19 @@ Pittsburgh. While the usual deadline has passed, the Center is still accepting
 visiting fellowships for Sept. 2006 and January 2007 and encourages qualified
 scholars  to apply. For
 details see:
-http://www.pitt.edu/~pittcntr/vfinfo</li>
+<a href="http://www.pitt.edu/~pittcntr/vfinfo" rel="external">http://www.pitt.edu/~pittcntr/vfinfo</a></li>
 </ol>
 <hr />
 <p>
 PSA LINKS:
 </p>
 <p>
-PSA 2006: http://philsci.org/PSA06/<br />
-PSA website: http://philsci.org/<br />
+PSA 2006: <a href="http://philsci.org/PSA06/" rel="external">http://philsci.org/PSA06/</a><br />
+PSA website: <a href="http://philsci.org/" rel="external">http://philsci.org/</a><br />
 Philosophy of Science journal:
-http://www.journals.uchicago.edu/PHILSCI/home.html<br />
+<a href="http://www.journals.uchicago.edu/PHILSCI/home.html" rel="external">http://www.journals.uchicago.edu/PHILSCI/home.html</a><br />
 PhilSci Archives:
-http://philsci-archive.pitt.edu/
+<a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>
 </p>
 <hr />
 <p style="display: none;">
@@ -136,12 +136,12 @@ Im Moore 21, D-30167 Hannover, Germany.
 Deadline for applications is March 1st, 2006. For further information about the
 available position, please contact Dr. Thomas Reydon (reydon@ww.uni-hannover.de,
 telephone +49 511 762 19391). More information about the Center for Philosophy
-and Ethics of Science can be found at the center's homepage: http://www.unics.uni-hannover.de/zeww/index.eng.html.
+and Ethics of Science can be found at the center's homepage: <a href="http://www.unics.uni-hannover.de/zeww/index.eng.html." rel="external">http://www.unics.uni-hannover.de/zeww/index.eng.html.</a>
 </p>
 <hr />
 <p>
 3. LAKATOS Research Fellowships at LSE. Deadline: March 1, 2006.
- Lakatos Research Fellowships at CPNSS@LSE
+ Lakatos Research Fellowships at <a href="mailto:CPNSS@LSE" rel="email">CPNSS@LSE</a>
 </p>
 <p>
 An extensive archive of Imre Lakatos's papers and letters - some in Hungarian,
@@ -151,7 +151,7 @@ donor, Research Fellowships to a total amount of US$ 12,000 will be
 available in the calendar year 2006 for scholars
 wishing to pursue some research project on Lakatos and/or his contemporaries
 requiring consultation of the archive. The Fellowships will be held at
-LSE's Centre for Philosophy of Natural and Social Science (http://www.lse.ac.uk/collections/CPNSS/),
+LSE's Centre for Philosophy of Natural and Social Science (<a href="http://www.lse.ac.uk/collections/CPNSS/" rel="external">http://www.lse.ac.uk/collections/CPNSS/</a>),
 which will also provide facilities for the Fellows.
 The awards will aim to cover the recipients' travel
 and a stipend of 250£/week for junior scholars (PhD students) and 500£/week for
@@ -164,7 +164,7 @@ To apply please send a covering letter (specifying when you plan to visit and an
 estimate of how long you would need to spend in London), a CV and a 500 words
 project description to Dr Stephan Hartmann, Director, Centre for Philosophy of
 Natural and Social Science, London School of Economics, London WC2A 2AE, UK.
-Applications by email to philcent@lse.ac.uk (subject: Lakatos Research
+Applications by email to <a href="mailto:philcent@lse.ac.uk" rel="email">philcent@lse.ac.uk</a> (subject: Lakatos Research
 Fellowship) are also welcome. The deadline for applications is March
 1, 2006. Junior scholars and young faculty are especially encouraged to
 apply.
@@ -183,7 +183,7 @@ MODELS AND SIMULATIONS
 Two-day conference in Paris, 12-13 June 2006
 </p>
 <p>
-http://www.lse.ac.uk/collections/CPNSS/events/Conferences/Simulations/
+<a href="http://www.lse.ac.uk/collections/CPNSS/events/Conferences/Simulations/" rel="external">http://www.lse.ac.uk/collections/CPNSS/events/Conferences/Simulations/</a>
 </p>
 <p>
 Keynote Speakers: Robert Batterman (Western Ontario) and Paul Humphreys
@@ -263,7 +263,7 @@ and in applied science?</li>
 SUBMISSION OF PAPERS:
 </p>
 <p>
-Please send extended abstracts of 1000 words to simulations2006@yahoo.co.uk by
+Please send extended abstracts of 1000 words to <a href="mailto:simulations2006@yahoo.co.uk" rel="email">simulations2006@yahoo.co.uk</a> by
 15 March 2006. Decisions will be made by 1 April. A few travel bursaries for
 graduate students are available; if you wish to be considered please submit a
 short (tentative) travel budget and a CV together with your paper. There will
@@ -310,11 +310,11 @@ For more information contact:
 </ul>
 <p>
 Messages to the list are archived at
-http://listserv.liv.ac.uk/archives/philos-l.html.
+<a href="http://listserv.liv.ac.uk/archives/philos-l.html." rel="external">http://listserv.liv.ac.uk/archives/philos-l.html.</a>
 Prolonged discussions should be moved to chora: enrol via
-http://listserv.liv.ac.uk/archives/chora.html.
+<a href="http://listserv.liv.ac.uk/archives/chora.html." rel="external">http://listserv.liv.ac.uk/archives/chora.html.</a>
 Other philosophical resources on the Web can be found at
-http://www.liv.ac.uk/pal.
+<a href="http://www.liv.ac.uk/pal." rel="external">http://www.liv.ac.uk/pal.</a>
 </p>
 <hr />
 <p>
@@ -328,11 +328,11 @@ Editors:
 </p>
 <p>
 George Terzis, Department of Philosophy, Saint Louis University, 3800 Lindell
-Blvd, St. Louis, MO 63108. (314) 977-3163. terzisgn@slu.edu
+Blvd, St. Louis, MO 63108. (314) 977-3163. <a href="mailto:terzisgn@slu.edu" rel="email">terzisgn@slu.edu</a>
 </p>
 <p>
 Robert Arp, Department of Philosophy, Southwest Minnesota State University, 1501
-State Street, Marshall, MN 56258. (507) 532-7281. arpr@southwestmsu.edu
+State Street, Marshall, MN 56258. (507) 532-7281. <a href="mailto:arpr@southwestmsu.edu" rel="email">arpr@southwestmsu.edu</a>
 </p>
 <p>
 Call for Papers. We have been asked by Ashgate Publishing to edit their Ashgate
@@ -350,7 +350,7 @@ they propose for the collection (not to exceed 500 words), together with a copy
 of their cv. Abstracts should be submitted by May 15, 2006, and authors whose
 contributions are accepted will be informed by June 15, 2006. The deadline for
 accepted papers is February 1, 2007. Submit relevant materials to:
-terzisgn@slu.edu; arpr@southwestmsu.edu.
+<a href="mailto:terzisgn@slu.edu" rel="email">terzisgn@slu.edu</a>; <a href="mailto:arpr@southwestmsu.edu" rel="email">arpr@southwestmsu.edu</a>.
 </p>
 <p>
 Objectives of the Companion. Information pervades biological processes at all
@@ -502,7 +502,7 @@ HPSM related subjects. The list includes staff members from the Centre for Life
 York, Leeds, Manchester, Lancaster, Leicester and Warwick. However, there are
 several independent scholars too. The listserv is moderated, but it is open to
 anyone with a genuine interest in HPSM studies. To join, simply send an email to
-Dr Matthew D Eddy (M.D.Eddy@durham.ac.uk).
+Dr Matthew D Eddy (<a href="mailto:M.D.Eddy@durham.ac.uk" rel="email">M.D.Eddy@durham.ac.uk</a>).
 </p>
 <hr />
 <p>
@@ -523,7 +523,7 @@ Professor of Chemistry (Split).
 <li>10000 Zagreb, Croatia</li>
 <li class="phone">Phone +385 1 4819 280</li>
 <li class="fax">Fax +385 1 4819 288</li>
-<li class="email">vancik@irb.hr</li>
+<li class="email"><a href="mailto:vancik@irb.hr" rel="email">vancik@irb.hr</a></li>
 </ul>
 <p>
 The Departments of Chemistry at University of Zagreb, and University of Split
@@ -584,7 +584,7 @@ Foundations of Chemistry is an excellent option, but others may appear as the
 time approaches.
 </p>
 <p>
-Registration: The completed registration form (vancik@irb.hr) and abstract (one
+Registration: The completed registration form (<a href="mailto:vancik@irb.hr" rel="email">vancik@irb.hr</a>) and abstract (one
 typewritten page) should be received by the organizer (Prof. H. Vancik) until
 June 1, 2006. An abstract should be sent either in the form of MS Word Document
 as an E-mail attachment or as a hard copy. The margins of 2.5 cm and Times New
@@ -616,7 +616,7 @@ B. INSTRUCTIONS FOR SUBMISSIONS
 </p>
 <p>
 Send information for possible inclusion in a future issue of the newsletter to
-the editor (mforster@wisc.edu). It is best to send the information directly to
+the editor (<a href="mailto:mforster@wisc.edu" rel="email">mforster@wisc.edu</a>). It is best to send the information directly to
 the editor well in advance of any deadline because publication dates are
 unpredictable. Please include PSA somewhere in the subject line (so that the
 message is automatically filed).
@@ -625,18 +625,18 @@ message is automatically filed).
 C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-Send an email message to listserv@listserv.umkc.edu with your command as the
+Send an email message to <a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a> with your command as the
 ONLY body text (leave the subject line blank).
 </p>
 <p>
 To subscribe, type as the only body text:
 <code>subscribe psa</code>
 To be removed from this mailing list, please go to
-http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1
-or send an email message to the address listserv@listserv.umkc.edu, with
+<a href="http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1" rel="external">http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1</a>
+or send an email message to the address <a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a>, with
 the text SIGNOFF PSA in the body of the message.
 </p>
 <p>
-Problems or questions should be directed to manager@listserv.umkc.edu.
+Problems or questions should be directed to <a href="mailto:manager@listserv.umkc.edu" rel="email">manager@listserv.umkc.edu</a>.
 </p>
 <hr />

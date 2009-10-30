@@ -8,7 +8,7 @@
 </p>
 <p class="center">
      Edited for the Philosophy of Science Association by
-     Malcolm Forster, http://philosophy.wisc.edu/forster
+     Malcolm Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 </p>
 <p>
   IN THIS ISSUE:
@@ -21,24 +21,24 @@
 	<li>REMINDER: PSA 2002 Symposium and Workshop Proposals: DEADLINE Nov. 1.</li>
 	<li>Calgary Job: Application DEADLINE: 15 September 2001.</li>
 	<li>IMPORTANT information from NSF at
-http://philosophy.wisc.edu/PSA/NSF.htm.</li>
+<a href="http://philosophy.wisc.edu/PSA/NSF.htm." rel="external">http://philosophy.wisc.edu/PSA/NSF.htm.</a></li>
 	<li>Call for Abstracts, Fourth Congress of the International Working Group
      in History of Philosophy of Science, Montreal, Canada. June 21-23, 2002.
      DEADLINE: 1 January 2002.
-(http://scistud.umkc.edu/hopos/hopos2002/call2002)</li>
+(<a href="http://scistud.umkc.edu/hopos/hopos2002/call2002" rel="external">http://scistud.umkc.edu/hopos/hopos2002/call2002</a>)</li>
 	<li>Public Appeal for Material for the Paul K. Feyerabend Archive.</li>
 	<li>CALL FOR PAPERS for "Technology, Cultural Interchange and
 Globalization,"
      the 29th Symposium of ICOHTEC, June 22-26, 2002, Granada, Spain.
-     DEADLINE: January 15, 2002.  (http://www.icohtec.org/)</li>
+     DEADLINE: January 15, 2002.  (<a href="http://www.icohtec.org/" rel="external">http://www.icohtec.org/</a>)</li>
 	<li>Conference on "Ecology, Theology, and Judeo-Christian Environmental
 Ethics"
-     DEADLINE Nov. 1.  (http://www.nd.edu/~ecoltheo/)</li>
+     DEADLINE Nov. 1.  (<a href="http://www.nd.edu/~ecoltheo/" rel="external">http://www.nd.edu/~ecoltheo/</a>)</li>
 	<li>Ludus Vitalis, biannual journal of Philosophy of Life Sciences</li>
 	<li>WORKSHOP ON THEORY OF KNOWLEDGE, Justification, Truth, Beliefs,
-     27-30 October 2001.  Jablonna, near Warsaw. (http://www.jtb-forum.pl)</li>
+     27-30 October 2001.  Jablonna, near Warsaw. (<a href="http://www.jtb-forum.pl" rel="external">http://www.jtb-forum.pl</a>)</li>
 	<li>PREVIOUS LINKS: REMEMBER the new PhilSci Archives:
-     (http://philsci-archive.pitt.edu/)</li>
+     (<a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>)</li>
 </ol>
 <p>
   ENDNOTES:
@@ -62,7 +62,7 @@ Ethics"
    7-10 November 2002, Milwaukee, Wisconsin
 </p>
 <p>
-   Go to http://www.pitt.edu/~psa2002/ for full information.<br />
+   Go to <a href="http://www.pitt.edu/~psa2002/" rel="external">http://www.pitt.edu/~psa2002/</a> for full information.<br />
    URGENT:  Symposium proposals should reach the chair of the Program
 Committee
    no later than 1 NOVEMBER 2001.
@@ -74,7 +74,7 @@ of Science jointly invite applications for a junior chair to support
 interdisciplinary work that crosses traditional disciplinary boundaries.
 </p>
 <p>
-  For full ad, go to: http://philosophy.wisc.edu/PSA/CalgaryJob.htm
+  For full ad, go to: <a href="http://philosophy.wisc.edu/PSA/CalgaryJob.htm" rel="external">http://philosophy.wisc.edu/PSA/CalgaryJob.htm</a>
 </p>
 <hr />
 <p>
@@ -83,7 +83,7 @@ Science and Technology Studies
 </p>
 <p>
 [Editor's Note: For this IMPORTANT information, see the full letter in a
-more readable and printable form at http://philosophy.wisc.edu/PSA/NSF.htm]
+more readable and printable form at <a href="http://philosophy.wisc.edu/PSA/NSF.htm]" rel="external">http://philosophy.wisc.edu/PSA/NSF.htm]</a>
 </p>
 <p>
 We would like to alert PSA members about funding opportunities at the
@@ -99,7 +99,7 @@ percent budget increase for FY 2001, to $3,827,000.  The situation for FY
 2002 is unclear, but projections are for flat budgets. Those interested in
 learning about the Program's activities are invited to look at the Program
 Announcement and other information on the STS Program's home page:
-http://www.nsf.gov/sbe/ses/sts/start.htm.
+<a href="http://www.nsf.gov/sbe/ses/sts/start.htm." rel="external">http://www.nsf.gov/sbe/ses/sts/start.htm.</a>
 </p>
 <p>
 NOTES ON PROPOSALS TO STS
@@ -173,7 +173,7 @@ to NSF.
 </p>
 <p>
     DEADLINE: 1 January 2002.<br />
-    See: http://scistud.umkc.edu/hopos/hopos2002/call2002.html
+    See: <a href="http://scistud.umkc.edu/hopos/hopos2002/call2002.html" rel="external">http://scistud.umkc.edu/hopos/hopos2002/call2002.html</a>
 </p>
 <hr />
 <p>
@@ -224,12 +224,12 @@ to NSF.
     Spain.
 </p>
 <p>
-    ICOHTEC (http://www.icohtec.org) is an international scholarly
+    ICOHTEC (<a href="http://www.icohtec.org" rel="external">http://www.icohtec.org</a>) is an international scholarly
     organization associated with the International Union for the History
     and Philosophy of Science and UNESCO.
 </p>
 <p>
-    Full details at:  http://www.icohtec.org
+    Full details at:  <a href="http://www.icohtec.org" rel="external">http://www.icohtec.org</a>
 </p>
 <hr />
 <p>
@@ -286,7 +286,7 @@ Theories;
 <p>
   Send information for possible inclusion in a future issue of the newsletter
 to
-  the editor (mforster@facstaff.wisc.edu).  IT IS BEST to send the
+  the editor (<a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>).  IT IS BEST to send the
 information
   directly to the editor AS EARLY AS POSSIBLE because publication dates are
   unpredictable.  Please include PSA somewhere in the subject line, or title
@@ -296,7 +296,7 @@ information
   C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-  Send an email message to psa@scistud.ch.umkc.edu with your command on
+  Send an email message to <a href="mailto:psa@scistud.ch.umkc.edu" rel="email">psa@scistud.ch.umkc.edu</a> with your command on
   the subject line (leave the body of the message blank).
   To subscribe, type on the subject line:
         <code>SUBSCRIBE &lt;your name&gt;</code>

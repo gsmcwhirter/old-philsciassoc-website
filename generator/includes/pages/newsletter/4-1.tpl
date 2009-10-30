@@ -36,7 +36,7 @@
 *                       Department of Philosophy                         *
 *                  Washington University in St. Louis                    *
 *									 *
-*	        Send submissions to psa@twinearth.wustl.edu		 *
+*	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>		 *
 *									 *
 **************************************************************************
 </p>
@@ -48,7 +48,7 @@
                        Department of Philosophy        <br />
                   Washington University in St. Louis     <br />
 								<br />
-	        Send submissions to psa@twinearth.wustl.edu
+	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>
 </p>
 <p>
 CONTENTS:
@@ -81,7 +81,7 @@ about other meetings likely to be of interest to a broad range of the
 membership.  It is NOT intended for ungoing discussions of intellectual
 topics within philosophy of science.  If you have information that you
 would like to submit for possible inclusion in a future issue of the
-newsletter, please send it to the editor at psa@twinearth.wustl.edu.
+newsletter, please send it to the editor at <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>.
 </p>
 <p>
 Directions for subscribing and unsubscribing:
@@ -146,7 +146,7 @@ Gale, University of Missouri, Kansas City; Nancy Nersessian, Georgia
 Institute of Technology; and Kenneth F. Schaffner, George Washington.
 Nominations and applications should be sent to Professor William Bechtel,
 Philosophy-Neuroscience-Psychology Program, Campus Box 1073, Washington
-University, St. Louis, MO 63124 (email: bechtel@twinearth.wustl.edu)  Both
+University, St. Louis, MO 63124 (email: <a href="mailto:bechtel@twinearth.wustl.edu" rel="email">bechtel@twinearth.wustl.edu</a>)  Both
 nominations and applications should include a vita and a letter discussing
 the individual's qualifications for the position.  Evidence that
 institutional support will be forthcoming may be preliminary but must be
@@ -181,7 +181,7 @@ preferred mailing address, work and home phone numbers, fax number and
 email. Send this information to Gary Bowden, Program Chair 4S/ESAC
 Conference, Department of Sociology, University of New Brunswick, P.O. Box
 4400, Fredericton, New Brunswick, Canada, E3B 5A3.  Abstracts may also be
-submitted via fax (506-453-4659) or email (glb@unb.ca).  Abstracts must be
+submitted via fax (506-453-4659) or email (<a href="mailto:glb@unb.ca" rel="email">glb@unb.ca</a>).  Abstracts must be
 received by Friday, February 20, 1998.
 </p>
 <hr />
@@ -196,7 +196,7 @@ Decision Making and Valuation for Environmental Policy program is
 available on the World Wide Web at
 </p>
 <p>
-http://es.inel.gov/ncerqa/rfa/98valrfa.html
+<a href="http://es.inel.gov/ncerqa/rfa/98valrfa.html" rel="external">http://es.inel.gov/ncerqa/rfa/98valrfa.html</a>
 </p>
 <p>
 The Decision-making and Valuation for Environmental Policy competition
@@ -229,7 +229,7 @@ following individuals:
 </p>
 <ul class="address">
 <li>Ms. Deborah Hanlon</li>
-<li class="email">hanlon.deborah@epamail.epa.gov</li>
+<li class="email"><a href="mailto:hanlon.deborah@epamail.epa.gov" rel="email">hanlon.deborah@epamail.epa.gov</a></li>
 <li class="fax">fax (202) 565-2447, voice (202) 564-6836</li>
 </ul>
 <hr />
@@ -243,17 +243,17 @@ program - Ethics and Values Studies, and Research on Science and
 Technology, in the Division of Social, Behavioral and Economic
 Research, is issuing a call for proposals for the February 1, 1998
 target date.  Information about the program and submission procedures
-can be found at http://www.nsf.gov/sbe/sber/sdest
+can be found at <a href="http://www.nsf.gov/sbe/sber/sdest" rel="external">http://www.nsf.gov/sbe/sber/sdest</a>
 </p>
 <p>
 You can also get an electronic copy of the announcement by sending an
-e-mail message to getpub@nsf.gov.  In the text of the message, write
+e-mail message to <a href="mailto:getpub@nsf.gov" rel="email">getpub@nsf.gov</a>.  In the text of the message, write
 <code>get nsf9728.txt</code>
 and it will be sent to you.  Once you have reviewed the material, if
 you have ideas that you wish to discuss, contact program directors
 Rachelle Hollander or John Perhonis, NSF, Room 995, 4201 Wilson Blvd.,
 Arlington, VA 22230.  Telephone: 703-306-1743.   Fax: 703-306-0485 or
-0486.   E-mail: rholland@nsf.gov  or jperhoni@nsf.gov.  The program
+0486.   E-mail: <a href="mailto:rholland@nsf.gov" rel="email">rholland@nsf.gov</a>  or <a href="mailto:jperhoni@nsf.gov" rel="email">jperhoni@nsf.gov</a>.  The program
 has approximately $1 million to support awards from the proposals
 submitted.
 </p>
@@ -283,7 +283,7 @@ Deborah Mayo (Philosophy, Virginia Tech), Sahotra Sarkar (Max Planck
 Institute, Berlin), Patrick Suppes (IMSSS, Stanford), Bill Wimsatt
 (Philosophy, Chicago), Alison Wylie (Philosophy, Western Ontario). Details
 of the conference can be found at the Web site
-http://modeling.clas.virginia.edu, by e-mail at pwh2a@virginia.edu, or by
+<a href="http://modeling.clas.virginia.edu," rel="external">http://modeling.clas.virginia.edu,</a> by e-mail at <a href="mailto:pwh2a@virginia.edu" rel="email">pwh2a@virginia.edu</a>, or by
 writing to Paul Humphreys, Corcoran Department of Philosophy, 512 Cabell
 Hall, University of Virginia, Charlottesville, VA 222903-2443, USA.
 </p>
@@ -318,7 +318,7 @@ Sauer, Wilfried Sieg, Howard Stein, William Tait, and Mark Wilson.
 </p>
 <p>
 For further information visit the Center for Philosophy of Science
-Schedule of Events web site at:  http://www.pitt.edu/~pittcntr or contact
+Schedule of Events web site at:  <a href="http://www.pitt.edu/~pittcntr" rel="external">http://www.pitt.edu/~pittcntr</a> or contact
 Jim Lennox at pittcntr+@pitt.edu or by fax 412-624-3895.
 </p>
 <hr />
@@ -342,7 +342,7 @@ Robert Campbell.
 Contributors should make their submissions to the Cognitive Science
 Society, following the standard rules for formatting their papers (if you
 have not received the hard-copy call for papers, check the CSS Web site at
-http://www.umich.edu/~cogsci/cogsci.html).
+<a href="http://www.umich.edu/~cogsci/cogsci.html" rel="external">http://www.umich.edu/~cogsci/cogsci.html</a>).
 </p>
 <p>
 THE DEADLINE IS FEBRUARY 6, 1998.
@@ -356,7 +356,7 @@ Sean O Nuallain
 <p>
 Dublin City University, Dublin, Ireland &amp;
 National Research Council, Ottawa, Canada
-(sonualla@compapp.dcu.ie)
+(<a href="mailto:sonualla@compapp.dcu.ie" rel="email">sonualla@compapp.dcu.ie</a>)
 </p>
 <p>
 Robert L. Campbell
@@ -364,7 +364,7 @@ Robert L. Campbell
 <p>
 Department of Psychology, Clemson University,
 Clemson, SC USA
-(campber@clemson.edu)
+(<a href="mailto:campber@clemson.edu" rel="email">campber@clemson.edu</a>)
 </p>
 <hr />
 <p>
@@ -381,7 +381,7 @@ culture.  The fellowship carries a stipend up to $30,000, with benefits
 including a budget for travel and research expenses.  Deadline, January
 10, 1998.  Contact Dr. Katherine Pandora, Department of the History of
 Science, The University of Oklahoma, 601 Elm, Room 622, Norman, OK
-73019-0315; Phone: 405.325.3427, email: kpandora@ou.edu.
+73019-0315; Phone: 405.325.3427, email: <a href="mailto:kpandora@ou.edu" rel="email">kpandora@ou.edu</a>.
 </p>
 <hr />
 <p>

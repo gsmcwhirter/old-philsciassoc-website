@@ -36,7 +36,7 @@
 *                       Department of Philosophy                         *
 *                  Washington University in St. Louis                    *
 *												 *
-*	        Send submissions to psa@twinearth.wustl.edu			 *
+*	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>			 *
 *												 *
 **************************************************************************
 </p>
@@ -48,7 +48,7 @@
                        Department of Philosophy        <br />
                   Washington University in St. Louis     <br />
 								<br />
-	        Send submissions to psa@twinearth.wustl.edu
+	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>
 </p>
 <p>
 CONTENTS:
@@ -80,7 +80,7 @@ about other meetings likely to be of interest to a broad range of the
 membership.  It is NOT intended for ongoing discussions of intellectual
 topics within philosophy of science.  If you have information that you
 would like to submit for possible inclusion in a future issue of the
-newsletter, please send it to the editor at psa@twinearth.wustl.edu.
+newsletter, please send it to the editor at <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>.
 </p>
 <p>
 Directions for subscribing and unsubscribing:
@@ -189,7 +189,7 @@ All submissions should be directed to:
 <li>Logic and Philosophy of Science</li>
 <li>University of California, Irvine</li>
 <li>Irvine, California 92697-4130</li>
-<li class="email">Email: psa2k@uci.edu</li>
+<li class="email">Email: <a href="mailto:psa2k@uci.edu" rel="email">psa2k@uci.edu</a></li>
 </ul>
 <p>
 SUBMITTED PAPERS
@@ -213,7 +213,7 @@ Continuing with the tradition established for the sixteenth-biennial meeting,
 contributed papers accepted for presentation at the meeting will not be
 published before the meeting.  Papers whose authors so wish will be made
 available prior to the meeting on the PSA 2000 web site
-(http://scistud.umkc.edu/psa2k).  In order for a paper to be put on the web site
+(<a href="http://scistud.umkc.edu/psa2k" rel="external">http://scistud.umkc.edu/psa2k</a>).  In order for a paper to be put on the web site
 before the meeting, it must be submitted in Portable Document Format (pdf),
 Postscript (ps), or plain text (ASCII).  Abstracts of all papers accepted for
 presentation will be published on the web site and in an expanded meeting
@@ -231,7 +231,7 @@ only on a separate cover letter or cover sheet.  Submissions will be accepted in
 one of the two following forms:
 </p>
 <ol>
-	<li>Send a copy of the abstract to psa2k@uci. edu.  Send three (3) copies of the
+	<li>Send a copy of the abstract to <a href="mailto:psa2k@uci" rel="email">psa2k@uci</a>. edu.  Send three (3) copies of the
 	paper, formatted as above,
 	to:
 	<ul class="address">
@@ -243,7 +243,7 @@ one of the two following forms:
 	</ul>
 	</li>
 	<li>Send one copy of the paper, formatted as above, in either Portable Document
-	Format (pdf), Postscript (ps), or plain text (ASCII) to psa2k@uci. edu as an
+	Format (pdf), Postscript (ps), or plain text (ASCII) to <a href="mailto:psa2k@uci" rel="email">psa2k@uci</a>. edu as an
 	email attachment.  In the body of the email include your name, institutional
 	affiliation, address, telephone number, and a copy of the abstract.</li>
 </ol>
@@ -306,15 +306,15 @@ Research on Science and Technology (RST).  It focuses on improving knowledge
 of ethical and value dimensions in science, engineering, and technology, and
 on improving approaches and information for decision making about investment
 in science, engineering, and technology.  The newly revised announcement
-(NSF99-82) can be accessed at http://www.nsf.gov:80/cgi-bin/getpub?nsf9982;
+(NSF99-82) can be accessed at <a href="http://www.nsf.gov:80/cgi-bin/getpub?nsf9982;" rel="external">http://www.nsf.gov:80/cgi-bin/getpub?nsf9982;</a>
 more program information is available at
-http://www.nsf.gov:80/sbe/sber/sdest/start.htm.
+<a href="http://www.nsf.gov:80/sbe/sber/sdest/start.htm." rel="external">http://www.nsf.gov:80/sbe/sber/sdest/start.htm.</a>
 </p>
 <p>
 SDEST considers proposals that examine the full range of questions that
 arise in the interactions of science, technology and society.  To discuss
 research ideas, contact program manager Rachelle Hollander at
-rholland@nsf.gov. The program is particularly interested in encouraging
+<a href="mailto:rholland@nsf.gov" rel="email">rholland@nsf.gov</a>. The program is particularly interested in encouraging
 analysis of ethical questions surrounding new developments in biotechnology
 and information technology.  It is also interested in proposals that
 identify and evaluate the implications of different strategies for support
@@ -386,7 +386,7 @@ allowed; the maximum award is $100,000 yearly.</li>
 <li>Foundation-wide Programs:  SDEST also participates in such NSF programs
 as CAREER and POWRE.  For further information on these programs, see
 Cross-Cutting Programs on the NSF home page:
-http://www.nsf.gov/home/crssprgm/start.htm.</li>
+<a href="http://www.nsf.gov/home/crssprgm/start.htm." rel="external">http://www.nsf.gov/home/crssprgm/start.htm.</a></li>
 </ol>
 <hr />
 <p>
@@ -419,7 +419,7 @@ interest in ethics and technology.
 <p>
 Don't miss the "Integrating Ethics into Technical Education" Conference.
 Visit the College's website at:
-http://www.raritanval.edu/integratingethics.html
+<a href="http://www.raritanval.edu/integratingethics.html" rel="external">http://www.raritanval.edu/integratingethics.html</a>
 </p>
 <hr />
 <p>
@@ -436,7 +436,7 @@ sessions will be held in English.  Course fee: Dfl. 575.  For more information:
 B. Gordijn, Ph.D., Catholic University Nijmegen, 232 Dept.  Ethics, Philosophy
 and History of Medicine, P.O. Box 9101, 6500 HB Nijmegen, Netherlands.
 Tel: 0031-24-3615320.  Fax: 0031-24-3540254.  E-mail:
-b.gordij@efg.kun.nl.  Internet site: http://www.kun.nl/fmw/onderwys/ukgene.htm
+<a href="mailto:b.gordij@efg.kun.nl" rel="email">b.gordij@efg.kun.nl</a>.  Internet site: <a href="http://www.kun.nl/fmw/onderwys/ukgene.htm" rel="external">http://www.kun.nl/fmw/onderwys/ukgene.htm</a>
 </p>
 <hr />
 <p>
@@ -478,7 +478,7 @@ APPLICATION may be made for one or two terms (September to December, January
 to April).  Further information and application materials may be obtained
 from the Administrative Officer, School of Historical Studies, Institute for
 Advanced Study, Princeton, New Jersey 08540 (electronic mail address:
-mzelazny@ias.edu).   Completed applications must be returned to the
+<a href="mailto:mzelazny@ias.edu" rel="email">mzelazny@ias.edu</a>).   Completed applications must be returned to the
 Administrative Officer by 15 November 1999.
 </p>
 <p>
@@ -549,7 +549,7 @@ NUMBER OF COPIES:     ONE,  or PLEASE AIR MAIL ______ COPIES
 (Return to: Dr Michael R. Matthews, School of Education Studies,
 UNSW, Sydney 2052, Australia.
 Credit card payment can be made by returning this form to email
-address: m.matthews@unsw.edu.au.)
+address: <a href="mailto:m.matthews@unsw.edu.au" rel="email">m.matthews@unsw.edu.au</a>.)
 </pre>
 <pre>
 
@@ -577,6 +577,6 @@ CREDIT CARD:          MASTERCARD or VISACARD (please circle one)
                       EXPIRY DATE
 
 (Return to: Dr Michael R. Matthews, School of Education Studies,
-UNSW, Sydney 2052, Australia. email: m.matthews@unsw.edu.au )
+UNSW, Sydney 2052, Australia. email: <a href="mailto:m.matthews@unsw.edu.au" rel="email">m.matthews@unsw.edu.au</a> )
 </pre>
 <hr />

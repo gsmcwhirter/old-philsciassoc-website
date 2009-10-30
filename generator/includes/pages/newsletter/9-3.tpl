@@ -21,7 +21,7 @@ Newsletter: Volume 9 : Number 3: October  2003
 for the Philosophy of Science Association by
 
        Malcolm
-Forster, http://philosophy.wisc.edu/forster
+Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 
 </p>
 <p>
@@ -56,15 +56,15 @@ Announcing the Second Reichenbach Conference, titled "Fashioning a
 Mechanistic Philosophy of Science," to be held at Washington University in St. Louis, November
  7-9, 2003.  The conference unites several strands of
 recent historical and philosophical work on mechanisms, mechanistic explanation
-and the mechanical philosophy. A conference description can be accessed via www.artsci.wustl.edu/~philos/craver/.  Queries should be sent to kmount@artsci.wustl.edu.
+and the mechanical philosophy. A conference description can be accessed via www.artsci.wustl.edu/~philos/craver/.  Queries should be sent to <a href="mailto:kmount@artsci.wustl.edu" rel="email">kmount@artsci.wustl.edu</a>.
 </li>
 <li>The European
 Science Foundation (ESF) Network for Philosophical and Foundational Problems of
-Modern Physics is organizing a number of forthcoming conferences.  Their website is at http://www.philphys.nl/.
+Modern Physics is organizing a number of forthcoming conferences.  Their website is at <a href="http://www.philphys.nl/." rel="external">http://www.philphys.nl/.</a>
 </li>
 <li>Visiting Fellows Program, University of Pittsburgh, Center for Philosophy
 of Science:  Application deadline for the
-2004-05 academic year is Dec. 15.  See http://www.pitt.edu/~pittcntr/Programs/VF_Application.htm.
+2004-05 academic year is Dec. 15.  See <a href="http://www.pitt.edu/~pittcntr/Programs/VF_Application.htm." rel="external">http://www.pitt.edu/~pittcntr/Programs/VF_Application.htm.</a>
 </li>
 </ol>
 <hr />
@@ -72,16 +72,16 @@ of Science:  Application deadline for the
 LINKS:
 </p>
 <p>
-PSA website:  http://philosophy.wisc.edu/PSA/<br />
+PSA website:  <a href="http://philosophy.wisc.edu/PSA/" rel="external">http://philosophy.wisc.edu/PSA/</a><br />
 
 
 
 Philosophy of Science
-journal: http://www.journals.uchicago.edu/PHILSCI/home.html<br />
+journal: <a href="http://www.journals.uchicago.edu/PHILSCI/home.html" rel="external">http://www.journals.uchicago.edu/PHILSCI/home.html</a><br />
 
 
 
-PhilSci Archives:  http://philsci-archive.pitt.edu/
+PhilSci Archives:  <a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>
 </p>
 <hr />
 <p>
@@ -202,8 +202,8 @@ mid-January, 2004.
 </p>
 <p>
 Submissions may be sent
-EITHER by e-mail as an attachment in Word or PDF to psa2004@temple.edu OR
-electronically at an interactive web site at http://www.temple.edu/psa2004
+EITHER by e-mail as an attachment in Word or PDF to <a href="mailto:psa2004@temple.edu" rel="email">psa2004@temple.edu</a> OR
+electronically at an interactive web site at <a href="http://www.temple.edu/psa2004" rel="external">http://www.temple.edu/psa2004</a>
 </p>
 <p>
 IMPORTANT: Any
@@ -267,7 +267,7 @@ Send to:
 <li>Birmingham, AL, 35294-1260</li>
 </ul>
 <p>
-Email submissions are welcome.  Send to mckitric@uab.edu
+Email submissions are welcome.  Send to <a href="mailto:mckitric@uab.edu" rel="email">mckitric@uab.edu</a>
 Submissions must be received by February
  2, 2004.
 Notification will occur by early March, 2004.
@@ -283,7 +283,7 @@ Rotman Canada Research Chair (Tier I) in Philosophy of Science to begin July 1, 
 Chair program has been established by the Government of Canada to enable
 Canadian universities to foster research excellence and enhance their role as
 world-class centers of research. Further information on the program is
-available on the CRC web site at http://www.chairs.gc.ca.
+available on the CRC web site at <a href="http://www.chairs.gc.ca." rel="external">http://www.chairs.gc.ca.</a>
 </p>
 <p>
 
@@ -438,7 +438,7 @@ Phyllis Siegel, Program in Science in Human Culture, 20 University Hall, Northwe
  University, Evanston,
  IL 60208-2245.
 The due date for all materials is January
- 15, 2004.  The SHC website is http://www2.mmlc.nwu.edu/shc/.
+ 15, 2004.  The SHC website is <a href="http://www2.mmlc.nwu.edu/shc/." rel="external">http://www2.mmlc.nwu.edu/shc/.</a>
 Questions about administrative matters may be addressed to Ms. Siegel at
 p-siegel@northwestern.edu, about the content and goals of the program to
 Ken Alder, program director, at k-alder@northwestern.edu.  AA/EOE:
@@ -484,11 +484,11 @@ institutions.
 Please direct inquiries and expressions of interest to Dr. Richard O. Lempert,
 Division Director
 of the Division of Social and Economic Sciences, phone: (703) 292-7391;
-e-mail:  rlempert@nsf.gov; or Dr.
+e-mail:  <a href="mailto:rlempert@nsf.gov" rel="email">rlempert@nsf.gov</a>; or Dr.
 Keith Benson, Program Director, Science and Technology Studies, phone: (703)
-292-8763, e-mail: kbenson@nsf.gov; or Mrs.
+292-8763, e-mail: <a href="mailto:kbenson@nsf.gov" rel="email">kbenson@nsf.gov</a>; or Mrs.
 Bonney Sheahan, coordinator of the cluster housing the STS program, phone:
-(703) 292-8764, or e-mail: bsheahan@nsf.gov.
+(703) 292-8764, or e-mail: <a href="mailto:bsheahan@nsf.gov" rel="email">bsheahan@nsf.gov</a>.
 All are located in Suite 995,
 National Science Foundation, 4201 Wilson Blvd.,
  Arlington, VA 22230,
@@ -539,7 +539,7 @@ topics within philosophy of science.
 <p>
 Send information for
 possible inclusion in a future issue of the newsletter to the editor
-(mforster@facstaff.wisc.edu).  It is best
+(<a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>).  It is best
 to send the information directly to the editor as early as possible because
 publication dates are unpredictable.
 Please include PSA somewhere in the subject line (so that the message is
@@ -554,7 +554,7 @@ served from a different location as of this mailing, and the subscription
 commands and address have changed.
 
 Send an email message to
-listserv@listserv.umkc.edu with your command as the ONLY body text
+<a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a> with your command as the ONLY body text
 (leave the subject line blank).
 
  To subscribe, type as the only body text:

@@ -11,7 +11,7 @@
 </p>
 <p class="center">
     Edited for the Philosophy of Science Association by
-    Malcolm Forster, http://philosophy.wisc.edu/forster
+    Malcolm Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 </p>
 <p>
 IN THIS ISSUE:
@@ -26,15 +26,15 @@ Inference. Deadline: January 15, 2002.</li>
 <li>4. Call for Papers, Fourth Annual St. Louis Philosophy of Social Science
 Roundtable.  DEADLINE: January 5, 2002.</li>
 <li>5. Call for Papers:  PSA 2002 CONTRIBUTED PAPERS: Deadline Feb. 1, 2002.
-Go to http://www.pitt.edu/~psa2002/ for full information.</li>
+Go to <a href="http://www.pitt.edu/~psa2002/" rel="external">http://www.pitt.edu/~psa2002/</a> for full information.</li>
 </ul>
 <p>
 PREVIOUS LINKS:
 </p>
 <ul>
-<li>6. INFORMATION from NSF (http://philosophy.wisc.edu/PSA/NSF.htm).
+<li>6. INFORMATION from NSF (<a href="http://philosophy.wisc.edu/PSA/NSF.htm" rel="external">http://philosophy.wisc.edu/PSA/NSF.htm</a>).
 DEADLINE Feb. 1 2002.</li>
-<li>7. The PhilSci Archives: (http://philsci-archive.pitt.edu/)</li>
+<li>7. The PhilSci Archives: (<a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>)</li>
 </ul>
 <p>
 QUICK LINKS:
@@ -43,11 +43,11 @@ QUICK LINKS:
 <li>8. International Congress: CAUSATION AND EXPLANATION in the Natural and
 Social Sciences, Ghent University - BELGIUM, 15-18 MAY 2002. All
 required information is available at the congress website:
-http://logica.rug.ac.be/censs2002/.</li>
+<a href="http://logica.rug.ac.be/censs2002/." rel="external">http://logica.rug.ac.be/censs2002/.</a></li>
 <li>9. Call for Applications, Graduate Fellowships, SCIENCE, MEDICINE, and
 TECNOLOGY IN CULTURE, Pennsylvania State University--University Park.
 Applications are due January 15, 2002.  Please visit:
-http://faculty.la.psu.edu/ssps/smtc.html.</li>
+<a href="http://faculty.la.psu.edu/ssps/smtc.html." rel="external">http://faculty.la.psu.edu/ssps/smtc.html.</a></li>
 </ul>
 <hr />
 <p>
@@ -76,7 +76,7 @@ with the center.
 </p>
 <p>
 For further information write Jim, Bogen, care of the Center, or email
-(jbogen@pittl.edu)
+(<a href="mailto:jbogen@pittl.edu" rel="email">jbogen@pittl.edu</a>)
 </p>
 <hr />
 <p>
@@ -173,7 +173,7 @@ minute paper and a brief C.V. by January 7, 2001 to:
 <li>Virginia Tech, 131 Lane Hall, Blacksburg, VA 24061-0227.</li>
 <li class="phone">Tel.: (540) 231-6547</li>
 <li class="fax">FAX: (540) 231-7013</li>
-<li class="email">E-mail: meph2002@vt.edu</li>
+<li class="email">E-mail: <a href="mailto:meph2002@vt.edu" rel="email">meph2002@vt.edu</a></li>
 </ul>
 <p>
 NOTE: We plan to offer travel grants to all students who participate in
@@ -229,14 +229,14 @@ below.
 <li>St. Louis University,</li>
 <li>3800 Lindell Blvd.,</li>
 <li>St. Louis, MO 63103-0907.</li>
-<li class="email">(Email: bohmanjf@slu.edu)</li>
+<li class="email">(Email: <a href="mailto:bohmanjf@slu.edu" rel="email">bohmanjf@slu.edu</a>)</li>
 </ul>
 <ul class="address">
 <li>Paul Roth,</li>
 <li>Department of Philosophy,</li>
 <li>University of Missouri/St. Louis,</li>
 <li>St. Louis, MO 63121-4499.</li>
-<li class="email">(Email: roth@umsl.edu)</li>
+<li class="email">(Email: <a href="mailto:roth@umsl.edu" rel="email">roth@umsl.edu</a>)</li>
 </ul>
 <ul class="address">
 <li>Alison Wylie,</li>
@@ -244,7 +244,7 @@ below.
 <li>Washington University,</li>
 <li>Campus Box 1073,</li>
 <li>St. Louis, MO 63130-4899.</li>
-<li class="email">(Email: awylie@artsci.wustl.edu)</li>
+<li class="email">(Email: <a href="mailto:awylie@artsci.wustl.edu" rel="email">awylie@artsci.wustl.edu</a>)</li>
 </ul>
 <p style="display: none;">
 ***************************************************************
@@ -272,7 +272,7 @@ B. INSTRUCTIONS FOR SUBMISSIONS
 </p>
 <p>
 Send information for possible inclusion in a future issue of the
-newsletter to the editor (mforster@facstaff.wisc.edu).  IT IS BEST to
+newsletter to the editor (<a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>).  IT IS BEST to
 send the information directly to the editor AS EARLY AS POSSIBLE because
 publication dates are unpredictable.  Please include PSA somewhere in
 the subject line, or title (so that the message is automatically filed)
@@ -282,7 +282,7 @@ together with the deadline.
 C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-Send an email message to psa@scistud.ch.umkc.edu with your command
+Send an email message to <a href="mailto:psa@scistud.ch.umkc.edu" rel="email">psa@scistud.ch.umkc.edu</a> with your command
 on the subject line (leave the body of the message blank).
 </p>
 <p>

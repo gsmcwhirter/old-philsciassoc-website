@@ -17,7 +17,7 @@ issues, follow these directions to subscribe:
 </p>
 <p>
 Send an email message, with NO subject to
-	<code>listserv@kasey.umkc.edu</code>
+	<a href="mailto:listserv@kasey.umkc.edu" rel="email">listserv@kasey.umkc.edu</a>
 The message should have one line
 	<code>SUBSCRIBE PSA-NEWS &lt;your name&gt;</code>
 </p>
@@ -28,7 +28,7 @@ as to the format of this newsletter, please contact me directly.
 <p>
 					William Bechtel<br />
 					Newsletter Editor<br />
-					psa@twinearth.wustl.edu
+					<a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>
 </p>
 <p style="display: none;">
 **************************************************************************
@@ -65,7 +65,7 @@ as to the format of this newsletter, please contact me directly.
 *                       Department of Philosophy                         *
 *                  Washington University in St. Louis                    *
 *									 *
-*	        Send submissions to psa@twinearth.wustl.edu		 *
+*	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>		 *
 *									 *
 **************************************************************************
 </p>
@@ -77,7 +77,7 @@ as to the format of this newsletter, please contact me directly.
                        Department of Philosophy        <br />
                   Washington University in St. Louis     <br />
 								<br />
-	        Send submissions to psa@twinearth.wustl.edu
+	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>
 </p>
 <p>
 CONTENTS:
@@ -103,11 +103,11 @@ about other meetings likely to be of interest to a broad range of the
 membership.  It is NOT intended for ongoing discussions of intellectual
 topics within philosophy of science.  If you have information that you
 would like to submit for possible inclusion in a future issue of the
-newsletter, please send it to the editor at psa@twinearth.wustl.edu.
+newsletter, please send it to the editor at <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>.
 </p>
 <p>
 Directions for subscribing and unsubscribing:
-	<code>Send an email message with NO subject to listserv@kasey.umkc.edu</code>
+	<code>Send an email message with NO subject to <a href="mailto:listserv@kasey.umkc.edu" rel="email">listserv@kasey.umkc.edu</a></code>
 To subscribe, include the following as the ONLY line:
 	<code>SUBSCRIBE PSA-NEWS &lt;your name&gt;</code>
 To unsubscribe, include the following as the ONLY line:
@@ -160,7 +160,7 @@ Address program inquiries and paper submissions to:
      <li class="phone">301-405-5699 (office)</li>
      <li class="phone">301-474-0037 (home)</li>
      <li class="fax">301-405-5690 (fax)</li>
-     <li class="email">email:  darden@umiacs.umd.edu</li>
+     <li class="email">email:  <a href="mailto:darden@umiacs.umd.edu" rel="email">darden@umiacs.umd.edu</a></li>
 </ul>
 <p>
 The Program Committee consists of: Lindley Darden, Chair
@@ -232,7 +232,7 @@ For submissions and inquiries:
      <li class="phone">301-405-5699 (office)</li>
      <li class="phone">301-474-0037 (home)</li>
      <li class="fax">301-405-5690 (fax)</li>
-     <li class="email">email:  darden@umiacs.umd.edu</li>
+     <li class="email">email:  <a href="mailto:darden@umiacs.umd.edu" rel="email">darden@umiacs.umd.edu</a></li>
 </ul>
 <hr />
 <p>

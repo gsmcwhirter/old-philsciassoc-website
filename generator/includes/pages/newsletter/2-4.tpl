@@ -41,7 +41,7 @@ APPOLOGIZE IF YOU DO RECEIVE TWO COPIES.  Bill
 *                       Department of Philosophy                         *
 *                  Washington University in St. Louis                    *
 *									 *
-*	        Send submissions to psa@twinearth.wustl.edu		 *
+*	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>		 *
 *									 *
 **************************************************************************
 </p>
@@ -53,7 +53,7 @@ APPOLOGIZE IF YOU DO RECEIVE TWO COPIES.  Bill
                        Department of Philosophy        <br />
                   Washington University in St. Louis     <br />
 								<br />
-	        Send submissions to psa@twinearth.wustl.edu
+	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>
 </p>
 <p>
 CONTENTS:
@@ -81,7 +81,7 @@ about other meetings likely to be of interest to a broad range of the
 membership.  It is NOT intended for ungoing discussions of intellectual
 topics within philosophy of science.  If you have information that you
 would like to submit for possible inclusion in a future issue of the
-newsletter, please send it to the editor at psa@twinearth.wustl.edu.
+newsletter, please send it to the editor at <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>.
 </p>
 <p>
 Directions for subscribing and unsubscribing:
@@ -107,7 +107,7 @@ from Lindley Darden and Keith Benson.
 </p>
 <p>
 The url for the PSA 1996 is:
-http://www.inform.umd.edu:8080/EdRes/Colleges/ARHU/Depts/chps
+<a href="http://www.inform.umd.edu:8080/EdRes/Colleges/ARHU/Depts/chps" rel="external">http://www.inform.umd.edu:8080/EdRes/Colleges/ARHU/Depts/chps</a>
 This page is provided by the Center for History and Philosophy of Science
 at the University of Maryland, and contains a direct link to the PSA
 pages.  They in turn include a great deal of information about the
@@ -216,7 +216,7 @@ at 12:00 at the PSA meetings in Cleveland.  The focus of the meeting will
 be a "work in progress" session with an informal presentation and subsequent
 discussion.  The draft to be discussed is Warren Schmaus' "Durkheim on the
 function and cause of categories."  Copies of the paper are available in
-advance from Harold Kincaid, arhu046@uabdpo.dpo.uab.edu, Dept. of Philosophy,
+advance from Harold Kincaid, <a href="mailto:arhu046@uabdpo.dpo.uab.edu" rel="email">arhu046@uabdpo.dpo.uab.edu</a>, Dept. of Philosophy,
 UAB, Birmingham, Al 35294
 </p>
 <hr />
@@ -267,7 +267,7 @@ research and the presentation of science to the public?</li>
 </ul>
 <p>
 Abstracts should be less than 500 words and should be submitted
-electronically to Prof. Robert Koons (koons@phil.utexas.edu) in one of the
+electronically to Prof. Robert Koons (<a href="mailto:koons@phil.utexas.edu" rel="email">koons@phil.utexas.edu</a>) in one of the
 following formats:
 </p>
 <ul class="bullets">
@@ -287,13 +287,13 @@ Deadlines:
 Abstracts, papers, and conference information will be posted on our web site:
 </p>
 <p>
-http://www.dla.utexas.edu/depts/philosophy/faculty/koons/ntse/main.html
+<a href="http://www.dla.utexas.edu/depts/philosophy/faculty/koons/ntse/main.html" rel="external">http://www.dla.utexas.edu/depts/philosophy/faculty/koons/ntse/main.html</a>
 </p>
 <p>
 Abstracts and inquiries can be sent to Prof. Robert Koons at:
 </p>
 <p>
-koons@phil.utexas.edu
+<a href="mailto:koons@phil.utexas.edu" rel="email">koons@phil.utexas.edu</a>
 </p>
 <hr />
 <p>
@@ -315,7 +315,7 @@ commission reviews, while the editor is responsible for overall
 organisation and for the final acceptance of material for publication.
 </p>
 <p>
-For more information, please consult: http://www.sct.gu.edu.au/~sctforge/
+For more information, please consult: <a href="http://www.sct.gu.edu.au/~sctforge/" rel="external">http://www.sct.gu.edu.au/~sctforge/</a>
 </p>
 <p style="display: none;">
 ========================= END OF PSA NEWSLETTER ==========================

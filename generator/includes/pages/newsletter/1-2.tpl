@@ -36,7 +36,7 @@
 *                       Department of Philosophy                         *
 *                  Washington University in St. Louis                    *
 *									 *
-*	        Send submissions to psa@twinearth.wustl.edu		 *
+*	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>		 *
 *									 *
 **************************************************************************
 </p>
@@ -48,7 +48,7 @@
                        Department of Philosophy        <br />
                   Washington University in St. Louis     <br />
 								<br />
-	        Send submissions to psa@twinearth.wustl.edu
+	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>
 </p>
 <p>
 CONTENTS:
@@ -73,11 +73,11 @@ about other meetings likely to be of interest to a broad range of the
 membership.  It is NOT intended for ungoing discussions of intellectual
 topics within philosophy of science.  If you have information that you
 would like to submit for possible inclusion in a future issue of the
-newsletter, please send it to the editor at psa@twinearth.wustl.edu.
+newsletter, please send it to the editor at <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>.
 </p>
 <p>
 Directions for subscribing and unsubscribing:
-        <code>Send an email message with NO subject to listserv@kasey.umkc.edu</code>
+        <code>Send an email message with NO subject to <a href="mailto:listserv@kasey.umkc.edu" rel="email">listserv@kasey.umkc.edu</a></code>
 To subscribe, include the following as the ONLY line:
         <code>SUBSCRIBE PSA-NEWS &lt;your name&gt;</code>
 To unsubscribe, include the following as the ONLY line:
@@ -104,7 +104,7 @@ To unsubscribe, include the following as the ONLY line:
     Sciences, are urging their members immediately to contact
     their own representatives and senators regarding this matter.
     More information can be obtained from The Federation: e-mail
-    federation@apa.org; fax (202) 336-6158; telephone (202)
+    <a href="mailto:federation@apa.org" rel="email">federation@apa.org</a>; fax (202) 336-6158; telephone (202)
     336-5920.
 </p>
 <p>

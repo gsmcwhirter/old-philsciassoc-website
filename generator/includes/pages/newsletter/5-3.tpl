@@ -10,7 +10,7 @@
 </p>
 <p class="center">
     Edited for the Philosophy of Science Association by
-    Malcolm Forster, http://philosophy.wisc.edu/forster/
+    Malcolm Forster, <a href="http://philosophy.wisc.edu/forster/" rel="external">http://philosophy.wisc.edu/forster/</a>
 </p>
 <p>
  IN THIS ISSUE:
@@ -41,7 +41,7 @@
     Deadline for submitting Contributed papers: 1 March 2000.
 </p>
 <p>
- Please visit http://scistud.umkc.edu/psa2k/ for further information.
+ Please visit <a href="http://scistud.umkc.edu/psa2k/" rel="external">http://scistud.umkc.edu/psa2k/</a> for further information.
 </p>
 <hr />
 <p>
@@ -56,7 +56,7 @@ social influences of and on information technology.
 </p>
 <p>
 The text of this "Program Solicitation" may be found most readily on
-the World Wide Web, at http://www.nsf.gov/pubs/1999/nsf99167/nsf99167.htm
+the World Wide Web, at <a href="http://www.nsf.gov/pubs/1999/nsf99167/nsf99167.htm" rel="external">http://www.nsf.gov/pubs/1999/nsf99167/nsf99167.htm</a>
 Most generally, "this solicitation requests proposals for fundamental
 research in information technology, encouraging in particular research
 spanning information technology and scientific applications, and in
@@ -112,7 +112,7 @@ topics within philosophy of science.
 </p>
 <p>
 Send information for possible inclusion in a future issue of the
-newsletter to mforster@facstaff.wisc.edu.  Please include PSA somewhere
+newsletter to <a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>.  Please include PSA somewhere
 in the subject title (to aid electronic searches). It should also be noted
 that this is a READ-ONLY service; please do NOT submit material to the list.
 It should be sent to the editor.
@@ -121,7 +121,7 @@ It should be sent to the editor.
  C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-Send an email message to psa@kant.ch.umkc.edu with your command on
+Send an email message to <a href="mailto:psa@kant.ch.umkc.edu" rel="email">psa@kant.ch.umkc.edu</a> with your command on
 the subject line (leave the body of the message blank).
 </p>
 <p>

@@ -11,7 +11,7 @@
 </p>
 <p class="center">
     Edited for the Philosophy of Science Association by
-    Malcolm Forster, http://philosophy.wisc.edu/forster
+    Malcolm Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 </p>
 <p>
  IN THIS ISSUE:
@@ -49,7 +49,7 @@ related interests (e.g. PSA, HSS, ...) to receive copies of the Newsletter
 and to contribute to its pages. Those wishing to receive History of Physics
 Newsletter should write or email Prof. Bill Evenson (Editor), Department of
 Physics and Astronomy, Brigham Young University, Provo, UT 84602-4645,
-evenson@byu.edu. The Forum on History of Physics has about 3,000 members,
+<a href="mailto:evenson@byu.edu" rel="email">evenson@byu.edu</a>. The Forum on History of Physics has about 3,000 members,
 including both historians or philosophers of physics and practicing
 physicists with an interest in history.
 </p>
@@ -77,7 +77,7 @@ address, e-mail, title and abstract. Forms to accompany submission are
 posted on the website noted above.  All session participants must
 preregister by 1 June 2001.  Address inquiries and submit proposals to:
 Douglas Allchin, Program Chair, 2005 Carroll Avenue, St. Paul MN 55104,
-USA; FAX: 612.626.8380; e-mail: Q2001@tc.umn.edu.
+USA; FAX: 612.626.8380; e-mail: <a href="mailto:Q2001@tc.umn.edu" rel="email">Q2001@tc.umn.edu</a>.
 </p>
 <hr />
 <p>
@@ -89,7 +89,7 @@ USA; FAX: 612.626.8380; e-mail: Q2001@tc.umn.edu.
    Scientific Discovery, Technological Innovation, Values (MBR'01),<br />
                   Pavia, Italy, May 17-19, 2001.<br />
          Up-to date information on the conference will be found at<br />
-             http://philos.unipv.it/courses/progra1.html
+             <a href="http://philos.unipv.it/courses/progra1.html" rel="external">http://philos.unipv.it/courses/progra1.html</a>
 </p>
 <p>
 The conference will deal with the logical, epistemological, and
@@ -109,7 +109,7 @@ of an extended abstract (about 1000 words) not later than
 
                 <code>November 30, 2000</code>
 
-to the email adress lmagnani@cc.gatech.edu
+to the email adress <a href="mailto:lmagnani@cc.gatech.edu" rel="email">lmagnani@cc.gatech.edu</a>
 </p>
 <p>
 PROGRAM COMMITTEE
@@ -136,11 +136,11 @@ In order to receive full consideration, send a letter expressing interest
 and current CV by December 15, 2000 to Professor James Griesemer, Chair,
 Search Committee, Science and Technology Studies Program, University of
 California, One Shields Avenue, Davis, CA 95616-8673, USA. TEL:
-530-752-1068, FAX: 530-752-8964, Email: jrgriesemer@ucdavis.edu. The
+530-752-1068, FAX: 530-752-8964, Email: <a href="mailto:jrgriesemer@ucdavis.edu" rel="email">jrgriesemer@ucdavis.edu</a>. The
 position will remain open until filled. Direct informal, confidential
 inquiries to the Search Committee Chair. Direct administrative questions to
 Lesley Byrns (Office Manager) TEL: 530-752-1291; FAX: 530-752-8964; E-mail:
-labyrns@ucdavis.edu.
+<a href="mailto:labyrns@ucdavis.edu" rel="email">labyrns@ucdavis.edu</a>.
 </p>
 <hr />
 <p>
@@ -158,7 +158,7 @@ concentration --the history or the philosophy of science. Deadline:
 January 15, 2001. Women and minorities are especially encouraged to
 apply: AA/EOE. For further information on the Program in History &amp;
 Philosophy of Science at Northwestern, consult
-http://www2.mmlc.nwu.edu/philosophy/HPS.html.
+<a href="http://www2.mmlc.nwu.edu/philosophy/HPS.html." rel="external">http://www2.mmlc.nwu.edu/philosophy/HPS.html.</a>
 </p>
 <hr />
 <p>
@@ -180,7 +180,7 @@ please send an e-mail message requesting addition to the conference
 listserve and/or log onto our web site at
 www1.umn.edu/ships/hpst/2001.  The conference chair is William F.
 McComas of the University of Southern California
-(mailto:mccomas@usc.edu).
+(<a href="mailto:mailto:mccomas@usc.edu" rel="email">mailto:mccomas@usc.edu</a>).
 </p>
 <p style="display: none;">
 ***************************************************************
@@ -207,7 +207,7 @@ discussions of intellectual topics within philosophy of science.
 </p>
 <p>
 Send information for possible inclusion in a future issue of the
-newsletter to mforster@facstaff.wisc.edu.  Please include PSA somewhere
+newsletter to <a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>.  Please include PSA somewhere
 in the subject title (to aid electronic searches). It should also be noted
 that this is a READ-ONLY service; please do NOT submit material to the list.
 It should be sent to the editor.
@@ -216,7 +216,7 @@ It should be sent to the editor.
  C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-Send an email message to psa@scistud.ch.umkc.edu with your command on
+Send an email message to <a href="mailto:psa@scistud.ch.umkc.edu" rel="email">psa@scistud.ch.umkc.edu</a> with your command on
 the subject line (leave the body of the message blank).
 </p>
 <p>

@@ -15,7 +15,7 @@ Edited for the Philosophy of Science Association by
 
 Malcolm Forster,
 
-http://philosophy.wisc.edu/forster
+<a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 
 
 </p>
@@ -29,7 +29,7 @@ http://philosophy.wisc.edu/forster
 <li>CALL FOR PAPERS:  Quantum Information, Epistemological and Logical
 Lessons.
        Lisbon, Portugal, August 29-30, 2005.  Deadline: March 15, 2005.
-http://www.uni-konstanz.de/ppm/events/LisbonPhysics2005/
+<a href="http://www.uni-konstanz.de/ppm/events/LisbonPhysics2005/" rel="external">http://www.uni-konstanz.de/ppm/events/LisbonPhysics2005/</a>
 
 </li>
 <li>NOMINATIONS
@@ -40,7 +40,7 @@ March 25, 2005.
 </li>
 <li>CONFERENCE announcement:  Norms, Reasoning and Knowledge in Technology.
        June 3-4, 2005, Boxmeer, the Netherlands.
-http://www.tm.tue.nl/capaciteitsgroep/aw/philosophy/NiK-conf.html.
+<a href="http://www.tm.tue.nl/capaciteitsgroep/aw/philosophy/NiK-conf.html." rel="external">http://www.tm.tue.nl/capaciteitsgroep/aw/philosophy/NiK-conf.html.</a>
 </li>
 <li>CALL FOR PAPERS:  Interactivist Summer Institute 2005, September 19-23,
 2005.
@@ -50,7 +50,7 @@ USA.
 <li>CONFERENCE: 7th Annual Philosophy of Social Science Roundtable: March
 11-13,
        Barnard College, Columbia University.  PROGRAM available at:
-http://bc.barnard.columbia.edu/~awylie/RoundtableIndex.html
+<a href="http://bc.barnard.columbia.edu/~awylie/RoundtableIndex.html" rel="external">http://bc.barnard.columbia.edu/~awylie/RoundtableIndex.html</a>
 </li>
 </ol>
 <hr />
@@ -61,13 +61,13 @@ PSA LINKS:
 <p>
 PSA website:
 
-http://philosophy.wisc.edu/PSA/ <br />
+<a href="http://philosophy.wisc.edu/PSA/" rel="external">http://philosophy.wisc.edu/PSA/</a> <br />
 Philosophy of Science journal:
 
-http://www.journals.uchicago.edu/PHILSCI/home.html <br />
+<a href="http://www.journals.uchicago.edu/PHILSCI/home.html" rel="external">http://www.journals.uchicago.edu/PHILSCI/home.html</a> <br />
 PhilSci Archives:
 
-http://philsci-archive.pitt.edu/
+<a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>
 </p>
 <p style="display: none;">
 
@@ -115,7 +115,7 @@ Exec. Sec.
 
 </p>
 <p>
-http://www.uni-konstanz.de/ppm/events/LisbonPhysics2005/
+<a href="http://www.uni-konstanz.de/ppm/events/LisbonPhysics2005/" rel="external">http://www.uni-konstanz.de/ppm/events/LisbonPhysics2005/</a>
 </p>
 <p>
 A Special 2-day Workshop
@@ -181,7 +181,7 @@ Rosenberg (1993), Michael Dummett (1994), Lawrence Sklar (1995), Abner Shimony
 
 </p>
 <p>
-http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/lakatos/lakatosaward.htm
+<a href="http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/lakatos/lakatosaward.htm" rel="external">http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/lakatos/lakatosaward.htm</a>
 
 </p>
 <p>
@@ -201,7 +201,7 @@ by any person of recognized standing within the profession.
 <p>
 For further details of the nomination procedure or more information on the
 Lakatos Award 2005, contact Tim Doyle on + 44 (0) 20 7955 7901, or email
-t.b.doyle@lse.ac.uk .
+<a href="mailto:t.b.doyle@lse.ac.uk" rel="email">t.b.doyle@lse.ac.uk</a> .
 </p>
 <p>
 John Worrall<br />
@@ -268,7 +268,7 @@ Reasoning and Knowledge in Technology
 
 </p>
 <p>
-http://www.tm.tue.nl/capaciteitsgroep/aw/philosophy/NiK-conf.html
+<a href="http://www.tm.tue.nl/capaciteitsgroep/aw/philosophy/NiK-conf.html" rel="external">http://www.tm.tue.nl/capaciteitsgroep/aw/philosophy/NiK-conf.html</a>
 </p>
 <p>
 Norms, Reasoning and Knowledge in Technology
@@ -319,7 +319,7 @@ conference.
 <p>
 For more information:
 
-http://www.tm.tue.nl/capaciteitsgroep/aw/philosophy/NiK-conf.html
+<a href="http://www.tm.tue.nl/capaciteitsgroep/aw/philosophy/NiK-conf.html" rel="external">http://www.tm.tue.nl/capaciteitsgroep/aw/philosophy/NiK-conf.html</a>
 
 </p>
 <hr />
@@ -368,7 +368,7 @@ to the sciences of mind are invited to send their paper submission or statement
 of interest for participation to the organizers.
 </p>
 <p>
-http://www.lehigh.edu/~interact/isi2005/index.htm
+<a href="http://www.lehigh.edu/~interact/isi2005/index.htm" rel="external">http://www.lehigh.edu/~interact/isi2005/index.htm</a>
 </p>
 <p>
 Mark H. Bickhard<br />
@@ -401,7 +401,7 @@ of membership).
 </p>
 <p>
 Send information for possible inclusion in a future issue of the newsletter to
-the editor (mforster@wisc.edu).  It is best to send the information directly to
+the editor (<a href="mailto:mforster@wisc.edu" rel="email">mforster@wisc.edu</a>).  It is best to send the information directly to
 the editor as early as possible because publication dates are unpredictable.
 Please include PSA somewhere in the subject line (so that the message is
 automatically filed).
@@ -410,7 +410,7 @@ automatically filed).
  C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-Send an email message to listserv@listserv.umkc.edu
+Send an email message to <a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a>
 with your command as the ONLY body text (leave the subject line blank).
 
  To subscribe, type as the only body text:

@@ -21,7 +21,7 @@ Newsletter: Volume 8 : Number 5: December 2002
 for the Philosophy of Science Association by
 
        Malcolm
- Forster, http://philosophy.wisc.edu/forster
+ Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 </p>
 <p>
 
@@ -44,7 +44,7 @@ Deadline Jan.
 </li>
 <li>CONFERENCE
 on Scientific Evidence, 11-13 April 2003.
-      http://www.jhu.edu/~phil/center/conference.html
+      <a href="http://www.jhu.edu/~phil/center/conference.html" rel="external">http://www.jhu.edu/~phil/center/conference.html</a>
 </li>
 <li>Graduate
 Student CONTEST for 2002.  Deadline: December 31, 2002.
@@ -62,7 +62,7 @@ POSITION:  University
 Dept. of History and Philosophy of Science.
 </li>
 <li>Philosophy
-of Science journal is now ONLINE: http://www.journals.uchicago.edu/PHILSCI/.
+of Science journal is now ONLINE: <a href="http://www.journals.uchicago.edu/PHILSCI/." rel="external">http://www.journals.uchicago.edu/PHILSCI/.</a>
 </li>
 </ol>
 <hr />
@@ -152,19 +152,19 @@ that influence knowledge production and innovations.
 <p>
 
 The program's home page
-is at http://www.nsf.gov/sbe/ses/sdest/;
+is at <a href="http://www.nsf.gov/sbe/ses/sdest/;" rel="external">http://www.nsf.gov/sbe/ses/sdest/;</a>
 check out the links to other related sites and the assistance on
 &quot;Preparing a Proposal, What You Should Know!!!!!!!!&quot;
 </p>
 <p>
 Information about submission procedures and the kinds of awards the program
 makes, including professional development and graduate training efforts, is in
-the program announcement, at http://www.nsf.gov/cgi-bin/getpub?nsf01152.
+the program announcement, at <a href="http://www.nsf.gov/cgi-bin/getpub?nsf01152." rel="external">http://www.nsf.gov/cgi-bin/getpub?nsf01152.</a>
 </p>
 <p>
-You can reach the SDEST program director Rachelle Hollander at rholland@nsf.gov; phone: 703-292-7272.
+You can reach the SDEST program director Rachelle Hollander at <a href="mailto:rholland@nsf.gov" rel="email">rholland@nsf.gov</a>; phone: 703-292-7272.
 Program director John Perhonis handles dissertation
-proposals; he can be reached at  jperhoni@nsf.gov;
+proposals; he can be reached at  <a href="mailto:jperhoni@nsf.gov" rel="email">jperhoni@nsf.gov</a>;
 phone: 703-292-7279.
 
 </p>
@@ -193,8 +193,7 @@ Proposals should identify the collaborating project in the other country,
 explain the value added by transatlantic cooperation, and request coordinated
 review.  For further information on specific submission requirements, US
 researchers should contact Rachelle Hollander, or
-Keith Benson at the STS program; e-mail: kbenson@nsf.gov
-&lt;mailto:kbenson@nsf.gov&gt;; phone:
+Keith Benson at the STS program; e-mail: <a href="mailto:kbenson@nsf.gov" rel="email">kbenson@nsf.gov</a>; phone:
 703-292-7283.  UK
 researchers will find information at www.esrc.ac.uk.
 
@@ -208,20 +207,20 @@ competitions; many occur yearly.  Three areas of special interest to
 researchers investigating issues in science, technology, and society are: Biocomplexity and the Environment, Information Technology, and  Nanotechnology.
 All three can consider research proposals on social dimensions of relevant
 scientific and engineering activities.
-The information technology announcement is at:  &lt;http://www.nsf.gov/pubsys/ods/getpub.cfm?ods_key=nsf02168&gt;.
+The information technology announcement is at:  <a href="http://www.nsf.gov/pubsys/ods/getpub.cfm?ods_key=nsf02168." rel="external">http://www.nsf.gov/pubsys/ods/getpub.cfm?ods_key=nsf02168.</a>
 The relevant contact for research on social and ethical dimensions is James Granato in the Division of Social and Economic Sciences,
-phone: (703) 292-8762; e-mail: jgranato@nsf.gov.  The nanotechnology announcement is at: &lt;http://www.nsf.gov/pubs/2002/nsf02148/nsf02148.htm&gt;,
+phone: (703) 292-8762; e-mail: <a href="mailto:jgranato@nsf.gov" rel="email">jgranato@nsf.gov</a>.  The nanotechnology announcement is at: <a href="http://www.nsf.gov/pubs/2002/nsf02148/nsf02148.htm," rel="external">http://www.nsf.gov/pubs/2002/nsf02148/nsf02148.htm</a>,
 and the relevant contact is Rachelle Hollander in the Division of Social and
-Economic Sciences, phone: (703) 292-7272; e-mail: rholland@nsf.gov .  The most relevant section of the biocomplexity announcement is Coupled  Natural and Human Systems; the
-announcement is at  &lt;http://www.nsf.gov/pubs/2002/nsf02167/nsf02167.htm&gt;.
+Economic Sciences, phone: (703) 292-7272; e-mail: <a href="mailto:rholland@nsf.gov" rel="email">rholland@nsf.gov</a> .  The most relevant section of the biocomplexity announcement is Coupled  Natural and Human Systems; the
+announcement is at  <a href="http://www.nsf.gov/pubs/2002/nsf02167/nsf02167.htm" rel="external">http://www.nsf.gov/pubs/2002/nsf02167/nsf02167.htm</a>.
  The relevant contact for further  information
-about the CNH section is Thomas Baerwald, tbaerwal@nsf.gov , in the Division of
+about the CNH section is Thomas Baerwald, <a href="mailto:tbaerwal@nsf.gov" rel="email">tbaerwal@nsf.gov</a> , in the Division of
 Behavioral &amp; Cognitive Sciences; phone: 703-292-7301.
 </p>
 <p>
 Rachelle D. Hollander, SDEST-EVS&amp;RST, NSF Room 995, 4201 Wilson Blvd., Arlington,
-VA 22230.   703-292-7272 -9068 fax.  rholland@nsf.gov
-,. http://www.nsf.gov/sbe/ses/sdest
+VA 22230.   703-292-7272 -9068 fax.  <a href="mailto:rholland@nsf.gov" rel="email">rholland@nsf.gov</a>
+,. <a href="http://www.nsf.gov/sbe/ses/sdest" rel="external">http://www.nsf.gov/sbe/ses/sdest</a>
 .
 After Oct. 1, 2002,
 all proposals must address both NSF review criteria in the project summary and
@@ -267,7 +266,7 @@ the Center for the History and Philosophy of Science, Johns Hopkins University
 (Homewood Campus), Baltimore, Maryland. For further information, including the
 program and various links to helpful information including email addresses of
 persons to contact, please visit the following Web site:
-http://www.jhu.edu/~phil/center/conference.html
+<a href="http://www.jhu.edu/~phil/center/conference.html" rel="external">http://www.jhu.edu/~phil/center/conference.html</a>
 </p>
 <hr />
 <p>
@@ -288,7 +287,7 @@ eligible.  Previously published papers
 are not eligible unless they are scheduled to appear in Philosophy of Science during
 the calendar year 2002.  Authors are
 encouraged to format their essays in accordance with the Instructions for
-Authors found on the Philosophy of Science web site (see http://www.indiana.edu/~philsci/submit.html).
+Authors found on the Philosophy of Science web site (see <a href="http://www.indiana.edu/~philsci/submit.html" rel="external">http://www.indiana.edu/~philsci/submit.html</a>).
  Authors&#8217; names will be removed and
 the essays will then be judged by a committee of three senior members of PSA.
 
@@ -408,12 +407,12 @@ LINKS:
 <p>
 
 Philosophy
-of Science journal: http://www.journals.uchicago.edu/PHILSCI/home.html<br />
+of Science journal: <a href="http://www.journals.uchicago.edu/PHILSCI/home.html" rel="external">http://www.journals.uchicago.edu/PHILSCI/home.html</a><br />
 
 
 
 PhilSci
-Archives:  http://philsci-archive.pitt.edu/
+Archives:  <a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>
 </p>
 <p style="display: none;">
 
@@ -447,7 +446,7 @@ within philosophy of science.
 <p>
 Send
 information for possible inclusion in a future issue of the newsletter to the
-editor (mforster@facstaff.wisc.edu).  It
+editor (<a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>).  It
 is best to send the information directly to the editor as early as possible
 because publication dates are unpredictable.
 Please include PSA somewhere in the subject line, or title (so that the
@@ -458,7 +457,7 @@ message is automatically filed), together with the deadline.
 </p>
 <p>
 Send
-an email message to psa@scistud.ch.umkc.edu with your command on  the subject line
+an email message to <a href="mailto:psa@scistud.ch.umkc.edu" rel="email">psa@scistud.ch.umkc.edu</a> with your command on  the subject line
 (leave the body of the message blank).
 
 

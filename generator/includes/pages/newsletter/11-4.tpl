@@ -13,37 +13,37 @@ PSA Newsletter: Volume 11 : Number 4: November 2005
 
 Edited for the Philosophy of Science Association by
 
-Malcolm Forster, http://philosophy.wisc.edu/forster
+Malcolm Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 </p>
 <p>
 IN THIS ISSUE:
 </p>
 <ol>
 <li>PSA 2006: CALL for CONTRIBUTED PAPERS. Deadline: March 1, 2006.
-     http://philsci.org/PSA06/
+     <a href="http://philsci.org/PSA06/" rel="external">http://philsci.org/PSA06/</a>
 </li>
 <li>JOB: Dean of Humanities, University of California, Santa Cruz. Deadline: Dec.
 2, 2005.
 </li>
 <li>CALL for Applications: Summer School, Philosophy and Economics, Vienna,
      July 17-28 2006. Deadline:
-January 30, 2006. http://www.univie.ac.at/ivc/VISU
+January 30, 2006. <a href="http://www.univie.ac.at/ivc/VISU" rel="external">http://www.univie.ac.at/ivc/VISU</a>
 </li>
 <li>CALL for Applications: Summer University, Central European University,
 Hungary.
      Summer 2006. Deadline:
-February 14, 2006. http://www.ceu.hu/sun
+February 14, 2006. <a href="http://www.ceu.hu/sun" rel="external">http://www.ceu.hu/sun</a>
 </li>
 <li>POSTDOC: Science in Human Culture, Northwestern University. Deadline: Jan.
 15, 2006.
 </li>
 <li>JOURNAL: ILAR special issue, &quot;Serendipity, Science, and Animals&quot;.
-     http://www.nationalacademies.org/ilarjhome
+     <a href="http://www.nationalacademies.org/ilarjhome" rel="external">http://www.nationalacademies.org/ilarjhome</a>
 </li>
-<li>JOURNAL: L&amp;PS - Logic and Philosophy of Science. http://www.units.it/~episteme/
+<li>JOURNAL: L&amp;PS - Logic and Philosophy of Science. <a href="http://www.units.it/~episteme/" rel="external">http://www.units.it/~episteme/</a>
 </li>
 <li>REMINDER: Symposium and Workshop Proposals, PSA 2006. Deadline: Dec. 1, 2005.
-    http://philsci.org/PSA06/
+    <a href="http://philsci.org/PSA06/" rel="external">http://philsci.org/PSA06/</a>
 </li>
 </ol>
 <hr />
@@ -51,11 +51,11 @@ February 14, 2006. http://www.ceu.hu/sun
 
 PSA LINKS:
 
-PSA 2006: http://philsci.org/PSA06/ <br />
-PSA website: http://philsci.org/ <br />
-Philosophy of Science journal: http://www.journals.uchicago.edu/PHILSCI/home.html<br />
+PSA 2006: <a href="http://philsci.org/PSA06/" rel="external">http://philsci.org/PSA06/</a> <br />
+PSA website: <a href="http://philsci.org/" rel="external">http://philsci.org/</a> <br />
+Philosophy of Science journal: <a href="http://www.journals.uchicago.edu/PHILSCI/home.html" rel="external">http://www.journals.uchicago.edu/PHILSCI/home.html</a><br />
 
-PhilSci Archives: http://philsci-archive.pitt.edu/
+PhilSci Archives: <a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>
 </p>
 <p style="display: none;">
 ***************************************************************
@@ -90,7 +90,7 @@ The maximum manuscript length is 5,000 words, including footnotes and
 references. If the text includes tables or figures, an appropriate number of
 words should be subtracted from the limit. Submissions must include a 100-word
 abstract and a word count. Format and citation style should match those of the
-journal Philosophy of Science (see http://www.indiana.edu/~philsci/submit.html#finalts
+journal Philosophy of Science (see <a href="http://www.indiana.edu/~philsci/submit.html#finalts" rel="external">http://www.indiana.edu/~philsci/submit.html#finalts</a>
 for details). Submissions should be prepared for blind review, with no
 identifying information in the body of the paper or abstract. Your identifying
 information can appear in the body of an e-mail (where the paper is an
@@ -102,7 +102,7 @@ Authors of accepted papers are expected to present abbreviated versions of their
 papers, with a time limit of twenty minutes.
 </p>
 <p>
-Submissions must be electronically submitted at http://philsci.org/PSA06/submit.
+Submissions must be electronically submitted at <a href="http://philsci.org/PSA06/submit." rel="external">http://philsci.org/PSA06/submit.</a>
 </p>
 <p>
 N.B. Any submission accepted for publication in Philosophy of Science will have
@@ -166,7 +166,7 @@ All questions about submissions should be directed to:
 <li>London School of Economics</li>
 <li>London WC2A 2AE</li>
 <li>United Kingdom</li>
-<li class="email">jalex@lse.ac.uk</li>
+<li class="email"><a href="mailto:jalex@lse.ac.uk" rel="email">jalex@lse.ac.uk</a></li>
 </ul>
 <hr />
 <p>
@@ -193,7 +193,7 @@ of a university serving a multi-ethnic state, a demonstrated commitment to
 diversity, and an outstanding record of scholarly achievement that is
 appropriate for appointment as full Professor in the UC system. Detailed
 position description and application information are available at
-http://www2.ucsc.edu/ahr/HumDean.pdf. Review of applications and nominations
+<a href="http://www2.ucsc.edu/ahr/HumDean.pdf." rel="external">http://www2.ucsc.edu/ahr/HumDean.pdf.</a> Review of applications and nominations
 will begin December 2, 2005, and continue until the position is filled. UCSC is
 an EEO/AA employer. Women and minorities are encouraged to apply.
 </p>
@@ -203,7 +203,7 @@ an EEO/AA employer. Women and minorities are encouraged to apply.
 3. CALL for Applications: Summer School, Philosophy and Economics, Vienna,
 </p>
 <p>
-July 17-28 2006. Deadline: January 30, 2006. http://www.univie.ac.at/ivc/VISU
+July 17-28 2006. Deadline: January 30, 2006. <a href="http://www.univie.ac.at/ivc/VISU" rel="external">http://www.univie.ac.at/ivc/VISU</a>
 </p>
 <p>
 VISU Vienna International Summer University
@@ -280,7 +280,7 @@ Michael Stöltzner (Secretary of the PC, Vienna)
 Karoly Kokai (Secretary of the VISU, Vienna)
 </p>
 <p>
-ivc@univie.ac.at
+<a href="mailto:ivc@univie.ac.at" rel="email">ivc@univie.ac.at</a>
 </p>
 <p>
 Philosophy and Economics
@@ -338,7 +338,7 @@ on your previous work. This letter may also be sent directly by your professor.<
 <p>
 Please make sure that all documents arrive in time because we can process only
 complete applications.
-Application form (available on our web site: http://www.univie.ac.at/ivc/VISU)
+Application form (available on our web site: <a href="http://www.univie.ac.at/ivc/VISU" rel="external">http://www.univie.ac.at/ivc/VISU</a>)
 may be sent in advance.
 </p>
 <p>
@@ -369,8 +369,8 @@ Applications should be sent to
 <li class="fax">Fax: +43-1-4277 41297</li>
 </ul>
 <p>
-For further inquiries, please send email to friedrich.stadler@univie.ac.at or
-consult the IVC's Web site http://www.univie.ac.at/ivc/VISU
+For further inquiries, please send email to <a href="mailto:friedrich.stadler@univie.ac.at" rel="email">friedrich.stadler@univie.ac.at</a> or
+consult the IVC's Web site <a href="http://www.univie.ac.at/ivc/VISU" rel="external">http://www.univie.ac.at/ivc/VISU</a>
 </p>
 <hr />
 <p>
@@ -378,7 +378,7 @@ consult the IVC's Web site http://www.univie.ac.at/ivc/VISU
 Hungary.
 </p>
 <p>
-Summer 2006. Deadline: February 14, 2006. http://www.ceu.hu/sun
+Summer 2006. Deadline: February 14, 2006. <a href="http://www.ceu.hu/sun" rel="external">http://www.ceu.hu/sun</a>
 </p>
 <p>
 The CEU Summer University (SUN) program hosts high-level, research-oriented,
@@ -398,10 +398,10 @@ The application deadline is February 14, 2006, unless stated otherwise in the
 announcement of a particular course.
 </p>
 <p>
-For further information applicants can visit our WEB site (http://www.ceu.hu/sun),
+For further information applicants can visit our WEB site (<a href="http://www.ceu.hu/sun" rel="external">http://www.ceu.hu/sun</a>),
 where they can find the application form and the description of each course, or
-contact the SUN office (summeru@ceu.hu), or write to our automatic e-mail
-account to receive an application form (sunreq@ceu.hu). Applicants are
+contact the SUN office (<a href="mailto:summeru@ceu.hu" rel="email">summeru@ceu.hu</a>), or write to our automatic e-mail
+account to receive an application form (<a href="mailto:sunreq@ceu.hu" rel="email">sunreq@ceu.hu</a>). Applicants are
 encouraged to apply online at https://online.ceu.hu/osun and send the
 attachments via regular mail by the application deadline.
 </p>
@@ -434,7 +434,7 @@ letters of recommendation, at least one commenting on teaching qualifications,
 sent directly to the office. Office address: Ms. Barbara Phelan, Program in
 Science in Human Culture, 20 University Hall, Northwestern University, Evanston,
 IL 60208-2245. The due date for all materials is January 15, 2006. The SHC
-website is http://www.shc.northwestern.edu/ Questions about administrative
+website is <a href="http://www.shc.northwestern.edu/" rel="external">http://www.shc.northwestern.edu/</a> Questions about administrative
 matters may be addressed to Ms. Barbara Phelan at b-phelan2@northwestern.edu
 about the content and goals of the program to Ken Alder, program director, at
 k-alder@northwestern.edu. AA/EOE: applications from women and minorities are
@@ -466,7 +466,7 @@ B. INSTRUCTIONS FOR SUBMISSIONS
 </p>
 <p>
 Send information for possible inclusion in a future issue of the newsletter to
-the editor (mforster@wisc.edu). It is best to send the information directly to
+the editor (<a href="mailto:mforster@wisc.edu" rel="email">mforster@wisc.edu</a>). It is best to send the information directly to
 the editor as early as possible because publication dates are unpredictable.
 Please include PSA somewhere in the subject line (so that the message is
 automatically filed).
@@ -475,17 +475,17 @@ automatically filed).
 C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-Send an email message to listserv@listserv.umkc.edu with your command as the
+Send an email message to <a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a> with your command as the
 ONLY body text (leave the subject line blank).
 
 To subscribe, type as the only body text:
 
 <code>subscribe psa</code>
 
-To be removed from this mailing list, please go to &lt;http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1&gt;
-or send an email message to the address listserv@listserv.umkc.edu, with the
+To be removed from this mailing list, please go to <a href="http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1" rel="external">http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1</a>
+or send an email message to the address <a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a>, with the
 text <code>SIGNOFF PSA</code> in the body of the message.
 
-Problems or questions should be directed to manager@listserv.umkc.edu.
+Problems or questions should be directed to <a href="mailto:manager@listserv.umkc.edu" rel="email">manager@listserv.umkc.edu</a>.
 </p>
 <hr />

@@ -19,7 +19,7 @@
  Edited for the Philosophy of Science
 Association by
 
- Malcolm Forster, http://philosophy.wisc.edu/forster
+ Malcolm Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 </p>
 <p>
 IN THIS ISSUE:
@@ -37,7 +37,7 @@ quantum structures to other field of reality than the micro-world, focused
 mostly on situations in cognition and biology, but also philosophical aspects
 of this research will be considered.
 Details about the projects and the way to apply can be found at the
-address: http://www.vub.ac.be/CLEA/joboffers/</li>
+address: <a href="http://www.vub.ac.be/CLEA/joboffers/" rel="external">http://www.vub.ac.be/CLEA/joboffers/</a></li>
 
 
 
@@ -53,8 +53,8 @@ website www.mpiwg-berlin.mpg.de/EVENTS.HTM</li>
 QUICK LINKS:
 </p>
 <p>
-The PhilSci Archives: http://philsci-archive.pitt.edu/<br />
-The Philosophy of Science Association: http://scistud.umkc.edu/psa/
+The PhilSci Archives: <a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a><br />
+The Philosophy of Science Association: <a href="http://scistud.umkc.edu/psa/" rel="external">http://scistud.umkc.edu/psa/</a>
 </p>
 <hr />
 <p style="display: none;">
@@ -163,7 +163,7 @@ Learning</li>
 <li>Pittsburgh,
  PA 15260</li>
 
-<li class="email">psa2002@pitt.edu</li>
+<li class="email"><a href="mailto:psa2002@pitt.edu" rel="email">psa2002@pitt.edu</a></li>
 </ul>
 <p style="display: none;">
 
@@ -204,7 +204,7 @@ B. INSTRUCTIONS FOR SUBMISSIONS
 Send information for possible inclusion in a
 future issue of the newsletter to
 the editor
-(mforster@facstaff.wisc.edu). IT IS BEST
+(<a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>). IT IS BEST
 to send the information
 directly to the
 editor AS EARLY AS POSSIBLE because publication dates are
@@ -218,7 +218,7 @@ C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
 Send an email message to
-psa@scistud.ch.umkc.edu with your command on
+<a href="mailto:psa@scistud.ch.umkc.edu" rel="email">psa@scistud.ch.umkc.edu</a> with your command on
 the subject line
 (leave the body of the message blank).
 To subscribe, type on the subject line:

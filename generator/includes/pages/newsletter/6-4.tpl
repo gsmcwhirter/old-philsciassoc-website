@@ -11,7 +11,7 @@
 </p>
 <p class="center">
     Edited for the Philosophy of Science Association by
-    Malcolm Forster, http://philosophy.wisc.edu/forster
+    Malcolm Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 </p>
 <p>
  IN THIS ISSUE:
@@ -77,7 +77,7 @@ available; please contact the program to discuss the guidelines governing
 such proposals. The program also supports efforts designed to expand the
 research experiences of undergraduates (REU).  Detailed information on all
 of these activities, program guidelines, and application materials can be
-found at the Program's website (http://www.nsf.gov/sbe/ses/sts/start.htm).
+found at the Program's website (<a href="http://www.nsf.gov/sbe/ses/sts/start.htm" rel="external">http://www.nsf.gov/sbe/ses/sts/start.htm</a>).
 The next target date for the submission of proposals is 1 February 2001.
 The Program is eager to see more proposals from philosophers working on
 topics within the STS umbrella.  Please contact the Program with questions
@@ -96,7 +96,7 @@ information for decision making concerning management and direction of
 research, science, and technology."  SDEST Program Director Rachelle D.
 Hollander often collaborates with the STS Program in co-funding projects
 related to ethics.  For more information, see the SDEST webpage:
-http://www.nsf.gov/sbe/ses/sdest/start.htm
+<a href="http://www.nsf.gov/sbe/ses/sdest/start.htm" rel="external">http://www.nsf.gov/sbe/ses/sdest/start.htm</a>
 </p>
 <p>
 Other opportunities that many STS scholars do not often know about are found
@@ -111,7 +111,7 @@ expand connections to the lesser developed nations, particularly in Africa.
 STS scholars can obtain INT funding to supplement a regular award, or can
 apply directly to INT.  For more information, see the INT web page,
 especially the anouncement International Opportunities for Scientists and
-Engineers, NSF 00-138:   http://www.nsf.gov/sbe/int/start.htm
+Engineers, NSF 00-138:   <a href="http://www.nsf.gov/sbe/int/start.htm" rel="external">http://www.nsf.gov/sbe/int/start.htm</a>
 </p>
 <p>
 In recent years,the NSF has focused funds on special research initiatives of
@@ -125,7 +125,7 @@ are focused on specific research topics of potentially great importance.
 These tend to have a three-year life, and provide special resources.  STS
 scholars are encouraged to propsoe projects for funding.  Information about
 all cross-cutting programs of  NSF can be accessed at:
-http://www.nsf.gov/home/crssprgm/
+<a href="http://www.nsf.gov/home/crssprgm/" rel="external">http://www.nsf.gov/home/crssprgm/</a>
 </p>
 <p>
 The most current research initiatives are Nanoscale Science and Engineering
@@ -134,7 +134,7 @@ for Nanotechnology area, but scholars interested in the social, political,
 historical, and  societal impacts aspects of nanotechnology should watch for
 the next announcement.  The initiative specifically seeks to fund work in
 these areas.  See the website at
-http://www.nsf.gov/home/crssprgm/nano/start.htm
+<a href="http://www.nsf.gov/home/crssprgm/nano/start.htm" rel="external">http://www.nsf.gov/home/crssprgm/nano/start.htm</a>
 </p>
 <p>
 It is not too late, however, to seek funding from the largest current
@@ -155,7 +155,7 @@ Infrastructure. Designated topics include:
 The deadline for receipt of proposals seeking less than $500,000 from ITR is
 January 22-24, 2001.  With a total initiative budget of $215 million for
 2000-2001, I'd like to see a strong group of STS proposals in the
-competition.  The details can be found at  http://www.itr.nsf.gov/.
+competition.  The details can be found at  <a href="http://www.itr.nsf.gov/." rel="external">http://www.itr.nsf.gov/.</a>
 Moreover, individuals willing to serve on panels evaluate the proposals
 should consult the web page and complete an application (see the top of that
 page).
@@ -179,7 +179,7 @@ scholars may apply for a waiver, but everyone else must use the new system.
 This requires, however, that proposals be translated into PDF files in order
 to maintain formatting.  Fortunately, NSF soon will translate Word,
 WordPerfect, or other formats into PDF. All these steps are spelled out on
-the FASTLANE web site:  http://www.fastlane.nsf.gov. Usually the process
+the FASTLANE web site:  <a href="http://www.fastlane.nsf.gov." rel="external">http://www.fastlane.nsf.gov.</a> Usually the process
 works smoothly.  And FASTLANE does allow much more rapid transmission of
 copies at much lower cost and with substantial savings in paper.  Moreover,
 once you have received an award, it will be a little easier to handle
@@ -256,8 +256,8 @@ National Science Foundation
 Arlington, VA  22230
 phone: 703/292-8763
 FAX: 703/292-9068
-email:  bseely@nsf.gov OR jperhoni@nsf.gov
-website:  http://www.nsf.gov/sbe/ses/sts/start.htm
+email:  <a href="mailto:bseely@nsf.gov" rel="email">bseely@nsf.gov</a> OR <a href="mailto:jperhoni@nsf.gov" rel="email">jperhoni@nsf.gov</a>
+website:  <a href="http://www.nsf.gov/sbe/ses/sts/start.htm" rel="external">http://www.nsf.gov/sbe/ses/sts/start.htm</a>
 </pre>
 <hr />
 <p>
@@ -319,9 +319,9 @@ for research productivity and outcomes are important.
 </p>
 <p>
 The SDEST announcement (NSF99-82) can be accessed at
-http://www.nsf.gov:80/cgi-bin/getpub?nsf9982; suggestions for applicants and
+<a href="http://www.nsf.gov:80/cgi-bin/getpub?nsf9982;" rel="external">http://www.nsf.gov:80/cgi-bin/getpub?nsf9982;</a> suggestions for applicants and
 information about prior awards are available at
-http://www.nsf.gov/sbe/ses/sdest/start.htm.
+<a href="http://www.nsf.gov/sbe/ses/sdest/start.htm." rel="external">http://www.nsf.gov/sbe/ses/sdest/start.htm.</a>
 </p>
 <hr />
 <p>
@@ -343,7 +343,7 @@ perspectives from both life sciences and history/philosophy/social
 sciences, and (3) teaching and research experience or potential.  We
 particularly encourage candidates with professional interests and
 experience in ethical issues in biology and who will complement our
-existing programs (http://lsvl.la.asu.edu/biosoc/).
+existing programs (<a href="http://lsvl.la.asu.edu/biosoc/" rel="external">http://lsvl.la.asu.edu/biosoc/</a>).
 </p>
 <p>
 Please submit: a curriculum vitae that includes details of past teaching
@@ -406,7 +406,7 @@ discussions of intellectual topics within philosophy of science.
 </p>
 <p>
 Send information for possible inclusion in a future issue of the
-newsletter to mforster@facstaff.wisc.edu.  Please include PSA somewhere
+newsletter to <a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>.  Please include PSA somewhere
 in the subject title (to aid electronic searches). It should also be noted
 that this is a READ-ONLY service; please do NOT submit material to the list.
 It should be sent to the editor.
@@ -415,7 +415,7 @@ It should be sent to the editor.
  C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-Send an email message to psa@scistud.ch.umkc.edu with your command on
+Send an email message to <a href="mailto:psa@scistud.ch.umkc.edu" rel="email">psa@scistud.ch.umkc.edu</a> with your command on
 the subject line (leave the body of the message blank).
 </p>
 <p>

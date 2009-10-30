@@ -30,7 +30,7 @@ October 1, 2006.</li>
 Congress of Logic, Methodology and Philosophy of
 Science,
  Beijing, August, 2007.
-http://www.clmps2007.org
+<a href="http://www.clmps2007.org" rel="external">http://www.clmps2007.org</a>
 Deadline: March 10, 2007.</li>
 
 <li>CALL for Abstracts: Second Perspectives on
@@ -38,14 +38,14 @@ Mathematical Practices conference, March 26 - 28,
 2007,
  Vrije Universiteit,
 Brussels, Belgium.
-http://www.vub.ac.be/CLWF/PMP2007
+<a href="http://www.vub.ac.be/CLWF/PMP2007" rel="external">http://www.vub.ac.be/CLWF/PMP2007</a>
 Deadline: Nov. 15, 2006.</li>
 
 <li>CALL for Papers: Ninth Annual Philosophy of Social
 Science Roundtable, University of South Florida,
  Tampa, March 23-25,
 2007.
-http://philosophy.ucsc.edu/Roundtable.html
+<a href="http://philosophy.ucsc.edu/Roundtable.html" rel="external">http://philosophy.ucsc.edu/Roundtable.html</a>
 Deadline: December 15, 2006.</li>
 
 <li>JOB: Tenure Track Position in Political
@@ -57,7 +57,7 @@ Deadline: October 15, 2006.</li>
 <li>FELLOWSHIP: Institute for
 Advanced Study, Princeton NJ, School of Historical Studies Memberships
  2007-2008.
-http://www.hs.ias.edu
+<a href="http://www.hs.ias.edu" rel="external">http://www.hs.ias.edu</a>
 Deadline: November 15, 2006.</li>
 
 <li>LAKATOS AWARD: The 2005 award went to
@@ -70,7 +70,7 @@ University Press, 2003).</li>
 Concepts Objectivity: Knowledge, Science, Values.
 University of Pittsburgh,
  September 22-24, 2006.
-http://www.pitt.edu/~hpsdept/news/news/ConceptsObjConf2006.pdf</li>
+<a href="http://www.pitt.edu/~hpsdept/news/news/ConceptsObjConf2006.pdf" rel="external">http://www.pitt.edu/~hpsdept/news/news/ConceptsObjConf2006.pdf</a></li>
 
 <li>Nancy J. Nersessian has been elected a Foreign
 Member of the Royal Netherlands Academy of Arts
@@ -81,10 +81,10 @@ Member of the Royal Netherlands Academy of Arts
 PSA LINKS:
 </p>
 <p>
-PSA 2006: http://philsci.org/PSA06/<br />
-PSA website: http://philsci.org/ <br />
-Philosophy of Science journal: http://www.journals.uchicago.edu/PHILSCI/home.html<br />
-PhilSci Archives: http://philsci-archive.pitt.edu/
+PSA 2006: <a href="http://philsci.org/PSA06/" rel="external">http://philsci.org/PSA06/</a><br />
+PSA website: <a href="http://philsci.org/" rel="external">http://philsci.org/</a> <br />
+Philosophy of Science journal: <a href="http://www.journals.uchicago.edu/PHILSCI/home.html" rel="external">http://www.journals.uchicago.edu/PHILSCI/home.html</a><br />
+PhilSci Archives: <a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a>
 </p>
 <p style="display: none;">
 *********************************************************************
@@ -213,7 +213,7 @@ and Social Science (CPNSS).
 <p>
 Conference website:
 
-http://www.lse.ac.uk/collections/CPNSS/events/Conferences/ConfirmationInductionandScience/Confirmation2007.htm
+<a href="http://www.lse.ac.uk/collections/CPNSS/events/Conferences/ConfirmationInductionandScience/Confirmation2007.htm" rel="external">http://www.lse.ac.uk/collections/CPNSS/events/Conferences/ConfirmationInductionandScience/Confirmation2007.htm</a>
 </p>
 <p>
 Deadline for submissions: 1 October 2006
@@ -274,7 +274,7 @@ Association.
 Congress of Logic, Methodology and Philosophy of
 Science,
  Beijing, August, 2007.
-http://www.clmps2007.org
+<a href="http://www.clmps2007.org" rel="external">http://www.clmps2007.org</a>
 Deadline: March 10, 2007.
 </p>
 <p>
@@ -282,7 +282,7 @@ The 13th International Congress of Logic, Methodology and Philosophy of
 Science will take place on August 9-15, 2007,
 at Tsinghua University (Beijing, China). The
 conference website it
-http://www.clmps2007.org.
+<a href="http://www.clmps2007.org." rel="external">http://www.clmps2007.org.</a>
 </p>
 <p>
 The International Congress of Logic Methodology and Philosophy of
@@ -345,16 +345,16 @@ methodology and philosophy of science, and friends to participate.
 Detailed and updated information on the Congress procedures and precise
 directions for the submission of contributions are on the website of the
 13th Congress:
-http://www.clmps2007.org. Further circulars will be
+<a href="http://www.clmps2007.org." rel="external">http://www.clmps2007.org.</a> Further circulars will be
 provided.
 </p>
 <p>
 For instructions regarding Chinese visa applications, please contact the
 Embassy of P.R. China or the nearest Consulate of China (e.g. the
 website of the Embassy of China in USA is
-http://www.china-embassy.org/eng/
+<a href="http://www.china-embassy.org/eng/" rel="external">http://www.china-embassy.org/eng/</a>
 and in UK
-http://www.chinese-embassy.org.uk/eng/).
+<a href="http://www.chinese-embassy.org.uk/eng/" rel="external">http://www.chinese-embassy.org.uk/eng/</a>).
 </p>
 <p>
 Queries should be directed to LOC of the 13th Congress,
@@ -362,7 +362,7 @@ Institute of Science, Technology and Society,
 Tsinghua University, Beijing, 100084 China.
 </p>
 <p>
-Email: lmps2007@tsinghua.edu.cn
+Email: <a href="mailto:lmps2007@tsinghua.edu.cn" rel="email">lmps2007@tsinghua.edu.cn</a>
 Fax: +86 10 6278 7568
 </p>
 <hr />
@@ -372,7 +372,7 @@ Mathematical Practices conference, March 26 - 28,
 2007,
  Vrije Universiteit,
 Brussels, Belgium.
-http://www.vub.ac.be/CLWF/PMP2007.
+<a href="http://www.vub.ac.be/CLWF/PMP2007." rel="external">http://www.vub.ac.be/CLWF/PMP2007.</a>
 Deadline: Nov. 15, 2006.
 </p>
 <p>
@@ -405,7 +405,7 @@ Deadline for abstracts: 15 November 2006.
 </p>
 <p>
 For more and detailed information, visit
-http://www.vub.ac.be/CLWF/PMP2007
+<a href="http://www.vub.ac.be/CLWF/PMP2007" rel="external">http://www.vub.ac.be/CLWF/PMP2007</a>
 </p>
 <hr />
 <p>
@@ -415,7 +415,7 @@ Science Roundtable, University of South Florida,
 2007.
 </p>
 <p>
-http://philosophy.ucsc.edu/Roundtable.html
+<a href="http://philosophy.ucsc.edu/Roundtable.html" rel="external">http://philosophy.ucsc.edu/Roundtable.html</a>
 Deadline: December 15, 2006.
 </p>
 <p>
@@ -431,16 +431,16 @@ Send a one-page abstract to any of the organizers by December 15, 2006:
 </p>
 <p>
 Stephen Turner: Department of Philosophy, University of South Florida
-Tampa, FL 33620 &lt;turner@chuma.cas.usf.edu&gt;
+Tampa, FL 33620 <a href="mailto:turner@chuma.cas.usf.edu" rel="email">turner@chuma.cas.usf.edu</a>
 James Bohman: Department of Philosophy, Saint Louis University,
-3800 Lindell Blvd., St. Louis, MO 63156-0907 &lt;bohmanjf@slu.edu&gt;.
+3800 Lindell Blvd., St. Louis, MO 63156-0907 <a href="mailto:bohmanjf@slu.edu" rel="email">bohmanjf@slu.edu</a>.
 Paul Roth: Department of Philosophy, University of California - Santa Cruz,
-1156 High Street, Santa Cruz, CA 95064 &lt;paroth@ucsc.edu&gt;
+1156 High Street, Santa Cruz, CA 95064 <a href="mailto:paroth@ucsc.edu" rel="email">paroth@ucsc.edu</a>
 Alison Wylie: Department of Philosophy, University of Washington,
-Box 353350, Seattle, WA 98195 &lt;aw26@u.washington.edu&gt;
+Box 353350, Seattle, WA 98195 <a href="mailto:aw26@u.washington.edu" rel="email">aw26@u.washington.edu</a>
 </p>
 <p>
-For details, see the Roundtable website: http://philosophy.ucsc.edu/Roundtable.html
+For details, see the Roundtable website: <a href="http://philosophy.ucsc.edu/Roundtable.html" rel="external">http://philosophy.ucsc.edu/Roundtable.html</a>
 </p>
 <hr />
 <p>
@@ -499,7 +499,7 @@ disabilities have the right to request and receive reasonable accommodation.
 8. FELLOWSHIP: Institute for
 Advanced Study, Princeton NJ, School of Historical Studies Memberships
  2007-2008.
-http://www.hs.ias.edu
+<a href="http://www.hs.ias.edu" rel="external">http://www.hs.ias.edu</a>
 Deadline: November 15, 2006.
 </p>
 <p>
@@ -519,7 +519,7 @@ and substantial publications are required. Information and application forms for
 this and other programs may be found on the School's
 web site, www.hs.ias.edu,
 or contact the School of Historical Studies, Institute for Advanced Study,
-Einstein Dr., Princeton, N.J. 08540 (E-mail address: mzelazny@ias.edu).
+Einstein Dr., Princeton, N.J. 08540 (E-mail address: <a href="mailto:mzelazny@ias.edu" rel="email">mzelazny@ias.edu</a>).
 Deadline: 15 November 2006.
 </p>
 <p style="display: none;">
@@ -546,7 +546,7 @@ B. INSTRUCTIONS FOR SUBMISSIONS
 </p>
 <p>
 Send information for possible inclusion in a future issue of the newsletter to
-the editor (mforster@wisc.edu). It is best to send the information directly to
+the editor (<a href="mailto:mforster@wisc.edu" rel="email">mforster@wisc.edu</a>). It is best to send the information directly to
 the editor well in advance of any deadline because publication dates are
 unpredictable. Please include PSA somewhere in the subject line (so that the
 message is automatically filed).
@@ -555,16 +555,16 @@ message is automatically filed).
 C. DIRECTIONS FOR SUBSCRIBING OR UNSUBSCRIBING
 </p>
 <p>
-Send an email message to listserv@listserv.umkc.edu with your command as the
+Send an email message to <a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a> with your command as the
 ONLY body text (leave the subject line blank).
 To subscribe, type as the only body text:
 <code>subscribe psa</code>
 To be removed from this mailing list, please go to
-&lt;http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1&gt;
-or send an email message to the address listserv@listserv.umkc.edu, with the
+<a href="http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1" rel="external">http://listserv.umkc.edu/listserv/wa.exe?SUBED1=PSA&amp;A=1</a>
+or send an email message to the address <a href="mailto:listserv@listserv.umkc.edu" rel="email">listserv@listserv.umkc.edu</a>, with the
 text <code>SIGNOFF PSA</code> in the body of the message.
 </p>
 <p>
-Problems or questions should be directed to manager@listserv.umkc.edu.
+Problems or questions should be directed to <a href="mailto:manager@listserv.umkc.edu" rel="email">manager@listserv.umkc.edu</a>.
 </p>
 <hr />

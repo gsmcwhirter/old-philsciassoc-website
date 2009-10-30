@@ -36,7 +36,7 @@
 *                       Department of Philosophy                         *
 *                  Washington University in St. Louis                    *
 *									 *
-*	        Send submissions to psa@twinearth.wustl.edu		 *
+*	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>		 *
 *									 *
 **************************************************************************
 </p>
@@ -48,7 +48,7 @@
                        Department of Philosophy        <br />
                   Washington University in St. Louis     <br />
 								<br />
-	        Send submissions to psa@twinearth.wustl.edu
+	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>
 </p>
 <p>
 CONTENTS:
@@ -73,11 +73,11 @@ about other meetings likely to be of interest to a broad range of the
 membership.  It is NOT intended for ungoing discussions of intellectual
 topics within philosophy of science.  If you have information that you
 would like to submit for possible inclusion in a future issue of the
-newsletter, please send it to the editor at psa@twinearth.wustl.edu.
+newsletter, please send it to the editor at <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>.
 </p>
 <p>
 Directions for subscribing and unsubscribing:
-		<code>Send an emailmessage with NO subject to listserv@kasey.umkc.edu</code>
+		<code>Send an emailmessage with NO subject to <a href="mailto:listserv@kasey.umkc.edu" rel="email">listserv@kasey.umkc.edu</a></code>
 To subscribe, include the following as the ONLY line:
         <code>SUBSCRIBE PSA-NEWS &lt;your name&gt;</code>
 To unsubscribe, include the following as the ONLY line:
@@ -137,7 +137,7 @@ Address program inquiries and paper submissions to:
      <li class="phone">301-405-5699 (office)</li>
      <li class="phone">301-474-0037 (home)</li>
      <li class="fax">301-405-5690 (fax)</li>
-     <li class="email">email:  darden@umiacs.umd.edu</li>
+     <li class="email">email:  <a href="mailto:darden@umiacs.umd.edu" rel="email">darden@umiacs.umd.edu</a></li>
 </ul>
 <p>
 The Program Committee consists of: Lindley Darden, Chair
@@ -159,7 +159,7 @@ Robert Brown (University of Toronto) will deliver three public lectures,
 "Pictures and Proofs," at Purdue on February 20, 21, and 22.  These
 lectures are made possible by a grant from the Franklin J. Matchette
 Foundation.  For further information, phone 317-494-4275 or send email to
-curd@sage.cc.purdue.edu.
+<a href="mailto:curd@sage.cc.purdue.edu" rel="email">curd@sage.cc.purdue.edu</a>.
 </p>
 <hr />
 <p>
@@ -248,7 +248,7 @@ Artif.Intell.; 25(3), 1985]:
 If you intend to make a submission, please send a brief description
 well before the deadline to Raul Valdes-Perez (Computer Science
 Department; Carnegie Mellon University; Pittsburgh, PA 15213; USA).
-Email to valdes@cs.cmu.edu is preferred.
+Email to <a href="mailto:valdes@cs.cmu.edu" rel="email">valdes@cs.cmu.edu</a> is preferred.
 </p>
 <p style="display: none;">
 ========================= END OF PSA NEWSLETTER ==========================

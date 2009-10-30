@@ -10,18 +10,18 @@ Newsletter: Volume 8 : Number 2: March 2002
 ***************************************************************
 </p>
 <p class="center">
-Edited for the Philosophy of Science Association by Malcolm Forster, http://philosophy.wisc.edu/forster
+Edited for the Philosophy of Science Association by Malcolm Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 </p>
 <p>
 IN THIS ISSUE:
 </p>
 <ol>
 <li>Workshop on the Mathematization
-of Nature:  April 12-13, 2002 http://www.indiana.edu/~hpscdept/workshop.html
+of Nature:  April 12-13, 2002 <a href="http://www.indiana.edu/~hpscdept/workshop.html" rel="external">http://www.indiana.edu/~hpscdept/workshop.html</a>
 </li>
-<li>Call for papers:  Popper Centenary Conference, University of Canterbury, Christchurch, 12-14 July, 2002:  http://www.phil.canterbury.ac.nz/
+<li>Call for papers:  Popper Centenary Conference, University of Canterbury, Christchurch, 12-14 July, 2002:  <a href="http://www.phil.canterbury.ac.nz/" rel="external">http://www.phil.canterbury.ac.nz/</a>
 </li>
-<li>New Journal:  Eighteenth-Century Thought. http://www.eighteenthcenturythought.org
+<li>New Journal:  Eighteenth-Century Thought. <a href="http://www.eighteenthcenturythought.org" rel="external">http://www.eighteenthcenturythought.org</a>
 </li>
 <li>Employment Opportunity: Program Director for Science and
 Technology Studies, U.S. National Science Foundation (NSF)
@@ -33,8 +33,8 @@ Technology Studies, U.S. National Science Foundation (NSF)
 QUICK LINKS:
 </p>
 <p>
-The PhilSci Archives:  http://philsci-archive.pitt.edu/<br />
-The Philosophy of Science Association:  http://scistud.umkc.edu/psa/
+The PhilSci Archives:  <a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a><br />
+The Philosophy of Science Association:  <a href="http://scistud.umkc.edu/psa/" rel="external">http://scistud.umkc.edu/psa/</a>
 </p>
 <hr />
 <p>
@@ -52,7 +52,7 @@ Mark Wilson (Pittsburgh), Jordi Cat (Indiana), Andrew Warwick (Imperial
 Michael Dickson (Indiana), and Juergen Renn (Max Planck
 Institute, Berlin). The
 discussions will be in various historical contexts, from the 17th to the 20th
-centuries. All are invited. For more information, please visit  http://www.indiana.edu/~hpscdept/workshop.html
+centuries. All are invited. For more information, please visit  <a href="http://www.indiana.edu/~hpscdept/workshop.html" rel="external">http://www.indiana.edu/~hpscdept/workshop.html</a>
 </p>
 <hr />
 <p>
@@ -67,7 +67,7 @@ Private Bag 4800, Ilam, Christchurch, New
  Zealand. Keynote speakers include:
 Alan Chalmers, Anthony O'Hear, Peter Munz, Alan Musgrave, Alan Ryan, Jeremy Shearmur,
 Helmut Spinner.
-Further information obtainable via the conference button at:  http://www.phil.canterbury.ac.nz/
+Further information obtainable via the conference button at:  <a href="http://www.phil.canterbury.ac.nz/" rel="external">http://www.phil.canterbury.ac.nz/</a>
 </p>
 <hr />
 <p>
@@ -100,7 +100,7 @@ Editor, Eighteenth-Century Thought, Department of Philosophy, University
  of Missouri, St.
  Louis, 8001
  Natural Bridge Road, St. Louis, MO
- 63121. Web site: http://www.eighteenthcenturythought.org
+ 63121. Web site: <a href="http://www.eighteenthcenturythought.org" rel="external">http://www.eighteenthcenturythought.org</a>
 </p>
 <hr />
 <p>
@@ -144,12 +144,12 @@ institutions.
       Please direct inquiries and expressions
 of interest to Dr. Daniel H. Newlon, Acting Division
 Director of the Division of Social and Economic Sciences, phone: (703)
-292-8761; e-mail: dnewlon@nsf.gov;
+292-8761; e-mail: <a href="mailto:dnewlon@nsf.gov" rel="email">dnewlon@nsf.gov</a>;
 or Dr. Bruce Seely, Program Director, Science and Technology
-Studies, phone: (703) 292-8763, e-mail: bseely@nsf.gov;
+Studies, phone: (703) 292-8763, e-mail: <a href="mailto:bseely@nsf.gov" rel="email">bseely@nsf.gov</a>;
 or Mrs. Bonney Sheahan,
 coordinator of the cluster housing the STS program, phone: (703) 292-8764, or
-e-mail: bsheahan@nsf.gov. All are
+e-mail: <a href="mailto:bsheahan@nsf.gov" rel="email">bsheahan@nsf.gov</a>. All are
 located in Suite 995,
 National Science Foundation, 4201 Wilson Blvd.,
  Arlington, VA 22230,
@@ -216,7 +216,7 @@ within philosophy of science.
 <p>
 Send information for
 possible inclusion in a future issue of the newsletter to the editor
-(mforster@facstaff.wisc.edu).  IT IS BEST
+(<a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>).  IT IS BEST
 to send the information directly to the editor AS EARLY AS POSSIBLE because
 publication dates are unpredictable.
 Please include PSA somewhere in the subject line,
@@ -228,7 +228,7 @@ deadline.
 </p>
 <p>
 Send an email message to
-psa@kant.ch.umkc.edu with your command on  the subject line (leave the body of
+<a href="mailto:psa@kant.ch.umkc.edu" rel="email">psa@kant.ch.umkc.edu</a> with your command on  the subject line (leave the body of
 the message blank).
  To subscribe, type on the subject line:
  <code>SUBSCRIBE &lt;your name&gt;</code>

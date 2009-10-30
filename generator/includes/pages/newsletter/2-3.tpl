@@ -37,7 +37,7 @@
 *                  Washington University in St. Louis                    *
 *									 *
 
-*	        Send submissions to psa@twinearth.wustl.edu		 *
+*	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>		 *
 *									 *
 **************************************************************************
 </p>
@@ -49,7 +49,7 @@
                        Department of Philosophy        <br />
                   Washington University in St. Louis     <br />
 								<br />
-	        Send submissions to psa@twinearth.wustl.edu
+	        Send submissions to <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>
 </p>
 <p>
 CONTENTS:
@@ -78,7 +78,7 @@ about other meetings likely to be of interest to a broad range of the
 membership).  It is NOT intended for ungoing discussions of intellectual
 topics within philosophy of science.  If you have information that you
 would like to submit for possible inclusion in a future issue of the
-newsletter, please send it to the editor at psa@twinearth.wustl.edu.
+newsletter, please send it to the editor at <a href="mailto:psa@twinearth.wustl.edu" rel="email">psa@twinearth.wustl.edu</a>.
 PLEASE KEEP SUBMISSIONS SHORT--1-2 COMPUTER SCREENS MAXIMUM.
 </p>
 <p>
@@ -100,7 +100,7 @@ Web site and clicking on the PSA96 button.  Please note the date of
 the version you view, because minor items are still changing.
 </p>
 <p>
-http://www.inform.umd.edu:8080/EdRes/Colleges/ARHU/Depts/chps
+<a href="http://www.inform.umd.edu:8080/EdRes/Colleges/ARHU/Depts/chps" rel="external">http://www.inform.umd.edu:8080/EdRes/Colleges/ARHU/Depts/chps</a>
 </p>
 <hr />
 <p>
@@ -183,8 +183,8 @@ Induction?</li>
 <li>Paul Vitanyi    &ndash; Kolmogorov Complexity &amp; Applications</li>
 </ul>
 <p>
-See:  http://www.cs.monash.edu.au/~jono/ISIS.ISIS.shtml
-(isis@cs.monash.edu.au)
+See:  <a href="http://www.cs.monash.edu.au/~jono/ISIS.ISIS.shtml" rel="external">http://www.cs.monash.edu.au/~jono/ISIS.ISIS.shtml</a>
+(<a href="mailto:isis@cs.monash.edu.au" rel="email">isis@cs.monash.edu.au</a>)
 </p>
 <hr />
 <p>
@@ -212,7 +212,7 @@ Franklin Pierce Law Center.
 DEADLINE FOR RECEIPT OF ABSTRACTS:  September 15, 1996; for a sample
 abstract (format), author information form, and related requirements,
 contact Carol Ruh, Franklin Pierce Law Center, 2 White Street,
-Concord, NH  03301; (603) 228-1541; Fax (603) 224-3342; Rapa@fplc.edu.
+Concord, NH  03301; (603) 228-1541; Fax (603) 224-3342; <a href="mailto:Rapa@fplc.edu" rel="email">Rapa@fplc.edu</a>.
 </p>
 <p>
 More information and forms also online:  www.fplc.edu/tfield/RAPAmtg.htm
@@ -286,8 +286,8 @@ Proposals for papers, accompanied by an abstract of roughly 500 words, or
 requests for further information, should be directed to either Philip
 Mirowski or Esther-Mirjam Sent, Department of Economics, University of
 Notre Dame, IN 46556, U.S.A. The final deadline for proposals is September
-30, 1996. The conference has an e-mail address (econsci.1@nd.edu) and a
-Web-site (http://www.nd.edu:80/~econsci).
+30, 1996. The conference has an e-mail address (<a href="mailto:econsci.1@nd.edu" rel="email">econsci.1@nd.edu</a>) and a
+Web-site (<a href="http://www.nd.edu:80/~econsci" rel="external">http://www.nd.edu:80/~econsci</a>).
 </p>
 <hr />
 <p>

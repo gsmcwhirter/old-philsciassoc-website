@@ -21,7 +21,7 @@ Newsletter: Volume 8 : Number 3: June 2002
 for the Philosophy of Science Association by
 
        Malcolm
-Forster, http://philosophy.wisc.edu/forster
+Forster, <a href="http://philosophy.wisc.edu/forster" rel="external">http://philosophy.wisc.edu/forster</a>
 
 </p>
 <p>
@@ -36,13 +36,13 @@ MEMORIAM:  James T. Cushing.  Please see details below.
 
 <li>INTERNATIONAL SUMMER SCHOOL:  Philosophy
 and Probability, University of Konstanz, Germany, September 15-22, 2002.
-The application DEADLINE is extended to July 31.  See details below, or go to http://www.uni-konstanz.de/struktur/zwn/summerschool2002/.
+The application DEADLINE is extended to July 31.  See details below, or go to <a href="http://www.uni-konstanz.de/struktur/zwn/summerschool2002/." rel="external">http://www.uni-konstanz.de/struktur/zwn/summerschool2002/.</a>
 </li>
 
 
 <li>CALL
 FOR PAPERS:  From Acta
-Biotheoretica (a journal).  See details below, or go to http://www.kluweronline.com/issn/0001-5342/.
+Biotheoretica (a journal).  See details below, or go to <a href="http://www.kluweronline.com/issn/0001-5342/." rel="external">http://www.kluweronline.com/issn/0001-5342/.</a>
 </li>
 
 
@@ -54,7 +54,7 @@ Methodology and Philosophy of Science, International Union of History and
 Philosophy of Science, Paris,
 3-5 October 2002.  DEADLINE for
 submissions is extended to June 30.  See
-below, or go to http://www.cavailles.ens.fr/annonces.html
+below, or go to <a href="http://www.cavailles.ens.fr/annonces.html" rel="external">http://www.cavailles.ens.fr/annonces.html</a>
 for more information.
 </li>
 
@@ -62,7 +62,7 @@ for more information.
 <li>PSA
 2002, MILWAUKEE,
 November 7 to 10.  The list of accepted
-contributed papers should be posted by June 17 at http://www.pitt.edu/~psa2002/.
+contributed papers should be posted by June 17 at <a href="http://www.pitt.edu/~psa2002/." rel="external">http://www.pitt.edu/~psa2002/.</a>
 </li>
 
 
@@ -70,7 +70,7 @@ contributed papers should be posted by June 17 at http://www.pitt.edu/~psa2002/.
 JOURNAL:  The Journal of Philosophy, Science &amp; Law
 is an interdisciplinary forum dedicated to examining issues in the intersection
 of applied philosophy, science, and the law.
-For further information, go to http://www.psljournal.com.
+For further information, go to <a href="http://www.psljournal.com." rel="external">http://www.psljournal.com.</a>
 </li>
 
 
@@ -80,7 +80,7 @@ Mathematical Practices Conference (PMP2002). October 24-26 2002, Brussels,
  Belgium. The
 aim: to contribute to the understanding of mathematical
 activity itself, as a process.  For
-further information, visit http://www.vub.ac.be/CLWF/PMP2002/.
+further information, visit <a href="http://www.vub.ac.be/CLWF/PMP2002/." rel="external">http://www.vub.ac.be/CLWF/PMP2002/.</a>
 </li>
 </ol>
 <hr />
@@ -90,18 +90,18 @@ LINKS:
 </p>
 <p>
 PSA
-2002, Milwaukee:  http://www.pitt.edu/~psa2002/<br />
+2002, Milwaukee:  <a href="http://www.pitt.edu/~psa2002/" rel="external">http://www.pitt.edu/~psa2002/</a><br />
 
 
 
 PhilSci
-Archives:  http://philsci-archive.pitt.edu/<br />
+Archives:  <a href="http://philsci-archive.pitt.edu/" rel="external">http://philsci-archive.pitt.edu/</a><br />
 
 
 
 
 The
-Philosophy of Science Association:  http://scistud.umkc.edu/psa/
+Philosophy of Science Association:  <a href="http://scistud.umkc.edu/psa/" rel="external">http://scistud.umkc.edu/psa/</a>
 
 
 
@@ -195,7 +195,7 @@ to July 31.  The
 tuition fee is Euro 100 for early registration (before July 15) and Euro 125
 for on-site registration.  The costs for accommodation and travel are
 additional.  We will facilitate accommodation arrangements. For details
-concerning the application procedure, visit the summer school's URL: http://www.uni-konstanz.de/struktur/zwn/summerschool2002/
+concerning the application procedure, visit the summer school's URL: <a href="http://www.uni-konstanz.de/struktur/zwn/summerschool2002/" rel="external">http://www.uni-konstanz.de/struktur/zwn/summerschool2002/</a>
 </p>
 <p>
 
@@ -285,7 +285,7 @@ participants in the symposium should be included.
 </p>
 <p>
      Submissions by e-mail are strongly
-advised: the mailbox of the conference is laure.cartron@ehess.fr.  The subject field should read
+advised: the mailbox of the conference is <a href="mailto:laure.cartron@ehess.fr" rel="email">laure.cartron@ehess.fr</a>.  The subject field should read
 &quot;Submission Joint Session&quot;, the body of the message should include
 the factual information indicated above and the short abstract; extended
 abstracts or full papers should be sent as attached documents. Postal
@@ -300,7 +300,7 @@ session, the format being left to the discretion of the organizer(s).
 <p>
      Submissions should reach the Local
 Committee by June 30.  Please direct all
-requests for information to the conference administrative assistant, Mrs Laure Cartron:  laure.cartron@ehess.fr;
+requests for information to the conference administrative assistant, Mrs Laure Cartron:  <a href="mailto:laure.cartron@ehess.fr" rel="email">laure.cartron@ehess.fr</a>;
 tel :
 + 33 (0)1 5359 3280 (afternoons only) / fax : + 33 (0)1 5359 3299
      Postal address: Institut
@@ -346,7 +346,7 @@ within philosophy of science.
 
 Send
 information for possible inclusion in a future issue of the newsletter to the
-editor (mforster@facstaff.wisc.edu).  It
+editor (<a href="mailto:mforster@facstaff.wisc.edu" rel="email">mforster@facstaff.wisc.edu</a>).  It
 is best to send the information directly to the editor as early as possible because
 publication dates are unpredictable.
 Please include PSA somewhere in the subject line,
@@ -362,7 +362,7 @@ deadline.
 <p>
 
 Send
-an email message to psa@scistud.ch.umkc.edu with your command on  the subject line
+an email message to <a href="mailto:psa@scistud.ch.umkc.edu" rel="email">psa@scistud.ch.umkc.edu</a> with your command on  the subject line
 (leave the body of the message blank).
  To subscribe, type on the subject line:
 
