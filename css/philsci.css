@@ -198,10 +198,23 @@ h4
 	padding-left: 15px;
 }
 
-p, pre
+p, pre, blockquote
 {
 	padding-left: 25px;
 	margin-bottom: 20px;
+}
+
+blockquote
+{
+	padding: 5px 25px;
+	background-color: #ddddbb;
+	border: 1px solid #ccccaa;
+	font-style: italic;
+}
+
+blockquote>p
+{
+	margin-bottom: 0;
 }
 
 ol>li>p,
@@ -379,11 +392,6 @@ table th
 	font-variant: small-caps;
 }
 
-.menu_skip
-{
-	padding-top: 10px;
-}
-
 #search
 {
 	margin-top: 10px;
@@ -413,7 +421,13 @@ table th
 
 .menu>ul>li
 {
-	border-top: 1px dotted #ccccaa;
+	border-bottom: 1px dotted #ccccaa;
+}
+
+.menu>ul>li.menu_skip
+{
+	/*padding-top: 10px;*/
+	border-bottom: none;
 }
 
 #content
@@ -521,10 +535,17 @@ iframe
 
 .news ul,
 .news ol,
-.news p
+.news p,
+.news pre,
+.news blockquote
 {
 	clear: left;
 	margin-top: 10px;
+}
+
+.news blockquote>p
+{
+	margin-top: 0;
 }
 
 .news ul,

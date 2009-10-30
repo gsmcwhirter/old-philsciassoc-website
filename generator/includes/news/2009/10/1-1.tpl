@@ -36,9 +36,8 @@ Comprehensive TODO
 			<li class="strikeout">Google Analytics</li>
 			<li class="strikeout">Google Webmaster Tools (sitemap)</li>
 			<li class="strikeout">Custom Search</li>
-			<li>Page meta descriptions? [probably not]</li>
-			<li>Page meta keywords? [probably not]</li>
 			<li class="strikeout">Nice error pages</li>
+			<li class="strikeout">Accessibility Checks</li>
 		</ul></li>
 	<li>Page Content:
 		<ul class="bullets">
@@ -56,8 +55,8 @@ Comprehensive TODO
 	<li>Page Porting:
 		<ul class="bullets">
 			<li class="strikeout">2008 Meeting -> What to do in Pittsburgh</li>
-			<li>Newsletter Archives
-				<ul class="bullets">
+			<li class="strikeout">Newsletter Archives
+				<!--<ul class="bullets">
 					<li class="strikeout">1-1</li>
 					<li class="strikeout">1-2</li>
 					<li class="strikeout">1-3</li>
@@ -99,15 +98,15 @@ Comprehensive TODO
 					<li class="strikeout">11-1</li>
 					<li class="strikeout">11-2</li>
 					<li class="strikeout">11-3</li>
-					<li>11-4</li>
+					<li class="strikeout">11-4</li>
 					<li class="strikeout">12-1</li>
 					<li class="strikeout">12-2</li>
 					<li class="strikeout">12-3</li>
 					<li class="strikeout">13-1</li>
 					<li class="strikeout">13-2</li>
 					<li class="strikeout">14-1</li>
-				</ul>
+				</ul>-->
 			</li>
-			<li>Announcements/News</li>
+			<li>Announcements (<a href="http://philsci.org/announcements.html" rel="external">http://philsci.org/announcements.html</a>)</li>
 		</ul></li>
 </ul>

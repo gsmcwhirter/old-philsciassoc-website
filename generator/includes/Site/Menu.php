@@ -129,12 +129,11 @@ class Site_Menu
 					$target = '[PREFIX]'.translate_filename($target);
 				}
 
-				$data .= "<li";
 				if($skip)
 				{
-					$data .= " class='menu_skip'";
+					$data .= "<li class='menu_skip'>&nbsp;</li>";
 				}
-				$data .= "><a href='".$target."'>".$text."</a>";
+				$data .= "<li><a href='".$target."'>".$text."</a>";
 				if($val_data != array())
 				{
 					$all_hidden = true;
