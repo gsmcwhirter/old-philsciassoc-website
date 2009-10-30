@@ -92,13 +92,13 @@ Comprehensive TODO
 					<li class="strikeout">9-2</li>
 					<li class="strikeout">9-3</li>
 					<li class="strikeout">9-4</li>
-					<li>10-1</li>
-					<li>10-2</li>
-					<li>10-3</li>
-					<li>10-4</li>
-					<li>11-1</li>
-					<li>11-2</li>
-					<li>11-3</li>
+					<li class="strikeout">10-1</li>
+					<li class="strikeout">10-2</li>
+					<li class="strikeout">10-3</li>
+					<li class="strikeout">10-4</li>
+					<li class="strikeout">11-1</li>
+					<li class="strikeout">11-2</li>
+					<li class="strikeout">11-3</li>
 					<li>11-4</li>
 					<li class="strikeout">12-1</li>
 					<li class="strikeout">12-2</li>

@@ -36,19 +36,19 @@ PSA Newsletter
 
 <h3>Volume 11 (2005)</h3>
 <ul class="newsletter">
-	<li class="odd"><a href="http://www.philsci.org/news/newsletters/11-1.html">Number 1</a></li>
-	<li class="even"><a href="http://www.philsci.org/news/newsletters/11-2.html">Number 2</a></li>
-	<li class="odd"><a href="http://www.philsci.org/news/newsletters/11-3.html">Number 3</a></li>
-	<li class="even"><a href="http://www.philsci.org/news/newsletters/11-4.html">Number 4</a></li>
+	<li class="odd"><a href="[PREFIX]newsletter/11-1.html">Number 1</a></li>
+	<li class="even"><a href="[PREFIX]newsletter/11-2.html">Number 2</a></li>
+	<li class="odd"><a href="[PREFIX]newsletter/11-3.html">Number 3</a></li>
+	<li class="even"><a href="[PREFIX]newsletter/11-4.html">Number 4</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
 
 <h3>Volume 10 (2004)</h3>
 <ul class="newsletter">
-	<li class="odd"><a href="http://www.philsci.org/news/newsletters/10-1.html">Number 1</a></li>
-	<li class="even"><a href="http://www.philsci.org/news/newsletters/10-2.html">Number 2</a></li>
-	<li class="odd"><a href="http://www.philsci.org/news/newsletters/10-3.html">Number 3</a></li>
-	<li class="even"><a href="http://www.philsci.org/news/newsletters/10-4.html">Number 4</a></li>
+	<li class="odd"><a href="[PREFIX]newsletter/10-1.html">Number 1</a></li>
+	<li class="even"><a href="[PREFIX]newsletter/10-2.html">Number 2</a></li>
+	<li class="odd"><a href="[PREFIX]newsletter/10-3.html">Number 3</a></li>
+	<li class="even"><a href="[PREFIX]newsletter/10-4.html">Number 4</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
 

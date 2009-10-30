@@ -415,7 +415,7 @@ Keith Wailoo (Rutgers University, USA)
 	<li>Professor Friedrich Stadler</li>
 	<li>Institute Vienna Circle</li>
 	<li>University Campus</li>
-	<li>Spitalgasse 24, Court 1, A-1090</li>
+	<li>Spitalgasse 2-4, Court 1, A-1090</li>
 	<li>Vienna, Austria</li>
 	<li class="fax">+43-1-4277 41297</li>
 </ul>
