@@ -1,4 +1,4 @@
-PSA 2006 Biennial Meeting - Call for Papers
+Call for Papers
 %%%
 <h1>Call for Papers</h1>
 

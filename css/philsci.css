@@ -269,6 +269,7 @@ table th
 }
 
 .bold { font-weight: bold; }
+.italic { font-style: italic; }
 .strikeout { text-decoration: line-through; }
 .center {text-align: center;}
 .nowrap {white-space: nowrap;}

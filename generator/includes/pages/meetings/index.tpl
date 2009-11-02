@@ -16,5 +16,6 @@ PSA Meetings
 <ul class="references">
 	<li>PSA 2010 (upcoming) <a href="[PREFIX]meetings/psa2010/index.html" rel='link'>information</a></li>
 	<li>PSA 2008 <a href="[PREFIX]meetings/psa2008/index.html" rel='link'>information</a></li>
+	<li>PSA 2006 <a href="[PREFIX]meetings/psa2006/index.html" rel='link'>information</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>

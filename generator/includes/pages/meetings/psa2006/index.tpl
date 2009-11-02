@@ -13,7 +13,7 @@ Hotel in Vancouver, British Columbia.  Thanks to all who made the meeting a succ
 The following information is available for archival purposes only.
 </p>
 
-<ul>
+<ul class="bullets">
 <li>Program Committee for PSA 2006 [broken]</li>
 <li><a href="[PREFIX_FINAL]files/PSA06program.pdf" rel="download">Program (printable, PDF format)</a></li>
 <li><a href="http://www.pitt.edu/~pittcntr/PSA_2006" rel="external">Program (in your browser, HTML format, with links to papers where available</a></li>

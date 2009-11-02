@@ -1,4 +1,4 @@
-PSA 2006 Biennial Meeting - Call for Symposium and Workshop Proposals
+Call for Symposium and Workshop Proposals
 %%%
 <a id="top"> </a><h1>Call for Symposium Proposals and Workshop Proposals</h1>
 
