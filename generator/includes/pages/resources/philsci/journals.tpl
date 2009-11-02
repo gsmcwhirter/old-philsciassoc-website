@@ -26,10 +26,7 @@ Journals
 <a id="biology"> </a><h2>Philosophy of Biology</h2>
 <ul class="references">
 	<li>Studies in the History and Philosophy of Science C<a href="http://www.elsevier.com/wps/find/journaldescription.cws_home/600658/description" rel="external">website</a></li>
-	<li>(spacing) <a href="" rel="external">website</a></li>
-	<li>(spacing) <a href="" rel="external">website</a></li>
-	<li>(spacing) <a href="" rel="external">website</a></li>
-	<li>(spacing) <a href="" rel="external">website</a></li>
+	<li>[more coming soon]</li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
 
@@ -37,28 +34,19 @@ Journals
 <ul class="references">
 	<li>Foundations of Chemistry <a href="http://www.springer.com/philosophy/philosophy+of+sciences/journal/10698" rel="external">website</a></li>
 	<li>Hyle <a href="http://www.hyle.org/index.html" rel="external">website</a></li>
-	<li>(spacing) <a href="" rel="external">website</a></li>
-	<li>(spacing) <a href="" rel="external">website</a></li>
-	<li>(spacing) <a href="" rel="external">website</a></li>
+	<li>[more coming soon]</li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
 
 <a id="physics"> </a><h2>Philosophy of Physics</h2>
 <ul class="references">
 	<li>Studies in the History and Philosophy of Science B<a href="http://www.elsevier.com/wps/find/journaldescription.cws_home/30566/description" rel="external">website</a></li>
-	<li>(spacing) <a href="" rel="external">website</a></li>
-	<li>(spacing) <a href="" rel="external">website</a></li>
-	<li>(spacing) <a href="" rel="external">website</a></li>
-	<li>(spacing) <a href="" rel="external">website</a></li>
+	<li>[more coming soon]</li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
 
 <a id="socsci"> </a><h2>Philosophy of Social Sciences</h2>
 <ul class="references">
-	<li>(spacing) <a href="" rel="external">website</a></li>
-	<li>(spacing) <a href="" rel="external">website</a></li>
-	<li>(spacing) <a href="" rel="external">website</a></li>
-	<li>(spacing) <a href="" rel="external">website</a></li>
-	<li>(spacing) <a href="" rel="external">website</a></li>
+	<li>[more coming soon]</li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
