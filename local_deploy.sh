@@ -7,6 +7,8 @@ cp -r css/ generator/target/
 cp -r images/ generator/target/
 cp -r javascript/ generator/target/
 cp -r files/ generator/target/
+cp -r journal generator/target/
+cp -r psawomenscaucus generator/target/
 
 sudo rm -r /var/www/generator
 
