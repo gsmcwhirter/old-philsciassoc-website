@@ -7,9 +7,9 @@ Resources for Philosophy of Science
 			This page contains links to various archives that may be useful in the study of the philosophy of science.
 		</p>
 	</li>
-	<li><a href="[PREFIX]resources/philsci/engagement.html">Engagement</a>
+	<li><a href="[PREFIX]resources/philsci/engagement.html">Public Engagement</a>
 		<p>
-			
+
 		</p>
 	</li>
 	<li><a href="[PREFIX]resources/philsci/funding.html">Funding Sources</a>

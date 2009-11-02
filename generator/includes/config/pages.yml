@@ -11,10 +11,11 @@ meetings_psa2010_index: meetings
 meetings_psa2008_index: meetings
 meetings_psa2008_todoinpitt: meetings_psa2008
 governance: governance
+governance_alt: governance
 bylaws: governance
 resources_index: resources
-resources_student: students
-resources_philsci: philsci
+resources_student_index: students
+resources_philsci_index: philsci
 resources_philsci_professionalorgs: philsci
 resources_philsci_journals: philsci
 resources_philsci_online: philsci
