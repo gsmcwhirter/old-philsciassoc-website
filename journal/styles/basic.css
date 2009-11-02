@@ -1,0 +1,98 @@
+body {
+	background-color: #CCC;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+p {
+	font-size: 100%;
+	line-height: 140%;
+	word-spacing: normal;
+	letter-spacing: normal;
+}
+a:link {
+	color: #3366cc;
+	text-decoration: none;
+}
+a:visited {
+	color: #3366cc;
+	text-decoration: none;
+}
+a:hover {
+	color: #cc0000;
+	text-decoration: none;
+	background-color: #bbbb99;
+}
+a:active {
+	color: #3366cc;
+	text-decoration: none;
+}
+.navbar {
+	line-height: 1.5em;
+	margin: 0px;
+	padding: 0px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: 0;
+	border-right-style: 0;
+	border-bottom-style: 0;
+	border-left-style: 0;
+	font-variant: small-caps;
+	text-transform: none;
+}
+h1,h2,h3,h4 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: normal;
+}
+h1 {
+	font-size: 3em;
+}
+h2 {
+	font-size: 2em;
+}
+h3 {
+	font-size: 1.5em;
+}
+h4 {
+	font-size: 1em;
+	font-weight: bold;
+}
+.pagecontent {
+	list-style-type: none;
+}
+.pagecontent ul {
+	list-style-type: circle;
+	list-style-position: inside;
+}
+div.separator {
+	width: 100%;
+	margin-top: 1em;
+	margin-bottom: 0.25em;
+	padding: 0;
+	border-bottom: 1px dotted #000;
+	font-size: 0.5em;
+	line-height: 25%;
+}
+.highlight {
+	font-size: 1.5em;
+	color: #900;
+	line-height: 1.5;
+}
+.examplehead {
+	font-weight: bold;
+	padding-left: 100px;
+	margin: 0px;
+}
+.examplebullet {
+	margin: 0px;
+	padding-left: 100px;
+}
+.name {
+	font-size: 1.25em;
+	font-weight: bold;
+}
+.editortitle {
+	font-size: 1.25em;
+	font-weight: normal;
+}
