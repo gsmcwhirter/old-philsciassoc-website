@@ -30,6 +30,10 @@ meetings:
     _name: PSA 2008
     _page: meetings_psa2008_index
     _show: false
+  meetings_psa2006:
+    _name: PSA 2006
+    _page: meetings_psa2006_index
+    _show: false
 resources:
   _name: Resources
   _page: resources_index

@@ -10,8 +10,12 @@ meetings_index: meetings
 meetings_psa2010_index: meetings
 meetings_psa2008_index: meetings
 meetings_psa2008_todoinpitt: meetings_psa2008
+meetings_psa2006_index: meetings
+meetings_psa2006_cfp-papers: meetings_psa2006
+meetings_psa2006_cfp-sympwork: meetings_psa2006
+meetings_psa2006_contributor-info: meetings_psa2006
 governance: governance
-governance_alt: governance
+governance-alt: governance
 bylaws: governance
 resources_index: resources
 resources_student_index: students
