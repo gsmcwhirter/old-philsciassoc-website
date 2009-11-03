@@ -35,7 +35,7 @@ To this end, the PSA engages in activities such as: the publishing of periodical
 		<li>Alan Hajek, <acronym title="Australian National University">ANU</acronym></li>
 		<li>Sandra Mitchell, <acronym title="University of Pittsburgh">Pitt</acronym></li>
 		<li>Nancy Nersessian, <acronym title="Georgia Institute of Technology">GATech</acronym></li>
-		<li>John Norton, <acronym title="University of Pittsburgh">Pitt</acronym></li>
+		<li>John D. Norton, <acronym title="University of Pittsburgh">Pitt</acronym></li>
 		<li>P. Kyle Stanford, <acronym title="University of California, Irvine">UCI</acronym></li>
 		<li>Andrea Woody, <acronym title="University of Washington">UW</acronym></li>
 	</ul>

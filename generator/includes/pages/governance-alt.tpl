@@ -35,7 +35,7 @@ To this end, the PSA engages in activities such as: the publishing of periodical
 		<li>Alan Hajek <span class="small fright">(Australian National University)</span></li>
 		<li>Sandra Mitchell <span class="small fright">(University of Pittsburgh)</span></li>
 		<li>Nancy Nersessian <span class="small fright">(Georgia Institute of Technology)</span></li>
-		<li>John Norton <span class="small fright">(University of Pittsburgh)</span></li>
+		<li>John D. Norton <span class="small fright">(University of Pittsburgh)</span></li>
 		<li>P. Kyle Stanford <span class="small fright">(University of California, Irvine)</span></li>
 		<li>Andrea Woody <span class="small fright">(University of Washington)</span></li>
 	</ul>
