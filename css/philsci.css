@@ -233,10 +233,7 @@ code
 	border: 1px solid #cccccc;
 }
 
-strong
-{
-	font-weight: bold;
-}
+strong { font-weight: bold; }
 
 hr
 {
@@ -290,25 +287,15 @@ table th
 	clear: right;
 }
 
-.hidden
-{
-	display: none;
-}
+.hidden { display: none; }
 
-.small
-{
-	font-size: 85%;
-}
+.small { font-size: 85%; }
 
-.fright
-{
-	float: right;
-}
+.fright { float: right; }
 
-.cright
-{
-	clear: right;
-}
+.cright { clear: right; }
+
+.dim { color: #553; }
 
 #everything
 {

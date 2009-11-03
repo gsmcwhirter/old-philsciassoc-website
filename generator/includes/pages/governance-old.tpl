@@ -15,29 +15,29 @@ To this end, the PSA engages in activities such as: the publishing of periodical
 </p>
 
 <a id="officers"> </a><h2>Officers</h2>
-<div>
+<div class="left_half">
 	<h3>Presidents</h3>
 	<ul class="references">
-		<li><span class="bold">Current</span>: Nancy Cartwright <span class="small fright cright">(London School of Economics)</span><span class="small fright cright">(University of California, San Diego)</span></li>
-		<li><span class="bold">Elect</span>: Jim Woodward <span class="small fright">(California Institute of Technology)</span></li>
-		<li><span class="bold">Previous</span>: Larry Sklar <span class="small fright">(University of Michigan)</span></li>
+		<li><span class="bold">Current</span>: Nancy Cartwright, <acronym title="London School of Economics">LSE</acronym>/<acronym title="University of California, San Diego">UCSD</acronym></li>
+		<li><span class="bold">Elect</span>: Jim Woodward, <acronym title="California Institute of Technology">Caltech</acronym></li>
+		<li><span class="bold">Previous</span>: Larry Sklar, <acronym title="University of Michigan">U of M</acronym></li>
 	</ul>
 	<h3>Executive Secretary</h3>
 	<ul class="references">
-		<li>Gary Hardcastle <span class="small fright">(Bloomsburg University)</span></li>
+		<li>Gary Hardcastle, <acronym title="Bloomsburg University">BU</acronym></li>
 	</ul>
 </div>
-<div>
+<div class="right_half">
 	<h3>Governing Board</h3>
 	<ul class="references">
-		<li>Craig Callender <span class="small fright">(University of California, San Diego)</span></li>
-		<li>Heather Douglas <span class="small fright">(University of Tennessee, Knoxville)</span></li>
-		<li>Alan Hajek <span class="small fright">(Australian National University)</span></li>
-		<li>Sandra Mitchell <span class="small fright">(University of Pittsburgh)</span></li>
-		<li>Nancy Nersessian <span class="small fright">(Georgia Institute of Technology)</span></li>
-		<li>John D. Norton <span class="small fright">(University of Pittsburgh)</span></li>
-		<li>P. Kyle Stanford <span class="small fright">(University of California, Irvine)</span></li>
-		<li>Andrea Woody <span class="small fright">(University of Washington)</span></li>
+		<li>Craig Callender, <acronym title="University of California, San Diego">UCSD</acronym></li>
+		<li>Heather Douglas, <acronym title="University of Tennessee, Knoxville">UT</acronym></li>
+		<li>Alan Hajek, <acronym title="Australian National University">ANU</acronym></li>
+		<li>Sandra Mitchell, <acronym title="University of Pittsburgh">Pitt</acronym></li>
+		<li>Nancy Nersessian, <acronym title="Georgia Institute of Technology">GATech</acronym></li>
+		<li>John D. Norton, <acronym title="University of Pittsburgh">Pitt</acronym></li>
+		<li>P. Kyle Stanford, <acronym title="University of California, Irvine">UCI</acronym></li>
+		<li>Andrea Woody, <acronym title="University of Washington">UW</acronym></li>
 	</ul>
 </div>
 <div class="clear_both"> </div>

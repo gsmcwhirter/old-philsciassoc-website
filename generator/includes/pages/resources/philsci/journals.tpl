@@ -41,7 +41,9 @@ Journals
 
 <a id="physics"> </a><h2>Philosophy of Physics</h2>
 <ul class="references">
+	<li>Foundations of Physics <a href="http://www.springer.com/physics/journal/10701" rel="external"></a></li>
 	<li>Studies in the History and Philosophy of Science B<a href="http://www.elsevier.com/wps/find/journaldescription.cws_home/30566/description" rel="external">website</a></li>
+	<li>Physics and Philosophy <a href="http://physphil.tu-dortmund.de/" rel="external">website</a></li>
 	<li>[more coming soon]</li>
 </ul>
 <p><a href="#top" class="top">top</a></p>

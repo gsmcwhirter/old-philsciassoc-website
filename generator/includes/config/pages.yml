@@ -15,7 +15,7 @@ meetings_psa2006_cfp-papers: meetings_psa2006
 meetings_psa2006_cfp-sympwork: meetings_psa2006
 meetings_psa2006_contributor-info: meetings_psa2006
 governance: governance
-governance-alt: governance
+governance-old: governance
 bylaws: governance
 resources_index: resources
 resources_student_index: students
