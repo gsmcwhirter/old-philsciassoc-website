@@ -297,6 +297,8 @@ table th
 
 .dim { color: #553; }
 
+.ref { color: #f00; }
+
 #everything
 {
 	background-image: url(../images/menu_bg.png);

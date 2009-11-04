@@ -11,10 +11,10 @@ all:
   rss_description:
   webmaster: philsci.webmaster@gmail.com
 development:
-  content_file_path: /home/hallofkv/public_html/generator/includes/
+  content_file_path: /home/hallofkv/sites/PhilSci/generator/includes/
   page_output_dir: /home/hallofkv/public_html/generator/output/
   page_final_dir: /home/hallofkv/public_html/generator/target/
-  page_output_template_dir: /home/hallofkv/public_html/generator/includes/templates/
+  page_output_template_dir: /home/hallofkv/sites/PhilSci/generator/includes/templates/
   link_prefix_testing: /generator/output/testing/
   link_prefix_final: /generator/target/
   domain_prefix: http://www.hallofkvasir.org
