@@ -9,6 +9,7 @@ cp -r javascript/ generator/target/
 cp -r files/ generator/target/
 cp -r journal generator/target/
 cp -r psawomenscaucus generator/target/
+cp -r archives generator/target/
 
 sudo rm -r /var/www/generator
 
