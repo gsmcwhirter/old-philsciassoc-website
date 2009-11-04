@@ -3,6 +3,7 @@
 #cd www
 #rm -rf generator/
 #tar xzf generator.tgz
+
 cd ~/sites/PhilSci
 git pull
 ./remote_deploy.sh
