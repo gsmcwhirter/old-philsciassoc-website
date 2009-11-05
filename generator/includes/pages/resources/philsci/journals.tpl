@@ -20,6 +20,7 @@ Journals
 	<li>Studies in the History and Philosophy of Science A<a href="http://www.elsevier.com/wps/find/journaldescription.cws_home/30586/description" rel="external">website</a></li>
 	<li>International Studies in the Philosophy of Science <a href="http://www.tandf.co.uk/journals/routledge/02698595.html" rel="external">website</a></li>
 	<li>Metascience <a href="http://www.springer.com/philosophy/philosophy+of+sciences/journal/11016" rel="external">website</a></li>
+	<li>European Journal for Philosophy of Science <a href="http://www.springer.com/philosophy/philosophy+of+sciences/journal/13194" rel="external">website</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
 
@@ -28,7 +29,6 @@ Journals
 	<li>Biology &amp; Philosophy <a href="http://www.springer.com/philosophy/philosophy+of+sciences/journal/10539" rel="external">website</a></li>
 	<li>History and Philosophy of the Life Sciences <a href="http://www.hpls-szn.com/" rel="external">website</a></li>
 	<li>Studies in the History and Philosophy of Science C<a href="http://www.elsevier.com/wps/find/journaldescription.cws_home/600658/description" rel="external">website</a></li>
-	<li>[more coming soon]</li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
 
@@ -52,6 +52,5 @@ Journals
 	<li>Philosophy of the Social Sciences <a href="http://www.sagepub.com/journalsProdDesc.nav?prodId=Journal200913" rel="external">website</a></li>
 	<li>Journal of Philosophical Economics <a href="http://www.jpe.ro/" rel="external">website</a></li>
 	<li>Philosophy of History <a href="http://www.brill.nl/jph" rel="external">website</a></li>
-	<li>[more coming soon]</li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
