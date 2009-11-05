@@ -9,7 +9,8 @@ Resources for Philosophy of Science
 	</li>
 	<li><a href="[PREFIX]resources/philsci/engagement.html">Public Engagement</a>
 		<p>
-
+			This page contains links to resources for various aspects of public engagement, including science education,
+			science and policy, and research ethics.
 		</p>
 	</li>
 	<li><a href="[PREFIX]resources/philsci/funding.html">Funding Sources</a>

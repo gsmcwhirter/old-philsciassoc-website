@@ -37,12 +37,12 @@ meetings:
 resources:
   _name: Resources
   _page: resources_index
-  students:
-    _name: for Students
-    _page: resources_student_index
   philsci:
     _name: for Philosophy of Science
     _page: resources_philsci_index
+  students:
+    _name: for Students
+    _page: resources_student_index
 womens:
   _name: PSA Women's Caucus
   _page: http://www.philsci.org/psawomenscaucus/
