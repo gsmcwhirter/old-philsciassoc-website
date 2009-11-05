@@ -51,6 +51,8 @@ Journals
 <ul class="references">
 	<li>Philosophy of the Social Sciences <a href="http://www.sagepub.com/journalsProdDesc.nav?prodId=Journal200913" rel="external">website</a></li>
 	<li>Journal of Philosophical Economics <a href="http://www.jpe.ro/" rel="external">website</a></li>
-	<li>Philosophy of History <a href="http://www.brill.nl/jph" rel="external">website</a></li>
+	<li>Journal of the Philosophy of History <a href="http://www.brill.nl/jph" rel="external">website</a></li>
+	<li>History and Theory <a href="http://www.wiley.com/bw/journal.asp?ref=0018-2656" rel="external">website</a></li>
+	<li>Inquiry <a href="http://www.tandf.co.uk/journals/routledge/0020174x.html" rel="external">website</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
