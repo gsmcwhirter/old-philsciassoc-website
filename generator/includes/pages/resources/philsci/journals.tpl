@@ -26,6 +26,7 @@ Journals
 <a id="biology"> </a><h2>Philosophy of Biology</h2>
 <ul class="references">
 	<li>Biology &amp; Philosophy <a href="http://www.springer.com/philosophy/philosophy+of+sciences/journal/10539" rel="external">website</a></li>
+	<li>History and Philosophy of the Life Sciences <a href="http://www.hpls-szn.com/" rel="external">website</a></li>
 	<li>Studies in the History and Philosophy of Science C<a href="http://www.elsevier.com/wps/find/journaldescription.cws_home/600658/description" rel="external">website</a></li>
 	<li>[more coming soon]</li>
 </ul>
@@ -48,6 +49,9 @@ Journals
 
 <a id="socsci"> </a><h2>Philosophy of Social Sciences</h2>
 <ul class="references">
+	<li>Philosophy of the Social Sciences <a href="http://www.sagepub.com/journalsProdDesc.nav?prodId=Journal200913" rel="external">website</a></li>
+	<li>Journal of Philosophical Economics <a href="http://www.jpe.ro/" rel="external">website</a></li>
+	<li>Philosophy of History <a href="http://www.brill.nl/jph" rel="external">website</a></li>
 	<li>[more coming soon]</li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
