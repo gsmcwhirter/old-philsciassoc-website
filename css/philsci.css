@@ -655,7 +655,7 @@ img.rssfeed
 #footer
 {
 	clear: both;
-	background-color: #aa8;
+	/*background-color: #aa8;*/
 	background-image: url(../images/footer_bg.png);
 	background-position: top right;
 	background-repeat: no-repeat;
