@@ -235,7 +235,10 @@ code
 
 strong { font-weight: bold; }
 
-cite { font-style: oblique; }
+cite {
+	font-style: italic;
+	font-weight: 600;
+}
 
 hr
 {
