@@ -26,7 +26,7 @@ meetings:
     _page: meetings_psa2006_index
     _show: false
 philsci_journal:
-  _name: "Journal - Philosophy of Science"
+  _name: "Journal: Philosophy of Science"
   _page: http://journal.philsci.org/
 philsci_archive:
   _name: PhilSci Archive

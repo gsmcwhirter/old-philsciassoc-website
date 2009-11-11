@@ -378,7 +378,7 @@ table th
 	float: left;
 	overflow: auto;
 	width: 190px;/*240*/
-	padding: 0 10px;
+	padding: 0 10px 0 5px;
 	font-size: 93%;
 	clear: left;
 }
@@ -387,18 +387,20 @@ table th
 {
 	line-height: 1.5em;
 	/*border-bottom: 2px solid #900;*/
-	margin-right: 10px;
+	margin-right: 5px;
 	padding: 0 0 15px 0;
 }
 
 .menu_header
 {
 	margin-bottom: 10px;
+	text-align: right;
 }
 
 .menu a
 {
 	/*font-variant: small-caps;*/
+	font-size: 93%;
 }
 
 #search
