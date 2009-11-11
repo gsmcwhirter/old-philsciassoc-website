@@ -235,6 +235,8 @@ code
 
 strong { font-weight: bold; }
 
+cite { font-style: oblique; }
+
 hr
 {
 	width: 100%;
