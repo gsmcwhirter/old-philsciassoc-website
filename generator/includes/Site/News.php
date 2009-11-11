@@ -200,7 +200,7 @@ class Site_News
 
 			if($ct != 0)
 			{
-				$data = "<li>";
+				$data .= "<li>";
 				$data .= "<a href='[PREFIX]news/".$year."/".$str.".html'>".$text." ".$year." (".$ct." article".($ct != 1 ? "s" : "").")</a>";
 				$data .= "</li>";
 			}
