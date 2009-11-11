@@ -10,15 +10,6 @@ welcome:
   narchives:
     _name: News Archives
     _page: news_index
-governance:
-  _name: PSA Governance
-  _page: governance
-  bylaws:
-    _name: PSA Bylaws
-    _page: bylaws
-membership:
-  _name: PSA Membership
-  _page: membership
 meetings:
   _name: PSA Meetings
   _page: meetings_index
@@ -34,6 +25,19 @@ meetings:
     _name: PSA 2006
     _page: meetings_psa2006_index
     _show: false
+philsci_journal:
+  _name: <cite>Philosophy of Science</cite>
+  _page: http://journal.philsci.org/
+philsci_archive:
+  _name: PhilSci Archive
+  _page: http://philsci-archive.pitt.edu/
+membership:
+  _name: PSA Membership
+  _page: membership
+womens:
+  _name: PSA Women's Caucus
+  _page: http://www.philsci.org/psawomenscaucus/
+  _skip_before: false
 resources:
   _name: Resources
   _page: resources_index
@@ -43,10 +47,9 @@ resources:
   students:
     _name: for Students
     _page: resources_student_index
-womens:
-  _name: PSA Women's Caucus
-  _page: http://www.philsci.org/psawomenscaucus/
-  _skip_before: true
-philsci_journal:
-  _name: Journal
-  _page: http://journal.philsci.org/
+governance:
+  _name: PSA Governance
+  _page: governance
+  bylaws:
+    _name: PSA Bylaws
+    _page: bylaws

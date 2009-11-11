@@ -2,10 +2,11 @@ PSA 2008 Biennial Meeting
 %%%
 <a id="top"> </a><h1>PSA 2008 Biennial Meeting</h1>
 <p>
-The twenty-first PSA biennial meeting will take place November 6–8, 2008, in Pittsburgh, Pennsylvania, at the Omni William Penn Hotel.
+The twenty-first PSA biennial meeting took place November 6–8, 2008, in Pittsburgh, Pennsylvania, at the Omni William Penn Hotel.
+The following content is for archival purposes only.
 </p>
 <ul class="bullets">
-	<li><span class="bold">ONLINE REGISTRATION</span> for PSA 2008 is available via the History of Science Society <a href="http://hssonline.org" rel="external">website</a>.
+	<li><span class="bold">ONLINE REGISTRATION</span> for PSA 2008 is available via the History of Science Society website.
 		Please note that if you registered online for PSA 2006, the profile information you entered then is still stored on the HSS website (and please update your information as needed!).
 		Otherwise, you will need to create a profile, which is quick and painless.</li>
 	<li><span class="bold">HOTEL RESERVATIONS:</span> The conference hotel, the historic William Penn Hotel in downtown Pittsburgh, is already full, but Jay Malone of HSS has secured overflow space at the Doubletree Hotel (at the conference rate) directly behind the William Penn and the Westin, which is down the street from the conference hotel.
