@@ -1,3 +1,6 @@
+				<div class="ad">
+					<a href="https://subfill.uchicago.edu/JournalPUBS/WebForm2.aspx?webpub=phos"><img src="[PREFIX_FINAL]images/PSA_WebAdvert.jpg" alt="Advertisement" /></a>
+				</div>
 				<form action="[PREFIX]search.html" id="cse-search-box">
 				  <div class="menu_header">
 					<label for="qsearch">Search the PSA</label>
