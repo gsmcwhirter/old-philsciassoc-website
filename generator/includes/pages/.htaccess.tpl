@@ -1,13 +1,15 @@
 .htaccess file
 %%%
-AddType application/rss+xml rss
-AddCharset utf-8 css html
+ErrorDocument 404 [PREFIX]404.html
+
+<IfModule mod_mime.c>
+	AddType application/rss+xml rss
+	AddCharset UTF-8 .css .html
+</IfModule>
 
 <IfModule mod_rewrite.c>
 	RewriteEngine off
 </IfModule>
-
-ErrorDocument 404 [PREFIX]404.html
 
 <IfModule mod_expires.c>
 	ExpiresActive On
