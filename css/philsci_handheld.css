@@ -20,11 +20,6 @@
  * 26		197
  */
 
-*
-{
-	border: none;
-}
-
 html, body
 {
 	width: 100%;
@@ -38,25 +33,13 @@ a, a:link, a:active, a:visited
 {
 	color: #cc0000;
 	text-decoration: none;
-	border-bottom: 1px dotted transparent;
-}
-
-a:hover
-{
-	color: #36c;/*#3366cc;*/
-	/*text-decoration: underline;*/
-	border-bottom-color: #36c;
+	border-bottom: 1px dotted #fff;
 }
 
 a.noborder,
 a.noborder:link,
 a.noborder:active,
 a.noborder:visited
-{
-	border-bottom: none;
-}
-
-a.noborder:hover
 {
 	border-bottom: none;
 }
@@ -78,12 +61,6 @@ acronym
 	border-bottom: 1px dotted #ccc;
 	margin-right: 10px;
 	/*font-variant: small-caps;*/
-}
-
-#subfooter a:hover
-{
-	text-decoration: none;
-	border-bottom-style: solid;
 }
 
 ul, ol
