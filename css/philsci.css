@@ -303,7 +303,7 @@ table th
 
 .dim { color: #553; }
 
-.ref { color: #f00; }
+.red { color: #f00; }
 
 #everything
 {
@@ -408,7 +408,7 @@ table th
 	margin-top: 10px;
 	margin-right: 10px;
 	padding-bottom: 10px;
-	text-align: center;
+	padding-left: 5px;
 }
 
 .menu_header

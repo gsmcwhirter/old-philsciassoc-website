@@ -57,6 +57,12 @@ p
 	margin-bottom: 1.5em !important;
 }
 
+blockquote
+{
+	background-color: #ccc;
+	border: 1px solid #888;
+}
+
 .left_half
 {
 	float: none !important;
@@ -68,6 +74,10 @@ p
 	float: none !important;
 	width: auto;
 }
+
+.fright { float: none !important; padding-left: 20px; }
+
+.dim { color: #444; }
 
 #everything
 {
