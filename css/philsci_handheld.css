@@ -1,0 +1,32 @@
+a.top,
+a.external,
+a[rel='external'],
+a.download,
+a[rel='download'],
+a.email,
+a[rel='email'],
+a.download
+{
+	padding: 0 !important;
+	background-image: none !important;
+}
+
+ul.bullets,
+ul.bullets>li,
+.menu ul ul,
+.menu ul ul>li
+{
+	list-style-image: none !important;
+}
+
+#everything,
+#header_right,
+#header_left
+{
+	background-image: none !important;
+	background-color: #ccccaa !important;
+}
+
+#superheader { display: none !important; }
+
+#content { background-color: #fff !important; }

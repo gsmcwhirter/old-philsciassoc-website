@@ -10,6 +10,7 @@
 		<link href="[PREFIX_FINAL]css/reset-fonts.css" rel="stylesheet" type="text/css" media="all" />
 		<link href="[PREFIX_FINAL]css/philsci.css" rel="stylesheet" type="text/css" media="all" />
 		<link href="[PREFIX_FINAL]css/philsci_print.css" rel="stylesheet" type="text/css" media="print" />
+		<link href="[PREFIX_FINAL]css/philsci_handheld.css" rel="stylesheet" type="text/css" media="handheld" />
 		<link rel="icon" href="[PREFIX_FINAL]images/favicon.ico" type="image/x-icon" />
 		[RSS_LINK]
 		<script type="text/javascript" src="[PREFIX_FINAL]javascript/jquery-1.3.2.min.js"></script>
