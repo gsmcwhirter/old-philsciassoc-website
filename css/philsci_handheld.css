@@ -391,6 +391,7 @@ table th
 #content
 {
 	overflow: auto;
+	background-color: #fff;
 }
 
 iframe
