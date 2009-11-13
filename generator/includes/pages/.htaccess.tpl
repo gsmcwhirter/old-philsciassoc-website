@@ -1,6 +1,7 @@
 .htaccess file
 %%%
 AddType application/rss+xml rss
+AddCharset utf-8 css html
 
 <IfModule mod_rewrite.c>
 	RewriteEngine off
