@@ -181,7 +181,7 @@ blockquote
 	font-style: italic;
 }
 
-blockquote>p
+blockquote p
 {
 	margin-bottom: 0;
 }
@@ -222,7 +222,6 @@ table
 {
 	margin-left: 25px;
 	border: none;
-	border-spacing: 5px;
 	margin-bottom: 20px;
 }
 
@@ -301,7 +300,6 @@ table th
 
 #left_nav
 {
-	overflow: auto;
 	padding: 0 10px 0 5px;
 	clear: left;
 }
@@ -318,7 +316,7 @@ table th
 	margin-left: 10px;
 }
 
-#l_search_box input[type='text']
+#l_search_box input
 {
 	border: 1px solid #900;
 	padding: 2px;
@@ -366,7 +364,6 @@ table th
 
 #content
 {
-	overflow: auto;
 	background-color: #fff;
 }
 
@@ -394,7 +391,6 @@ iframe
 .inner_menu
 {
 	text-align: center;
-	overflow: auto;
 	background-color: #ddddbb;
 	border: 1px solid #ccccaa;
 	padding: 5px 0;
@@ -419,7 +415,6 @@ iframe
 {
 	border-bottom: 1px solid #cccccc;
 	margin-bottom: 10px;
-	overflow: auto;
 	padding-bottom: 5px;
 }
 
@@ -485,14 +480,8 @@ iframe
 .references li,
 .archive_list li
 {
-	overflow: auto;
 	padding: 5px;
 }
-
-.references li a[rel='external'],
-.references li a[rel='link'],
-.references li a[rel='download']
-{ }
 
 .references .name
 {
@@ -553,7 +542,7 @@ img.rssfeed
 	padding: 5px;
 }
 
-.newsletter>li
+.newsletter li
 {
 	display: inline;
 	padding: 2px 10px;
