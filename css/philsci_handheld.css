@@ -72,7 +72,7 @@ ul, ol
 }
 
 ul.bullets,
-ul.bullets>li
+ul.bullets li
 {
 	list-style-type: circle;
 }
@@ -90,37 +90,37 @@ ul.bullets>li
 }
 
 .menu ul ul,
-.menu ul ul>li
+.menu ul ul li
 {
 	list-style-type: circle;
 }
 
 ol,
-ol>li
+ol li
 {
 	list-style-type: decimal;
 }
 
 ol.Letters,
-ol.Letters>li
+ol.Letters li
 {
 	list-style-type: upper-alpha;
 }
 
 ol.letters,
-ol.letters>li
+ol.letters li
 {
 	list-style-type: lower-alpha;
 }
 
 ol.Roman,
-ol.Roman>li
+ol.Roman li
 {
 	list-style-type: upper-roman;
 }
 
 ol.roman,
-ol.roman>li
+ol.roman li
 {
 	list-style-type: lower-roman;
 }
@@ -186,10 +186,10 @@ blockquote>p
 	margin-bottom: 0;
 }
 
-ol>li>p,
-ul>li>p,
-ol>li>pre,
-ul>li>pre
+ol li p,
+ul li p,
+ol li pre,
+ul li pre
 {
 	margin-bottom: 10px;
 	margin-top: 10px;
@@ -354,12 +354,12 @@ table th
 	font-size: 85%;
 }
 
-.menu>ul>li
+.menu ul li
 {
 	border-bottom: 1px dotted #ccccaa;
 }
 
-.menu>ul>li.menu_skip
+.menu ul li.menu_skip
 {
 	border-bottom: none;
 }
@@ -459,7 +459,7 @@ iframe
 	margin-top: 10px;
 }
 
-.news blockquote>p
+.news blockquote p
 {
 	margin-top: 0;
 }
@@ -482,16 +482,16 @@ iframe
 	margin-left: 10px;
 }
 
-.references>li,
-.archive_list>li
+.references li,
+.archive_list li
 {
 	overflow: auto;
 	padding: 5px;
 }
 
-.references>li>a[rel='external'],
-.references>li>a[rel='link'],
-.references>li>a[rel='download']
+.references li a[rel='external'],
+.references li a[rel='link'],
+.references li a[rel='download']
 { }
 
 .references .name
