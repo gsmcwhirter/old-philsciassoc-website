@@ -67,7 +67,6 @@ ul, ol
 {
 	/*padding-left: 10px;*/
 	margin-left: 30px;
-	list-style-position: outside;
 	margin-bottom: 10px;
 }
 
@@ -197,7 +196,6 @@ ul li pre
 
 code
 {
-	display: block;
 	padding: 10px 30px;
 	border: 1px solid #cccccc;
 }
@@ -252,11 +250,7 @@ table th
 .right_half
 {}
 
-.hidden { display: none; }
-
 .small { font-size: 85%; }
-
-.fright { float: right; }
 
 .cright { clear: right; }
 
@@ -266,16 +260,9 @@ table th
 
 #everything
 {
-	background-repeat: repeat-y;
-	background-position: left;
 	background-color: #cca;
 	margin: 10px;
 	text-align: left;
-}
-
-#superheader
-{
-	display: none;
 }
 
 #header_right
@@ -393,11 +380,6 @@ table th
 	margin-left: 0;
 }
 
-.inner_menu li
-{
-	display: inline;
-}
-
 .inner_menu a
 {
 	white-space: nowrap;
@@ -432,11 +414,6 @@ table th
 	color: #666;
 	padding:0 10px;
 	font-size: 85%;
-}
-
-.news .more
-{
-	display: none;
 }
 
 .news ul,
@@ -539,7 +516,6 @@ img.rssfeed
 
 .newsletter li
 {
-	display: inline;
 	padding: 2px 10px;
 	white-space: nowrap;
 }
