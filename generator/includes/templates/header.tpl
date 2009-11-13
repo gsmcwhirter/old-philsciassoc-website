@@ -8,8 +8,8 @@
 
 		<title>Philosophy of Science Association -- [PAGE_TITLE]</title>
 
-		<link href="[PREFIX_FINAL]css/reset-fonts.css" rel="stylesheet" type="text/css" media="all" />
-		<link href="[PREFIX_FINAL]css/philsci.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="[PREFIX_FINAL]css/reset-fonts.css" rel="stylesheet" type="text/css" media="screen,print" />
+		<link href="[PREFIX_FINAL]css/philsci.css" rel="stylesheet" type="text/css" media="screen,print" />
 		<link href="[PREFIX_FINAL]css/philsci_print.css" rel="stylesheet" type="text/css" media="print" />
 		<link href="[PREFIX_FINAL]css/philsci_handheld.css" rel="stylesheet" type="text/css" media="handheld" />
 		<link rel="icon" href="[PREFIX_FINAL]images/favicon.ico" type="image/x-icon" />
