@@ -21,7 +21,8 @@ ul.bullets>li,
 
 #everything,
 #header_right,
-#header_left
+#header_left,
+#footer
 {
 	background-image: none !important;
 	background-color: #ccccaa !important;
