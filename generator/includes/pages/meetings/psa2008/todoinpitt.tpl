@@ -216,5 +216,5 @@ Clipper</a> fleet operates a variety of cruises on the rivers
 surrounding Pittsburgh's downtown.
 </p>
 <p>
-	<span style="font-size: 85%;">Draft 3, February 26, 2008.</span>
+	<span class="small">Draft 3, February 26, 2008.</span>
 </p>

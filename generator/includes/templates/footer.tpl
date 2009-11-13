@@ -5,7 +5,7 @@
 				  <div class="menu_header">
 					<label for="qsearch">Search the PSA</label>
 				  </div>
-				  <div id="l_search_box" style="margin-top: 10px;">
+				  <div id="l_search_box">
 					<input type="hidden" name="cx" value="000986458034667796526:uy3a8ml6qve" />
 					<input type="hidden" name="cof" value="FORID:9" />
 					<input type="hidden" name="ie" value="UTF-8" />
