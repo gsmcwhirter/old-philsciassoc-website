@@ -4,7 +4,8 @@ ErrorDocument 404 [PREFIX]404.html
 
 #<IfModule mod_mime.c>
 	AddType application/rss+xml rss
-	AddCharset UTF-8 .css .html
+	#AddCharset UTF-8 .css .html
+	AddType "text/css; charset=utf-8" css
 #</IfModule>
 
 <IfModule mod_rewrite.c>
