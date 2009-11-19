@@ -3,3 +3,5 @@
 philsci.old
 generator/target
 .svn
+*.pyc
+*.sqlite3
