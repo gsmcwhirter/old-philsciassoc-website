@@ -1,6 +1,5 @@
 LSE Post-doc
 %%%
-<p class="center"><a href="[PREFIX]resources/jobs/index.html">back to job listing</a></p>
 <a id="top"> </a><h1>Post Doctoral Research Officer, London School of Economics</h1>
 <ul class="bullets">
 	<li>AoS/AoC: Established competence in one of history-and-philosophy of
