@@ -1,13 +1,13 @@
 Jobs for Philosophers of Science
 %%%
 <a id="top"> </a><h1>Jobs for Philosophers of Science</h1>
-<ul class="innermenu">
+<ul class="inner_menu">
 	<li><a href="#submit">Submitting an Ad</a></li>
 	<li><a href="#disclaimer">Disclaimer</a></li>
 	<li><a href="#listing">Job Listing</a></li>
 </ul>
 
-<a id="submit"> </a><h2></h2>
+<a id="submit"> </a><h2>Submitting an Ad</h2>
 <p>
 Have a position for a philosopher of science?  The Philosophy of Science
 Association invites you to post your ad here.  Simply email the
