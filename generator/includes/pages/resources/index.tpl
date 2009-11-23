@@ -2,6 +2,11 @@ PSA Resources
 %%%
 <h1>PSA Resources</h1>
 <ul class="references">
+	<li><a href="[PREFIX]resources/jobs/index.html">Resources for Philosophy of Science</a>
+		<p>
+		This section contains information on job openings for philosophers of science.
+		</p>
+	</li>
 	<li><a href="[PREFIX]resources/philsci/index.html">Resources for Philosophy of Science</a>
 		<p>
 		This section contains information on research, funding, and other resources for the study of the philosophy of science and related areas.
