@@ -32,7 +32,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
-	<li><a href="[PREFIX]resources/jobs/tt-northwestern.html">Tenure-track Position, Northeastern University, Boston, MA</a></li>
+	<li><a href="[PREFIX]resources/jobs/tt-northeastern.html">Tenure-track Position, Northeastern University, Boston, MA</a></li>
 	<li><a href="[PREFIX]resources/jobs/postdoc-lse.html">Post Doctoral Research Officer, London School of Economics</a></li>
 	<li><a href="[PREFIX_FINAL]files/SoLSBioethicsAd09.pdf" class="download">Tenure-track Position, Arizona State University</a></li>
 </ul>

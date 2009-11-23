@@ -1,7 +1,7 @@
-Jobs -- Tenure-track Position, Carnap University
+Northeastern Tenure-track
 %%%
 <p class="center"><a href="[PREFIX]resources/jobs/index.html">back to job listing</a></p>
-<a id="top"> </a><h1>Tenure-track Position, Carnap University</h1>
+<a id="top"> </a><h1>Tenure-track Position, Northeastern University, Boston, MA</h1>
 <ul class="bullets">
 	<li>AoS: Philosophy of Science or Philosophy of Social Science</li>
 	<li>AoC: Ethics</li>

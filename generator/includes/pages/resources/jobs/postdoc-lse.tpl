@@ -1,7 +1,7 @@
-Jobs -- Tenure-track Position, Carnap University
+LSE Post-doc
 %%%
 <p class="center"><a href="[PREFIX]resources/jobs/index.html">back to job listing</a></p>
-<a id="top"> </a><h1>Tenure-track Position, Carnap University</h1>
+<a id="top"> </a><h1>Post Doctoral Research Officer, London School of Economics</h1>
 <ul class="bullets">
 	<li>AoS/AoC: Established competence in one of history-and-philosophy of
 		science and theology is required, as well as evidence of ability in both.</li>
