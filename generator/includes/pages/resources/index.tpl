@@ -2,7 +2,7 @@ PSA Resources
 %%%
 <h1>PSA Resources</h1>
 <ul class="references">
-	<li><a href="[PREFIX]resources/jobs/index.html">Resources for Philosophy of Science</a>
+	<li><a href="[PREFIX]resources/jobs/index.html">Jobs for Philosophers of Science</a>
 		<p>
 		This section contains information on job openings for philosophers of science.
 		</p>
