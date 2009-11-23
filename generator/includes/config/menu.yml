@@ -44,6 +44,9 @@ womens:
 resources:
   _name: Resources
   _page: resources_index
+  jobs:
+    _name: Jobs for Philosophers of Science
+    _page: jobs_index
   philsci:
     _name: for Philosophy of Science
     _page: resources_philsci_index

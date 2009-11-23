@@ -1,11 +1,17 @@
+#basics
 search: _none
 .htaccess: _none
 404: _none
+#normal pages
 index: welcome
 mailinglist: mailinglist
 newsletter_index: newsletter
 news_index: narchives
 membership: membership
+governance: governance
+governance-old: governance
+bylaws: governance
+#meetings
 meetings_index: meetings
 meetings_psa2010_index: meetings
 meetings_psa2008_index: meetings
@@ -14,9 +20,7 @@ meetings_psa2006_index: meetings
 meetings_psa2006_cfp-papers: meetings_psa2006
 meetings_psa2006_cfp-sympwork: meetings_psa2006
 meetings_psa2006_contributor-info: meetings_psa2006
-governance: governance
-governance-old: governance
-bylaws: governance
+#resources
 resources_index: resources
 resources_student_index: students
 resources_philsci_index: philsci
@@ -26,6 +30,11 @@ resources_philsci_online: philsci
 resources_philsci_archives: philsci
 resources_philsci_funding: philsci
 resources_philsci_engagement: philsci
+#resources - jobs
+resources_jobs_index: jobs
+resources_jobs_tt-northwestern: jobs
+resources_jobs_postdoc-lse: jobs
+#newsletters
 newsletter_14-1: newsletter
 newsletter_13-2: newsletter
 newsletter_13-1: newsletter
