@@ -26,7 +26,7 @@ if(in_array($testing_or_final, array("testing", "final")))
 		 *
 		 */
 
-		require_once "includes/Lib/Spyc.php";
+		require_once "includes/Lib/Spyc-0.4.5.php";
 		require_once "includes/Settings.php";
 		require_once "includes/Site.php";
 
