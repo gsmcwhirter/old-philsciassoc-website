@@ -28,6 +28,7 @@ Journals
 <ul class="references">
 	<li>Biology &amp; Philosophy <a href="http://www.springer.com/philosophy/philosophy+of+sciences/journal/10539" rel="external">website</a></li>
 	<li>History and Philosophy of the Life Sciences <a href="http://www.hpls-szn.com/" rel="external">website</a></li>
+	<li>Philosophy &amp; Theory in Biology <a href="http://philosophyandtheoryinbiology.org/" rel="external">website</a></li>
 	<li>Studies in the History and Philosophy of Science C<a href="http://www.elsevier.com/wps/find/journaldescription.cws_home/600658/description" rel="external">website</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
