@@ -9,7 +9,7 @@ $testing_or_final = array_shift($opts);
 if(in_array($testing_or_final, array("testing", "final")))
 {
 	echo "Environment: ".GENERATOR_ENVIRONMENT."\n";
-	
+
 	try{
 
 		function translate_filename($pagename, $extension = ".html")
@@ -32,7 +32,7 @@ if(in_array($testing_or_final, array("testing", "final")))
 
 		$setting_data = SPYC::YAMLLoad("includes/config/settings.yml");
 
-		#print_r($setting_data);
+		print_r($setting_data);
 
 		$settings = new Settings();
 
