@@ -34,7 +34,7 @@ if(in_array($testing_or_final, array("testing", "final")))
 
 		$setting_data = SPYC::YAMLLoad($file);
 
-		print_r($setting_data);
+		//print_r($setting_data);
 
 		$settings = new Settings();
 
