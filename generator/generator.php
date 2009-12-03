@@ -30,7 +30,9 @@ if(in_array($testing_or_final, array("testing", "final")))
 		require_once "includes/Settings.php";
 		require_once "includes/Site.php";
 
-		$setting_data = SPYC::YAMLLoad("includes/config/settings.yml");
+		$file = realpath(dirname(__FILE__))."/includes/config/settings.yml";
+
+		$setting_data = SPYC::YAMLLoad($file);
 
 		print_r($setting_data);
 
