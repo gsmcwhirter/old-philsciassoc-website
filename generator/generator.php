@@ -30,9 +30,9 @@ if(in_array($testing_or_final, array("testing", "final")))
 		require_once "includes/Settings.php";
 		require_once "includes/Site.php";
 
-		$file = realpath(dirname(__FILE__))."/includes/config/settings.yml";
+		$config_path = realpath(dirname(__FILE__))."/includes/config/";
 
-		$setting_data = SPYC::YAMLLoad($file);
+		$setting_data = SPYC::YAMLLoad($config_path."settings.yml");
 
 		//print_r($setting_data);
 
@@ -53,8 +53,8 @@ if(in_array($testing_or_final, array("testing", "final")))
 			$settings->__set($key, $value);
 		}
 
-		$menus = SPYC::YAMLLoad("includes/config/menu.yml");
-		$pages = SPYC::YAMLLoad("includes/config/pages.yml");
+		$menus = SPYC::YAMLLoad($config_path."menu.yml");
+		$pages = SPYC::YAMLLoad($config_path."pages.yml");
 		$site = new Site($pages, $menus, $settings); //CONTENT_FILE_PATH, PAGE_OUTPUT_DIR, PAGE_FINAL_DIR, LINK_PREFIX_TESTING, LINK_PREFIX_FINAL, PAGE_OUTPUT_ORDER, PAGE_OUTPUT_TEMPLATE_DIR, NEWS_PAGE);
 
 		switch($testing_or_final)
