@@ -36,5 +36,6 @@ Philosophy of Science Association.
 	<li><a href="[PREFIX]resources/jobs/postdoc-lse.html">Post Doctoral Research Officer, London School of Economics</a></li>
 	<li><a href="[PREFIX_FINAL]files/SoLSBioethicsAd09.pdf" class="download">Tenure-track Position, Arizona State University</a></li>
 	<li><a href="[PREFIX]resources/jobs/ft-santiago.html">Full Time Philosopher Required, University of Santiago, Chile</a></li>
+	<li><a href="[PREFIX]resources/jobs/postdoc-osu.html">Post-doctoral Fellowship, Oregon State University</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
