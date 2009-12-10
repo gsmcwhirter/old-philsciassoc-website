@@ -9,10 +9,8 @@ ErrorDocument 404 [PREFIX]404.html
 
 <IfModule mod_rewrite.c>
 	RewriteEngine on
-	RewriteBase [PREFIX]
 
-	RewriteCond %{REQUEST_URI} ^/?jobs/
-	RewriteRule ^(/*)jobs/(.*)$ [PREFIX]resources/jobs/$2 [LR=permanent]
+	RewriteRule ^[PREFIX]jobs/(.*)$ [PREFIX]resources/jobs/$1 [R=permanent]
 </IfModule>
 
 <IfModule mod_expires.c>
