@@ -8,10 +8,10 @@ ErrorDocument 404 [PREFIX]404.html
 </IfModule>
 
 <IfModule mod_rewrite.c>
-	RewriteEngine on
-	RewriteBase /
+	RewriteEngine off
+	RewriteBase [PREFIX]
 
-	RewriteRule ^[PREFIX]jobs/(.*)$ [PREFIX]resources/jobs/$1 [R=permanent]
+	RewriteRule ^/*jobs/(.*)$ resources/jobs/$1 [R=permanent]
 </IfModule>
 
 <IfModule mod_expires.c>
