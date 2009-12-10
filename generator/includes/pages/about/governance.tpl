@@ -19,11 +19,14 @@ Governance
 		<li><span class="bold">Previous</span>: Lawrence Sklar
 			<span class="small fright dim">University of Michigan</span></li>
 	</ul>
+	<p><a class="top" href="#top">top</a></p>
+
 	<a id="exec_sec"> </a><h3>Executive Secretary</h3>
 	<ul class="references">
 		<li>Gary Hardcastle
 			<span class="small fright dim">Bloomsburg University of Pennsylvania</span></li>
 	</ul>
+	<p><a class="top" href="#top">top</a></p>
 
 	<a id="board"> </a><h3>Governing Board</h3>
 	<ul class="references">
@@ -44,3 +47,4 @@ Governance
 		<li>Andrea Woody
 			<span class="small fright dim">University of Washington</span></li>
 	</ul>
+	<p><a class="top" href="#top">top</a></p>

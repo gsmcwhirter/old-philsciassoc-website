@@ -12,6 +12,7 @@ About PSA
 The Philosophy of Science Association promotes research, teaching, and free discussion of issues in the philosophy of science from diverse standpoints.
 To this end, the PSA engages in activities such as: the publishing of periodicals, essays and monographs; sponsoring conventions and meetings; and awarding prizes for distinguished work in the field.
 </p>
+<p><a class="top" href="#top">top</a></p>
 
 <a id="contact"> </a><h2>Contact Information</h2>
 <h3>For PSA Business</h3>
@@ -29,3 +30,4 @@ To this end, the PSA engages in activities such as: the publishing of periodical
 
 <h3>Other Journal Related Business (subscriptions, mailing issues, etc.)</h3>
 <p><a href="http://www.journals.uchicago.edu/PHILSCI/" rel="external">University of Chicago Press</a></p>
+<p><a class="top" href="#top">top</a></p>
