@@ -8,7 +8,7 @@ ErrorDocument 404 [PREFIX]404.html
 </IfModule>
 
 <IfModule mod_rewrite.c>
-	RewriteEngine off
+	RewriteEngine on
 	RewriteBase [PREFIX]
 
 	RewriteRule ^/*jobs/(.*)$ resources/jobs/$1 [R=permanent]

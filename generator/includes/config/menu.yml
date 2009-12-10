@@ -11,7 +11,6 @@ welcome:
     _name: News Archives
     _page: news_index
 meetings:
-  #_name: PSA Meetings
   _name: Meetings
   _page: meetings_index
   meetings_psa2010:
@@ -33,11 +32,9 @@ philsci_archive:
   _name: PhilSci Archive
   _page: http://philsci-archive.pitt.edu/
 membership:
-  #_name: PSA Membership
   _name: Membership
   _page: membership
 womens:
-  #_name: PSA Women's Caucus
   _name: Women's Caucus
   _page: http://www.philsci.org/psawomenscaucus/
   _skip_before: false
@@ -53,11 +50,16 @@ resources:
   students:
     _name: for Students
     _page: resources_student_index
-governance:
-  #_name: PSA Governance
-  _name: Governance
-  _page: governance
-  bylaws:
-    _name: PSA Bylaws
-    _page: bylaws
+about:
+  _name: About PSA
+  _page: about_index
+  governance:
+    _name: Governance
+    _page: about_governance
+    bylaws:
+      _name: PSA Bylaws
+      _page: about_bylaws
+  history:
+    _name: History of the Association
+    _page: about_history
     

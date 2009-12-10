@@ -50,8 +50,10 @@ Journals
 
 <a id="socsci"> </a><h2>Philosophy of Social Sciences</h2>
 <ul class="references">
+	<li>Economics and Philosophy <a href="http://journals.cambridge.org/action/displayJournal?jid=eap" rel="external">website</a></li>
 	<li>History and Theory <a href="http://www.wiley.com/bw/journal.asp?ref=0018-2656" rel="external">website</a></li>
 	<li>Inquiry <a href="http://www.tandf.co.uk/journals/routledge/0020174x.html" rel="external">website</a></li>
+	<li>Journal of Economic Methodology <a href="http://www.tandf.co.uk/journals/titles/1350178x.asp" rel="external">website</a></li>
 	<li>Journal of Philosophical Economics <a href="http://www.jpe.ro/" rel="external">website</a></li>
 	<li>Journal of the Philosophy of History <a href="http://www.brill.nl/jph" rel="external">website</a></li>
 	<li>Philosophy of the Social Sciences <a href="http://www.sagepub.com/journalsProdDesc.nav?prodId=Journal200913" rel="external">website</a></li>
