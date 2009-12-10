@@ -19,7 +19,7 @@ Professional Organizations
 		The British Society for the Philosophy of Science studies the logic, the methods, and the philosophy of science, as well as those of the various special sciences, including the social sciences.
 		</p>
 	</li>
-	<li><acronym title="Canadian Society for the History and Philosophy of Science/Société canadienne d'histoire et de philosophie des sciences">CSHPS/SCHPS</acronym> <a href="http://www.yorku.ca/cshps1/" rel="external">website</a>
+	<li><acronym title="Canadian Society for the History and Philosophy of Science">CSHPS</acronym>/<acronym title="Société canadienne d'histoire et de philosophie des sciences">SCHPS</acronym> <a href="http://www.yorku.ca/cshps1/" rel="external">website</a>
 		<p>
 		The Canadian Society for the History and Philosophy of Science/Société canadienne d'histoire et de philosophie des sciences is a Canadian forum bringing together historians, philosophers, sociologists, and a wide range of interdisciplinary scholars interested in exploring all aspects of science, past and present. Its newsletter is the Communiqué and its annual conference takes place within the Congress of Social Sciences and Humanities.
 		</p>
