@@ -10,6 +10,7 @@ all:
   rss_title: Philosophy of Science Association News
   rss_description:
   webmaster: philsci.webmaster@gmail.com
+  news_items: 8
 development:
   content_file_path: /home/hallofkv/sites/PhilSci/generator/includes/
   page_output_dir: /home/hallofkv/public_html/generator/output/

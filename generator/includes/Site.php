@@ -22,6 +22,7 @@ class Site
 	protected $_webmaster;
 	protected $_sitemap = array();
 	protected $_analytics;
+	protected $_index_news_items;
 
 	public function __construct($page_data, $menu_data, Settings $settings)
 	{
@@ -38,6 +39,7 @@ class Site
 		$this->_webmaster = $settings->webmaster;
 		$this->_analytics = $settings->analytics_id;
 		$this->_google_verify = $settings->google_verify;
+		$this->_index_news_items = $settings->news_items;
 
 		$this->_menu = new Site_Menu($menu_data);
 
@@ -136,7 +138,8 @@ class Site
 			if($page->is_newspage())
 			{
 				$rsslink = '<link rel="alternate" type="application/rss+xml" title="'.$this->_rss_title.'" href="[PREFIX]'.$this->_rss_file.'" />';
-				$data = preg_replace(array("#\[NEWS_CONTENT\]#", "#\[RSS_LINK\]#"), array($this->_news->generate_last_n(),$rsslink), $data);
+				$data = preg_replace(array("#\[NEWS_CONTENT\]#", "#\[RSS_LINK\]#"),
+									 array($this->_news->generate_last_n($this->_index_news_items),$rsslink), $data);
 			}
 
 			file_put_contents($file, preg_replace($regex, $replace, $data));
