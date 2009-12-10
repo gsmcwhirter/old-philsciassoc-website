@@ -42,7 +42,7 @@ resources:
   _name: Resources
   _page: resources_index
   jobs:
-    _name: Jobs for Philosophers of Science
+    _name: for Employment
     _page: resources_jobs_index
   philsci:
     _name: for Philosophy of Science
@@ -62,4 +62,6 @@ about:
   history:
     _name: History of the Association
     _page: about_history
-    
+  affiliates:
+    _name: Professional Affiliates
+    _page: about_affiliates

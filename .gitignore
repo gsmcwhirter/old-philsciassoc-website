@@ -5,3 +5,4 @@ generator/target
 .svn
 *.pyc
 *.sqlite3
+.~lock*

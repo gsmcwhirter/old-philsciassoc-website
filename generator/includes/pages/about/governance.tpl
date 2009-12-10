@@ -12,39 +12,47 @@ Governance
 	<a id="presidents"> </a><h3>Presidents</h3>
 	<ul class="references">
 		<li><span class="bold">Current</span>: Nancy Cartwright
-			<span class="small fright cright dim">London School of Economics</span>
-			<span class="small fright cright dim">University of California, San Diego</span></li>
+			<span class="sfcd">London School of Economics</span>
+			<span class="sfcd">University of California, San Diego</span></li>
 		<li><span class="bold">Elect</span>: Jim Woodward
-			<span class="small fright dim">California Institute of Technology</span></li>
+			<span class="sfd">California Institute of Technology</span></li>
 		<li><span class="bold">Previous</span>: Lawrence Sklar
-			<span class="small fright dim">University of Michigan</span></li>
+			<span class="sfd">University of Michigan</span></li>
 	</ul>
 	<p><a class="top" href="#top">top</a></p>
 
 	<a id="exec_sec"> </a><h3>Executive Secretary</h3>
 	<ul class="references">
 		<li>Gary Hardcastle
-			<span class="small fright dim">Bloomsburg University of Pennsylvania</span></li>
+			<span class="sfd">Bloomsburg University of Pennsylvania</span></li>
 	</ul>
 	<p><a class="top" href="#top">top</a></p>
 
 	<a id="board"> </a><h3>Governing Board</h3>
 	<ul class="references">
 		<li>Craig Callender
-			<span class="small fright dim">University of California, San Diego</span></li>
+			<span class="sfcd">University of California, San Diego</span>
+			<span class="sfcd">Term: </span></li>
 		<li>Heather Douglas
-			<span class="small fright dim">University of Tennessee, Knoxville</span></li>
+			<span class="sfcd">University of Tennessee, Knoxville</span>
+			<span class="sfcd">Term: </span></li>
 		<li>Alan Hajek
-			<span class="small fright dim">Australian National University</span></li>
+			<span class="sfcd">Australian National University</span>
+			<span class="sfcd">Term: </span></li>
 		<li>Sandra Mitchell
-			<span class="small fright dim">University of Pittsburgh</span></li>
+			<span class="sfcd">University of Pittsburgh</span>
+			<span class="sfcd">Term: </span></li>
 		<li>Nancy Nersessian
-			<span class="small fright dim">Georgia Institute of Technology</span></li>
+			<span class="sfcd">Georgia Institute of Technology</span>
+			<span class="sfcd">Term: </span></li>
 		<li>John D. Norton
-			<span class="small fright dim">University of Pittsburgh</span></li>
+			<span class="sfcd">University of Pittsburgh</span>
+			<span class="sfcd">Term: </span></li>
 		<li>P. Kyle Stanford
-			<span class="small fright dim">University of California, Irvine</span></li>
+			<span class="sfcd">University of California, Irvine</span>
+			<span class="sfcd">Term: </span></li>
 		<li>Andrea Woody
-			<span class="small fright dim">University of Washington</span></li>
+			<span class="sfcd">University of Washington</span>
+			<span class="sfcd">Term: </span></li>
 	</ul>
 	<p><a class="top" href="#top">top</a></p>

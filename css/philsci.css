@@ -295,13 +295,13 @@ table th
 
 .hidden { display: none; }
 
-.small { font-size: 85%; }
+.small, .sfd, .sfcd { font-size: 85%; }
 
-.fright { float: right; }
+.fright, .sfd, .sfcd { float: right; }
 
-.cright { clear: right; }
+.cright, .sfcd { clear: right; }
 
-.dim { color: #553; }
+.dim, .sfd, .sfcd { color: #553; }
 
 .red { color: #f00; }
 
