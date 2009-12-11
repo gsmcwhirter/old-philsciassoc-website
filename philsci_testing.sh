@@ -6,6 +6,7 @@
 
 cd ~/sites/PhilSci
 git checkout generator/generator.php
+git checkout remote_deploy.sh
 git pull
 perl -pi -w -e 's!^basepath=~/public_html/generator!basepath=~/domains/philsci.org/web/public!g' remote_deploy.sh
 perl -pi -w -e 's!^targetpath=\$basepath/target!targetpath=$basepath/staging!g' remote_deploy.sh
