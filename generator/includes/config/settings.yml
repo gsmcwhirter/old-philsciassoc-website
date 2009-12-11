@@ -36,8 +36,8 @@ production:
   page_output_dir: /users/home/philsci/domains/philsci.org/web/public/staging/
   page_final_dir: /users/home/philsci/domains/philsci.org/web/public/staging/
   page_output_template_dir: /users/home/philsci/dev/PhilSci/generator/includes/templates/
-  link_prefix_testing: /staging/
-  link_prefix_final: /
+  link_prefix_testing: /staging/testing/
+  link_prefix_final: /staging/
   domain_prefix: http://www.philsci.org
   analytics_id: UA-10966779-1
   google_verify: dYMzdN7-m4SN-XPQnSJTpB9d7-2y-Zb49CKag-YmIuA
