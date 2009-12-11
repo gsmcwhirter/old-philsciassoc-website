@@ -13,21 +13,21 @@ Please watch this space for registration and reservation information for PSA2010
 
 <h2>Program Committee</h2>
 	<ul class="references">
-		<li><span style="font-weight: bold;">Program Committee Chair:</span> Stephen M. Downes, University of Utah</li>
-		<li>Craig Callender, University of California, San Diego</li>
-		<li>David Danks, Carnegie Melon University</li>
-		<li>Heather Douglas, University of Tennessee, Knoxville</li>
-		<li>Marc Ereshevsky, University of Calgary</li>
-		<li>Branden Fitelson, University of California, Berkeley</li>
-		<li>Roman Frigg, London School of Economics</li>
-		<li>Nicholas Huggett, University of Illinois at Chicago</li>
-		<li>Martin Thomson-Jones, Oberlin College</li>
-		<li>James Joyce, University of Michigan</li>
-		<li>Ron Mallon, University of Utah</li>
-		<li>Samir Okasha, Bristol University</li>
-		<li>Julian Reiss, Erasmus University</li>
-		<li>Magaret Schabas, University of British Columbia</li>
-		<li>Robert Skipper, University of Cincinnati</li>
-		<li>David Stump, University of San Francisco</li>
-		<li>J.D. Trout, Loyola University Chicago</li>
+		<li><span class="bold">Chair:</span> Stephen M. Downes <span class="sfcd">University of Utah</span></li>
+		<li>Craig Callender <span class="sfcd">University of California, San Diego</span></li>
+		<li>David Danks <span class="sfcd">Carnegie Melon University</span></li>
+		<li>Heather Douglas <span class="sfcd">University of Tennessee, Knoxville</span></li>
+		<li>Marc Ereshevsky <span class="sfcd">University of Calgary</span></li>
+		<li>Branden Fitelson <span class="sfcd">University of California, Berkeley</span></li>
+		<li>Roman Frigg <span class="sfcd">London School of Economics</span></li>
+		<li>Nicholas Huggett <span class="sfcd">University of Illinois at Chicago</span></li>
+		<li>Martin Thomson-Jones <span class="sfcd">Oberlin College</span></li>
+		<li>James Joyce <span class="sfcd">University of Michigan</span></li>
+		<li>Ron Mallon <span class="sfcd">University of Utah</span></li>
+		<li>Samir Okasha <span class="sfcd">Bristol University</span></li>
+		<li>Julian Reiss <span class="sfcd">Erasmus University</span></li>
+		<li>Magaret Schabas <span class="sfcd">University of British Columbia</span></li>
+		<li>Robert Skipper <span class="sfcd">University of Cincinnati</span></li>
+		<li>David Stump <span class="sfcd">University of San Francisco</span></li>
+		<li>J.D. Trout <span class="sfcd">Loyola University Chicago</span></li>
 	</ul>
