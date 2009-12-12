@@ -17,8 +17,8 @@ History of the Association
 
 	<h3>Former Presidents</h3>
 	<ul class="references">
-		<li>
-			<span class="sfcd">Brian Skyrms</span>
+		<li>Brian Skyrms
+			<span class="sfcd">University of California, Irvine</span>
 			<span class="sfcd">Term: 2005/01/01 - 2006/12/31</span>
 		</li>
 	</ul>

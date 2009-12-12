@@ -14,7 +14,7 @@ Governance
 		<li><span class="bold">Current</span>: Nancy Cartwright
 			<span class="sfcd">London School of Economics</span>
 			<span class="sfcd">University of California, San Diego</span>
-			<span class="sfcd">Term: 2009/01/01 - 2012/10/31</span>
+			<span class="sfcd">Term: 2009/01/01 - 2010/12/31</span>
 		</li>
 		<li><span class="bold">Elect</span>: Jim Woodward
 			<span class="sfcd">California Institute of Technology</span>
@@ -64,6 +64,6 @@ Governance
 			<span class="sfcd">Term: 2007/01/01 - 2009/12/31</span></li>
 	</ul>
 	<p>
-		<span class="red">*</span> Indicates board members in-eligible for another term.
+		<span class="red">*</span> Indicates board members in-eligible for another consecutive term.
 	</p>
 	<p><a class="top" href="#top">top</a></p>
