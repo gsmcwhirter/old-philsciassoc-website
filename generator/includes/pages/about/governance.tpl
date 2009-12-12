@@ -32,27 +32,30 @@ Governance
 	<ul class="references">
 		<li>Craig Callender
 			<span class="sfcd">University of California, San Diego</span>
-			<span class="sfcd">Term: </span></li>
+			<span class="sfcd">Term: ? - 2009/12/31<span class="red">*</span></span></li>
 		<li>Heather Douglas
 			<span class="sfcd">University of Tennessee, Knoxville</span>
-			<span class="sfcd">Term: </span></li>
+			<span class="sfcd">Term: ? - ? </span></li>
 		<li>Alan Hajek
 			<span class="sfcd">Australian National University</span>
-			<span class="sfcd">Term: </span></li>
+			<span class="sfcd">Term: ? - 2009/12/31<span class="red">*</span></span></li>
 		<li>Sandra Mitchell
 			<span class="sfcd">University of Pittsburgh</span>
-			<span class="sfcd">Term: </span></li>
+			<span class="sfcd">Term: ? - ?</span></li>
 		<li>Nancy Nersessian
 			<span class="sfcd">Georgia Institute of Technology</span>
-			<span class="sfcd">Term: </span></li>
+			<span class="sfcd">Term: ? - ?</span></li>
 		<li>John D. Norton
 			<span class="sfcd">University of Pittsburgh</span>
-			<span class="sfcd">Term: </span></li>
+			<span class="sfcd">Term: ? - ?</span></li>
 		<li>P. Kyle Stanford
 			<span class="sfcd">University of California, Irvine</span>
-			<span class="sfcd">Term: </span></li>
+			<span class="sfcd">Term: ? - ?</span></li>
 		<li>Andrea Woody
 			<span class="sfcd">University of Washington</span>
-			<span class="sfcd">Term: </span></li>
+			<span class="sfcd">Term: ? - ?</span></li>
 	</ul>
+	<p>
+		<span class="red">*</span> Indicates board members in-eligible for another term.
+	</p>
 	<p><a class="top" href="#top">top</a></p>
