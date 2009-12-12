@@ -56,12 +56,12 @@ about:
   governance:
     _name: Governance
     _page: about_governance
-    bylaws:
-      _name: PSA Bylaws
-      _page: about_bylaws
   history:
     _name: History of the Association
     _page: about_history
   affiliates:
     _name: Professional Affiliates
     _page: about_affiliates
+  bylaws:
+    _name: PSA Bylaws
+    _page: about_bylaws
