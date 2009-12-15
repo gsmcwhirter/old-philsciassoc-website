@@ -9,7 +9,7 @@ History of the Association
 
 <a id="general"> </a><h2>General History</h2>
 <p>
-
+Coming soon...
 </p>
 <p><a class="top" href="#top">top</a></p>
 

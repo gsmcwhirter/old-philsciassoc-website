@@ -37,7 +37,7 @@ Public Engagement
 <ul class="references">
 	<li>National Research Council <a href="http://sites.nationalacademies.org/NRC/index.htm" rel="external">website</a></li>
 	<li>Union of Concerned Scientists <a href="http://www.ucsusa.org/" rel="external">website</a></li>
-	<li>Society of Risk Analysis <a href="http://www.sra.org/" rel="external">website</a></li>
+	<li>Society for Risk Analysis <a href="http://www.sra.org/" rel="external">website</a></li>
 </ul>
 
 <h3>Relevant Publications</h3>

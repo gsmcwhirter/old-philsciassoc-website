@@ -41,15 +41,24 @@ womens:
 resources:
   _name: Resources
   _page: resources_index
+  res_education:
+    _name: Education
+    _page: resources_education
   jobs:
-    _name: for Employment
+    _name: Employment
     _page: resources_jobs_index
-  philsci:
-    _name: for Philosophy of Science
-    _page: resources_philsci_index
-  students:
-    _name: for Students
-    _page: resources_student_index
+  res_funding:
+    _name: Funding Sources
+    _page: resources_funding
+  res_research:
+    _name: Journals, Archives, and On-line Resources
+    _page: resources_journals-archives-online
+  res_proforgs:
+    _name: Professional Organizations
+    _page: resources_professionalorgs
+  res_engagement:
+    _name: Public Engagement
+    _page: resources_engagement
 about:
   _name: About PSA
   _page: about_index

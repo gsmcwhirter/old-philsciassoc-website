@@ -1,6 +1,19 @@
-Journals
+Journals, Archives, and On-line Resources
 %%%
-<a id="top"> </a><h1>Journals</h1>
+<a id="top"> </a><h1>Journals, Archives, and On-line Resources</h1>
+
+<ul class="inner_menu">
+	<li><a href="#archives">Archives</a></li>
+</ul>
+
+<a id="archives"> </a><h2>Archives</h2>
+
+<ul class="references">
+	<li>University of Pittsburgh Archives of Scientific Philosophy <a href="http://www.library.pitt.edu/libraries/special/asp/archive.html" rel="external">website</a></li>
+</ul>
+<p><a href="#top" class="top">top</a></p>
+
+<a id="journals"> </a><h2>Journals</h2>
 
 <ul class="inner_menu">
 	<li><a href="#general">General Philosophy of Science</a></li>
@@ -10,7 +23,7 @@ Journals
 	<li><a href="#socsci">Philosophy of Social Science</a></li>
 </ul>
 
-<a id="general"> </a><h2>General Philosophy of Science</h2>
+<a id="general"> </a><h3>General Philosophy of Science</h3>
 <ul class="references">
 	<li>British Journal for the Philosophy of Science <a href="http://bjps.oxfordjournals.org/" rel="external">website</a></li>
 	<li>Erkenntnis <a href="http://www.springer.com/philosophy/journal/10670" rel="external">website</a></li>
@@ -24,7 +37,7 @@ Journals
 </ul>
 <p><a href="#top" class="top">top</a></p>
 
-<a id="biology"> </a><h2>Philosophy of Biology</h2>
+<a id="biology"> </a><h3>Philosophy of Biology</h3>
 <ul class="references">
 	<li>Biology &amp; Philosophy <a href="http://www.springer.com/philosophy/philosophy+of+sciences/journal/10539" rel="external">website</a></li>
 	<li>History and Philosophy of the Life Sciences <a href="http://www.hpls-szn.com/" rel="external">website</a></li>
@@ -33,14 +46,14 @@ Journals
 </ul>
 <p><a href="#top" class="top">top</a></p>
 
-<a id="chemistry"> </a><h2>Philosophy of Chemistry</h2>
+<a id="chemistry"> </a><h3>Philosophy of Chemistry</h3>
 <ul class="references">
 	<li>Foundations of Chemistry <a href="http://www.springer.com/philosophy/philosophy+of+sciences/journal/10698" rel="external">website</a></li>
 	<li>Hyle <a href="http://www.hyle.org/index.html" rel="external">website</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
 
-<a id="physics"> </a><h2>Philosophy of Physics</h2>
+<a id="physics"> </a><h3>Philosophy of Physics</h3>
 <ul class="references">
 	<li>Foundations of Physics <a href="http://www.springer.com/physics/journal/10701" rel="external">website</a></li>
 	<li>Physics and Philosophy <a href="http://physphil.tu-dortmund.de/" rel="external">website</a></li>
@@ -48,7 +61,7 @@ Journals
 </ul>
 <p><a href="#top" class="top">top</a></p>
 
-<a id="socsci"> </a><h2>Philosophy of Social Sciences</h2>
+<a id="socsci"> </a><h3>Philosophy of Social Sciences</h3>
 <ul class="references">
 	<li>Economics and Philosophy <a href="http://journals.cambridge.org/action/displayJournal?jid=eap" rel="external">website</a></li>
 	<li>History and Theory <a href="http://www.wiley.com/bw/journal.asp?ref=0018-2656" rel="external">website</a></li>
@@ -57,5 +70,15 @@ Journals
 	<li>Journal of Philosophical Economics <a href="http://www.jpe.ro/" rel="external">website</a></li>
 	<li>Journal of the Philosophy of History <a href="http://www.brill.nl/jph" rel="external">website</a></li>
 	<li>Philosophy of the Social Sciences <a href="http://www.sagepub.com/journalsProdDesc.nav?prodId=Journal200913" rel="external">website</a></li>
+</ul>
+<p><a href="#top" class="top">top</a></p>
+
+<a id="online"> </a><h2>On-line Resources</h2>
+
+<ul class="references">
+	<li>JSTOR <a href="http://www.jstor.org" rel="external">website</a></li>
+	<li>PhilSci Archive <a href="http://philsci-archive.pitt.edu/" rel="external">website</a></li>
+	<li>Stanford Encyclopedia of Philosophy <a href="http://plato.stanford.edu/" rel="external">website</a></li>
+	<li>PhilPapers <a href="http://philpapers.org/" rel="external">website</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
