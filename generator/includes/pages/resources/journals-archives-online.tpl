@@ -22,6 +22,7 @@ Journals, Archives, and On-line Resources
 	<li><a href="#biology">Philosophy of Biology</a></li>
 	<li><a href="#chemistry">Philosophy of Chemistry</a></li>
 	<li><a href="#physics">Philosophy of Physics</a></li>
+	<li><a href="#cogsci">Philosophy of Psychology and Cognitive Science</a></li>
 	<li><a href="#socsci">Philosophy of Social Science</a></li>
 </ul>
 
@@ -62,6 +63,15 @@ Journals, Archives, and On-line Resources
 	<li>Studies in the History and Philosophy of Science B<a href="http://www.elsevier.com/wps/find/journaldescription.cws_home/30566/description" rel="external">website</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
+
+<a id="cogsci"> </a><h3>Philosophy of Psychology and Cognitive Science</h3>
+<ul class="references">
+	<li>Brain and Mind <a href="http://www.springer.com/biomed/neuroscience/journal/10547" rel="external">website</a></li>
+	<li>Journal of Theoretical and Philosophical Psychology <a href="http://www.apa.org/pubs/journals/teo/index.aspx" rel="external">website</a></li>
+	<li>Mind and Language <a href="http://www.wiley.com/bw/journal.asp?ref=0268-1064" rel="external">website</a></li>
+	<li>Minds and Machines <a href="http://www.springer.com/computer/artificial/journal/11023" rel="external">website</a></li>
+	<li>Philosophical Psychology <a href="http://www.tandf.co.uk/journals/titles/09515089.asp" rel="external">website</a></li>
+</ul>
 
 <a id="socsci"> </a><h3>Philosophy of Social Sciences</h3>
 <ul class="references">
