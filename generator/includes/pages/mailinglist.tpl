@@ -1,6 +1,6 @@
-PSA Mailing List Information
+Mailing List
 %%%
-<a id="top"> </a><h1>PSA Mailing List</h1>
+<a id="top"> </a><h1>Mailing List</h1>
 
 <ul class="inner_menu">
 	<li><a href="#privacy">Purpose and Privacy</a></li>

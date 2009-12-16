@@ -1,6 +1,6 @@
-PSA Resources
+Resources
 %%%
-<h1>PSA Resources</h1>
+<h1>Resources</h1>
 <ul class="references">
 	<li><a href="[PREFIX]resources/education.html">Education</a>
 		<p>

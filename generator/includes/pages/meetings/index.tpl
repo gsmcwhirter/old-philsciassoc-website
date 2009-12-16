@@ -1,6 +1,6 @@
-PSA Meetings
+Meetings
 %%%
-<a id="top"> </a><h1>PSA Meetings</h1>
+<a id="top"> </a><h1>Meetings</h1>
 <p>
 	The PSA holds a major conference every two years (in even years), typically in early November.
 	Calls for papers and other proposed sessions typically go out about a year before the conference.

@@ -1,6 +1,6 @@
 Governance
 %%%
-<a id="top"> </a><h1>PSA Governance</h1>
+<a id="top"> </a><h1>Governance</h1>
 
 <ul class="inner_menu">
 	<li><a href="#presidents">Presidents</a></li>

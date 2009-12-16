@@ -4,6 +4,8 @@ Journals, Archives, and On-line Resources
 
 <ul class="inner_menu">
 	<li><a href="#archives">Archives</a></li>
+	<li><a href="#journals">Journals</a></li>
+	<li><a href="#online">On-line</a></li>
 </ul>
 
 <a id="archives"> </a><h2>Archives</h2>

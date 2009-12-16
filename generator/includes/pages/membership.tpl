@@ -1,6 +1,6 @@
-PSA Membership
+Membership
 %%%
-<a id="top"> </a><h1>PSA Membership</h1>
+<a id="top"> </a><h1>Membership</h1>
 
 <ul class="inner_menu">
 	<li><a href="#joining">Joining the PSA</a></li>
