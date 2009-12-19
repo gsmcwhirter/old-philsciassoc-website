@@ -11,7 +11,8 @@ ErrorDocument 404 [PREFIX]404.html
 	RewriteEngine on
 	RewriteBase [PREFIX]
 
-	RewriteRule ^/*jobs/(.*)$ resources/jobs/$1 [R=permanent]
+	RewriteRule ^/*jobs/(.*)$ resources/jobs/$1 [R=permanent,L]
+	RewriteRule ^/*conferences/(.*)$ meetings/$1 [R=permanent,L]
 </IfModule>
 
 <IfModule mod_expires.c>
