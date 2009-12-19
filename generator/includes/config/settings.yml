@@ -14,6 +14,7 @@ all:
 development:
   content_file_path: /home/hallofkv/sites/PhilSci/generator/includes/
   page_output_dir: /home/hallofkv/public_html/generator/output/
+  page_testing_dir: /home/hallofkv/public_html/generator/output/testing/
   page_final_dir: /home/hallofkv/public_html/generator/target/
   page_output_template_dir: /home/hallofkv/sites/PhilSci/generator/includes/templates/
   link_prefix_testing: /generator/output/testing/
@@ -21,23 +22,14 @@ development:
   domain_prefix: http://www.hallofkvasir.org
   analytics_id: UA-10966779-2
   google_verify: dYMzdN7-m4SN-XPQnSJTpB9d7-2y-Zb49CKag-YmIuA
-local:
-  content_file_path: /var/www/generator/includes/
-  page_output_dir: /var/www/generator/output/
-  page_final_dir: /var/www/generator/target/
-  page_output_template_dir: /var/www/generator/includes/templates/
-  link_prefix_testing: /generator/output/testing/
-  link_prefix_final: /generator/target/
-  domain_prefix: http://localhost
-  analytics_id: UA-10966779-2
-  google_verify: dYMzdN7-m4SN-XPQnSJTpB9d7-2y-Zb49CKag-YmIuA
 production:
   content_file_path: /users/home/philsci/dev/PhilSci/generator/includes/
-  page_output_dir: /users/home/philsci/domains/philsci.org/web/public/staging/
-  page_final_dir: /users/home/philsci/domains/philsci.org/web/public/staging/
+  page_output_dir: /users/home/philsci/domains/philsci.org/web/staging/
+  page_testing_dir: /users/home/philsci/domains/philsci.org/web/public/staging/
+  page_final_dir: /users/home/philsci/domains/philsci.org/web/public/
   page_output_template_dir: /users/home/philsci/dev/PhilSci/generator/includes/templates/
-  link_prefix_testing: /staging/testing/
-  link_prefix_final: /staging/
+  link_prefix_testing: /staging/
+  link_prefix_final: /
   domain_prefix: http://www.philsci.org
   analytics_id: UA-10966779-1
   google_verify: dYMzdN7-m4SN-XPQnSJTpB9d7-2y-Zb49CKag-YmIuA

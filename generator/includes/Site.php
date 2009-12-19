@@ -13,6 +13,7 @@ class Site
 	protected $_link_prefix_testing;
 	protected $_link_prefix_final;
 	protected $_output_dir;
+	protected $_testing_dir;
 	protected $_final_dir;
 	protected $_output_order;
 	protected $_template_dir;
@@ -27,6 +28,7 @@ class Site
 	public function __construct($page_data, $menu_data, Settings $settings)
 	{
 		$this->_output_dir = $settings->page_output_dir;
+		$this->_testing_dir = $settings->page_testing_dir;
 		$this->_final_dir = $settings->page_final_dir;
 		$this->_link_prefix_final = $settings->link_prefix_final;
 		$this->_link_prefix_testing = $settings->link_prefix_testing;
@@ -237,6 +239,10 @@ class Site
 		switch($type)
 		{
 			case "testing":
+				if($this->_testing_dir != $this->_output_dir.$type."/")
+				{
+					return $this->_move_pages_recursive($this->_output_dir.$type, $this->_testing_dir);
+				}
 				break;
 			case "final":
 				return $this->_move_pages_recursive($this->_output_dir.$type, $this->_final_dir);

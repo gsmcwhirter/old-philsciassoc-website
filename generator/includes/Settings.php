@@ -9,6 +9,7 @@ class Settings
 		"link_prefix_final" => null,
 		"domain_prefix" => null,
 		"page_output_dir" => null,
+		"page_testing_dir" => null,
 		"page_final_dir" => null,
 		"page_output_order" => null,
 		"page_output_template_dir" => null,

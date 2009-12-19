@@ -61,7 +61,16 @@ if(in_array($testing_or_final, array("testing", "final")))
 		{
 			case "testing":
 				$site->generate_pages("testing");
-				echo "Success: Pages generated. Url: ".$settings->domain_prefix.$settings->link_prefix_testing."\n";
+				$ret = $site->move_pages("testing");
+				if($ret)
+				{
+					echo "Success: Pages generated. Url: ".$settings->domain_prefix.$settings->link_prefix_testing."\n";
+				}
+				else
+				{
+					throw new Exception("Unable to move generated files.");
+				}
+				
 				break;
 			case "final":
 				$site->generate_pages("final");
