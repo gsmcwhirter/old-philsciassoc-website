@@ -72,6 +72,7 @@ Journals, Archives, and On-line Resources
 	<li>Minds and Machines <a href="http://www.springer.com/computer/artificial/journal/11023" rel="external">website</a></li>
 	<li>Philosophical Psychology <a href="http://www.tandf.co.uk/journals/titles/09515089.asp" rel="external">website</a></li>
 </ul>
+<p><a href="#top" class="top">top</a></p>
 
 <a id="socsci"> </a><h3>Philosophy of Social Sciences</h3>
 <ul class="references">
