@@ -1,11 +1,19 @@
 #!/bin/sh
 
-basepath=~/public_html/generator
+basepath=$HOME/public_html/generator
 targetpath=$basepath/target
-sourcepath=~/sites/PhilSci
+sourcepath=$HOME/sites/PhilSci
 
-mkdir $basepath
-mkdir $targetpath
+if [ ! -d $basepath ]
+then
+	mkdir $basepath
+fi
+
+if [ ! -d $targetpath ]
+then
+	mkdir $targetpath
+fi
+
 cp -r $sourcepath/css/ $targetpath
 cp -r $sourcepath/images/ $targetpath
 cp -r $sourcepath/javascript/ $targetpath
