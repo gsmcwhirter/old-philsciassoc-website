@@ -536,9 +536,9 @@ iframe
 
 .news .byline
 {
-	/*float: right;
-	clear: right;
-	width: auto;*/
+	float: left;
+	clear: left;
+	width: auto;
 	color: #666;
 	padding:0 10px;
 	font-size: 85%;
