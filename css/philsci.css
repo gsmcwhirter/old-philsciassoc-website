@@ -519,7 +519,7 @@ iframe
 {
 	float: left;
 	width: auto;
-	font-size: 116%;
+	font-size: 153.9%; /*116%;*/
 	font-weight: bold;
 	margin-top: 0;
 }
@@ -542,6 +542,9 @@ iframe
 	color: #666;
 	padding:0 10px;
 	font-size: 85%;
+	text-align: bottom;
+	height: 20px;
+	min-height: 20px;
 }
 
 .news .more

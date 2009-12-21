@@ -11,12 +11,12 @@ schedule <cite>Philosophy of Science</cite> will be on schedule by March of 2010
 This means that we anticipate the delivery of five issues of <cite>Philosophy of Science</cite>
 in the next three months, as follows:
 </p>
-<ul class="bullets bold">
-<li><cite>Philosophy of Science</cite> July 2009 (v76n3): January 15, 2010</li>
-<li><cite>Philosophy of Science</cite> Oct 2009 (v76n4): January 31, 2010</li>
-<li><cite>Philosophy of Science</cite> Dec 2009 (v76n5): February 14, 2010</li>
-<li><cite>Philosophy of Science</cite> January 2010 (v77n1): February 28, 2010</li>
-<li><cite>Philosophy of Science</cite> April 2010 (v77n2): March 22, 2010</li>
+<ul class="bullets">
+<li><cite>Philosophy of Science</cite> July 2009 (v76n3): <span class="bold">January 15, 2010</span></li>
+<li><cite>Philosophy of Science</cite> Oct 2009 (v76n4): <span class="bold">January 31, 2010</span></li>
+<li><cite>Philosophy of Science</cite> Dec 2009 (v76n5): <span class="bold">February 14, 2010</span></li>
+<li><cite>Philosophy of Science</cite> January 2010 (v77n1): <span class="bold">February 28, 2010</span></li>
+<li><cite>Philosophy of Science</cite> April 2010 (v77n2): <span class="bold">March 22, 2010</span></li>
 </ul>
 <p>
 2010 will thus begin with quite a serving of very high quality philosophy of
