@@ -522,7 +522,6 @@ iframe
 	font-size: 153.9%; /*116%;*/
 	font-weight: bold;
 	margin-top: 0;
-	clear: right;
 }
 
 .news .link
@@ -537,15 +536,12 @@ iframe
 
 .news .byline
 {
-	float: right;
+	/*float: right;
 	clear: right;
-	width: auto;
+	width: auto;*/
 	color: #666;
 	padding:0 10px;
 	font-size: 85%;
-	vertical-align: bottom;
-	height: 20px;
-	min-height: 20px;
 }
 
 .news .more
