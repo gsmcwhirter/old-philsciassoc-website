@@ -12,11 +12,11 @@ This means that we anticipate the delivery of five issues of <cite>Philosophy of
 in the next three months, as follows:
 </p>
 <ul class="bullets bold">
-<li><cite>Philosophy of Science</cite> July 2009 (v76n3) is projected to mail on 1-15-10</li>
-<li><cite>Philosophy of Science</cite> Oct 2009 (v76n4) is projected to mail on 01-31-10</li>
-<li><cite>Philosophy of Science</cite> Dec 2009 (v76n5) is projected to mail on 2-14-10</li>
-<li><cite>Philosophy of Science</cite> January 2010 (v77n1) is scheduled to mail on 2-28-10</li>
-<li><cite>Philosophy of Science</cite> April 2010 (v77n2) is expected to mail on 3-22-10</li>
+<li><cite>Philosophy of Science</cite> July 2009 (v76n3): 2010/01/15</li>
+<li><cite>Philosophy of Science</cite> Oct 2009 (v76n4): 2010/01/31</li>
+<li><cite>Philosophy of Science</cite> Dec 2009 (v76n5): 2010/02/14</li>
+<li><cite>Philosophy of Science</cite> January 2010 (v77n1): 2010/02/28</li>
+<li><cite>Philosophy of Science</cite> April 2010 (v77n2): 2010/03/22</li>
 </ul>
 <p>
 2010 will thus begin with quite a serving of very high quality philosophy of
