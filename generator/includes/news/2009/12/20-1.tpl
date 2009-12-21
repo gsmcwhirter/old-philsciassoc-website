@@ -40,8 +40,8 @@ are immediately available online to PSA members at
 </p>
 <p>
 If you've not renewed your membership, let me encourage you to do so now,
-especially as the University of Chicago Press is offering a 30% discount on UCP
-titles to new or renewing members.
+especially as the <span class="bold">University of Chicago Press is offering a 30% discount on UCP
+titles to new or renewing members</span>.
 </p>
 <p>
 - Gary Hardcastle
