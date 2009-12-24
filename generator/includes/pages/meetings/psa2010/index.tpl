@@ -24,7 +24,7 @@ Please watch this space for registration and reservation information for PSA2010
 	<li>Craig Callender <span class="sfcd">University of California, San Diego</span></li>
 	<li>David Danks <span class="sfcd">Carnegie Melon University</span></li>
 	<li>Heather Douglas <span class="sfcd">University of Tennessee, Knoxville</span></li>
-	<li>Marc Ereshevsky <span class="sfcd">University of Calgary</span></li>
+	<li>Marc Ereshefsky <span class="sfcd">University of Calgary</span></li>
 	<li>Branden Fitelson <span class="sfcd">University of California, Berkeley</span></li>
 	<li>Roman Frigg <span class="sfcd">London School of Economics</span></li>
 	<li>Nicholas Huggett <span class="sfcd">University of Illinois at Chicago</span></li>
