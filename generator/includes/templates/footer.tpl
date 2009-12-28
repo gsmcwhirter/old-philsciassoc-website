@@ -30,7 +30,7 @@
 	</script>
 	<script type="text/javascript">
 		try {
-		var pageTracker = _gat._getTracker([ANALYTICS_ID]);
+		var pageTracker = _gat._getTracker("[ANALYTICS_ID]");
 		pageTracker._trackPageview();
 		} catch(err) {}
 	</script>
