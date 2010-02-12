@@ -38,5 +38,6 @@ Philosophy of Science Association.
 	<li><a href="[PREFIX]resources/jobs/ft-santiago.html">Full Time Philosopher Required, University of Santiago, Chile</a></li>
 	<li><a href="[PREFIX]resources/jobs/postdoc-osu.html">Post-doctoral Fellowship, Oregon State University</a></li>
 	<li><a href="[PREFIX]resources/jobs/postdoc-pitt.html">Mellon Post Doctoral Fellowship, University of Pittsburgh</a></li>
+    <li><a href="[PREFIX]resources/jobs/cambridge.html">University Lecturer in Philosophy of Science, University of Cambridge</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
