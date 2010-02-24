@@ -1,6 +1,6 @@
 University of Cambridge University Lecturer
 %%%
-<h1>University Lecturer in Philosophy of Science</h1>
+<a id="top"> </a><h1>University Lecturer in Philosophy of Science</h1>
 <p>
     Department of History and Philosophy of Science University of Cambridge
 </p>
@@ -40,3 +40,4 @@ Quote Reference: JN06104<br />
 Closing Date: 12 March 2010<br />
 Jobtalks will take place on 14th April with interviews on 15th April 2010
 </p>
+<p><a href="#top" class="top">top</a></p>
