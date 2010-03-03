@@ -14,6 +14,10 @@ The final deadline for submission is April 27, 2010.   But in order for Section
 L to help with proposals, symposia need to submitted to any member of the
 steering committee of Section L much sooner, preferably by April 1.
 </p>
+<p>
+Section L officers can be found here:
+<a href="http://www.aaas.org/aboutaaas/organization/sections/hist.shtml" rel="external">http://www.aaas.org/aboutaaas/organization/sections/hist.shtml</a>.
+</p>
 [split here]
 <p>
 The following are the necessary parts for a proposal:
@@ -25,10 +29,10 @@ The following are the necessary parts for a proposal:
         relevance to general science audience (e.g. “cross-cutting activities in
         support of science, technology, and education”)  (500 characters)</li>
     <li>Scheduling requirements:
-        <ol>
+        <ul class="bullets">
             <li>90 minutes: 3 speakers with 15-30 min. of discussion</li>
             <li>180 minutes: 4-6 speakers with discussion</li>
-        </ol>
+        </ul>
         Longer symposia require additional justification (1000 characters)</li>
     <li>Participants (organizer, speaker, moderator, discussants, etc.) and Contact information
         <ul class="bullets">
@@ -44,8 +48,4 @@ The following are the necessary parts for a proposal:
 Generally, sessions with broad appeal on topics of general interest to scientists
 and the public have the best chance.
 Interdisciplinary and diverse panels will also do better.
-</p>
-<p>
-Section L officers can be found here:
-<a href="http://www.aaas.org/aboutaaas/organization/sections/hist.shtml" rel="external">http://www.aaas.org/aboutaaas/organization/sections/hist.shtml</a>.
 </p>
