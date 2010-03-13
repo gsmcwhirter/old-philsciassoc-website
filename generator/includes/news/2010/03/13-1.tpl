@@ -4,14 +4,14 @@
 ANNOUNCEMENT AND CALL FOR PRELIMINARY REGISTRATION
 </p>
 <ul class="bullets">
-<li><span clas="bold">Location</span>: Nancy, France</li>
-<li><span clas="bold">Sponsored by</span>: Nancy University</li>
-<li><span clas="bold">Website</span>: <a href="http://www.clmps2011.org" rel="external">http://www.clmps2011.org</a></li>
-<li><span clas="bold">Event Contact E-mail Address</span>: <a href="mailto:contact@clmps2011.org" rel="email">contact@clmps2011.org</a></li>
-<li><span clas="bold">Event Start Date</span>: 07/19/2011</li>
-<li><span clas="bold">Event End Date</span>: 07/26/2011</li>
-<li><span clas="bold">Abstract Deadline</span>: 10/31/2010</li>
-</p>
+<li><span class="bold">Location</span>: Nancy, France</li>
+<li><span class="bold">Sponsored by</span>: Nancy University</li>
+<li><span class="bold">Website</span>: <a href="http://www.clmps2011.org" rel="external">http://www.clmps2011.org</a></li>
+<li><span class="bold">Event Contact E-mail Address</span>: <a href="mailto:contact@clmps2011.org" rel="email">contact@clmps2011.org</a></li>
+<li><span class="bold">Event Start Date</span>: 07/19/2011</li>
+<li><span class="bold">Event End Date</span>: 07/26/2011</li>
+<li><span class="bold">Abstract Deadline</span>: 10/31/2010</li>
+</ul>
 [split here]
 <p>
 It is with pleasure that we announce the upcoming 14th Congress of
