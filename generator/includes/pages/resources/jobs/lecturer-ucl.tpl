@@ -3,7 +3,7 @@ University College London Full-Time Lecturer
 <a id="top"> </a><h1>Full-Time Lecturer, University College London</h1>
 <ul class="bullets">
 	<li>AoS/AoC: Philosophy of Science</li>
-	<li>Deadline: 16 April 2010; interviews in early May</li>
+	<li>Deadline: 16 April 2010; interviews 20 May 2010</li>
 </ul>
 <p>
 The Department of Science and Technology Studies at UCL seeks to appoint a
