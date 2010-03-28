@@ -1,7 +1,7 @@
 Announcing the Launch of a New Journal
 %%%
 <p>
-We are pleased to announce the launch of a new journal: <cite>Metatheoria - Journal of Philosophy and History of Science</cite>
+We are pleased relay the announcement of the launch of a new journal: <cite>Metatheoria - Journal of Philosophy and History of Science</cite>
 </p>
 <ul class="bullets">
 <li>Editors-in-Chief: César Lorenzano (Tres de Febrero National University,
