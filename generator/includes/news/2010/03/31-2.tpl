@@ -1,4 +1,4 @@
-<acronym title="History of Philosophy of Science">HOPOS</acronym> Editors Seek Papers for Inaugural Spring 2011 Issue
+<acronym title="History of Philosophy of Science">HOPOS</acronym> Journal Editors Seek Papers for Inaugural Spring 2011 Issue
 %%%
 <p >
 The University of Chicago Press and the International Society for the History of
