@@ -33,11 +33,11 @@ Coming soon...
 
 	<h3>Former Governing Board Members</h3>
 	<ul class="references">
-		<!--<li>Craig Callender
+		<li>Craig Callender
 			<span class="sfcd">University of California, San Diego</span>
-			<span class="sfcd">Term: 2006/01/01 - 2009/12/31</span></li>
+			<span class="sfcd">Term: 2006/01/01 - 2009/12/31</li>
 		<li>Alan Hajek
 			<span class="sfcd">Australian National University</span>
-			<span class="sfcd">Term: 2006/01/01 - 2009/12/31</span></li>-->
+			<span class="sfcd">Term: 2006/01/01 - 2009/12/31</span></li>
 	</ul>
 	<p><a class="top" href="#top">top</a></p>

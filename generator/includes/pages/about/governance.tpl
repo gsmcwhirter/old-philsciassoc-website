@@ -38,21 +38,21 @@ Governance
 
 	<a id="board"> </a><h3>Governing Board</h3>
 	<ul class="references">
-		<li>Craig Callender
-			<span class="sfcd">University of California, San Diego</span>
-			<span class="sfcd">Term: 2006/01/01 - 2009/12/31<span class="red">*</span></span></li>
 		<li>Heather Douglas
 			<span class="sfcd">University of Tennessee, Knoxville</span>
 			<span class="sfcd">Term: 2007/01/01 - 2010/12/31<span class="red">*</span></span></li>
-		<li>Alan Hajek
-			<span class="sfcd">Australian National University</span>
-			<span class="sfcd">Term: 2006/01/01 - 2009/12/31<span class="red">*</span></span></li>
+        <li>Stephan Hartmann
+            <span class="sfcd">Tilburg University</span>
+            <span class="sfcd">Term: 2010/01/01 - 2011/12/31</span></li>
+        <li>Roberta Millstein
+            <span class="sfcd">University of California, Davis</span>
+            <span class="sfcd">Term: 2010/01/01 - 2011/12/31</span></li>
 		<li>Sandra Mitchell
 			<span class="sfcd">University of Pittsburgh</span>
 			<span class="sfcd">Term: 2007/01/01 - 2010/12/31<span class="red">*</span></span></li>
 		<li>Nancy Nersessian
 			<span class="sfcd">Georgia Institute of Technology</span>
-			<span class="sfcd">Term: 2007/01/01 - 2009/12/31</span></li>
+			<span class="sfcd">Term: 2008/01/01 - 2011/12/31<span class="red">*</span></span></li>
 		<li>John D. Norton
 			<span class="sfcd">University of Pittsburgh</span>
 			<span class="sfcd">Term: 2007/01/01 - 2010/12/31<span class="red">*</span></span></li>
@@ -61,7 +61,7 @@ Governance
 			<span class="sfcd">Term: 2007/01/01 - 2010/12/31<span class="red">*</span></span></li>
 		<li>Andrea Woody
 			<span class="sfcd">University of Washington</span>
-			<span class="sfcd">Term: 2007/01/01 - 2009/12/31</span></li>
+			<span class="sfcd">Term: 2008/01/01 - 2011/12/31<span class="red">*</span></span></li>
 	</ul>
 	<p>
 		<span class="red">*</span> Indicates board members in-eligible for another consecutive term.
