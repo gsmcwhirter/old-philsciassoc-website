@@ -20,8 +20,8 @@ H2
 
 DIV.margins 
 { 
-	margin-left: 8em;
-	margin-right: 8em;
+	margin-left: 16em;
+	margin-right: 16em;
 }
 
 P.indent { padding-left: 2em; }
@@ -33,6 +33,8 @@ border-top: solid 1px #FFFFFF;
 border-bottom: solid 1px #FFFFFF;
 margin-top: 5px;
 margin-bottom: 20px;
+margin-left: 16em;
+margin-right: 16em;
 }
 
 div#navcontainer ul
