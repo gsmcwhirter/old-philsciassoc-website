@@ -30,7 +30,7 @@ resources_journals-archives-online: res_research
 resources_funding: res_funding
 #resources - education
 resources_education_index: res_education
-resources_education_tipls: res_education
+resources_education_tilps: res_education
 #resources - jobs
 resources_jobs_index: jobs
 resources_jobs_tt-northeastern: jobs
