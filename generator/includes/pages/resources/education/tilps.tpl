@@ -1,5 +1,5 @@
-<!--PhD Student-Employee Position, TiLPS
-%%%-->
+PhD Student-Employee Position, TiLPS
+%%%
 <a id="top"> </a><h1>PhD Student-Employee Position (Formal Philosophy), Tilburg
 Center for Logic and Philosophy of Science</h1>
 <ul class="bullets">
