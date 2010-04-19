@@ -1,7 +1,7 @@
-PhD Position, TiLPS
+PhD Student-Employee Position, TiLPS
 %%%
-<a id="top"> </a><h1>PhD Position (Formal Philosophy), Tilburg Center for Logic and Philosophy
-of Science</h1>
+<a id="top"> </a><h1>PhD Student-Employee Position (Formal Philosophy), Tilburg
+Center for Logic and Philosophy of Science</h1>
 <ul class="bullets">
 	<li>Background: logic and/or game theory/social choice theory</li>
 	<li>Deadline: May 21, 2010</li>

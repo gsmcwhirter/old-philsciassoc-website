@@ -9,9 +9,12 @@ Education
 
 <a id="announcements"> </a><h2>Announcements</h2>
 <ul class="references">
+    <li><a href="[PREFIX]resources/education/tilps.html" rel="external">details</a>
+        <span class="bold">PhD Student-Employee Position (Formal Philosophy), Tilburg Center for Logic and Philosophy of Science</span>
+    </li>
 	<li>
+        <a href="[PREFIX_FINAL]files/funding-phil-lse.pdf" rel="download">download</a>
 		<span class="bold">Funding Opportunities for Graduate Studies in Philosophy at <acronym title="London School of Economics and Political Science">LSE</acronym></span>
-		<a href="[PREFIX_FINAL]files/funding-phil-lse.pdf" rel="download">download</a>
 	</li>
 	<li>
 		<a href="http://www.yorku.ca/gradsts/" rel="external">website</a>

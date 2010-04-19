@@ -24,11 +24,13 @@ meetings_psa2006_cfp-sympwork: meetings_psa2006
 meetings_psa2006_contributor-info: meetings_psa2006
 #resources
 resources_index: resources
-resources_education: res_education
 resources_engagement: res_engagement
 resources_professionalorgs: res_proforgs
 resources_journals-archives-online: res_research
 resources_funding: res_funding
+#resources - education
+resources_education_index: res_education
+resources_education_tipls: res_education
 #resources - jobs
 resources_jobs_index: jobs
 resources_jobs_tt-northeastern: jobs
@@ -42,7 +44,6 @@ resources_jobs_fellowship-aarhus: jobs
 resources_jobs_geneva: jobs
 resources_jobs_erasmus: jobs
 resources_jobs_caltech: jobs
-resources_jobs_tilps: jobs
 #newsletters
 newsletter_14-1: newsletter
 newsletter_13-2: newsletter

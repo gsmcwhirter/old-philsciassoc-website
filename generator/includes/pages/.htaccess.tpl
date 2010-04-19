@@ -11,10 +11,12 @@ ErrorDocument 404 [PREFIX]404.html
 	RewriteEngine on
 	RewriteBase [PREFIX]
 
+    #fixing old links
 	RewriteRule ^/*conferences.html$ meetings/index.html [R=permanent,L]
 	RewriteRule ^/*conferences/psa2010/(.*\.pdf)$ files/$1 [R=permanent,L]
 	RewriteRule ^/*jobs/(.*)$ resources/jobs/$1 [R=permanent,L]
 	RewriteRule ^/*conferences/(.*)$ meetings/$1 [R=permanent,L]
+    RewriteRule ^/*resources/education.html$ resources/education/index.html [R=permanent,L]
 </IfModule>
 
 <IfModule mod_expires.c>

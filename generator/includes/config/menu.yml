@@ -43,7 +43,7 @@ resources:
   _page: resources_index
   res_education:
     _name: Education
-    _page: resources_education
+    _page: resources_education_index
   jobs:
     _name: Employment
     _page: resources_jobs_index
