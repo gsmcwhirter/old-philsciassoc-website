@@ -10,7 +10,7 @@ Education
 <a id="announcements"> </a><h2>Announcements</h2>
 <ul class="references">
     <li><a href="[PREFIX]resources/education/tilps.html" rel="link">details</a>
-        <span class="bold">PhD Student-Employee Position (Formal Philosophy), Tilburg Center for Logic and Philosophy of Science</span>
+        <span class="bold">PhD Student-Employee Position (Formal Philosophy)<br />Tilburg Center for Logic and Philosophy of Science</span>
     </li>
 	<li>
         <a href="[PREFIX_FINAL]files/funding-phil-lse.pdf" rel="download">download</a>
