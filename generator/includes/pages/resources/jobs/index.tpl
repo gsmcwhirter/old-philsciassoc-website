@@ -45,5 +45,6 @@ Philosophy of Science Association.
     <li><a href="[PREFIX]resources/jobs/erasmus.html">Assistant Professor, Erasmus University Rotterdam, The Netherlands</a></li>
     <li><a href="[PREFIX]resources/jobs/caltech.html">Post-Doctoral Scholar, California Institute of Technology</a></li>
     <li><a href="[PREFIX]resources/jobs/tennessee.html">Two Lecturer (Teaching) Positions, University of Tennessee</a></li>
+    <li><a href="[PREFIX]resources/jobs/cambridge-2.html">Teaching Associate, University of Cambridge</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
