@@ -33,7 +33,7 @@ The jury of the Fernando Gil International Prize 2010 includes the following
 members:
 </p>
 <ul>
-    <li>Henri Atlan (Hadassah University Hospital, Jerusalem & École des Hautes Études en Sciences Sociales, Paris)</li>
+    <li>Henri Atlan (Hadassah University Hospital, Jerusalem &amp; École des Hautes Études en Sciences Sociales, Paris)</li>
     <li>Per Aage Brandt (Case Western Reserve University)</li>
     <li>Marcelo Dascal (Tel Aviv University)</li>
     <li>Vincent Descombes (École des Hautes Études en Sciences Sociales, Paris)</li>
@@ -43,7 +43,7 @@ members:
     <li>Maria Filomena Molder (Departamento de Filosofia, Universidade Nova de Lisboa)</li>
     <li>Frédéric Nef (École des Hautes Études en Sciences Sociales, Paris)</li>
     <li>Jean Petitot (École des Hautes Études en Sciences Sociales, Paris)</li>
-    <li>Massimo Piattelli–Palmarini (University of Arizona, Tucson & MIT)</li>
+    <li>Massimo Piattelli–Palmarini (University of Arizona, Tucson &amp; MIT)</li>
     <li>Bertrand Saint–Sernin (Institut de France)</li>
     <li>Manuel Silvério Marques (Centro de Filosofia, Universidade de Lisboa)</li>
 </ul>
