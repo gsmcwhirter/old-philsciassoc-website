@@ -1,7 +1,9 @@
 Call for Papers: SPSP Third Biennial Conference
 %%%
-<h3>CALL FOR PAPERS</h3>
-<h4>Society for Philosophy of Science in Practice (SPSP) Third Biennial Conference</h4>
+<p>
+<strong>CALL FOR PAPERS</strong><br />
+<strong>Society for Philosophy of Science in Practice (SPSP) Third Biennial Conference</strong>
+</p>
 <ul class="bullets">
     <li>22-24 June 2011</li>
     <li>University of Exeter, Exeter, UK</li>
