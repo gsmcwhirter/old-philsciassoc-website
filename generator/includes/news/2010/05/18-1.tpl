@@ -10,9 +10,10 @@ Call for Papers: SPSP Third Biennial Conference
     <li>University of Exeter, Exeter, UK</li>
 </ul>
 <p>
-For registration and further information on the conference, please visit our
-website at <a href="http://www.genomicsnetwork.ac.uk/egenis/events/conferences/title,23552,en.html" rel="external">http://www.genomicsnetwork.ac.uk&#8203;/egenis/events/conferences/title,23552,en.html</a>.
-<br />
+For registration and further information on the conference, please visit <a href="http://www.genomicsnetwork.ac.uk/egenis/events/conferences/title,23552,en.html" rel="external">our
+website</a>.
+</p>
+<p>
 For general information on SPSP, please see <a href="http://www.gw.utwente.nl/spsp/" rel="external">http://www.gw.utwente.nl/spsp/</a>.
 </p>
 <ul class="bullets">
