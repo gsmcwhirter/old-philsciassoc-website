@@ -2,7 +2,8 @@ Call for Papers: SPSP Third Biennial Conference
 %%%
 <p>
 <strong>CALL FOR PAPERS</strong><br />
-<strong>Society for Philosophy of Science in Practice (SPSP) Third Biennial Conference</strong>
+<strong>Society for Philosophy of Science in Practice (SPSP)</strong><br />
+<strong>Third Biennial Conference</strong>
 </p>
 <ul class="bullets">
     <li>22-24 June 2011</li>
@@ -10,7 +11,7 @@ Call for Papers: SPSP Third Biennial Conference
 </ul>
 <p>
 For registration and further information on the conference, please visit our
-website at <a href="http://www.genomicsnetwork.ac.uk/egenis/events/conferences/title,23552,en.html" rel="external">http://www.genomicsnetwork.ac.uk/egenis/events/conferences/title,23552,en.html</a>.
+website at <a href="http://www.genomicsnetwork.ac.uk/egenis/events/conferences/title,23552,en.html" rel="external">http://www.genomicsnetwork.ac.uk&#8203;/egenis/events/conferences/title,23552,en.html</a>.
 <br />
 For general information on SPSP, please see <a href="http://www.gw.utwente.nl/spsp/" rel="external">http://www.gw.utwente.nl/spsp/</a>.
 </p>
