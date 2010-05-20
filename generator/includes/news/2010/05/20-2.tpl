@@ -6,10 +6,14 @@ Call for Papers for TRiP 2011
 TRiP 2011: Three Rivers Philosophy Conference
 </p>
 <ul class="bullets">
-    <li>University of South Carolina, Columbia, SC</li>
-    <li>April 1st - April 3rd, 2011</li>
+    <li>Conference Location: University of South Carolina, Columbia, SC</li>
+    <li>Conference Dates: April 1st - April 3rd, 2011.</li>
+    <li>Abstract Submission Due Date: November 1st, 2010 to <a href="mailto:TRiPconference@gmail.com" rel="email">TRiPconference@gmail.com</a></li>
+    <li>Notification of Acceptance: Early December, 2010.</li>
+    <li>PDF of CFP Flyer: <a href="http://www.cas.sc.edu/phil/flyers/trip2011.pdf" rel="external">http://www.cas.sc.edu/phil/flyers/trip2011.pdf</a></li>
     <li>CFP: <a href="http://www.cas.sc.edu/phil/flyers/trip2011.pdf" rel="external">http://www.cas.sc.edu/phil/flyers/trip2011.pdf</a></li>
 </ul>
+[split here]
 <p>
 Keynote Speakers:
 </p>
@@ -51,9 +55,3 @@ promises to be a very fruitful intellectual exchange.  If you have any questions
 about the conference, please contact one of the organizers: Kevin Elliott
 (<a href="mailto:ke@sc.edu" rel="email">ke@sc.edu</a>) or Justin Weinberg (<a href="mailto:jweinberg@sc.edu">jweinberg@sc.edu</a>).
 </p>
-<ul class="bullets">
-    <li>Conference Dates: April 1st - April 3rd, 2011.</li>
-    <li>Abstract Submission Due Date: November 1st, 2010 to <a href="mailto:TRiPconference@gmail.com" rel="email">TRiPconference@gmail.com</a></li>
-    <li>Notification of Acceptance: Early December, 2010.</li>
-    <li>PDF of CFP Flyer: <a href="http://www.cas.sc.edu/phil/flyers/trip2011.pdf" rel="external">http://www.cas.sc.edu/phil/flyers/trip2011.pdf</a></li>
-</ul>
