@@ -2,8 +2,8 @@ Call for Papers for TRiP 2011
 %%%
 <p>
 <strong>CALL FOR PAPERS</strong><br />
-"Science, Knowledge, and Democracy"<br />
-TRiP 2011: Three Rivers Philosophy Conference
+<strong>TRiP 2011: Three Rivers Philosophy Conference</strong><br />
+<strong>"Science, Knowledge, and Democracy"</strong>
 </p>
 <ul class="bullets">
     <li>Conference Location: University of South Carolina, Columbia, SC</li>
@@ -11,7 +11,6 @@ TRiP 2011: Three Rivers Philosophy Conference
     <li>Abstract Submission Due Date: November 1st, 2010 to <a href="mailto:TRiPconference@gmail.com" rel="email">TRiPconference@gmail.com</a></li>
     <li>Notification of Acceptance: Early December, 2010.</li>
     <li>PDF of CFP Flyer: <a href="http://www.cas.sc.edu/phil/flyers/trip2011.pdf" rel="external">http://www.cas.sc.edu/phil/flyers/trip2011.pdf</a></li>
-    <li>CFP: <a href="http://www.cas.sc.edu/phil/flyers/trip2011.pdf" rel="external">http://www.cas.sc.edu/phil/flyers/trip2011.pdf</a></li>
 </ul>
 [split here]
 <p>
