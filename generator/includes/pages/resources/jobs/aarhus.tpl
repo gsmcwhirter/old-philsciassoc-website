@@ -47,7 +47,7 @@ A complete list of publications, a description of future research plans,
 information about previous research activities and management experience,
 description of teaching qualifications and of the applicant’s views on or ideas
 for teaching philosophy of science to science students, and a sample of
-publications (max 5) (see <a href="http://science.au.dk/fileadmin/site_files/science.au.dk/files/document1043.pdf" rel="external">http://science.au.dk/fileadmin/site_files/science.au.dk/files/document1043.pdf</a>
+publications (max 5) (see <a href="http://science.au.dk/fileadmin/site_files/science.au.dk/files/document1043.pdf" rel="external">this document</a>
 for the recommended level of detail).
 </p>
 <p>
@@ -79,7 +79,7 @@ the Confederation of Professional Unions.
 </p>
 <h2>Deadline</h2>
 <p>
-All applications must be made <a href="https://ssl1.peoplexs.com/Peoplexs22/CandidatesPortalNoLogin/ApplicationForm.cfm?CFID=4295&CFTOKEN=a5a405c503112d55-977203D9-0D34-6571-E45D6B537EB6F84D&jsessionid=8030a1d57305ae17702215d4b5a5a285675bTR&PortalID=1407&VacatureID=104147" rel="external">online</a>
+All applications must be made <a href="https://ssl1.peoplexs.com/Peoplexs22/CandidatesPortalNoLogin/ApplicationForm.cfm?CFID=4295&amp;CFTOKEN=a5a405c503112d55-977203D9-0D34-6571-E45D6B537EB6F84D&amp;jsessionid=8030a1d57305ae17702215d4b5a5a285675bTR&amp;PortalID=1407&amp;VacatureID=104147" rel="external">online</a>
 and received by: 20/08/2010<br />
 The full ad with link to the online application system can be found at
 <a href="http://science.au.dk/en/positions-and-fellowships/academic-positions/" rel="external">http://science.au.dk/en/positions-and-fellowships/academic-positions/</a>.
