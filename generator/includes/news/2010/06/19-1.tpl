@@ -9,7 +9,7 @@ generosity of past presidents of the PSA.
 <p>
 Application guidelines for the two awards are as follows:
 </p>
-<h2>PSA Graduate Student Essay Award</h2>
+<h3>PSA Graduate Student Essay Award</h3>
 <p>
 Essays may be on any topic in the philosophy of science and should be submitted
 to <cite>Philosophy of Science</cite> before <strong>1 August 2010</strong>. The
@@ -20,7 +20,7 @@ standing. Previously submitted or published articles are not eligible for the
 award. Please send an email, including the relevant documentation, to
 <a href="mailto:philsci@uci.edu" rel="email">philsci@uci.edu</a>.
 </p>
-<h2>PSA Recent Ph.D. Essay Award</h2>
+<h3>PSA Recent Ph.D. Essay Award</h3>
 <p>
 A prize of $250 will be awarded to the best article in Philosophy of Science
 written by someone who received a Ph.D. within the last five years. To be
