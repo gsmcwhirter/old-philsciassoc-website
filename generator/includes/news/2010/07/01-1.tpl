@@ -17,7 +17,7 @@ January 2011) kicks off. Please note:
     Although favorable rates have been negotiated for all delegates, we urge all
     participants to reserve rooms as soon as possible, since availability is
     limited.</li>
-<li>Our keynote speaker will be Ian Hacking, Collège de France & University of
+<li>Our keynote speaker will be Ian Hacking, Collège de France &amp; University of
     Toronto.</li>
 <li>Papers can cover any theme in general philosophy of science.</li>
 <li>Abstracts (1500 words) should reach Emma Ruttkamp
