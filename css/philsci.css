@@ -553,15 +553,22 @@ iframe
 .news ol,
 .news p,
 .news pre,
-.news blockquote
+.news blockquote,
+.news h3,
+.news h4
 {
 	clear: left;
 	margin-top: 10px;
 }
 
-.news blockquote>p
+/*.news blockquote>p
 {
 	margin-top: 0;
+}*/
+
+.news blockquote
+{
+	padding-bottom: 10px;
 }
 
 .news ul,
