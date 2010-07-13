@@ -6,3 +6,4 @@ generator/target
 *.pyc
 *.sqlite3
 .~lock*
+.project
