@@ -13,10 +13,12 @@ PSA2010 will be held in Montreal, Quebec, from November 4–6, 2010, at Montreal
 Hyatt Regency Centre-Ville. Please watch this space for registration and 
 reservation information for PSA2010.
 </p>
-<p>
+<p class="bold">
 The PSA thanks all those who submitted papers for PSA2010. Refereeing has been 
-completed and the program for PSA2010 will be announced shortly.<br />
-<span class="italic">- Steve Downes, Program Chair, PSA2010</span>
+completed and the program for PSA2010 will be announced shortly.
+</p>
+<p class="italic">
+- Steve Downes, Program Chair, PSA2010
 </p>
 <!--<ul class="references">
 	<li>Call for Symposium Proposals <a href="[PREFIX_FINAL]files/PSA2010_Call_for_Symposium_Proposals.pdf" rel="download">download</a></li>

@@ -7,3 +7,4 @@ generator/target
 *.sqlite3
 .~lock*
 .project
+.settings
