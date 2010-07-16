@@ -2,9 +2,9 @@ Jobs for Philosophers of Science
 %%%
 <a id="top"> </a><h1>Jobs for Philosophers of Science</h1>
 <ul class="inner_menu">
-	<li><a href="#submit">Submitting an Ad</a></li>
-	<li><a href="#disclaimer">Disclaimer</a></li>
-	<li><a href="#listing">Job Listing</a></li>
+    <li><a href="#submit">Submitting an Ad</a></li>
+    <li><a href="#disclaimer">Disclaimer</a></li>
+    <li><a href="#listing">Job Listing</a></li>
 </ul>
 
 <a id="submit"> </a><h2>Submitting an Ad</h2>
@@ -32,12 +32,12 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
-	<li><a href="[PREFIX]resources/jobs/tt-northeastern.html">Tenure-track Position, Northeastern University, Boston, MA</a></li>
-	<li><a href="[PREFIX]resources/jobs/postdoc-lse.html">Post Doctoral Research Officer, London School of Economics</a></li>
-	<li><a href="[PREFIX_FINAL]files/SoLSBioethicsAd09.pdf" class="download">Tenure-track Position, Arizona State University</a></li>
-	<li><a href="[PREFIX]resources/jobs/ft-santiago.html">Full Time Philosopher Required, University of Santiago, Chile</a></li>
-	<li><a href="[PREFIX]resources/jobs/postdoc-osu.html">Post-doctoral Fellowship, Oregon State University</a></li>
-	<li><a href="[PREFIX]resources/jobs/postdoc-pitt.html">Mellon Post Doctoral Fellowship, University of Pittsburgh</a></li>
+    <li><a href="[PREFIX]resources/jobs/tt-northeastern.html">Tenure-track Position, Northeastern University, Boston, MA</a></li>
+    <li><a href="[PREFIX]resources/jobs/postdoc-lse.html">Post Doctoral Research Officer, London School of Economics</a></li>
+    <li><a href="[PREFIX_FINAL]files/SoLSBioethicsAd09.pdf" class="download">Tenure-track Position, Arizona State University</a></li>
+    <li><a href="[PREFIX]resources/jobs/ft-santiago.html">Full Time Philosopher Required, University of Santiago, Chile</a></li>
+    <li><a href="[PREFIX]resources/jobs/postdoc-osu.html">Post-doctoral Fellowship, Oregon State University</a></li>
+    <li><a href="[PREFIX]resources/jobs/postdoc-pitt.html">Mellon Post Doctoral Fellowship, University of Pittsburgh</a></li>
     <li><a href="[PREFIX]resources/jobs/cambridge.html">University Lecturer in Philosophy of Science, University of Cambridge</a></li>
     <li><a href="[PREFIX]resources/jobs/lecturer-ucl.html">Full-Time Lecturer, University College London</a></li>
     <li><a href="[PREFIX]resources/jobs/fellowship-aarhus.html">Full-time Fellowship, Aarhus University, Denmark</a></li>
@@ -47,5 +47,6 @@ Philosophy of Science Association.
     <li><a href="[PREFIX]resources/jobs/tennessee.html">Two Lecturer (Teaching) Positions, University of Tennessee</a></li>
     <li><a href="[PREFIX]resources/jobs/cambridge-2.html">Teaching Associate, University of Cambridge</a></li>
     <li><a href="[PREFIX]resources/jobs/aarhus.html">Associate Professor, Aarhus University, Denmark</a></li>
+    <li><a href="[PREFIX]resources/jobs/leeds.html">Full-Time Lectureship, University of Leeds</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
