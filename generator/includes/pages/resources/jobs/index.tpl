@@ -49,5 +49,6 @@ Philosophy of Science Association.
     <li><a href="[PREFIX]resources/jobs/aarhus.html">Associate Professor, Aarhus University, Denmark</a></li>
     <li><a href="[PREFIX]resources/jobs/leeds.html">Full-Time Lectureship, University of Leeds</a></li>
     <li><a href="[PREFIX]resources/jobs/yale.html">Visiting Professor, Yale University</a></li>
+    <li><a href="[PREFIX]resources/jobs/waterloo.html">Wolfe Chair in Scientific and Technological Literacy, University of Waterloo</li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
