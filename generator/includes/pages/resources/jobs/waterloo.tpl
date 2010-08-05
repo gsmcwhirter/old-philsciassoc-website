@@ -1,4 +1,4 @@
-Wolfe Chair in Scientific and Technological Literacy, University of Waterloo
+Wolfe Chair, University of Waterloo
 %%%
 <a id="top"> </a><h1>Wolfe Chair in Scientific and Technological Literacy, University of Waterloo</h1>
 <p>
