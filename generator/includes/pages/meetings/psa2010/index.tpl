@@ -9,21 +9,24 @@ PSA 2010 Biennial Meeting
 
 <a id="general"> </a><h2>General Information</h2>
 <p>
-PSA2010 will be held in Montreal, Quebec, from November 4–6, 2010, at Montreal's 
-Hyatt Regency Centre-Ville. Please watch this space for registration and 
+PSA2010 will be held in Montreal, Quebec, from November 4–6, 2010, at Montreal's
+Hyatt Regency Centre-Ville. Please watch this space for registration and
 reservation information for PSA2010.
 </p>
 <p class="bold">
-The PSA thanks all those who submitted papers for PSA2010. Refereeing has been 
-completed and the program for PSA2010 will be announced shortly.
+The PSA thanks all those who submitted papers for PSA2010. Refereeing has been
+completed and the preliminary program is available below.<!--the program for PSA2010 will be announced shortly -->.
 </p>
 <p class="italic">
 - Steve Downes, Program Chair, PSA2010
 </p>
-<!--<ul class="references">
+<ul class="references">
+	<li>Preliminary Program <a href="[PREFIX_FINAL]files/PSA2010_Prelim_Program.pdf" rel="download">download</a></li>
+	<!--
 	<li>Call for Symposium Proposals <a href="[PREFIX_FINAL]files/PSA2010_Call_for_Symposium_Proposals.pdf" rel="download">download</a></li>
 	<li>Call for Papers <a href="[PREFIX_FINAL]files/PSA2010_Call_for_Papers.pdf" rel="download">download</a></li>
-</ul>-->
+	-->
+</ul>
 <p><a class="top" href="#top">top</a></p>
 
 <a id="committee"> </a><h2>Program Committee</h2>
