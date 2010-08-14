@@ -10,7 +10,7 @@ of great philosophical interest. I was five years younger than he, far behind hi
 accomplishments (he had already published several major papers), and very nervously
 about to give my first presentation at a professional meeting. No one could have been
 kinder or more supportive than he, and we started a friendship that was never marred
-by an unkind word, a friendship that ended yesterday with David’s death at the age of
+by an unkind word, a friendship that ended yesterday with David's death at the age of
 75 from pancreatic cancer.
 </p>
 [split here]
@@ -21,7 +21,7 @@ Department at the University of Wisconsin at Milwaukee. He stayed there for twen
 years, moving then to Northwestern University, from which he retired ten years ago.
 David was deeply influenced by two of his teachers at IU, Norwood Russell Hanson
 and Michael Scriven. Not only did they instill in him a lifelong belief that philosophy
-of science must be complemented by the history of science – his first book-length
+of science must be complemented by the history of science -- his first book-length
 publication, Darwin and His Critics (1973), was an edited volume of scientific responses
 to Darwin's Origin of Species -- but also they made him somewhat wary of the then-
 dominant, logical empiricist philosophy (as exemplified by the writings of Ernest Nagel
@@ -29,7 +29,7 @@ and Carl Hempel).
 </p>
 <p>
 It would perhaps be too strong to say that David was an anti-reductionist and a
-holist – he always had too much down-to-earth common sense to embrace a philosophy
+holist -- he always had too much down-to-earth common sense to embrace a philosophy
 that at times veers towards the neo-vitalistic -- but would not be entirely inaccurate to
 say that there was a flavor of these positions about his work. With respect to reduction,
 his second book, the very influential The Philosophy of Biology (1974), took a strong
@@ -60,7 +60,7 @@ categorize species in terms of groups of reproductively connected organisms (the
 so-called "biological species" definition), then you are not only turning your back on
 their past (which as a Darwinian David thought inappropriate) but you are making the
 condition or criterion of species membership something to do with interbreeding. As a
-gay man, David was not interesting in interbreeding actually or potentially – and said so,
+gay man, David was not interesting in interbreeding actually or potentially -- and said so,
 strongly, many times. (It was a theme behind his presidential address to the Philosophy
 of Science Association.) Species as individuals pays attention both to history and to the
 inherent worth of every part of the group, whatever their breeding habits or inclinations
@@ -68,10 +68,10 @@ may be.
 </p>
 <p>
 David Hull was a fully paid up member of what one might call the "Chicago
-School" of evolutionary epistemologists – other members being historian Robert J.
+School" of evolutionary epistemologists -- other members being historian Robert J.
 Richards, philosophers Bill Wimsatt and Stephen Toulmin, and social psychologist
 Donald Campbell. This is the position that sees scientific-theory change as being
-analogous (perhaps even at one with) biological change – you have new ideas
+analogous (perhaps even at one with) biological change -- you have new ideas
 (mutations), competition between them (struggle), and then one being chosen
 (selection), and so change occurs (evolution). David used this philosophy as the
 ground for his major work on the debates about systematics. Science as a Process

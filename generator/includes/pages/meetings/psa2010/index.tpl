@@ -15,7 +15,7 @@ reservation information for PSA2010.
 </p>
 <p class="bold">
 The PSA thanks all those who submitted papers for PSA2010. Refereeing has been
-completed and the preliminary program is available below.<!--the program for PSA2010 will be announced shortly -->.
+completed and the preliminary program is available below<!--the program for PSA2010 will be announced shortly -->.
 </p>
 <p class="italic">
 - Steve Downes, Program Chair, PSA2010
