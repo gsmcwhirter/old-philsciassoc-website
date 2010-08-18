@@ -4,7 +4,7 @@ The Authority of Science: 4th Sydney-Tilburg Conference on the Philosophy of Sci
 The Authority of Science<br />
 University of Sydney, Australia<br />
 8-10 April 2011<br />
-<a href="http://sydney.edu.au/foundations_of_science/events/authority_of_science.shtml" rel="external">http://sydney.edu.au/foundations_of_science/events/authority_of_science.shtml</a>
+<a href="http://sydney.edu.au/foundations_of_science/events/authority_of_science.shtml" rel="external">Conference Website</a>
 </p>
 <p>
 Abstracts due: 15th October 2010
