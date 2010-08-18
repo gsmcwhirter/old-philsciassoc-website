@@ -10,6 +10,7 @@ History, Cognition, and Visualisation in Science: The David Gooding Memorial Mee
 <li><strong>Event End Date</strong>: 09/23/2010</li>
 <li><strong>Registration Deadline</strong>: 09/13/2010</li>
 </ul>
+[split here]
 <p>
 A conference in memory of David C. Gooding's contribution to the
 understanding of science will be held. In recognition of his many

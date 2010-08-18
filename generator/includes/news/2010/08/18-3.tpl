@@ -9,6 +9,7 @@ University of Sydney, Australia<br />
 <p>
 Abstracts due: 15th October 2010
 </p>
+[split here]
 <h3>4th Sydney-Tilburg conference on the philosophy of science</h3>
 <p>
 Tilburg Center for Logic and Philosophy of Science, Tilburg University, The Netherlands<br />
