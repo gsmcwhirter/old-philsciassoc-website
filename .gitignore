@@ -1,4 +1,5 @@
 *.kpf
+*.komodoproject
 *.tgz
 philsci.old
 generator/target
