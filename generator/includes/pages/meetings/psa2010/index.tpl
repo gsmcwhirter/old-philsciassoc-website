@@ -43,7 +43,7 @@ PSA2010 will take place at:
 <ul class="address">
 <li>Hyatt Regency Montréal</li>
 <li>1255 Jeanne-Mance</li>
-<li>Montréal, Quebec, Canada H5B 1E5</li> 
+<li>Montréal, Quebec, Canada H5B 1E5</li>
 <li class="phone">Tel: +1 514 982 1234</li>
 <li class="fax">Fax: +1 514 285 1243</li>
 </ul>
