@@ -592,8 +592,9 @@ iframe
 .references>li,
 .archive_list>li
 {
-	/*overflow: auto;*/
+	overflow: auto;
 	padding: 5px;
+	line-height: 17px;
 }
 
 .references>li>a[rel='external'],
