@@ -592,7 +592,7 @@ iframe
 .references>li,
 .archive_list>li
 {
-	overflow: auto;
+	/*overflow: auto;*/
 	padding: 5px;
 }
 
