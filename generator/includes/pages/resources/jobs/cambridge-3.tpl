@@ -33,6 +33,7 @@ experience for this position.
 <p>
 Applications (preferably by e-mail) should be sent by 1st October 2010
 to:
+</p>
 <ul class="address">
 <li>The Faraday Institute Administrator, Mrs Polly Stanton</li>
 <li>St. Edmund's College</li>
