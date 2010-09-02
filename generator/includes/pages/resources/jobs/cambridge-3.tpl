@@ -1,10 +1,10 @@
-Post-Doctoral Research Associate, University of Cambridge
+Post-Doctoral Research Associate, Cambridge
 %%%
 <a id="top"> </a><h1>Post-Doctoral Research Associate, St. Edmund's College, University of Cambridge</h1>
 <p>
 THE FARADAY INSTITUTE FOR SCIENCE AND RELIGION
 RESEARCH ASSOCIATE<br />
-BRITISH COUNCIL – 'BELIEF IN DIALOGUE PROJECT'
+BRITISH COUNCIL -- 'BELIEF IN DIALOGUE PROJECT'
 </p>
 <p>
 The Faraday Institute for Science and Religion, St. Edmund's College,
@@ -27,7 +27,7 @@ The position is for one-year in the first instance, but could be
 extended if the programme is successful. The salary will be up to &pound;29,866 per
 annum, depending on qualifications and experience, plus benefits.
 Applications should include a cv, naming three referees, together with a
-covering letter summarising the relevance of the applicant’s background and
+covering letter summarising the relevance of the applicant's background and
 experience for this position.
 </p>
 <p>
@@ -35,7 +35,7 @@ Applications (preferably by e-mail) should be sent by 1st October 2010
 to:
 <ul class="address">
 <li>The Faraday Institute Administrator, Mrs Polly Stanton</li>
-<li>St. Edmund’s College</li>
+<li>St. Edmund's College</li>
 <li>Cambridge, CB3 0BN, UK</li>
 <li class="email"><a href="mailto:ps400@cam.ac.uk" rel="email">ps400@cam.ac.uk</a></li>
 </ul>
