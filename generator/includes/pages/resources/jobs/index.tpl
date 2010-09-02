@@ -51,5 +51,7 @@ Philosophy of Science Association.
     <li><a href="[PREFIX]resources/jobs/yale.html">Visiting Professor, Yale University</a></li>
     <li><a href="[PREFIX]resources/jobs/waterloo.html">Wolfe Chair in Scientific and Technological Literacy, University of Waterloo</a></li>
     <li><a href="[PREFIX]resources/jobs/mcgill.html">Wolfe Chair in Scientific and Technological Literacy, McGill University</a></li>
+    <li><a href="[PREFIX]resources/jobs/pittsburgh-hps.html">Tenure Stream Assistant Professor, University of Pittsburgh, Department of History and Philosophy of Science</a></li>
+    <li><a href="[PREFIX]resources/jobs/cambridge-3.html">Post-Doctoral Research Associate, St. Edmund's College, University of Cambridge</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
