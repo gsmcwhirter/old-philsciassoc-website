@@ -81,7 +81,7 @@ forward to seeing you there!
 
 <a id="files"> </a><h2>Associated Files</h2>
 <ul class="references">
-	<li>Preliminary Program (updated 25 August 2010) <a href="[PREFIX_FINAL]files/PSA2010_Prelim_Program.pdf" rel="download">download</a></li>
+	<li>Preliminary Program (updated 7 September 2010) <a href="[PREFIX_FINAL]files/PSA2010_Prelim_Program.pdf" rel="download">download</a></li>
 	<!--
 	<li>Call for Symposium Proposals <a href="[PREFIX_FINAL]files/PSA2010_Call_for_Symposium_Proposals.pdf" rel="download">download</a></li>
 	<li>Call for Papers <a href="[PREFIX_FINAL]files/PSA2010_Call_for_Papers.pdf" rel="download">download</a></li>
