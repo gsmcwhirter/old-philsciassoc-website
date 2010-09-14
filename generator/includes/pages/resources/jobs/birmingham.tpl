@@ -21,7 +21,7 @@ discipline</p>
 <li>Office hours: 1 hour per week x 10 weeks</li>
 <li>Term: Autumn Term (4 October 2010 - 17 December 2010)</li>
 </ul>
-</blockquote>
+</blockquote class="pmargin">
 <p>
 Other tasks include the assessment of essays and adminitration associated 
 with the module.
