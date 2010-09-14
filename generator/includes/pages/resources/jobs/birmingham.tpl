@@ -12,7 +12,7 @@ following module:
 <p>
 Philosophy of Science (second-year undergraduate module covering standard 
 topics in philosophy of science and open to students outside the main 
-discipline)
+discipline)<br />
 </p>
 <ul class="bullets">
 <li>Lectures: 1 hour per week x 10 weeks</li>
