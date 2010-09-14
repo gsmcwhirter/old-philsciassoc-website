@@ -8,7 +8,7 @@ School of Philosophy, Theology and Religion University of Birmingham
 We invite applications for an hourly-paid Visiting Lecturer to teach the 
 following module:
 </p>
-<blockquote>
+<blockquote class="pmargin">
 <p class="bold">
 Philosophy of Science
 </p>
@@ -21,7 +21,7 @@ discipline</p>
 <li>Office hours: 1 hour per week x 10 weeks</li>
 <li>Term: Autumn Term (4 October 2010 - 17 December 2010)</li>
 </ul>
-</blockquote class="pmargin">
+</blockquote>
 <p>
 Other tasks include the assessment of essays and adminitration associated 
 with the module.
