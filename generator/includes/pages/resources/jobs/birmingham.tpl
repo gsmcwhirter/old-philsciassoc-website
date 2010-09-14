@@ -9,7 +9,7 @@ We invite applications for an hourly-paid Visiting Lecturer to teach the
 following module:
 </p>
 <blockquote>
-<p>
+<p class="bold">
 Philosophy of Science
 </p>
 <p>Second-year undergraduate module covering standard 
