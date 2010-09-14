@@ -53,5 +53,6 @@ Philosophy of Science Association.
     <li><a href="[PREFIX]resources/jobs/mcgill.html">Wolfe Chair in Scientific and Technological Literacy, McGill University</a></li>
     <li><a href="[PREFIX]resources/jobs/pittsburgh-hps.html">Tenure Stream Assistant Professor, University of Pittsburgh, Department of History and Philosophy of Science</a></li>
     <li><a href="[PREFIX]resources/jobs/cambridge-3.html">Post-Doctoral Research Associate, St. Edmund's College, University of Cambridge</a></li>
+    <li><a href="[PREFIX]resources/jobs/birmingham.html">Part-Time Teaching in Philosophy of Science, University of Birmingham</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>

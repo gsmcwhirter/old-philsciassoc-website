@@ -53,6 +53,7 @@ resources_jobs_waterloo: jobs
 resources_jobs_mcgill: jobs
 resources_jobs_pittsburgh-hps: jobs
 resources_jobs_cambridge-3: jobs
+resources_jobs_birmingham: jobs
 #newsletters
 newsletter_14-1: newsletter
 newsletter_13-2: newsletter
