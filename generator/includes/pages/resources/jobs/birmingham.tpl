@@ -31,7 +31,7 @@ The appointee must have a PhD in analytic philosophy and relevant teaching
 experience.
 </p>
 <p>
-Please send your CV to Dr. Lisa Bortolotti (<a href="mailto:l.bortolotti@bham.ac.uk">l.bortolotti@bham.ac.uk</a>) 
+Please send your CV to Dr. Lisa Bortolotti (<a href="mailto:l.bortolotti@bham.ac.uk" rel="email">l.bortolotti@bham.ac.uk</a>) 
 as soon as possible.
 </p>
 <p>
