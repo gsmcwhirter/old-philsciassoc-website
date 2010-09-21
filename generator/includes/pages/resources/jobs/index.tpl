@@ -56,5 +56,9 @@ Philosophy of Science Association.
     <li><a href="[PREFIX]resources/jobs/birmingham.html">Part-Time Teaching in Philosophy of Science, University of Birmingham</a></li>
     <li><a href="[PREFIX]resources/jobs/lawrence.html">Assistant Professor, Lawrence University</a></li>
     <li><a href="[PREFIX]resources/jobs/western.html">Rotman Canada Research Chair (Tier I), University of Western Ontario</a></li>
+    <li><a href="[PREFIX]resources/jobs/sabanci-1.html">Faculty Position in Philosophy, Sabanci University</a></li>
+    <li><a href="[PREFIX]resources/jobs/sabanci-2.html">Faculty Position in Science, Technology and Culture, Sabanci University</a></li>
+    <li><a href="[PREFIX]resources/jobs/ucsd.html">Senior Faculty Position, University of California, San Diego</a></li>
+    
 </ul>
 <p><a href="#top" class="top">top</a></p>
