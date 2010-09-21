@@ -59,6 +59,5 @@ Philosophy of Science Association.
     <li><a href="[PREFIX]resources/jobs/sabanci-1.html">Faculty Position in Philosophy, Sabanci University</a></li>
     <li><a href="[PREFIX]resources/jobs/sabanci-2.html">Faculty Position in Science, Technology and Culture, Sabanci University</a></li>
     <li><a href="[PREFIX]resources/jobs/ucsd.html">Senior Faculty Position, University of California, San Diego</a></li>
-    
 </ul>
 <p><a href="#top" class="top">top</a></p>
