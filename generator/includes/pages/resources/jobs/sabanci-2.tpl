@@ -50,7 +50,7 @@ a housing stipend. The Faculty of Arts and Social Sciences has degree programs i
 <a href="http://www.sabanciuniv.edu/ssbf/sps/eng/" rel="external">Social and Political Sciences</a> 
 (<a href="http://www.sabanciuniv.edu/ssbf/sps/eng/" rel="external">BA</a>), 
 <a href="http://www.sabanciuniv.edu/ssbf/vacd/eng/" rel="external">Visual Arts &amp; Communication Design</a> 
-(<a href="http://www.sabanciuniv.edu/ssbf/vacd/eng/?content/Program/ProgramTanimiBA.php" rel="external">BA, <a href="http://www.sabanciuniv.edu/ssbf/vacd/eng/?content/Program/ProgramTanimiMA.php" rel="external">MA</a>).
+(<a href="http://www.sabanciuniv.edu/ssbf/vacd/eng/?content/Program/ProgramTanimiBA.php" rel="external">BA</a>, <a href="http://www.sabanciuniv.edu/ssbf/vacd/eng/?content/Program/ProgramTanimiMA.php" rel="external">MA</a>).
 Please refer to <a href="http://www.sabanciuniv.edu/ssbf/eng/" rel="external">http://www.sabanciuniv.edu/ssbf/eng/</a> for more information.
 </p>
 <p><a href="#top" class="top">top</a></p>
