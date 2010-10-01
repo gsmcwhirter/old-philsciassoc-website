@@ -648,7 +648,7 @@ img.rssfeed
 	margin-top: 20px;
 }
 
-.highlight + a > img.rssfeed
+.highlight + a > img.rssfeed,
 .highlight + .horiz-ads + a > img.rssfeed
 {
 	margin-top: 27px;
