@@ -643,7 +643,9 @@ img.rssfeed
 }
 
 .highlight + a + h1,
-.highlight + .horiz-ads + a + h1
+.highlight + .horiz-ads + a + h1,
+.highlight + a,
+.highlight + .horiz-ads + a
 {
 	margin-top: 20px;
 }
@@ -698,6 +700,9 @@ img.rssfeed
 .horiz-ads
 {
 	font-size: 85%;
+	margin: 10px;
+	padding: 2px 5px;
+	border: 1px solid #ddd;
 }
 
 .horiz-ads div
