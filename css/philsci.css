@@ -643,8 +643,12 @@ img.rssfeed
 }
 
 .highlight + a + h1,
-.highlight + .horiz-ads + a + h1,
-.highlight + a > img.rssfeed,
+.highlight + .horiz-ads + a + h1
+{
+	margin-top: 20px;
+}
+
+.highlight + a > img.rssfeed
 .highlight + .horiz-ads + a > img.rssfeed
 {
 	margin-top: 27px;
