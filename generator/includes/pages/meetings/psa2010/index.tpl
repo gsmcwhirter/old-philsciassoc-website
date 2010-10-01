@@ -183,6 +183,7 @@ nearby.
     <a href="http://www.montrealjazzfest.com/maison-du-festival-online/Balmoral-menu.aspx" rel="external">website</a>
     <strong>Le Balmoral</strong> 
     Large-ish restaurant owned by the company that runs the Montreal Jazz Fest; a discount should be available to group bookings for HSS members.
+    <br />
     <ul class="address">
       <li>305 Ste-Catherine West (at Bleury)</li>
       <li class="phone">514 288 5992</li>
