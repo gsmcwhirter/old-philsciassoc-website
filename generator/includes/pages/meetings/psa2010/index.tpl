@@ -183,8 +183,7 @@ nearby.
     <a href="http://www.montrealjazzfest.com/maison-du-festival-online/Balmoral-menu.aspx" rel="external">website</a>
     <strong>Le Balmoral</strong> 
     Large-ish restaurant owned by the company that runs the Montreal Jazz Fest; a discount should be available to group bookings for HSS members.
-    <br />
-    <ul class="address">
+    <ul class="address top-margin">
       <li>305 Ste-Catherine West (at Bleury)</li>
       <li class="phone">514 288 5992</li>
     </ul>
@@ -193,7 +192,7 @@ nearby.
     <a href="http://www.fbar.ca/" rel="external">website</a>
     <strong>F-Bar</strong> 
     Mid-price sister restaurant of Café Ferreira, a high-end Portuguese restaurant on Peel.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>1485 Jeanne-Mance (next to the Musée d’Art contemporain)</li>
       <li class="phone">514 289 4558</li>
     </ul>
@@ -202,7 +201,7 @@ nearby.
     <a href="http://brasserie-t.com/" rel="external">website</a>
     <strong>Brasserie T!</strong> 
     Mid-price sister restaurant of Toqué.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>1425 Jeanne-Mance (next to the Musée d’Art contemporain)</li>
       <li class="phone">514 282 0808</li>
     </ul>
@@ -210,7 +209,7 @@ nearby.
   <li>
     <a href="http://www.macm.org/fr/informations/restaurant.html" rel="external">website</a>
     <strong>Bistrot Le Contemporain</strong> 
-    <ul class="address">
+    <ul class="address top-margin">
       <li>185 Ste-Catherine West (in the Musée d’Art contemporain, 2nd floor)</li>
       <li class="phone">514 847 6900</li>
     </ul>
@@ -218,7 +217,7 @@ nearby.
   <li>
     <a href="http://www.tnm.qc.ca/cafe-du-nouveau-monde/cafe-du-nouveau-monde.html" rel="external">website</a>
     <strong>Le Café du Nouveau Monde</strong> 
-    <ul class="address">
+    <ul class="address top-margin">
       <li>84 Ste-Catherine West (at St Urbain, in the Théâtre du Nouveau Monde)</li>
       <li class="phone">514 866 8669</li>
     </ul>
@@ -227,7 +226,7 @@ nearby.
     <a href="http://www.nyks.ca/" rel="external">website</a>
     <strong>Nyk's Bistro Pub</strong> 
     A pub that also does food, sometimes has live music.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>1250 Bleury</li>
       <li class="phone">514 866 1787</li>
     </ul>
@@ -259,7 +258,7 @@ the atmosphere make the old port well worth a visit.
     <a href="http://www.chezlepicier.com/" rel="external">website</a>
     <strong>Chez l'Epicier</strong> 
     Higher-end, famous chef style place.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>311, rue Saint-Paul Est</li>
       <li class="phone">514 878 2232</li>
       <li class="email"><a href="mailto:reservations@chezlepicier.com" rel="email">reservations@chezlepicier.com</a></li>
@@ -268,7 +267,7 @@ the atmosphere make the old port well worth a visit.
   <li>
     <strong>Gandhi</strong>
     Reliable, comfortable, Indian cuisine 
-    <ul class="address">
+    <ul class="address top-margin">
       <li>230 rue Saint-Paul Ouest</li>
       <li class="phone">514 845 5866</li>
     </ul>
@@ -276,7 +275,7 @@ the atmosphere make the old port well worth a visit.
   <li>
     <strong>Holder</strong>
     Brash, noisy, American-French food, lots of space 
-    <ul class="address">
+    <ul class="address top-margin">
       <li>407 McGill St</li>
       <li class="phone">514 849 0333</li>
     </ul>
@@ -284,7 +283,7 @@ the atmosphere make the old port well worth a visit.
   <li>
     <strong>Boris Bistrot</strong> 
     More mid-range, lively.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>465 McGill St</li>
       <li class="phone">514 848 9575</li>
     </ul>
@@ -304,7 +303,7 @@ Paryse (on Ontario at Sanguinet), which almost always has a line-up outside.
   <li>
     <strong>La Paryse</strong> 
     Burgers.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>302 Rue Ontario Est (near corner of Sanguinet)</li>
       <li class="phone">514 842 2040</li>
     </ul>
@@ -312,7 +311,7 @@ Paryse (on Ontario at Sanguinet), which almost always has a line-up outside.
   <li>
     <strong>Le Cheval Blanc</strong>
     Bar. 
-    <ul class="address">
+    <ul class="address top-margin">
       <li>809 rue Ontario Est (corner of St-Hubert)</li>
       <li class="phone">514 522 0211</li>
     </ul>
@@ -331,7 +330,7 @@ Papineau.
   <li>
     <strong>Au Petit Extra</strong>
     Great value French bistrot style food, between the Plateau and the village.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>1690 Rue Ontario Est (corner of Papineau)</li>
       <li class="phone">514 527 5552</li>
     </ul>
@@ -351,7 +350,7 @@ This is a list of places arranged roughly from north to south.
   <li>
     <strong>Café Cherrier</strong>
     Classic, basic French bistro style.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>3635 rue St Denis (corner Cherrier)</li>
       <li>metro Sherbrooke</li>
       <li class="phone">514 843 4308</li>
@@ -360,7 +359,7 @@ This is a list of places arranged roughly from north to south.
   <li>
     <strong>Laloux</strong>
     Traditional French style.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>250 Avenue des Pins Est (corner of Laval)</li>
       <li>metro Sherbrooke</li>
       <li class="phone">514 287 9127</li>
@@ -369,7 +368,7 @@ This is a list of places arranged roughly from north to south.
   <li>
     <strong>Pintxo</strong>
     Modern, Basque-inspired, somewhat pricey, fun.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>256 rue Roy est (at Laval)</li>
       <li>metro Sherbrooke</li>
       <li class="phone">514 844 0222</li>
@@ -378,7 +377,7 @@ This is a list of places arranged roughly from north to south.
   <li>
     <strong>L'Express</strong>
     A famous and popular French bistro, very good value, open late.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>3927 St Denis (between Roy and Duluth, east side of street)</li>
       <li>metro Sherbrooke</li>
       <li class="phone">514 845 5333</li>
@@ -388,7 +387,7 @@ This is a list of places arranged roughly from north to south.
     <a href="http://www.lecontinental.ca/" rel="external">website</a>
     <strong>Le Continental</strong>
     French style.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>4007 St Denis (below Duluth)</li>
       <li class="phone">514 845 6842</li>
     </ul>
@@ -396,14 +395,14 @@ This is a list of places arranged roughly from north to south.
   <li>
     <strong>Chu-Chai</strong>
     Vegetarian Thai food.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>4088 St Denis</li>
       <li class="phone">514 843 4194</li>
     </ul>
   </li>
   <li>
     <strong>Au Petit Plateau</strong>
-    <ul class="address">
+    <ul class="address top-margin">
       <li>Drolet and Marie-Anne</li>
       <li class="phone">514 282 6342</li>
     </ul>
@@ -411,7 +410,7 @@ This is a list of places arranged roughly from north to south.
   <li>
     <strong>Au Pied de Cochon</strong>
     Montreal's most reported-on restaurant, beloved of Anthony Bourdain and the like.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>Duluth (at St Hubert)</li>
       <li class="phone">514 281 1114</li>
     </ul>
@@ -419,7 +418,7 @@ This is a list of places arranged roughly from north to south.
   <li>
     <strong>La Colombe</strong>
     High quality French BYO.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>554 ave Duluth East (corner St Hubert)</li>
       <li class="phone">514 849 8844</li>
     </ul>
@@ -427,7 +426,7 @@ This is a list of places arranged roughly from north to south.
   <li>
     <strong>Reservoir</strong>
     Good micro-brewery pub that also does good bar food.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>9 Duluth East (at St Laurent)</li>
     </ul>
   </li>
@@ -435,7 +434,7 @@ This is a list of places arranged roughly from north to south.
     <a href="http://www.aucinquiemepeche.com/" rel="external">website</a>
     <strong>Au Cinquième Péché</strong>
     One of our personal favourites.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>Mont-Royal (corner of Drolet)</li>
       <li class="phone">514 286 0123</li>
       <li class="email"><a href="mailto:info@aucinquiemepeche.com" rel="email">info@aucinquiemepeche.com</a></li>
@@ -444,7 +443,7 @@ This is a list of places arranged roughly from north to south.
   <li>
     <strong>La Montée de Lait</strong>
     NOTE: recently moved to St Laurent, now at their third address; no longer on Villeneuve or on Bishop.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>5171 Bd St Laurent</li>
       <li class="phone">514 289 9921</li>
     </ul>
@@ -452,7 +451,7 @@ This is a list of places arranged roughly from north to south.
   <li>
     <strong>Ouzeri</strong>
     Modernized Greek style; often loud.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>4690 rue St-Denis (at Gilford)</li>
       <li class="phone">514 845 1336</li>
     </ul>
@@ -461,7 +460,7 @@ This is a list of places arranged roughly from north to south.
     <a href="http://www.lestroispetitsbouchons.com/" rel="external">website</a>
     <strong>Les Trois Petits Bouchons</strong>
     Wine bar with very good food-wine pairings.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>4669 St-Denis</li>
       <li class="phone">514 285 4444</li>
     </ul>
@@ -482,7 +481,7 @@ and restaurants, but they are less concentrated here.)
   <li>
     <strong>Rumi</strong>
     Excellent Persian style food
-    <ul class="address">
+    <ul class="address top-margin">
       <li>5198 Hutchison (corner of Fairmount, one block west of Parc)</li>
       <li class="phone">514 490 1999</li>
     </ul>
@@ -491,7 +490,7 @@ and restaurants, but they are less concentrated here.)
     <a href="http://www.restaurantlemeac.com/" rel="external">website</a>
     <strong>Leméac</strong>
     Special $22 menu after 10pm, representing excellent value; lots of other options nearby.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>1045 Laurier West</li>
       <li class="phone">514 270 0999</li>
     </ul>
@@ -499,7 +498,7 @@ and restaurants, but they are less concentrated here.)
   <li>
     <strong>Mythos</strong>
     One of several Greek restaurants on this part of Parc.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>5318 avenue du Parc (near Fairmount)</li>
       <li class="phone">514 270 0235</li>
     </ul>
@@ -507,7 +506,7 @@ and restaurants, but they are less concentrated here.)
   <li>
     <strong>Les Enfants Terribles</strong>
     One of many good places on this strip of Bernard.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>1257 avenue Bernard (at Champagneur)</li>
       <li class="phone">514 759 9918</li>
     </ul>
@@ -525,7 +524,7 @@ as several Korean places.
 <ul class="references">
   <li>
     <strong>Maison Bulgogi</strong>
-    <ul class="address">
+    <ul class="address top-margin">
       <li>2127 Sainte-Catherine West</li>
       <li class="phone">514 935 9820</li>
     </ul>
@@ -544,7 +543,7 @@ Liverpool House. They are accessible by foot from metro Lionel-Groulx.
     <a href="http://www.joebeef.ca/" rel="external">website</a>
     <strong>Joe Beef</strong>
     Modern American/French, meat-based.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>2491 Notre-Dame West</li>
       <li class="phone">514 935 6504</li>
     </ul>
@@ -561,7 +560,7 @@ Greece, and beyond.
   <li>
     <strong>Alep and Le Petit Alep</strong>
     Very good middle eastern food, next door to L'Alep, more pricey.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>191 Rue Jean-Talon Est</li>
       <li class="phone">514 270 9361</li>
     </ul>
@@ -569,7 +568,7 @@ Greece, and beyond.
   <li>
     <strong>786 Halal Restaurant</strong>
     Not a misprint, the restaurant name is 786 but the address is 768. Said by some to be the best place in the city for South Asian cuisine; no alcohol; deliveries possible.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>768 rue Jean-Talon Ouest</li>
       <li class="phone">514 270 0786</li>
     </ul>
@@ -584,7 +583,7 @@ Various franchises can be found around the city, but one worth mentioning is:
   <li>
     <strong>Le Commensal</strong>
     Cheap but adequate vegetarian cafeteria franchise, various locations.
-    <ul class="address">
+    <ul class="address top-margin">
       <li>1204 ave McGill-College (at Ste-Catherine)</li>
       <li>1720 St Denis (south of Ontario)</li>
     </ul>

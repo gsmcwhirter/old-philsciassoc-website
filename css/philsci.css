@@ -100,6 +100,11 @@ ul, ol
 	margin-bottom: 10px;
 }
 
+ul.top-margin, ol.top-margin
+{
+	margin-top: 10px;
+}
+
 ul.bullets,
 ul.bullets>li
 {
@@ -166,7 +171,7 @@ ol.roman>li
 	background-color: #ddddbb;
 }
 
-h1,h2,h3,h4
+h1,h2,h3,h4,h5
 {
 	font-family: Georgia,"Times New Roman",Times,serif;
 	margin-bottom: 5px;
@@ -196,6 +201,14 @@ h4
 {
 	font-size: 123.1%; /*15px*/
 	padding-left: 15px;
+}
+
+h5
+{
+	font-size: 108%;
+	padding-left: 18px;
+	margin-top: 10px;
+	margin-bottom: 2px; 
 }
 
 p, pre, blockquote
