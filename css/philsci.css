@@ -644,10 +644,10 @@ img.rssfeed
 
 .highlight + a + h1,
 .highlight + .horiz-ads + a + h1,
-.highlight + a,
-.highlight + .horiz-ads + a
+.highlight + a > img.rssfeed,
+.highlight + .horiz-ads + a > img.rssfeed
 {
-	margin-top: 20px;
+	margin-top: 27px;
 }
 
 .highlight h1,
