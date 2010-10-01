@@ -692,7 +692,13 @@ img.rssfeed
 
 .horiz-ads
 {
-	font-size: 93%;
+	font-size: 85%;
+}
+
+.horiz-ads div
+{
+	margin-left: 10px;
+	margin-bottom: 3px;
 }
 
 .horiz-ads .ad-label
