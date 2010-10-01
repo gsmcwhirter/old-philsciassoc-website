@@ -2,7 +2,7 @@ Offers and Advertisements for PSA Members
 %%%
 <a id="routledge-phil-sci"> </a>
 <h1><cite>The Routledge Companion to Philosophy of Science</cite></h1>
-<a href="http://www.routledge.com/books/details/9780415546133/" class="fright">
+<a href="http://www.routledge.com/books/details/9780415546133/" class="fright automargin">
 <img src="[PREFIX_FINAL]images/ads/routledge_philsci_cover.jpg" alt="Picture of book cover" />
 </a>
 <p>

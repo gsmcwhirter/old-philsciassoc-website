@@ -11,7 +11,7 @@ To this end, the PSA engages in activities such as: the publishing of periodical
 <span class="ad-label">Advertisements</span>
 <div>
   Until November 4th, <cite>The Routledge Companion to Philosophy of 
-  Science</cite> is 25% off for PSA Members. <a href="#">details...</a>
+  Science</cite> is 25% off for PSA Members. <a href="[PREFIX]offers.html#routledge-phil-sci">details...</a>
 </div>
 </div>
 <a href='[PREFIX]news.rss'><img class="rssfeed" alt="RSS Feed" src="[PREFIX_FINAL]images/feed-icon-14x14.png" /></a>
