@@ -690,6 +690,16 @@ img.rssfeed
 	white-space: nowrap;
 }
 
+.horiz-ads
+{
+	font-size: 93%;
+}
+
+.horiz-ads .ad-label
+{
+	color: #666;
+}
+
 #footer
 {
 	clear: both;
