@@ -2,6 +2,7 @@
 search: _none
 .htaccess: _none
 404: _none
+offers: _none
 #normal pages
 index: welcome
 mailinglist: mailinglist

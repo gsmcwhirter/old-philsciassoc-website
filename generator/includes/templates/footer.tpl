@@ -1,9 +1,9 @@
 				<div class="ad">
 					<a href="https://subfill.uchicago.edu/JournalPUBS/WebForm2.aspx?webpub=phos"><img src="[PREFIX_FINAL]images/ads/PSA_WebAdvert.jpg" alt="Advertisement" /></a>
 				</div>
-				<div class="ad">
+				<!--<div class="ad">
 				  <a href="http://www.routledge.com/books/details/9780415546133/"><img src="[PREFIX_FINAL]images/ads/routledge_companion.jpg" alt="Advertisement" /></a>
-				</div>
+				</div>-->
 				<form action="[PREFIX]search.html" id="cse-search-box">
 				  <div class="menu_header">
 					<label for="qsearch">Search the PSA</label>
