@@ -25,14 +25,14 @@ UWO, 117 North Campus Building or online at
 <a href="http://www.rotman.uwo.ca" rel="external">http://www.rotman.uwo.ca</a>.
 </p>
 
-<ul class="address">
-<li>Rob Read</li>
-<li>Administrative Assistant</li>
-<li>Rotman Institute of Science and Values</li>
-<li>Department of Philosophy</li>
-<li>Stevenson Hall Building 2150E</li>
-<li>The University of Western Ontario</li>
-<li>London Ontario N6A 5B8</li>
-<li class="phone">Tel: 519-661-2111 ext. 85740</li>
-<li class="website"><a href="http://www.rotman.uwo.ca" rel="external">http://www.rotman.uwo.ca</a></li>
-</ul>
+<p>
+Rob Read<br />
+Administrative Assistant<br />
+Rotman Institute of Science and Values<br />
+Department of Philosophy<br />
+Stevenson Hall Building 2150E<br />
+The University of Western Ontario<br />
+London Ontario N6A 5B8<br />
+Tel: 519-661-2111 ext. 85740<br />
+<a href="http://www.rotman.uwo.ca" rel="external">http://www.rotman.uwo.ca</a>
+</p>
