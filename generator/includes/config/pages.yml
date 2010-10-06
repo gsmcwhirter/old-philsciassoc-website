@@ -61,6 +61,7 @@ resources_jobs_western: jobs
 resources_jobs_sabanci-1: jobs
 resources_jobs_sabanci-2: jobs
 resources_jobs_ucsd: jobs
+resources_jobs_cmu-fellowship: jobs
 #newsletters
 newsletter_14-1: newsletter
 newsletter_13-2: newsletter
