@@ -35,6 +35,56 @@ for more information.
 Registration for PSA2010 is available via the History of Science Society
 website at <a href="http://www.hssweb.org/callforpapers/register" rel="external">http://www.hssweb.org/callforpapers/register</a>.
 </p>
+<h4>Meeting Rates</h4>
+<p>
+<a href="http://www.hssonline.org/Meeting/2010HSSMeeting/2010rates.html" rel="external">HSS Meeting Rate Information</a>
+</p>
+<p>
+Early registration ends at Midnight EDT at the end of October 3rd, 2010.<br />
+Regular registration ends at Midnight EDT at the end of October 24th, 2010.
+</p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Early</th>
+      <th>Regular</th>
+      </th>Onsite</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Member</td>
+      <td>$140</td>
+      <td>$160</td>
+      <td>$180</td>
+    </tr>
+    <tr>
+      <td>Non-Member</td>
+      <td>$180</td>
+      <td>$200</td>
+      <td>$220</td>
+    </tr>
+    <tr>
+      <td>Student Member</td>
+      <td>$50</td>
+      <td>$65</td>
+      <td>$85</td>
+    </tr>
+    <tr>
+      <td>Student Non-Member</td>
+      <td>$65</td>
+      <td>$80</td>
+      <td>$100</td>
+    </tr>
+    <tr>
+      <td>Low Income</td>
+      <td>$80</td>
+      <td>$100</td>
+      <td>$110</td>
+    </tr>
+  </tbody>
+</table>
 
 <h3>Hotel Reservations and Information for Travelers</h3>
 <p >
