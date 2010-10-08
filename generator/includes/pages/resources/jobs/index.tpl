@@ -32,6 +32,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+    <li><a href="[PREFIX]resources/jobs/georgia-state.html">Assistant Professor, Georgia State University</a></li>
     <li><a href="[PREFIX]resources/jobs/cmu-fellowship.html">Herbert Simon Fellowship in Scientific Philosophy, Carnegie Mellon University</a></li>
     <li><a href="[PREFIX]resources/jobs/ucsd.html">Senior Faculty Position, University of California, San Diego</a></li>
     <li><a href="[PREFIX]resources/jobs/sabanci-2.html">Faculty Position in Science, Technology and Culture, Sabanci University</a></li>
