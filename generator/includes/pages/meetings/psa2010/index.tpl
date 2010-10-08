@@ -49,7 +49,7 @@ Regular registration ends at Midnight EDT at the end of October 24th, 2010.
       <th></th>
       <th>Early</th>
       <th>Regular</th>
-      </th>Onsite</th>
+      <th>Onsite</th>
     </tr>
   </thead>
   <tbody>
