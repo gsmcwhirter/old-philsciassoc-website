@@ -43,7 +43,7 @@ website at <a href="http://www.hssweb.org/callforpapers/register" rel="external"
 Early registration ends at Midnight EDT at the end of October 3rd, 2010.<br />
 Regular registration ends at Midnight EDT at the end of October 24th, 2010.
 </p>
-<table>
+<table style="width: 80%;">
   <thead>
     <tr>
       <th></th>

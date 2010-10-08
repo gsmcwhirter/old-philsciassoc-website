@@ -1,6 +1,6 @@
-Tenure-track Position, Carnap University
+Assistant Professor, Georgia State University
 %%%
-<a id="top"> </a><h1>Tenure-track Position, Carnap University</h1>
+<a id="top"> </a><h1>Assistant Professor, Georgia State University</h1>
 <ul class="bullets">
 	<li>AoS: Empirically-informed Philosophy of Mind</li>
 	<li>AoC: Open, but some preference for Metaphysics, Epistemology, 
