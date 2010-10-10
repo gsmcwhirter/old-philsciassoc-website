@@ -35,6 +35,9 @@ for more information.
 Registration for PSA2010 is available via the History of Science Society
 website at <a href="http://www.hssweb.org/callforpapers/register" rel="external">http://www.hssweb.org/callforpapers/register</a>.
 </p>
+<p>
+Please also see this <a href="[PREFIX]meetings/psa2010/av-note.html">note on audio/visual equipent and registration fees</a>.
+</p>
 <h4>Meeting Rates</h4>
 <p>
 <a href="http://www.hssonline.org/Meeting/2010HSSMeeting/2010rates.html" rel="external">HSS Meeting Rate Information</a>
