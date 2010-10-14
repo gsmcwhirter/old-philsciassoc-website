@@ -33,6 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+    <li><a href="[PREFIX]resources/jobs/linfield.html">Tenure-track Position, Linfield College</a></li>
     <li><a href="[PREFIX]resources/jobs/georgia-state.html">Assistant Professor, Georgia State University</a></li>
     <li><a href="[PREFIX]resources/jobs/cmu-fellowship.html">Herbert Simon Fellowship in Scientific Philosophy, Carnegie Mellon University</a></li>
     <li><a href="[PREFIX]resources/jobs/ucsd.html">Senior Faculty Position, University of California, San Diego</a></li>
