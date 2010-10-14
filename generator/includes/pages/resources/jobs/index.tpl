@@ -56,3 +56,4 @@ Philosophy of Science Association.
 <p>
 An archive of past job listings from this page is available <a href="[PREFIX]resources/jobs/archive.html">here</a>.
 </p>
+<p><a href="#top" class="top">top</a></p>
