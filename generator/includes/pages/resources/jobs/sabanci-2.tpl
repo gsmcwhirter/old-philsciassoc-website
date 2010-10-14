@@ -17,7 +17,7 @@ well as more specialized, upper level courses.
 </p>
 <p>
 Applicants are asked to complete an online application form through the university website
-http://www.sabanciuniv.edu/eng/?aday_calisanlar/akademik_is_basvurulari.html
+<a href="http://www.sabanciuniv.edu/eng/?aday_calisanlar/akademik_is_basvurulari.html" rel="external">http://www.sabanciuniv.edu/eng/?aday_calisanlar/akademik_is_basvurulari.html</a>
 </p>
 <p>
 Additionally, a curriculum vita, a clear statement of current and planned research and

@@ -36,6 +36,7 @@ resources_education_index: res_education
 resources_education_tilps: res_education
 #resources - jobs
 resources_jobs_index: jobs
+resources_jobs_archive: jobs
 resources_jobs_tt-northeastern: jobs
 resources_jobs_postdoc-lse: jobs
 resources_jobs_ft-santiago: jobs

@@ -47,6 +47,10 @@ resources:
   jobs:
     _name: Employment
     _page: resources_jobs_index
+    jobs_archive:
+      _name: Archive
+      _page: resources_jobs_archive
+      _show: false
   res_funding:
     _name: Funding Sources
     _page: resources_funding
