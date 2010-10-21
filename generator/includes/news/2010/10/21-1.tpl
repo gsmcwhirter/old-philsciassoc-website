@@ -61,7 +61,7 @@ Please be sure to include the following information:
 For more information:
 </p>
 <ul class="bullets">
-<li>Phone: Darrin Snyder Belousek at 419-221-1856 or Don Howard at 574-631-7547.<li>
+<li>Phone: Darrin Snyder Belousek at 419-221-1856 or Don Howard at 574-631-7547.</li>
 <li>Email: <a href="mailto:Cushing.Prize.1@nd.edu" rel="email">Cushing.Prize.1@nd.edu</a></li>
 <li>Website: <a href="http://www.nd.edu/~cushpriz/" rel="external">http://www.nd.edu/~cushpriz/</a></li> 
 </ul>
