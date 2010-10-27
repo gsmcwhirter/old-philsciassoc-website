@@ -7,8 +7,7 @@ Third Biennial Conference<br />
 22-24 June 2011<br />
 University of Exeter, Exeter, UK<br />
 For registration and further information on the conference, please visit our
-website at
-<a href="http://www.genomicsnetwork.ac.uk/egenis/events/conferences/title,23552,en.html" rel="external">http://www.genomicsnetwork.ac.uk/egenis/events/conferences/title,23552,en.html</a>.
+<a href="http://www.genomicsnetwork.ac.uk/egenis/events/conferences/title,23552,en.html" rel="external">website</a>.
 For general information on SPSP, please see <a href="http://www.gw.utwente.nl/spsp/" rel="external">http://www.gw.utwente.nl/spsp/</a>.
 </p>
 <p>
