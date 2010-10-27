@@ -5,6 +5,7 @@ Post-doc, Oregon State University
 Center for the Humanities<br />
 Oregon State University
 </p>
+<p>
 Revised announcement:
 </p>
 <p>
