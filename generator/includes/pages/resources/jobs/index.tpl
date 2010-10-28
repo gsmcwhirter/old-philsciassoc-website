@@ -33,6 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+    <li><a href="[PREFIX]resources/jobs/tilps-fellowship.html">Visiting Fellowship, Tilburg Center for Logic and Philosophy of Science</a></li>
     <li><a href="[PREFIX]resources/jobs/oregon-state-postdoc.html">Post-doctoral Fellowship, Oregon State University</a></li>
     <li><a href="[PREFIX]resources/jobs/washington-college.html">Adjunct Position, Washington College</a></li>
     <li><a href="[PREFIX]resources/jobs/linfield.html">Tenure-track Position, Linfield College</a></li>

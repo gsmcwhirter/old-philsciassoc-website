@@ -32,8 +32,11 @@ for more information.
 
 <h3>Registering for PSA2010</h3>
 <p>
-Registration for PSA2010 is available via the History of Science Society
-website at <a href="http://www.hssweb.org/callforpapers/register" rel="external">http://www.hssweb.org/callforpapers/register</a>.
+<!--Registration for PSA2010 is available via the History of Science Society
+website at <a href="http://www.hssweb.org/callforpapers/register" rel="external">http://www.hssweb.org/callforpapers/register</a>.-->
+Online registration for PSA2010 has now closed.  Please register at the 
+registration desk at PSA2010, in the Grand Salon Foyer, Level 4 of the 
+Hyatt Regency Montreal.
 </p>
 <p>
 Please also see this <a href="[PREFIX]meetings/psa2010/av-note.html">note on audio/visual equipent and registration fees</a>.
@@ -143,12 +146,11 @@ forward to seeing you there!
 
 <a id="files"> </a><h2>Associated Files</h2>
 <ul class="references">
-	<li>Preliminary Program (updated 7 September 2010) <a href="[PREFIX_FINAL]files/PSA2010_Prelim_Program.pdf" rel="download">download</a></li>
+  <li>Final Program <a href="[PREFIX_FINAL]files/PSA2010_Final_Program.pdf" rel="download">download</a></li>
+	<!--<li>Preliminary Program (updated 7 September 2010) <a href="[PREFIX_FINAL]files/PSA2010_Prelim_Program.pdf" rel="download">download</a></li>-->
 	<li>Downloadable Dining Guide <a href="[PREFIX_FINAL]files/PSA2010_HSS-PSA_Montreal_Restaurant_Guide.pdf" rel="download">download</a></li>
-	<!--
-	<li>Call for Symposium Proposals <a href="[PREFIX_FINAL]files/PSA2010_Call_for_Symposium_Proposals.pdf" rel="download">download</a></li>
-	<li>Call for Papers <a href="[PREFIX_FINAL]files/PSA2010_Call_for_Papers.pdf" rel="download">download</a></li>
-	-->
+	<!--<li>Call for Symposium Proposals <a href="[PREFIX_FINAL]files/PSA2010_Call_for_Symposium_Proposals.pdf" rel="download">download</a></li>-->
+	<!--<li>Call for Papers <a href="[PREFIX_FINAL]files/PSA2010_Call_for_Papers.pdf" rel="download">download</a></li>-->
 </ul>
 <p><a class="top" href="#top">top</a></p>
 
