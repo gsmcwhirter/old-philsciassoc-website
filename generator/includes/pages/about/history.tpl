@@ -199,7 +199,7 @@ published PSA proceedings.
       <span class="sfcd">University of Michigan</span>
 			<span class="sfcd">Term: 2007/01/01 - 2008/12/31</span>
 		</li>
-    <li><a href="[PREFIX]about/governance.html">Current President and President-Elect...</a></li>
+    <li><a href="[PREFIX]about/governance.html#presidents">Current President and President-Elect...</a></li>
 	</ul>
 
 	<h3>Former Executive Secretaries</h3>
@@ -208,7 +208,7 @@ published PSA proceedings.
 			<span class="sfcd">University of Missouri, Kansas City</span>
 			<span class="sfcd">Term: 1995? - 2007/12/31</span>
 		</li>
-		<li><a href="[PREFIX]about/governance.html">Current Executive Secretary...</a></li>
+		<li><a href="[PREFIX]about/governance.html#exec_sec">Current Executive Secretary...</a></li>
 	</ul>
 	
 	<h3>Former <cite>Philosophy of Science</cite> Editors-in-Chief</h3>
@@ -239,10 +239,10 @@ published PSA proceedings.
 	<ul class="references">
 		<li>Craig Callender
 			<span class="sfcd">University of California, San Diego</span>
-			<span class="sfcd">Term: 2006/01/01 - 2009/12/31</li>
+			<span class="sfcd">Term: 2006/01/01 - 2009/12/31</span></li>
 		<li>Alan Hajek
 			<span class="sfcd">Australian National University</span>
 			<span class="sfcd">Term: 2006/01/01 - 2009/12/31</span></li>
-		<li><a href="[PREFIX]about/governance.html">Current Governing Board...</a></li>
+		<li><a href="[PREFIX]about/governance.html#board">Current Governing Board...</a></li>
 	</ul>
 	<p><a class="top" href="#top">top</a></p>
