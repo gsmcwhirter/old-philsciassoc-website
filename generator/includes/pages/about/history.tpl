@@ -119,7 +119,7 @@ published PSA proceedings.
 
 <a id="governance"> </a><h2>Governance History</h2>
 
-	<h3>Former Presidents</h3>
+	<a id="presidents"> </a><h3>Former Presidents</h3>
 	<ul class="references">
 	  <li>Philipp Frank
 			<span class="sfcd">Term: 1948 - 1950</span>
@@ -202,7 +202,7 @@ published PSA proceedings.
     <li><a href="[PREFIX]about/governance.html#presidents">Current President and President-Elect...</a></li>
 	</ul>
 
-	<h3>Former Executive Secretaries</h3>
+	<a id="exec_sec"> </a><h3>Former Executive Secretaries</h3>
 	<ul class="references">
 		<li>George Gale
 			<span class="sfcd">University of Missouri, Kansas City</span>
@@ -211,7 +211,7 @@ published PSA proceedings.
 		<li><a href="[PREFIX]about/governance.html#exec_sec">Current Executive Secretary...</a></li>
 	</ul>
 	
-	<h3>Former <cite>Philosophy of Science</cite> Editors-in-Chief</h3>
+	<a id="editors"> </a><h3>Former <cite>Philosophy of Science</cite> Editors-in-Chief</h3>
 	<ul class="references">
     <li>William Malisoff
       <span class="sfcd">Term: 1934 - 1947</span></li>
@@ -235,7 +235,7 @@ published PSA proceedings.
       <span class="sfcd">Term: 2009 - present</span></li>
 	</ul>
 
-	<h3>Former Governing Board Members</h3>
+	<a id="board"> </a><h3>Former Governing Board Members</h3>
 	<ul class="references">
 		<li>Craig Callender
 			<span class="sfcd">University of California, San Diego</span>
