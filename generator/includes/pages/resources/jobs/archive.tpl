@@ -31,5 +31,6 @@ archive purposes only.
     
     
     <li><a href="[PREFIX]resources/jobs/cambridge-3.html">Post-Doctoral Research Associate, St. Edmund's College, University of Cambridge</a></li>
+    <li><a href="[PREFIX]resources/jobs/birmingham.html">Part-Time Teaching in Philosophy of Science, University of Birmingham</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>

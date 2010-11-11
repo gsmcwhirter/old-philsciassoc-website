@@ -33,6 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+    <li><a href="[PREFIX]resources/jobs/cininnati.html">Tenure-track Position, University of Cincinnati</a></li>
     <li><a href="[PREFIX]resources/jobs/sfsu.html">One-Year Appointment, San Francisco State University</a></li>
     <li><a href="[PREFIX]resources/jobs/tilps-fellowship.html">Visiting Fellowship, Tilburg Center for Logic and Philosophy of Science</a></li>
     <li><a href="[PREFIX]resources/jobs/oregon-state-postdoc.html">Post-doctoral Fellowship, Oregon State University</a></li>
@@ -45,7 +46,7 @@ Philosophy of Science Association.
     <li><a href="[PREFIX]resources/jobs/sabanci-1.html">Faculty Position in Philosophy, Sabanci University</a></li>
     <li><a href="[PREFIX]resources/jobs/western.html">Rotman Canada Research Chair (Tier I), University of Western Ontario</a></li>
     <li><a href="[PREFIX]resources/jobs/lawrence.html">Assistant Professor, Lawrence University</a></li>
-    <li><a href="[PREFIX]resources/jobs/birmingham.html">Part-Time Teaching in Philosophy of Science, University of Birmingham</a></li>
+    
     
     <li><a href="[PREFIX]resources/jobs/pittsburgh-hps.html">Tenure Stream Assistant Professor, University of Pittsburgh, Department of History and Philosophy of Science</a></li>
     <li><a href="[PREFIX]resources/jobs/mcgill.html">Wolfe Chair in Scientific and Technological Literacy, McGill University</a></li>

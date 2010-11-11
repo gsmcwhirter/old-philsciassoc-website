@@ -57,7 +57,7 @@ resources_jobs_waterloo: jobs
 resources_jobs_mcgill: jobs
 resources_jobs_pittsburgh-hps: jobs
 resources_jobs_cambridge-3: jobs_archive
-resources_jobs_birmingham: jobs
+resources_jobs_birmingham: jobs_archive
 resources_jobs_lawrence: jobs
 resources_jobs_western: jobs
 resources_jobs_sabanci-1: jobs
@@ -70,6 +70,7 @@ resources_jobs_washington-college: jobs
 resources_jobs_oregon-state-postdoc: jobs
 resources_jobs_tilps-fellowship: jobs
 resources_jobs_sfsu: jobs
+resources_jobs_cincinnati: jobs
 #newsletters
 newsletter_14-1: newsletter
 newsletter_13-2: newsletter
