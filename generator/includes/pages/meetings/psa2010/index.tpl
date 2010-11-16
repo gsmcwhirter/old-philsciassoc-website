@@ -11,9 +11,9 @@ PSA 2010 Biennial Meeting
 <a id="general"> </a><h2>General Information</h2>
 <p>
 The Twenty-Second Biennial Meeting of the Philosophy of Science
-Association will take place November 4–6, 2010, in Montréal, Quebec, at
+Association took place November 4–6, 2010, in Montréal, Quebec, at
 the Hyatt Regency Montréal, jointly with the Annual Meeting of the
-History of Science Society.  A draft program for PSA2010 is available in
+History of Science Society. The final program for PSA2010 is available in
 the <a href="#files">associated files section</a> below.
 </p>
 <p>
