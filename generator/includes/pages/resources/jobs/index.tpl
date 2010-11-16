@@ -33,6 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+    <li><a href="[PREFIX]resources/jobs/bielefeld.html">Professor (W3) for Theoretical Philosophy, Universität Bielefeld, Germany</a></li>
     <li><a href="[PREFIX]resources/jobs/cininnati.html">Tenure-track Position, University of Cincinnati</a></li>
     <li><a href="[PREFIX]resources/jobs/sfsu.html">One-Year Appointment, San Francisco State University</a></li>
     <li><a href="[PREFIX]resources/jobs/tilps-fellowship.html">Visiting Fellowship, Tilburg Center for Logic and Philosophy of Science</a></li>
