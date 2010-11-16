@@ -7,18 +7,24 @@ Professor (W3) for Theoretical Philosophy.
 The successful candidate will stand out in central fields of Theoretical
 Philosophy (such as philosophy of mind, philosophy of science, philosophy of
 language, or epistemology). 
+</p>
+<p>
 Applicants must have a proven record of exceptional and internationally
 recognized research publications in relevant fields, they have demonstrated
 high-quality teaching and are prepared to commit themselves to
 interdisciplinary research. In particular, the application should provide
 concrete options for integrating research interests or research projects of
 the candidate into interdisciplinary cooperative endeavors within Bielefeld
-University. 
+University.
+</p>
+<p> 
 Research can be conducted in English; in the initial period, all courses can
 be taught in English. The successful candidate will commit him- or herself
 to acquire within three years a proficiency in German to an extent that
 makes it possible to teach introductory courses in German and to participate
-in the academic administration of the Department. 
+in the academic administration of the Department.
+</p>
+<p> 
 We welcome applications from severely handicapped people. 
 We particularly welcome applications from women. Given equal suitability,
 qualification and professional achievement, women will be given preference,
