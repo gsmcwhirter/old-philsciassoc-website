@@ -9,3 +9,4 @@ generator/target
 .~lock*
 .project
 .settings
+.DS_Store
