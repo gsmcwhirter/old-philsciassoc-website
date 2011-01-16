@@ -33,23 +33,21 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
-    <li><a href="[PREFIX]resources/jobs/bielefeld.html">Professor (W3) for Theoretical Philosophy, Universität Bielefeld, Germany</a></li>
+    
     <li><a href="[PREFIX]resources/jobs/cininnati.html">Tenure-track Position, University of Cincinnati</a></li>
     <li><a href="[PREFIX]resources/jobs/sfsu.html">One-Year Appointment, San Francisco State University</a></li>
-    <li><a href="[PREFIX]resources/jobs/tilps-fellowship.html">Visiting Fellowship, Tilburg Center for Logic and Philosophy of Science</a></li>
+    
     <li><a href="[PREFIX]resources/jobs/oregon-state-postdoc.html">Post-doctoral Fellowship, Oregon State University</a></li>
-    <li><a href="[PREFIX]resources/jobs/washington-college.html">Adjunct Position, Washington College</a></li>
-    <li><a href="[PREFIX]resources/jobs/linfield.html">Tenure-track Position, Linfield College</a></li>
+    
+    
     <li><a href="[PREFIX]resources/jobs/georgia-state.html">Assistant Professor, Georgia State University</a></li>
-    <li><a href="[PREFIX]resources/jobs/cmu-fellowship.html">Herbert Simon Fellowship in Scientific Philosophy, Carnegie Mellon University</a></li>
+    
     <li><a href="[PREFIX]resources/jobs/ucsd.html">Senior Faculty Position, University of California, San Diego</a></li>
     <li><a href="[PREFIX]resources/jobs/sabanci-2.html">Faculty Position in Science, Technology and Culture, Sabanci University</a></li>
     <li><a href="[PREFIX]resources/jobs/sabanci-1.html">Faculty Position in Philosophy, Sabanci University</a></li>
     <li><a href="[PREFIX]resources/jobs/western.html">Rotman Canada Research Chair (Tier I), University of Western Ontario</a></li>
-    <li><a href="[PREFIX]resources/jobs/lawrence.html">Assistant Professor, Lawrence University</a></li>
     
     
-    <li><a href="[PREFIX]resources/jobs/pittsburgh-hps.html">Tenure Stream Assistant Professor, University of Pittsburgh, Department of History and Philosophy of Science</a></li>
     <li><a href="[PREFIX]resources/jobs/mcgill.html">Wolfe Chair in Scientific and Technological Literacy, McGill University</a></li>
     <li><a href="[PREFIX]resources/jobs/waterloo.html">Wolfe Chair in Scientific and Technological Literacy, University of Waterloo</a></li>
     
