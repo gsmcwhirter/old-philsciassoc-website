@@ -78,3 +78,7 @@ about:
   bylaws:
     _name: PSA Bylaws
     _page: about_bylaws
+remembrances:
+  _name: Remembrances
+  _page: remembrances_index
+  _skip_before: true

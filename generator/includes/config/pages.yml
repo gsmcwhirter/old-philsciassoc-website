@@ -72,6 +72,9 @@ resources_jobs_tilps-fellowship: jobs_archive
 resources_jobs_sfsu: jobs
 resources_jobs_cincinnati: jobs
 resources_jobs_bielefeld: jobs_archive
+#remembrances
+remembrances_index: remembrances
+remembrances_mcmullin: remembrances
 #newsletters
 newsletter_14-1: newsletter
 newsletter_13-2: newsletter
