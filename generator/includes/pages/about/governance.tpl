@@ -11,18 +11,18 @@ Governance
 <h2>Officers</h2>
 	<a id="presidents"> </a><h3>Presidents</h3>
 	<ul class="references">
-		<li><span class="bold">Current</span>: Nancy Cartwright
-			<span class="sfcd">London School of Economics</span>
-			<span class="sfcd">University of California, San Diego</span>
-			<span class="sfcd">Term: 2009/01/01 - 2010/12/31</span>
-		</li>
-		<li><span class="bold">Elect</span>: Jim Woodward
+		<li><span class="bold">Current</span>: James Woodward
 			<span class="sfcd">California Institute of Technology</span>
 			<span class="sfcd">Term: 2011/01/01 - 2012/12/31</span>
 		</li>
-		<li><span class="bold">Previous</span>: Lawrence Sklar
-			<span class="sfcd">University of Michigan</span>
-			<span class="sfcd">Term: 2007/01/01 - 2008/12/31</span>
+		<li><span class="bold">Elect</span>: Helen Longino
+			<span class="sfcd">Stanford University</span>
+			<span class="sfcd">Term: 2013/01/01 - 2014/12/31</span>
+		</li>
+		<li><span class="bold">Previous</span>: Nancy Cartwright
+			<span class="sfcd">London School of Economics</span>
+			<span class="sfcd">University of California, San Diego</span>
+			<span class="sfcd">Term: 2009/01/01 - 2010/12/31</span>
 		</li>
 		<li><a href="[PREFIX]about/history.html#presidents">Former Presidents...</a></li>
 	</ul>
@@ -40,33 +40,33 @@ Governance
 
 	<a id="board"> </a><h3>Governing Board</h3>
 	<ul class="references">
-		<li>Heather Douglas
-			<span class="sfcd">University of Tennessee, Knoxville</span>
-			<span class="sfcd">Term: 2007/01/01 - 2010/12/31<span class="red">*</span></span></li>
+	  <li>John Dupr&eacute;
+        <span class="sfcd">University of Exeter</span>
+        <span class="sfcd">Term: 2011/01/01 - 2014/12/31</span></li>
+    <li>Miriam Solomon
+        <span class="sfcd">Temple University</span>
+        <span class="sfcd">Term: 2011/01/01 - 2014/12/31</span></li>
     <li>Stephan Hartmann
         <span class="sfcd">Tilburg University</span>
-        <span class="sfcd">Term: 2010/01/01 - 2011/12/31</span></li>
+        <span class="sfcd">Term: 2010/01/01 - 2013/12/31</span></li>
     <li>Roberta Millstein
         <span class="sfcd">University of California, Davis</span>
-        <span class="sfcd">Term: 2010/01/01 - 2011/12/31</span></li>
-		<li>Sandra Mitchell
-			<span class="sfcd">University of Pittsburgh</span>
-			<span class="sfcd">Term: 2007/01/01 - 2010/12/31<span class="red">*</span></span></li>
+        <span class="sfcd">Term: 2010/01/01 - 2013/12/31</span></li>
+    <li>Robert Batterman
+        <span class="sfcd">University of Pittsburgh</span>
+        <span class="sfcd">Term: 2011/01/01 - 2012/12/31<span class="red">*</span></span></li>
+    <li>Alan Richardson
+        <span class="sfcd">University of British Columbia</span>
+        <span class="sfcd">Term: 2011/01/01 - 2012/12/31<span class="red">*</span></span></li>
 		<li>Nancy Nersessian
 			<span class="sfcd">Georgia Institute of Technology</span>
-			<span class="sfcd">Term: 2008/01/01 - 2011/12/31<span class="red">*</span></span></li>
-		<li>John D. Norton
-			<span class="sfcd">University of Pittsburgh</span>
-			<span class="sfcd">Term: 2007/01/01 - 2010/12/31<span class="red">*</span></span></li>
-		<li>P. Kyle Stanford
-			<span class="sfcd">University of California, Irvine</span>
-			<span class="sfcd">Term: 2007/01/01 - 2010/12/31<span class="red">*</span></span></li>
+			<span class="sfcd">Term: 2008/01/01 - 2011/12/31</span></li>
 		<li>Andrea Woody
 			<span class="sfcd">University of Washington</span>
-			<span class="sfcd">Term: 2008/01/01 - 2011/12/31<span class="red">*</span></span></li>
+			<span class="sfcd">Term: 2008/01/01 - 2011/12/31</span></li>
 		<li><a href="[PREFIX]about/history.html#board">Former Governing Board Members...</a></li>
 	</ul>
 	<p>
-		<span class="red">*</span> Indicates board members in-eligible for another consecutive term.
+		<span class="red">*</span> Indicates board members eligible for another consecutive term.
 	</p>
 	<p><a class="top" href="#top">top</a></p>

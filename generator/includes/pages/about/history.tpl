@@ -237,6 +237,18 @@ published PSA proceedings.
 
 	<a id="board"> </a><h3>Former Governing Board Members</h3>
 	<ul class="references">
+	  <li>Heather Douglas
+			<span class="sfcd">University of Tennessee, Knoxville</span>
+			<span class="sfcd">Term: 2007/01/01 - 2010/12/31</span></li>
+	  <li>Sandra Mitchell
+			<span class="sfcd">University of Pittsburgh</span>
+			<span class="sfcd">Term: 2007/01/01 - 2010/12/31</span></li>
+	  <li>P. Kyle Stanford
+			<span class="sfcd">University of California, Irvine</span>
+			<span class="sfcd">Term: 2007/01/01 - 2010/12/31</span></li>
+	  <li>John D. Norton
+			<span class="sfcd">University of Pittsburgh</span>
+			<span class="sfcd">Term: 2007/01/01 - 2010/12/31</span></li>
 		<li>Craig Callender
 			<span class="sfcd">University of California, San Diego</span>
 			<span class="sfcd">Term: 2006/01/01 - 2009/12/31</span></li>
