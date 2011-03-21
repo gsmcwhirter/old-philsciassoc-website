@@ -1,5 +1,6 @@
 Hilary Putnam awarded The Rolf Schock Prize
 %%%
+<p>
 The Rolf Schock Prize in Logic and Philosophy 2011 is being awarded by 
 the Royal Swedish Academy of Sciences to Hilary Putnam "for his 
 contribution to the understanding of semantics for theoretical and 
