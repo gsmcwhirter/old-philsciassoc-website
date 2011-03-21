@@ -33,6 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+    <li><a href="[PREFIX]resources/jobs/calgary-postdoc.html">Postdoctoral Fellowship, University of Calgary</a></li>
     <li><a href="[PREFIX]resources/jobs/madrid.html">Profesor ayudante (UNED, Madrid)</a></li>
     <li><a href="[PREFIX]resources/jobs/hebrew.html">Post-doctoral Fellowships, The Sidney M. Edelstein Center for the History and Philosophy of Science, Technology, and Medicine at The Hebrew University of Jerusalem</a></li>
     
