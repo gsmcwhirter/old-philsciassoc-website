@@ -27,7 +27,7 @@ research proposal may be sent to:
 <li>University of Calgary</li>
 <li>2500 University Drive NW</li>
 <li>Calgary, Alberta T2N 1N4  CANADA</li> 
-<li class="email">schnell@ucalgary.ca</li>
+<li class="email"><a href="mailto:schnell@ucalgary.ca" rel="email">schnell@ucalgary.ca</a></li>
 </ul>
 <p class="bold underline"> 
 Applications will be accepted until April 15, 2011 or until the position is filled. 
