@@ -33,7 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
-    <li><a href="http://www.jobs.ac.uk/job/ACL392/professor-or-reader-in-philosophy" rel="external">Professor or Reader in Philosophy, University of St Andrews</a></li>
+    <li><a href="http://www.jobs.ac.uk/job/ACL392/professor-or-reader-in-philosophy" rel="external" style="float: none;">Professor or Reader in Philosophy, University of St Andrews</a></li>
     <li><a href="[PREFIX]resources/jobs/minnesota-duluth.html">Tenure-track Assistant Professor, University of Minnesota, Duluth</a></li>
     <li><a href="[PREFIX]resources/jobs/calgary-postdoc.html">Postdoctoral Fellowship, University of Calgary</a></li>
     <li><a href="[PREFIX]resources/jobs/madrid.html">Profesor ayudante (UNED, Madrid)</a></li>
