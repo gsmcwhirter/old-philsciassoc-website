@@ -20,7 +20,7 @@ recommendation) to:
 <li>C.P. 8888, Succursale Centre-Ville</li>
 <li>Montr&eacute;al, Qc, Canada, H3C 3P8</li>
 <li class="phone">(1- 514) 987-3000, ext. 8951</li> 
-</p>
+</ul>
 <p>
 Deadline for application: November 14, 2011.
 </p>
