@@ -25,7 +25,7 @@ recommendation) to:
 Deadline for application: November 14, 2011.
 </p>
 <p>
-Universit&eacute; du Qu&eacute;bec &agrave; Montr&eacute;al, Montr&eacuteal, Canada. Poste de professeur en
+Universit&eacute; du Qu&eacute;bec &agrave; Montr&eacute;al, Montr&eacute;al, Canada. Poste de professeur en
 philosophie des sciences (sp&eacute;cialisation en philosophie de la biologie et
 des sciences de l'environnement) Date d'entr&eacute;e en fonction : 1er juin
 2012. Enseignement et encadrement aux trois cycles d'&eacute;tudes; salaire
