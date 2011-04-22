@@ -1,6 +1,6 @@
 First issue of <cite>HOPOS</cite> now available free
 %%%
-<img src="[PREFIX_FINAL]images/hopos_cover.gif" alt="HOPOS Cover" style="float: left; margin: 1em;" />
+<img src="[PREFIX_FINAL]images/hopos_cover.gif" alt="HOPOS Cover" style="float: right; margin: 1em;" />
 <p>
 The University of Chicago Press is pleased to announce the publication 
 of <cite>HOPOS: The Journal of the International Society for the History 
@@ -11,12 +11,12 @@ The digital edition of the inaugural issue (Spring 2011) is now available
 free for a limited time to all visitors to the journal's home on the web: 
 <a href="http://www.journals.uchicago.edu/hopos" rel="external">www.journals.uchicago.edu/hopos</a>.
 </p>
-[split here]
 <p>
 With no other current publication addressing the history of philosophy 
 of science, the <cite>HOPOS</cite> journal will have its own place in a 
 growing area of research. 
 </p>
+[split here]
 <p>
 The journal situates understanding of individual sciences within their 
 historical settings and against the backdrop of mainstream issues in 
