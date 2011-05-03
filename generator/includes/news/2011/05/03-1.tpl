@@ -1,7 +1,7 @@
 Nancy Nersessian Awarded Inaugural Patrick Suppes Prize
 %%%
-<div style="float: right; width: 210px;" class="dim">
-<a href="[PREFIX_FINAL]images/nersessian.png" class="lightbox"> 
+<div style="float: right; width: 210px; margin: 1em;" class="dim small">
+<a href="[PREFIX_FINAL]images/nersessian.png">
 <img src="[PREFIX_FINAL]images/nersessian_small.png" alt="Photo of awarding ceremony" />
 </a>
 <br />
