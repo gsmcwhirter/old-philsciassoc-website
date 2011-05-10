@@ -5,10 +5,9 @@ Nancy Nersessian Awarded Inaugural Patrick Suppes Prize
 <img src="[PREFIX_FINAL]images/nersessian_small.png" alt="Photo of awarding ceremony" />
 </a>
 <br />
-Nancy Nersessian receives the inaugural Patrick Suppes Prize from the 
-American Philosophical Society, in Philadelphia, PA, on April 29, 2011. 
-Nancy is joined by Patrick Suppes to her left and Clyde Barker, 
-President of the American Philosophical Society, to her right.
+Nancy Nersessian Receives the Patrick Suppes Prize for Philosophy of 
+Science from the American Philosophical Society, April 29, 2011, 
+Philadelphia.
 </div>
 <p>
 Nancy Nersessian, Regents' Professor and Professor of Cognitive Science 
