@@ -31,7 +31,7 @@ of philosophy.
 </ul>
 <p>
 For further information and a position description see:
-<a href="http://jobs.latrobe.edu.au/jobDetails.asp?sJobIDs=545109&amp;lCategoryID=2835&amp;lWorkTypeID=1403&amp;lLocationID=&amp;stp=AW&amp;sLanguage=en" rel="external">http://jobs.latrobe.edu.au/jobDetails.asp?sJobIDs=545109&lCategoryID=2835&lWorkTypeID=1403&lLocationID=&stp=AW&sLanguage=en</a> 
+<a href="http://jobs.latrobe.edu.au/jobDetails.asp?sJobIDs=545109&amp;lCategoryID=2835&amp;lWorkTypeID=1403&amp;lLocationID=&amp;stp=AW&amp;sLanguage=en" rel="external">http://jobs.latrobe.edu.au/jobDetails.asp?sJobIDs=545109&amp;lCategoryID=2835&amp;lWorkTypeID=1403&amp;lLocationID=&amp;stp=AW&amp;sLanguage=en</a> 
 </p>
 <p>
 For further enquiries please consult Jack Reynolds:
