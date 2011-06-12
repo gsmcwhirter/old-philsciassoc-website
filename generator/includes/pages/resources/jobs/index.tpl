@@ -33,6 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+    <li><a href="[PREFIX]resources/jobs/exeter.html">Teaching Fellowship, University of Exeter</a></li>
     <li><a href="[PREFIX]resources/jobs/la-trobe.html">Three lecturing positions (level B) in philosophy, La Trobe University, Melbourne, Australia</a></li>
     <li><a href="[PREFIX]resources/jobs/quebec-montreal.html">Professor, Open Rank, Universit&eacute; du Qu&eacute;bec &agrave; Montr&eacute;al</a></li>
     <li><a href="[PREFIX]resources/jobs/mount-allison.html">Tenure-track Position, Mount Allison University</a></li>

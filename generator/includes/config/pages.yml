@@ -79,6 +79,7 @@ resources_jobs_minnesota-duluth: jobs
 resources_jobs_mount-allison: jobs
 resources_jobs_quebec-montreal: jobs
 resources_jobs_la-trobe: jobs
+resources_jobs_exeter: jobs
 #remembrances
 remembrances_index: remembrances
 remembrances_mcmullin: remembrances
