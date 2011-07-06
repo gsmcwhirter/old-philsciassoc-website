@@ -1,4 +1,4 @@
-PSA 2012 Announcement
+PSA2012 Announcement
 %%%
 <p>
 The Philosophy of Science Association is pleased to announce that it 
