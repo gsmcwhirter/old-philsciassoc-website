@@ -14,7 +14,7 @@ var philsci =
 		  }
 	 ,parse_rels: function()
 		  {
-			   $("a[href][rel='external']").addClass("external");
+			   $("a[href][rel='external']").addClass("external").attr("target","_blank");
 			   $("a[href][rel='download']").addClass("download");
 			   $("a[href][rel='email']").addClass("email");
 		  }
