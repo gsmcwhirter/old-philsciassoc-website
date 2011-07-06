@@ -396,6 +396,12 @@ table th
 
 #since p {
 	padding-left: 0px;
+	margin-bottom: 1em;
+}
+
+#since a {
+	font-style: normal;
+	font-weight: bold;
 }
 
 #left_nav
