@@ -8,12 +8,13 @@ Meetings
 	The proceedings are published in two volumes of <cite>Philosophy of Science</cite>.
 </p>
 <p>
-	The next meeting is the PSA 2012 Biennial Meeting. Information will be linked here when available.
+	The next meeting is the PSA 2012 Biennial Meeting. Full information will be available at the <a href="[PREFIX]meetings/psa2012/index.html">PSA 2012 information page</a>.
 </p>
 <p><a href="#top" class="top">top</a></p>
 
 <h2>PSA Meeting Archive</h2>
 <ul class="references">
+  <li>PSA 2012 (upcoming)<a href="[PREFIX]meetings/psa2012/index.html" rel='link'>information</a></li>
 	<li>PSA 2010 <a href="[PREFIX]meetings/psa2010/index.html" rel='link'>information</a></li>
 	<li>PSA 2008 <a href="[PREFIX]meetings/psa2008/index.html" rel='link'>information</a></li>
 	<li>PSA 2006 <a href="[PREFIX]meetings/psa2006/index.html" rel='link'>information</a></li>
