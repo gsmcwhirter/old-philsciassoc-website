@@ -33,6 +33,6 @@
 				<a href="[PREFIX]" class="noborder"><img src="[PREFIX_FINAL]images/header_left_logo.png" alt="Philosophy of Science Association" /></a>
 			</div>
 			<div id="header_right">
-				<div id="since" class="small">Promoting research, teaching, and free discussion of issues in the philosophy of science from diverse standpoints since 1934.</div>
+				<div id="since" class="small"><p>Promoting research, teaching, and free discussion of issues in the philosophy of science from diverse standpoints since 1934.</p><p><a href="https://subfill.uchicago.edu/JournalPUBS/Donation.aspx?webpub=phs" rel="external">Donate to the PSA!</a><br />Donations to the PSA, a 501(c)(3) organization, are tax-deductible for US citizens.</p></div>
 			</div>
 			<div id="content">
