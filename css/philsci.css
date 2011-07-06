@@ -388,10 +388,16 @@ table th
 	float: right;
 	width: 275px;
 	position: absolute;
-	top: 25px;
+	top: 40px;
 	right: 10px;
 	font-style: italic;
 	text-align: right;
+}
+
+#donations + #since 
+{
+	right: auto;
+	left: 10px;
 }
 
 #since p {
