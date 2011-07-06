@@ -388,10 +388,14 @@ table th
 	float: right;
 	width: 275px;
 	position: absolute;
-	top: 40px;
+	top: 25px;
 	right: 10px;
 	font-style: italic;
 	text-align: right;
+}
+
+#since p {
+	padding-left: 0px;
 }
 
 #left_nav
