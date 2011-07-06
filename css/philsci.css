@@ -400,12 +400,12 @@ table th
 	left: 10px;
 }
 
-#since p {
+#since p, #donations p {
 	padding-left: 0px;
 	margin-bottom: 1em;
 }
 
-#since a {
+#since a, #donations a {
 	font-style: normal;
 	font-weight: bold;
 }
