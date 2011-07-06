@@ -386,12 +386,16 @@ table th
 #since, #donations
 {
 	float: right;
-	width: 275px;
+	width: 270px;
 	position: absolute;
 	top: 40px;
 	right: 10px;
 	font-style: italic;
 	text-align: right;
+}
+
+#donations {
+	width: 200px;
 }
 
 #donations + #since 
@@ -405,9 +409,10 @@ table th
 	margin-bottom: 1em;
 }
 
-#since a, #donations a {
+#donations a {
 	font-style: normal;
 	font-weight: bold;
+	font-size: 123.1%;
 }
 
 #left_nav
