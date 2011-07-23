@@ -33,7 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
-    <li><a href="[PREFIX]resources/jobs/ku-leuven.html"></a></li>
+    <li><a href="[PREFIX]resources/jobs/ku-leuven.html">Tenured Position, K.U. Leuven</a></li>
     
     <li><a href="[PREFIX]resources/jobs/quebec-montreal.html">Professor, Open Rank, Universit&eacute; du Qu&eacute;bec &agrave; Montr&eacute;al</a></li>
     
