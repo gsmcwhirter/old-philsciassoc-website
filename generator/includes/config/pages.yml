@@ -85,6 +85,7 @@ resources_jobs_ku-leuven: jobs
 #remembrances
 remembrances_index: remembrances
 remembrances_mcmullin: remembrances
+remembrances_haddock: remembrances
 #newsletters
 newsletter_14-1: newsletter
 newsletter_13-2: newsletter
