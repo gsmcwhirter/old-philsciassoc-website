@@ -42,13 +42,13 @@ The K.U.Leuven pursues a policy of equal opportunity and diversity.
 
 <h4>Application</h4>
 <p>
-At: <a href="http://www.kuleuven.be/personeel/jobsite/vacatures/institute_of_philosophy.html" rel="external">http://www.kuleuven.be/personeel/jobsite/vacatures/institute_of_philosophy.html</a>. 
+At <a href="http://www.kuleuven.be/personeel/jobsite/vacatures/institute_of_philosophy.html" rel="external">this website</a>. 
 Should you incur any problems with your online application, please 
 contact <a href="mailto:PersoneelsbeheerZAP@pers.kuleuven.be" rel="email">PersoneelsbeheerZAP@pers.kuleuven.be</a> tel.: 016/32 83 85.
 </p>
 
 <h4>Contact persons</h4>
-<ul>
+<ul class="bullets">
 <li>Prof. Roger Vergauwen, coördinator of the Centre for Logic and Analytical Philosophy<br />
             e-mail: <a href="mailto:roger.vergauwen@hiw.kuleuven.be" rel="email">roger.vergauwen@hiw.kuleuven.be</a></li>
 <li>Prof. Antoon Vandevelde, Dean of the Institute of Philosophy<br />
