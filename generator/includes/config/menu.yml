@@ -13,6 +13,10 @@ welcome:
 meetings:
   _name: Meetings
   _page: meetings_index
+  meetings_psa2012:
+    _name: PSA 2012
+    _page: meetings_psa2012_index
+    _show: false
   meetings_psa2010:
     _name: PSA 2010
     _page: meetings_psa2010_index
