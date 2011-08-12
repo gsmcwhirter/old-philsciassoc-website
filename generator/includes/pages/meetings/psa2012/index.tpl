@@ -43,6 +43,7 @@ seeing you in San Diego!
 	<li>Jill North  <span class="sfcd">Cornell University</span></li>
 	<li>Kathleen Okruhlik  <span class="sfcd">University of Western Ontario</span></li>
 	<li>Wendy Parker  <span class="sfcd">Ohio University</span></li>
+	<li>Anya Plutynski  <span class="sfcd">University of Utah</span></li>
 	<li>Chris Smeenk  <span class="sfcd">University of Western Ontario</span></li>
 	<li>Chris Stephens  <span class="sfcd">University of British Columbia</span></li>
 	<li>Stephen Turner  <span class="sfcd">University of South Florida</span></li>
