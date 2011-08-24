@@ -82,6 +82,7 @@ resources_jobs_quebec-montreal: jobs
 resources_jobs_la-trobe: jobs_archive
 resources_jobs_exeter: jobs_archive
 resources_jobs_ku-leuven: jobs
+resources_jobs_sydney-tt: jobs
 #remembrances
 remembrances_index: remembrances
 remembrances_mcmullin: remembrances
