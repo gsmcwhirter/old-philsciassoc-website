@@ -10,3 +10,4 @@ generator/target
 .project
 .settings
 .DS_Store
+nbproject
