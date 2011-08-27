@@ -9,8 +9,8 @@ annual salary of A$83,998 (as of 1 January 2012) with a total research
 support grant of A$25,000. 
 </p>
 <p>
-More Details can be found at: 
-<a href="http://sydney.edu.au/research_support/funding/sydney/postdoctoral_fellowship.shtml" rel="external">http://sydney.edu.au/research_support/funding/sydney/postdoctoral_fellowship.shtml</a>.
+More Details can be found at
+<a href="http://sydney.edu.au/research_support/funding/sydney/postdoctoral_fellowship.shtml" rel="external">the official website</a>.
 </p>
 <p>
 The Unit for HPS has had significant success in having its candidates 
