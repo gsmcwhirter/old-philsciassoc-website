@@ -1,6 +1,6 @@
 9:1 - February 2003
 %%%
-<h1>PSA Newsletter: Vol. 9 No. 3: February 2003</h1>
+<h1>PSA Newsletter: Vol. 9 No. 1: February 2003</h1>
 
 <p style="display: none;">
 ***************************************************************
