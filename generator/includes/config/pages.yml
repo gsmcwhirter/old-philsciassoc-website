@@ -84,6 +84,9 @@ resources_jobs_exeter: jobs_archive
 resources_jobs_ku-leuven: jobs
 resources_jobs_sydney-tt: jobs
 resources_jobs_sydney-postdoc: jobs
+resources_jobs_south-carolina: jobs
+resources_jobs_bern: jobs
+resources_jobs_alberta: jobs
 #remembrances
 remembrances_index: remembrances
 remembrances_mcmullin: remembrances

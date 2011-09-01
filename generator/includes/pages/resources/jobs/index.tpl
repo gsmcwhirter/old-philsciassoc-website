@@ -33,6 +33,9 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+    <li><a href="[PREFIX]resources/jobs/south-carolina.html">Senior Position in Philosophy of Science, University of South Carolina</a></li>
+    <li><a href="[PREFIX]resources/jobs/bern.html">Professur f&uuml;r Philosophie (Schwerpunkt Wissenschaftsphilosophie), Universit&auml;t Bern</a></li>
+    <li><a href="[PREFIX]resources/jobs/alberta.html">Tier I (Senior) Canada Research Chair, University of Alberta</a></li>
     <li><a href="[PREFIX]resources/jobs/sydney-postdoc.html">Postdoctoral Fellowship in History and Philosophy Of Science, Sydney</a></li>
     <li><a href="[PREFIX]resources/jobs/sydney-tt.html">Lectureship in History and Philosophy of Science, Sydney</a></li>
     <li><a href="[PREFIX]resources/jobs/ku-leuven.html">Tenured Position, K.U. Leuven</a></li>
