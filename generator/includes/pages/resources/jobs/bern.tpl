@@ -17,7 +17,7 @@ Wissenschaftsphilosophie in Forschung und Lehre breit zu vertreten.
 Erwartet werden ein Engagement f&uuml;r innovative Konzeptionen in 
 Forschung und Lehre. Gesucht wird eine offene Persönlichkeit, die in der 
 Lage ist, eine wichtige Br&uuml;ckenfunktion zwischen Philosophie und 
-anderen Wissenschaften zu &uumlbernehmen und Lehrveranstaltungen auch im 
+anderen Wissenschaften zu &uuml;bernehmen und Lehrveranstaltungen auch im
 Bereich der systematischen theoretischen Philosophie (wie z.B. 
 Erkenntnistheorie) anzubieten.
 </p>

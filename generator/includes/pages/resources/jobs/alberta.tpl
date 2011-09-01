@@ -1,4 +1,4 @@
-Tier I (Senior) Canada Research Chair, University of Alberta
+Canada Research Chair, University of Alberta
 %%%
 <a id="top"> </a><h1>Tier I (Senior) Canada Research Chair, University of Alberta</h1>
 <p>
