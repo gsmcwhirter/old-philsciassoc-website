@@ -1,4 +1,4 @@
-Tenure-track Position, Carnap University
+Assistant Professor, University of Hong Kong
 %%%
 <a id="top"> </a><h1>Assistant Professor in the Department of Philosophy 
 in the School of Humanities, University of Hong Kong</h1>
