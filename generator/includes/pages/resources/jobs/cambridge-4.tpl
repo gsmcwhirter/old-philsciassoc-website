@@ -35,6 +35,7 @@ samples of recent work, should be sent to the
 Download further particulars and cover sheets at:
 <a href="http://www.hps.cam.ac.uk/" rel="external">http://www.hps.cam.ac.uk/</a>.
 </p>
+<p>
 The referees of applicants who are longlisted will be contacted and 
 asked to post or email references to the Administrator 
 (<a href="mailto:th10001@cam.ac.uk" rel="email">th10001@cam.ac.uk</a>) 
