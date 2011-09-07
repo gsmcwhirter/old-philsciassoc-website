@@ -26,7 +26,7 @@ samples of recent work, should be sent to the
 </p>
 <ul class="address">
 <li>Administrator</li>
-<li>Department of History and Philosophy of Sciencev
+<li>Department of History and Philosophy of Science</li>
 <li>University of Cambridge</li>
 <li>Free School Lane</li>
 <li>Cambridge CB2 3RH</li> 
