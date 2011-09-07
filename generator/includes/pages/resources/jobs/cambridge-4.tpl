@@ -44,6 +44,7 @@ to arrive by 16th November 2011.
 <li>Quote Reference: JN08765</li>
 <li>Closing Date: 30 September 2011</li>
 <li>Interview Date(s): 8-9th December 2011</li>
+</ul>
 <p>
 The University values diversity and is committed to equality of opportunity.
 </p>
