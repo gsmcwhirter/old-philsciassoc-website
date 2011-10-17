@@ -95,6 +95,7 @@ resources_jobs_uc-irvine: jobs
 resources_jobs_denver: jobs
 resources_jobs_western-2: jobs
 resources_jobs_western-3: jobs
+resources_jobs_western-4: jobs
 
 #remembrances
 remembrances_index: remembrances
