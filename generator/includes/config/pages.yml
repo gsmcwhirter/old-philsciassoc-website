@@ -103,6 +103,7 @@ resources_jobs_trinity: jobs
 resources_jobs_howard: jobs
 resources_jobs_lycoming: jobs
 resources_jobs_gustavus-adolphus: jobs
+resources_jobs_ohio-state: jobs
 
 #remembrances
 remembrances_index: remembrances

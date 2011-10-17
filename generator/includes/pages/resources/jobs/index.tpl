@@ -33,6 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+	<li><a href="[PREFIX]resources/jobs/ohio-state.html">Tenure-track Position, Ohio State University</a></li>	
 	<li><a href="[PREFIX]resources/jobs/gustavus-adolphus.html">Tenure-track Position, Gustavus Adolphus College</a></li>
 	<li><a href="[PREFIX]resources/jobs/lycoming.html">Tenure-track Position, Lycoming College</a></li>
 	<li><a href="[PREFIX]resources/jobs/howard.html">Tenure-track Position, Howard University</a></li>
