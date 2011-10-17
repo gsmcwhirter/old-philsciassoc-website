@@ -33,7 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
-	
+	<li><a href="[PREFIX]resources/jobs/western-3.html">Postdoctoral Fellowship in Science and Ethics, University of Western Ontario</a></li>
 	<li><a href="[PREFIX]resources/jobs/western-2.html">Postdoctoral Fellowship in Philosophy of Science, University of Western Ontario</a></li>	
 	<li><a href="[PREFIX]resources/jobs/denver.html">Tenure-track Position, University of Denver</a></li>
 	<li><a href="[PREFIX]resources/jobs/uc-irvine.html">Tenure-Track Assistant Professorship, LPS, University of California, Irvine</a></li>
