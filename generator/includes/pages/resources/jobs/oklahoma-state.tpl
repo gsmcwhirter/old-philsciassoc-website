@@ -21,6 +21,7 @@ evidence of teaching ability to
 <li>Oklahoma State University</li>
 <li>246 Murray Hall</li>
 <li>Stillwater, OK 74078-5064</li>
+</ul>
 <p>
 The OSU Department of Philosophy homepage can be accessed at 
 <a href="http://philosophy.okstate.edu" rel="external">http://philosophy.okstate.edu</a>. 
