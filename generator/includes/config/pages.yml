@@ -97,6 +97,7 @@ resources_jobs_western-2: jobs
 resources_jobs_western-3: jobs
 resources_jobs_western-4: jobs
 resources_jobs_utep:jobs
+resources_jobs_brown: jobs
 
 #remembrances
 remembrances_index: remembrances
