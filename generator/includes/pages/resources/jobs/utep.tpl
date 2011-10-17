@@ -62,8 +62,10 @@ the recommendation. However, all other materials must be sent
 electronically. Please submit applications electronically to: 
 </p>
 <ul class="address">
-<li>John Symons</li> <li>Department of Philosophy</li> 
-<li>University of Texas at El Paso</li>  <li>El Paso, TX 79968</li>
+<li>John Symons</li>
+<li>Department of Philosophy</li>
+<li>University of Texas at El Paso</li>
+<li>El Paso, TX 79968</li>
 <li class="email"><a href="mailto:lchavez10@utep.edu" rel="email">lchavez10@utep.edu</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
