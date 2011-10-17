@@ -33,6 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+	<li><a href="[PREFIX]resources/jobs/uc-irvine.html">Tenure-Track Assistant Professorship, LPS, University of California, Irvine</a></li>
 	<li><a href="[PREFIX]resources/jobs/uc-berkeley.html">Assistant, Associate, or Full Professor, University of California, Berkeley</a></li>
     <li><a href="[PREFIX]resources/jobs/tennessee-2.html">Two Tenure-Track Positions, University of Tennessee</a></li>
     <li><a href="[PREFIX]resources/jobs/hong-kong.html">Assistant Professor in the Department of Philosophy in the School of Humanities, University of Hong Kong</a></li>
