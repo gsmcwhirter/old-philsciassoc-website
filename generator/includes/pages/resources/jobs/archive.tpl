@@ -34,8 +34,8 @@ archive purposes only.
     <li><a href="[PREFIX]resources/jobs/birmingham.html">Part-Time Teaching in Philosophy of Science, University of Birmingham</a></li>
     <li><a href="[PREFIX]resources/jobs/lawrence.html">Assistant Professor, Lawrence University</a></li>
     <li><a href="[PREFIX]resources/jobs/western.html">Rotman Canada Research Chair (Tier I), University of Western Ontario</a></li>
-    
-    
+    <li><a href="[PREFIX]resources/jobs/sabanci-2.html">Faculty Position in Science, Technology and Culture, Sabanci University</a></li>
+    <li><a href="[PREFIX]resources/jobs/sabanci-1.html">Faculty Position in Philosophy, Sabanci University</a></li>
     <li><a href="[PREFIX]resources/jobs/ucsd.html">Senior Faculty Position, University of California, San Diego</a></li>
     <li><a href="[PREFIX]resources/jobs/cmu-fellowship.html">Herbert Simon Fellowship in Scientific Philosophy, Carnegie Mellon University</a></li>
     <li><a href="[PREFIX]resources/jobs/georgia-state.html">Assistant Professor, Georgia State University</a></li>    
@@ -55,5 +55,11 @@ archive purposes only.
     
     <li><a href="[PREFIX]resources/jobs/la-trobe.html">Three lecturing positions (level B) in philosophy, La Trobe University, Melbourne, Australia</a></li>
     <li><a href="[PREFIX]resources/jobs/exeter.html">Teaching Fellowship, University of Exeter</a></li>
+    
+    
+    <li><a href="[PREFIX]resources/jobs/sydney-postdoc.html">Postdoctoral Fellowship in History and Philosophy Of Science, Sydney</a></li>
+    
+    <li><a href="[PREFIX]resources/jobs/bern.html">Professur f&uuml;r Philosophie (Schwerpunkt Wissenschaftsphilosophie), Universit&auml;t Bern</a></li>
+    <li><a href="[PREFIX]resources/jobs/south-carolina.html">Senior Position in Philosophy of Science, University of South Carolina</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>

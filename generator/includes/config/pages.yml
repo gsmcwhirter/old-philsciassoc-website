@@ -61,8 +61,8 @@ resources_jobs_cambridge-3: jobs_archive
 resources_jobs_birmingham: jobs_archive
 resources_jobs_lawrence: jobs_archive
 resources_jobs_western: jobs_archive
-resources_jobs_sabanci-1: jobs
-resources_jobs_sabanci-2: jobs
+resources_jobs_sabanci-1: jobs_archive
+resources_jobs_sabanci-2: jobs_archive
 resources_jobs_ucsd: jobs_archive
 resources_jobs_cmu-fellowship: jobs_archive
 resources_jobs_georgia-state: jobs_archive
@@ -83,13 +83,15 @@ resources_jobs_la-trobe: jobs_archive
 resources_jobs_exeter: jobs_archive
 resources_jobs_ku-leuven: jobs
 resources_jobs_sydney-tt: jobs
-resources_jobs_sydney-postdoc: jobs
-resources_jobs_south-carolina: jobs
-resources_jobs_bern: jobs
+resources_jobs_sydney-postdoc: jobs_archive
+resources_jobs_south-carolina: jobs_archive
+resources_jobs_bern: jobs_archive
 resources_jobs_alberta: jobs
 resources_jobs_cambridge-4: jobs
 resources_jobs_hong-kong: jobs
 resources_jobs_tennessee-2: jobs
+resources_jobs_
+
 #remembrances
 remembrances_index: remembrances
 remembrances_mcmullin: remembrances
