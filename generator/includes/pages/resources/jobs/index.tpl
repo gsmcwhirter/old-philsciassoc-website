@@ -33,6 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+	<li><a href="[PREFIX]resources/jobs/lse.html">Career-Track Lecturer, London School of Economics and Political Science</a></li>
 	<li><a href="[PREFIX]resources/jobs/northwestern-postdocs.html">Postdoctoral Fellowships, Science in Human Culture Program, Northwestern University</a></li>
 	<li><a href="[PREFIX]resources/jobs/ohio-state.html">Tenure-track Position, Ohio State University</a></li>	
 	<li><a href="[PREFIX]resources/jobs/gustavus-adolphus.html">Tenure-track Position, Gustavus Adolphus College</a></li>
