@@ -98,6 +98,7 @@ resources_jobs_western-3: jobs
 resources_jobs_western-4: jobs
 resources_jobs_utep:jobs
 resources_jobs_brown: jobs
+resources_jobs_oklahoma-state: jobs
 
 #remembrances
 remembrances_index: remembrances
