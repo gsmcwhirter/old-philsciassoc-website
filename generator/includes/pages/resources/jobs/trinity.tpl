@@ -27,5 +27,5 @@ should be sent to
 </ul>
 <p>
 Review of applications will begin on November 21.
-</ul>
+</p>
 <p><a href="#top" class="top">top</a></p>
