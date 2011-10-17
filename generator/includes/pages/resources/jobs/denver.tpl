@@ -31,7 +31,7 @@ be sent directly from the recommenders by mail or email to
 <li>University of Denver</li>
 <li>2000 E. Asbury Ave</li>
 <li>Denver, CO 80208</li>
-<li class="email">cbenne26@du.edu</li>
+<li class="email"><a href="mailto:cbenne26@du.edu" rel="email">cbenne26@du.edu</a></li>
 </ul>
 <p> 
 Also please send one hard copy of entire application to the address 
