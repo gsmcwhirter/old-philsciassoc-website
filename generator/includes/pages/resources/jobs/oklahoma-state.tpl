@@ -15,6 +15,7 @@ This position is subject to available funding.  </p>
 copies of undergraduate and graduate transcripts, writing sample and 
 evidence of teaching ability to 
 </p>
+<ul class="address">
 <li>Dr. Doren Recker, Head</li>
 <li>Department of Philosophy</li>
 <li>Oklahoma State University</li>
