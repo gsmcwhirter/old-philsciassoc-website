@@ -1,4 +1,4 @@
-Post-doctoral Fellowship, University of Wisconsin-Madison
+Post-doc Fellowship, University of Wisconsin-Madison
 %%%
 <a id="top"> </a><h1>Post-doctoral Fellowship, University of Wisconsin-Madison</h1>
 <p>
