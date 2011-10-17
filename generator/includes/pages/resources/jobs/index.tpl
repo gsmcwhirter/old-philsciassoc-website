@@ -33,6 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+	<li><a href="[PREFIX]resources/jobs/chicago.html">Tenure-track Position, University of Chicago</a></li>
 	<li><a href="[PREFIX]resources/jobs/wisconsin.html">Post-doctoral Fellowship, University of Wisconsin-Madison</a></li>
 	<li><a href="[PREFIX]resources/jobs/leeds-2.html">Lecturer Position, University of Leeds</a></li>
 	<li><a href="[PREFIX]resources/jobs/lse.html">Career-Track Lecturer, London School of Economics and Political Science</a></li>
