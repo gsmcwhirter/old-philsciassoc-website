@@ -33,7 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
-	
+	<li><a href="[PREFIX]resources/jobs/howard.html">Tenure-track Position, Howard University</a></li>
 	<li><a href="[PREFIX]resources/jobs/trinity.html">Tenure-track Position, Trinity College</a></li>
 	<li><a href="[PREFIX]resources/jobs/oklahoma-state.html">Tenure-track Position, Oklahoma State University</a></li>
 	<li><a href="[PREFIX]resources/jobs/brown.html">Tenure-track Position, Brown University</a></li>

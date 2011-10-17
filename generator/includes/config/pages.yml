@@ -100,6 +100,7 @@ resources_jobs_utep:jobs
 resources_jobs_brown: jobs
 resources_jobs_oklahoma-state: jobs
 resources_jobs_trinity: jobs
+resources_jobs_howard: jobs
 
 #remembrances
 remembrances_index: remembrances
