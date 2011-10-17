@@ -33,6 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+	<li><a href="[PREFIX]resources/jobs/utep.html">Tenure-Track Faculty Position, University of Texas at El Paso</a></li>
 	<li><a href="[PREFIX]resources/jobs/western-4.html">Probationary (Tenure-Track) Faculty Position, University of Western Ontario</a></li>
 	<li><a href="[PREFIX]resources/jobs/western-3.html">Postdoctoral Fellowship in Science and Ethics, University of Western Ontario</a></li>
 	<li><a href="[PREFIX]resources/jobs/western-2.html">Postdoctoral Fellowship in Philosophy of Science, University of Western Ontario</a></li>	
