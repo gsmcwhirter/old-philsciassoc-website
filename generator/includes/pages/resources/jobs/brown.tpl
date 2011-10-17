@@ -15,7 +15,8 @@ be held with some candidates at the American Philosophical meeting in
 Washington (December 27-30); other interview arrangements may be made 
 for candidates unable to attend that meeting. Brown University is an 
 Equal Opportunity/Affirmative Action employer, and we encourage 
-applications from women and minorities. Send applications to: 
+applications from women and minorities. Send applications to:
+</p> 
 <ul class="address">
 <li>Philosophy of Science Search Committee</li>
 <li>Department of Philosophy</li>
