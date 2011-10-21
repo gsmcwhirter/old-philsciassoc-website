@@ -1,4 +1,4 @@
-HOPOS 2012 Announcement
+HOPOS 2012 Call for Papers
 %%%
 <p>
 The International Society for the History of Philosophy of Science 
