@@ -1,6 +1,6 @@
 Tenure-track Position, Texas - Dallas
 %%%
-<a id="top"> </a><h1>Assistant Professor, Tenure Track, Univ. of Texas - Dallas</h1>
+<a id="top"> </a><h1>Assistant Professor, Tenure Track, University of Texas - Dallas</h1>
 <p>
 THE UNIVERSITY OF TEXAS AT DALLAS, RICHARDSON, TX. Assistant Professor 
 tenure-track, starting Fall 2012.  AOS: Open. AOC: History and/or 
