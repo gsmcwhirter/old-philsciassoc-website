@@ -33,7 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
-	<li><a href="[PREFIX]resources/jobs/texas-dallas.html">Assistant Professor, Tenure Track, Univ. of Texas - Dallas</a></li>
+	<li><a href="[PREFIX]resources/jobs/texas-dallas.html">Assistant Professor, Tenure Track, University of Texas - Dallas</a></li>
 	<li><a href="[PREFIX]resources/jobs/rowan.html">Assistant Professor of Philosophy, full-time temporary (one semester), Rowan University</a></li>
 	<li><a href="[PREFIX]resources/jobs/cologne.html">Full-time Research and Teaching Position (Wissenschaftlicher Mitarbeiter), University of Cologne, Germany</a></li>
 	<li><a href="[PREFIX]resources/jobs/chicago.html">Tenure-track Position, University of Chicago</a></li>
