@@ -17,6 +17,7 @@ Without defining "younger scholar," our intention is to favor work produced by
 scholars who are no more than five years or so beyond completion of the Ph.D. or, 
 in a comparable way, new to the fields of the history and philosophy of physics.
 </p>
+[split here]
 <p>
 Nominated work will be evaluated by a committee drawn from the members of the 
 <a href="http://www.nd.edu/~cushpriz/AdvisoryCommittee.htm" rel="external">Advisory Committee</a>. 

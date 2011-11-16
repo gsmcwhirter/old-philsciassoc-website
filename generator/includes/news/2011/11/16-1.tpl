@@ -14,6 +14,7 @@ Committee on the basis of the Selectors' reports is that none quite meets the
 level of impact and significance required to merit the Award; and consequently 
 no Award will be made this year.
 </p>
+[split here]
 <p>
 The Lakatos Award is given for an outstanding contribution to the philosophy of 
 science, widely interpreted, in the form of a book published in English during 
