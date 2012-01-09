@@ -33,40 +33,20 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
-	<li><a href="[PREFIX]resources/jobs/texas-dallas.html">Assistant Professor, Tenure Track, University of Texas - Dallas</a></li>
-	<li><a href="[PREFIX]resources/jobs/rowan.html">Assistant Professor of Philosophy, full-time temporary (one semester), Rowan University</a></li>
-	<li><a href="[PREFIX]resources/jobs/cologne.html">Full-time Research and Teaching Position (Wissenschaftlicher Mitarbeiter), University of Cologne, Germany</a></li>
-	<li><a href="[PREFIX]resources/jobs/chicago.html">Tenure-track Position, University of Chicago</a></li>
+	<li><a href="[PREFIX]resources/jobs/mellon-postdoc.html">Mellon Post Doctoral Fellowship in the History &amp; Philosophy of Science, University of Pittsburgh</a></li>
+	
 	<li><a href="[PREFIX]resources/jobs/wisconsin.html">Post-doctoral Fellowship, University of Wisconsin-Madison</a></li>
-	<li><a href="[PREFIX]resources/jobs/leeds-2.html">Lecturer Position, University of Leeds</a></li>
-	<li><a href="[PREFIX]resources/jobs/lse.html">Career-Track Lecturer, London School of Economics and Political Science</a></li>
+	
 	<li><a href="[PREFIX]resources/jobs/northwestern-postdocs.html">Postdoctoral Fellowships, Science in Human Culture Program, Northwestern University</a></li>
-	<li><a href="[PREFIX]resources/jobs/ohio-state.html">Tenure-track Position, Ohio State University</a></li>	
-	<li><a href="[PREFIX]resources/jobs/gustavus-adolphus.html">Tenure-track Position, Gustavus Adolphus College</a></li>
-	<li><a href="[PREFIX]resources/jobs/lycoming.html">Tenure-track Position, Lycoming College</a></li>
-	<li><a href="[PREFIX]resources/jobs/howard.html">Tenure-track Position, Howard University</a></li>
-	<li><a href="[PREFIX]resources/jobs/trinity.html">Tenure-track Position, Trinity College</a></li>
-	<li><a href="[PREFIX]resources/jobs/oklahoma-state.html">Tenure-track Position, Oklahoma State University</a></li>
-	<li><a href="[PREFIX]resources/jobs/brown.html">Tenure-track Position, Brown University</a></li>
+	
+	
 	<li><a href="[PREFIX]resources/jobs/utep.html">Tenure-Track Faculty Position, University of Texas at El Paso</a></li>
-	<li><a href="[PREFIX]resources/jobs/western-4.html">Probationary (Tenure-Track) Faculty Position, University of Western Ontario</a></li>
-	<li><a href="[PREFIX]resources/jobs/western-3.html">Postdoctoral Fellowship in Science and Ethics, University of Western Ontario</a></li>
-	<li><a href="[PREFIX]resources/jobs/western-2.html">Postdoctoral Fellowship in Philosophy of Science, University of Western Ontario</a></li>	
-	<li><a href="[PREFIX]resources/jobs/denver.html">Tenure-track Position, University of Denver</a></li>
-	<li><a href="[PREFIX]resources/jobs/uc-irvine.html">Tenure-Track Assistant Professorship, LPS, University of California, Irvine</a></li>
-	<li><a href="[PREFIX]resources/jobs/uc-berkeley.html">Assistant, Associate, or Full Professor, University of California, Berkeley</a></li>
-    <li><a href="[PREFIX]resources/jobs/tennessee-2.html">Two Tenure-Track Positions, University of Tennessee</a></li>
-    <li><a href="[PREFIX]resources/jobs/hong-kong.html">Assistant Professor in the Department of Philosophy in the School of Humanities, University of Hong Kong</a></li>
-    <li><a href="[PREFIX]resources/jobs/cambridge-4.html">University Lecturer in the Philosophy of Public Health, University of Cambridge - Department of History and Philosophy of Science</a></li>
     
     
     <li><a href="[PREFIX]resources/jobs/alberta.html">Tier I (Senior) Canada Research Chair, University of Alberta</a></li>
     
-    <li><a href="[PREFIX]resources/jobs/sydney-tt.html">Lectureship in History and Philosophy of Science, Sydney</a></li>
-    <li><a href="[PREFIX]resources/jobs/ku-leuven.html">Tenured Position, K.U. Leuven</a></li>
     
-    
-    <li><a href="[PREFIX]resources/jobs/quebec-montreal.html">Professor, Open Rank, Universit&eacute; du Qu&eacute;bec &agrave; Montr&eacute;al</a></li>       
+    <li><a href="[PREFIX]resources/jobs/ku-leuven.html">Tenured Position, K.U. Leuven</a></li>       
 </ul>
 <p><a href="#top" class="top">top</a></p>
 
