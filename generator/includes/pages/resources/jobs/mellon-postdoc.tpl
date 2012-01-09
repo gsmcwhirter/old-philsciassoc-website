@@ -13,7 +13,6 @@ option to publish the monograph. Senior scholars should apply for a single
 semester; junior scholars may apply for two semesters. The fellowship is in the 
 amount of $40,000, and comes with a full package of benefits.
 </p>
-[split here]
 <p>
 This Fellowship is funded as part of a grant from the Mellon Foundation to support 
 the development of publishing in the History and Philosophy of Science through 
