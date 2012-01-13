@@ -43,7 +43,7 @@ interview short-listed candidates. 
 <li>Department of Philosophy</li>
 <li>2530 Dole St.</li>
 <li>Sakamaki D-301</li>
-<li>Honolulu, Hawai'i, 96822</li>  
+<li>Honolulu, Hawai'i, 96822</li>
 </ul>
 <p>
 For additional information, contact Kenneth Kipnis, Chair, (808) 956-8649, 
