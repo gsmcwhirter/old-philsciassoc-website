@@ -33,6 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+    <li><a href="[PREFIX]resources/jobs/sydney-postdoc2.html">Postdoctoral Research Fellow, University of Sydney</a></li>
     <li><a href="[PREFIX]resources/jobs/hawaii-manoa.html">Assistant Professor, University of Hawai'i at M&atilde;noa</a></li>
 	<li><a href="[PREFIX]resources/jobs/mellon-postdoc.html">Mellon Post Doctoral Fellowship in the History &amp; Philosophy of Science, University of Pittsburgh</a></li>
 	
