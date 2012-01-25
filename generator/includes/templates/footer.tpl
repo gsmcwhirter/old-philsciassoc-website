@@ -19,7 +19,7 @@
 				<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
 			</div>
 			<div id="footer">
-				<span class="copyright">&copy; 2009-2010 Philosophy of Science Association</span>
+				<span class="copyright">&copy; 2009-2012 Philosophy of Science Association</span>
 			</div>
 			<div id="subfooter">
 				<a href="[PREFIX]about/index.html#contact">contact</a>
