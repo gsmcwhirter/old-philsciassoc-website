@@ -1,4 +1,4 @@
-University Professorship, Leibniz Universit&auml;t Hannover, Germany
+University Professorship, Leibniz Universit&auml;t Hannover
 %%%
 <a id="top"> </a><h1>University Professorship, Leibniz Universit&auml;t Hannover, Germany</h1>
 <p>
