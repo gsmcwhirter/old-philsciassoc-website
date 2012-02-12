@@ -33,6 +33,7 @@ authored. The nominated author must be a member in good standing of the
 APA.
 </p>
 <h3>Nominations</h3>
+<p>
 Each nomination must be made by an APA member other than the author. 
 Each member may submit only one nomination. Nominations should include 
 complete publication information and may include a statement in support 
