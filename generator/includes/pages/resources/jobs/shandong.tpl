@@ -20,7 +20,7 @@ Please submit a curriculum vitae, a letter of application, and the
 contact information of a reference to Dr. Waguter Wang (Department of 
 Philosophy, School of Philosophy and Development, Shandong University, 
 A Zhixin Building, 27 South Shanda Road, Jinan, Shandong Province, China 
-250100). Electronic submission is also accepted & preferred to: <a href="mailto:waguter@gmail.com" rel="email">waguter@gmail.com</a>.
+250100). Electronic submission is also accepted &amp; preferred to: <a href="mailto:waguter@gmail.com" rel="email">waguter@gmail.com</a>.
 Consideration of applications will begin immediately and will remain 
 open until the positions are filled. The starting dates for the 
 positions are negotiable. For more information, please contact Dr. 
