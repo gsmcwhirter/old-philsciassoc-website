@@ -1,6 +1,5 @@
 Nominations being Accepted for the Inaugural Hempel Award
 %%%
-<p>
 <img src="[PREFIX_FINAL]images/hempel_photo.png" alt="Photo of Hempel" style="float:right; margin: 1em; margin-right: 0;"/>
 <img src="[PREFIX_FINAL]images/psalogo_small_whitebg.png" alt="PSA Logo" style="float: left; margin: 1em; margin-left: 0;"/>
 <h3>The Hempel Award</h3>
