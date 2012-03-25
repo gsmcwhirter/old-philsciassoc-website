@@ -38,5 +38,4 @@ These lead to further details which are at:
 Best wishes,<br />
 Jeremy Butterfield
 </p>
-</p>
 <p><a href="#top" class="top">top</a></p>
