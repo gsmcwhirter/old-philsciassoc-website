@@ -33,25 +33,11 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+    <li><a href="[PREFIX]resources/jobs/cambridge-6.tpl">Post-Docs in Philosophy of Cosmology at Cambridge and Oxford</a></li>
+    <li><a href="[PREFIX]resources/jobs/cambridge-5.tpl">Post-Doc at Cambridge in Foundations of Physics</a></li>
     <li><a href="[PREFIX]resources/jobs/shandong.html">Senior Positions in Philosophy, Shandong University, China</a></li>
-    <li><a href="[PREFIX]resources/jobs/leibniz.html">University Professorship, Leibniz Universit&auml;t Hannover, Germany</a></li>
-    <li><a href="[PREFIX]resources/jobs/calgary-postdoc2.html">Postdoctoral Fellowship, University of Calgary</a></li>
-    <li><a href="[PREFIX]resources/jobs/sydney-postdoc2.html">Postdoctoral Research Fellow, University of Sydney</a></li>
-    <li><a href="[PREFIX]resources/jobs/hawaii-manoa.html">Assistant Professor, University of Hawai'i at M&atilde;noa</a></li>
-	<li><a href="[PREFIX]resources/jobs/mellon-postdoc.html">Mellon Post Doctoral Fellowship in the History &amp; Philosophy of Science, University of Pittsburgh</a></li>
-	
-	<li><a href="[PREFIX]resources/jobs/wisconsin.html">Post-doctoral Fellowship, University of Wisconsin-Madison</a></li>
-	
-	<li><a href="[PREFIX]resources/jobs/northwestern-postdocs.html">Postdoctoral Fellowships, Science in Human Culture Program, Northwestern University</a></li>
-	
-	
-	<li><a href="[PREFIX]resources/jobs/utep.html">Tenure-Track Faculty Position, University of Texas at El Paso</a></li>
     
-    
-    <li><a href="[PREFIX]resources/jobs/alberta.html">Tier I (Senior) Canada Research Chair, University of Alberta</a></li>
-    
-    
-    <li><a href="[PREFIX]resources/jobs/ku-leuven.html">Tenured Position, K.U. Leuven</a></li>       
+    <li><a href="[PREFIX]resources/jobs/calgary-postdoc2.html">Postdoctoral Fellowship, University of Calgary</a></li>       
 </ul>
 <p><a href="#top" class="top">top</a></p>
 

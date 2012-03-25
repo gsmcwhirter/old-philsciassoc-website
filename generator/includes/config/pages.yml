@@ -81,12 +81,12 @@ resources_jobs_mount-allison: jobs_archive
 resources_jobs_quebec-montreal: jobs_archive
 resources_jobs_la-trobe: jobs_archive
 resources_jobs_exeter: jobs_archive
-resources_jobs_ku-leuven: jobs
+resources_jobs_ku-leuven: jobs_archive
 resources_jobs_sydney-tt: jobs_archive
 resources_jobs_sydney-postdoc: jobs_archive
 resources_jobs_south-carolina: jobs_archive
 resources_jobs_bern: jobs_archive
-resources_jobs_alberta: jobs
+resources_jobs_alberta: jobs_archive
 resources_jobs_cambridge-4: jobs_archive
 resources_jobs_hong-kong: jobs_archive
 resources_jobs_tennessee-2: jobs_archive
@@ -96,7 +96,7 @@ resources_jobs_denver: jobs_archive
 resources_jobs_western-2: jobs_archive
 resources_jobs_western-3: jobs_archive
 resources_jobs_western-4: jobs_archive
-resources_jobs_utep:jobs
+resources_jobs_utep:jobs_archive
 resources_jobs_brown: jobs_archive
 resources_jobs_oklahoma-state: jobs_archive
 resources_jobs_trinity: jobs_archive
@@ -104,20 +104,22 @@ resources_jobs_howard: jobs_archive
 resources_jobs_lycoming: jobs_archive
 resources_jobs_gustavus-adolphus: jobs_archive
 resources_jobs_ohio-state: jobs_archive
-resources_jobs_northwestern-postdocs: jobs
+resources_jobs_northwestern-postdocs: jobs_archive
 resources_jobs_lse: jobs_archive
 resources_jobs_leeds-2: jobs_archive
-resources_jobs_wisconsin: jobs
+resources_jobs_wisconsin: jobs_archive
 resources_jobs_chicago: jobs_archive
 resources_jobs_cologne: jobs_archive
 resources_jobs_rowan: jobs_archive
 resources_jobs_texas-dallas: jobs_archive
-resources_jobs_mellon-postdoc: jobs
-resources_jobs_hawaii-manoa: jobs
-resources_jobs_sydney-postdoc2: jobs
+resources_jobs_mellon-postdoc: jobs_archive
+resources_jobs_hawaii-manoa: jobs_archive
+resources_jobs_sydney-postdoc2: jobs_archive
 resources_jobs_calgary-postdoc2: jobs
-resources_jobs_leibniz: jobs
+resources_jobs_leibniz: jobs_archive
 resources_jobs_shandong: jobs
+resources_jobs_cambridge-5: jobs
+resources_jobs_cambridge-6: jobs
 #remembrances
 remembrances_index: remembrances
 remembrances_mcmullin: remembrances
