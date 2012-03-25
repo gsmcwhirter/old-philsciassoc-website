@@ -50,5 +50,4 @@ We look forward to hearing from you!
 <p>
 Jeremy Butterfield and Simon Saunders
 </p>
-</p>
 <p><a href="#top" class="top">top</a></p>
