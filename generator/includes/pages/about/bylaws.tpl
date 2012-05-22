@@ -6,7 +6,8 @@ Bylaws of the Association
 	<li>Amendments Adopted 1979 Election</li>
 	<li>Amendment Adopted 1986 Election</li>
 	<li>Amendment Adopted 1998 Election</li>
-    <li>Amendment Adopted 2009 Election</li>
+  <li>Amendment Adopted 2009 Election</li>
+  <li>Amendment Adopted 2011 Election</li>
 </ul>
 
 <h2>ARTICLE 1: Name and Objectives</h2>
@@ -53,44 +54,36 @@ public office.
 
 <h3>Section 1</h3>
 <p>
-There shall be three classes of membership: full membership, associate membership,
-and student membership.
+There shall be three classes of membership: full membership, student 
+membership, and retired membership.
 </p>
 <h3>Section 2</h3>
 <p>
-Full membership shall be open to qualified philosophers and scientists who are in
-sympathy with the objectives of the Association. Prima facie evidence of qualification
-shall be constituted by any of the following: a doctoral degree or its equivalent in any
-philosophical or scientific field, in the broadest sense of those terms; a professional
-position (assistant professorship or above, or the equivalent) in any of these fields; a
-professional research position in any of these fields. Application for full membership
-shall be made to the Executive Secretary and shall be subject to final approval of the
-Governing Board.
+Full membership shall be open to anyone who is in sympathy with the objectives
+of the Association.
 </p>
 <h3>Section 3</h3>
 <p>
-Associate membership shall be open to any individual who is in sympathy with the
-objectives of the Association. Application for associate membership shall be made to
-the Executive Secretary.
+Retired membership shall be open to anyone who is in sympathy with the
+objectives of the Association and retired.
 </p>
 <h3>Section 4</h3>
 <p>
-Student membership shall be open to students in any discipline. Application for student
-membership shall be made to the Executive Secretary.
+Student membership shall be open to anyone who is in sympathy with the
+objectives of the Association and actively pursuing a degree from an
+academic institution.
 </p>
 <h3>Section 5</h3>
 <p>
 All members shall have the same privileges of membership so long as their dues are
-not in arrears, but only full members shall be eligible for office in the Association and
+not in arrears, but only full and retired members shall be eligible for office in the Association and
 eligible to vote upon matters pertaining to the Association.
 </p>
 <h3>Section 6</h3>
 <p>
 Annual dues for the several classes of membership shall be set by the Governing Board
-upon recommendation by the Executive Secretary. Dues for associate members shall
-be the same as for full members. Dues for full and associate members who are retired
-shall be reduced to the level of student dues; such reduction of dues shall not alter the
-class of membership. It shall be the responsibility of the individual member to notify the
+upon recommendation by the Executive Secretary. Dues for retired members shall
+be the same as student dues. It shall be the responsibility of the individual member to notify the
 Executive Secretary of eligibility for reduction of dues. The Governing Board shall be
 empowered to reduce or waive dues in extra-ordinary circumstances.
 </p>
@@ -167,8 +160,8 @@ conducted by mail.
 <p>
 The Governing Board shall be empowered to call business meetings of itself, or of the
 Association. At the discretion of those members of the Governing Board who are
-present, associate and student members may be permitted to attend and to speak at
-business meetings of the Association, but voting is limited to full members.
+present, student members may be permitted to attend and to speak at
+business meetings of the Association, but voting is limited to full and retired members.
 </p>
 <h3>Section 3</h3>
 <p>

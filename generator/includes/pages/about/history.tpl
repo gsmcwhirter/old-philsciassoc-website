@@ -237,6 +237,12 @@ published PSA proceedings.
 
 	<a id="board"> </a><h3>Former Governing Board Members</h3>
 	<ul class="references">
+	  <li>Nancy Nersessian
+			<span class="sfcd">Georgia Institute of Technology</span>
+			<span class="sfcd">Term: 2008/01/01 - 2011/12/31</span></li>
+		<li>Andrea Woody
+			<span class="sfcd">University of Washington</span>
+			<span class="sfcd">Term: 2008/01/01 - 2011/12/31</span></li>
 	  <li>Heather Douglas
 			<span class="sfcd">University of Tennessee, Knoxville</span>
 			<span class="sfcd">Term: 2007/01/01 - 2010/12/31</span></li>

@@ -40,6 +40,12 @@ Governance
 
 	<a id="board"> </a><h3>Governing Board</h3>
 	<ul class="references">
+	  <li>Michela Massimi
+			<span class="sfcd">University College London</span>
+			<span class="sfcd">Term: 2012/01/01 - 2015/12/31</span></li>
+		<li>Christian W&uuml;thrich
+			<span class="sfcd">University of California, San Diego</span>
+			<span class="sfcd">Term: 2012/01/01 - 2015/12/31</span></li>
 	  <li>John Dupr&eacute;
         <span class="sfcd">University of Exeter</span>
         <span class="sfcd">Term: 2011/01/01 - 2014/12/31</span></li>
@@ -58,12 +64,6 @@ Governance
     <li>Alan Richardson
         <span class="sfcd">University of British Columbia</span>
         <span class="sfcd">Term: 2011/01/01 - 2012/12/31<span class="red">*</span></span></li>
-		<li>Nancy Nersessian
-			<span class="sfcd">Georgia Institute of Technology</span>
-			<span class="sfcd">Term: 2008/01/01 - 2011/12/31</span></li>
-		<li>Andrea Woody
-			<span class="sfcd">University of Washington</span>
-			<span class="sfcd">Term: 2008/01/01 - 2011/12/31</span></li>
 		<li><a href="[PREFIX]about/history.html#board">Former Governing Board Members...</a></li>
 	</ul>
 	<p>
