@@ -11,8 +11,7 @@ of the University of California-San Diego have been elected to the
 Governing Board for the PSA. Consequently, the PSA Governing Board 
 presently consists of:
 </p>
-<p>
-<table>
+<table style="margin-top: 1em;">
   <thead>
     <tr>
       <th>Name</th>
@@ -66,7 +65,6 @@ presently consists of:
     </tr>
   </tbody>
 </table>
-</p>
 <p>
 The Officers of the PSA congratulate and welcome Professors Massimi and 
 W&uuml;thrich to the PSA Governing Board, and offer their deep 
