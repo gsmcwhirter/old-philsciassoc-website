@@ -229,7 +229,7 @@ published PSA proceedings.
       <span class="sfcd">Term: 1996 - 1999</span></li>
     <li>Noretta Koertge
       <span class="sfcd">Term: 2000 - 2004</span></li>
-    <li>Michael Dickson (2004-2009)
+    <li>Michael Dickson
       <span class="sfcd">Term: 2004 - 2009</span></li>
     <li>Jeff Barrett
       <span class="sfcd">Term: 2009 - present</span></li>
