@@ -15,7 +15,7 @@ presently consists of:
   <thead>
     <tr>
       <th>Name</th>
-      <th>Term</th>
+      <th style="width: 25%;">Term</th>
     </tr>
   </thead>
   <tbody>
