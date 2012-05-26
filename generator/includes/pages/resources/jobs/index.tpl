@@ -33,6 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+    <li><a href="[PREFIX]resources/jobs/calgary.html">Tier I Canada Research Chair, University of Calgary</a></li>
     <li><a href="[PREFIX]resources/jobs/cambridge-6.html">Post-Docs in Philosophy of Cosmology at Cambridge and Oxford</a></li>
     <li><a href="[PREFIX]resources/jobs/cambridge-5.html">Post-Doc at Cambridge in Foundations of Physics</a></li>
     <li><a href="[PREFIX]resources/jobs/shandong.html">Senior Positions in Philosophy, Shandong University, China</a></li>
