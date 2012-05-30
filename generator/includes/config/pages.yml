@@ -121,9 +121,9 @@ resources_jobs_shandong: jobs
 resources_jobs_cambridge-5: jobs
 resources_jobs_cambridge-6: jobs
 resources_jobs_calgary: jobs
-resources_jobs_western-postdoc.tpl
-resources_jobs_western-visitors.tpl
-resources_jobs_toronto.tpl
+resources_jobs_western-postdoc: jobs
+resources_jobs_western-visitors: jobs
+resources_jobs_toronto: jobs
 #remembrances
 remembrances_index: remembrances
 remembrances_mcmullin: remembrances
