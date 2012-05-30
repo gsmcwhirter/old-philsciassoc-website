@@ -48,12 +48,12 @@ a research allowance of $5,000 CDN. Please send a curriculum vitae,
 writing sample, research statement, and three letters of reference to: 
 </p>
 <ul class="address">
-<li>Rob Read, Administrative Assistant</a>
-<li>Rotman Institute of Philosophy</a>
-<li>2150E Stevenson Hall</a>
-<li>Western University</a>
-<li>London, Ontario, Canada N6A 5B8</a> 
-<li class="fax">Fax: 519-661-3261</a>
+<li>Rob Read, Administrative Assistant</li>
+<li>Rotman Institute of Philosophy</li>
+<li>2150E Stevenson Hall</li>
+<li>Western University</li>
+<li>London, Ontario, Canada N6A 5B8</li> 
+<li class="fax">Fax: 519-661-3261</li>
 </ul> 
 <p>
 All items, except letters of reference, may be sent <a href="mailto:byrotman@uwo.ca" rel="email">byrotman@uwo.ca</a>.
