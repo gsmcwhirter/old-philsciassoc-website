@@ -33,6 +33,9 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+    <li><a href="[PREFIX]resources/jobs/toronto.html">One-year Assistant Professor, University of Toronto</a></li>
+    <li><a href="[PREFIX]resources/jobs/western-postdoc.html">Postdoctoral Fellowship, Brain and Mind Institute and Rotman Institute, University of Western Ontario</a></li>
+    <li><a href="[PREFIX]resources/jobs/western-visitors.html">Visiting Fellows Program, Rotman Institute, University of Western Ontario</a></li>
     <li><a href="[PREFIX]resources/jobs/calgary.html">Tier I Canada Research Chair, University of Calgary</a></li>
     <li><a href="[PREFIX]resources/jobs/cambridge-6.html">Post-Docs in Philosophy of Cosmology at Cambridge and Oxford</a></li>
     <li><a href="[PREFIX]resources/jobs/cambridge-5.html">Post-Doc at Cambridge in Foundations of Physics</a></li>
