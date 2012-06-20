@@ -124,6 +124,9 @@ resources_jobs_calgary: jobs
 resources_jobs_western-postdoc: jobs
 resources_jobs_western-visitors: jobs
 resources_jobs_toronto: jobs
+resources_jobs_johannesburg: jobs
+resources_jobs_salzburg-1: jobs
+resources_jobs_salzburg-2: jobs
 #remembrances
 remembrances_index: remembrances
 remembrances_mcmullin: remembrances
