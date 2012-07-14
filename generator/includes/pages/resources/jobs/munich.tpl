@@ -97,7 +97,7 @@ same address from the referees directly.
 Contact for informal inquiries: Professor Stephan Hartmann (<a href="mailto:S.Hartmann@gmail.com" rel="email">S.Hartmann@gmail.com</a>)
 </p>
 
-<a id="postdocs"> </a><h3>2. Six Postdoctoral Fellowships</h3> 
+<a id="postdocs"> </a><h3>Six Postdoctoral Fellowships</h3> 
 <p>
 The successful candidates will partake in all of MCMP's academic 
 activities and enjoy its administrative facilities and financial support. 
