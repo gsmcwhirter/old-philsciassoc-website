@@ -33,6 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+    <li><a href="[PREFIX]resources/jobs/munich.html">Three Assistant Professorships and Six Postdoctoral Fellowships, Ludwig-Maximilians-University Munich</a></li>
     <li><a href="[PREFIX]resources/jobs/salzburg-2.html">Professur: Theoretische Philosophie, Universit&auml;t Salzburg</a></li>
     <li><a href="[PREFIX]resources/jobs/salzburg-1.html">Professur: Logik und Wissenschaftstheorie, Universit&auml;t Salzburg</a></li>
     <li><a href="[PREFIX]resources/jobs/johannesburg.html">Postdoctoral Research Fellow, University of Johannesburg, South Africa</a></li>
