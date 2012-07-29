@@ -81,7 +81,7 @@ advised to do so by adding approximately 5% to the relevant
 <a id="hotel"> </a><h2>Hotel Reservations</h2>
 <p>
 PSA2012 and the 2012 HSS Meeting will take place at the 
-<a href="http://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=127" rel="external">Sheraton San Diego Hotel & Marina</a>, 
+<a href="http://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=127" rel="external">Sheraton San Diego Hotel &amp; Marina</a>, 
 1380 Harbor Island Drive, San Diego, California 92101 (Tel: (619) 
 291-2900 Fax: (619) 692-2337). The Sheraton San Diego is located on San 
 Diego Bay, less than a mile from the San Diego International Airport and 
@@ -117,7 +117,7 @@ shuttle).
 </p>
 <p>
 <strong>By Train:</strong> The San Diego train station (known as the 
-<a href="http://www.amtrak.com/servlet/ContentServer?pagename=am/am2Station/Station_Page&code=SAN" rel="external">Santa Fe Depot</a>) 
+<a href="http://www.amtrak.com/servlet/ContentServer?pagename=am/am2Station/Station_Page&amp;code=SAN" rel="external">Santa Fe Depot</a>) 
 is serviced by Amtrak. The station is approximately 3 miles from the 
 meeting hotel.
 </p>
