@@ -115,20 +115,21 @@ resources_jobs_texas-dallas: jobs_archive
 resources_jobs_mellon-postdoc: jobs_archive
 resources_jobs_hawaii-manoa: jobs_archive
 resources_jobs_sydney-postdoc2: jobs_archive
-resources_jobs_calgary-postdoc2: jobs
+resources_jobs_calgary-postdoc2: jobs_archive
 resources_jobs_leibniz: jobs_archive
 resources_jobs_shandong: jobs
-resources_jobs_cambridge-5: jobs
-resources_jobs_cambridge-6: jobs
+resources_jobs_cambridge-5: jobs_archive
+resources_jobs_cambridge-6: jobs_archive
 resources_jobs_calgary: jobs
-resources_jobs_western-postdoc: jobs
+resources_jobs_western-postdoc: jobs_archive
 resources_jobs_western-visitors: jobs
-resources_jobs_toronto: jobs
-resources_jobs_johannesburg: jobs
+resources_jobs_toronto: jobs_archive
+resources_jobs_johannesburg: jobs_archive
 resources_jobs_salzburg-1: jobs
 resources_jobs_salzburg-2: jobs
 resources_jobs_munich: jobs
 resources_jobs_leeds-postdoc: jobs
+resources_jobs_western-5: jobs
 #remembrances
 remembrances_index: remembrances
 remembrances_mcmullin: remembrances

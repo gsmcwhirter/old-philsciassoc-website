@@ -89,8 +89,14 @@ archive purposes only.
 	<li><a href="[PREFIX]resources/jobs/mellon-postdoc.html">Mellon Post Doctoral Fellowship in the History &amp; Philosophy of Science, University of Pittsburgh</a></li>
 	<li><a href="[PREFIX]resources/jobs/hawaii-manoa.html">Assistant Professor, University of Hawai'i at M&atilde;noa</a></li>
 	<li><a href="[PREFIX]resources/jobs/sydney-postdoc2.html">Postdoctoral Research Fellow, University of Sydney</a></li>
-	
+	<li><a href="[PREFIX]resources/jobs/calgary-postdoc2.html">Postdoctoral Fellowship, University of Calgary</a></li>
 	<li><a href="[PREFIX]resources/jobs/leibniz.html">University Professorship, Leibniz Universit&auml;t Hannover, Germany</a></li>
 	
+	<li><a href="[PREFIX]resources/jobs/cambridge-5.html">Post-Doc at Cambridge in Foundations of Physics</a></li>
+	<li><a href="[PREFIX]resources/jobs/cambridge-6.html">Post-Docs in Philosophy of Cosmology at Cambridge and Oxford</a></li>
+	
+	<li><a href="[PREFIX]resources/jobs/western-postdoc.html">Postdoctoral Fellowship, Brain and Mind Institute and Rotman Institute, University of Western Ontario</a></li>
+	<li><a href="[PREFIX]resources/jobs/toronto.html">One-year Assistant Professor, University of Toronto</a></li>
+	<li><a href="[PREFIX]resources/jobs/johannesburg.html">Postdoctoral Research Fellow, University of Johannesburg, South Africa</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
