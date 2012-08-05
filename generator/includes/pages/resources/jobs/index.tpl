@@ -33,6 +33,8 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+    <li><a href="[PREFIX]resources/jobs/western-5.html">Canada Research Chair in the Foundations of Physics, Western University</a></li>
+    <li><a href="[PREFIX]resources/jobs/leeds-postdoc.html">Two-Year Postdoc in History and Philosophy of Genetics, University of Leeds</a></li>
     <li><a href="[PREFIX]resources/jobs/munich.html">Three Assistant Professorships and Six Postdoctoral Fellowships, Ludwig-Maximilians-University Munich</a></li>
     <li><a href="[PREFIX]resources/jobs/salzburg-2.html">Professur: Theoretische Philosophie, Universit&auml;t Salzburg</a></li>
     <li><a href="[PREFIX]resources/jobs/salzburg-1.html">Professur: Logik und Wissenschaftstheorie, Universit&auml;t Salzburg</a></li>
