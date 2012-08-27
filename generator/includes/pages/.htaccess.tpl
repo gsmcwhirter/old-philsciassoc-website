@@ -4,6 +4,11 @@ ErrorDocument 404 [PREFIX]404.html
 
 <IfModule mod_mime.c>
 	AddType application/rss+xml rss
+	AddType image/gif gif
+  AddType image/jpg jpg
+  AddType image/png png
+  AddType text/css css
+  AddType text/javascript js
 	AddCharset UTF-8 .css .html
 	
 	AddType application/vnd.openxmlformats .docx .pptx .xlsx .xltx . xltm .dotx .potx .ppsx
