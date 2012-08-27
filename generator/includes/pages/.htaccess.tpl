@@ -5,6 +5,8 @@ ErrorDocument 404 [PREFIX]404.html
 <IfModule mod_mime.c>
 	AddType application/rss+xml rss
 	AddCharset UTF-8 .css .html
+	
+	AddType application/vnd.openxmlformats .docx .pptx .xlsx .xltx . xltm .dotx .potx .ppsx
 </IfModule>
 
 <IfModule mod_rewrite.c>
