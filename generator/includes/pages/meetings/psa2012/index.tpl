@@ -33,14 +33,11 @@ information below to the PSA Executive Secretary, Gary Hardcastle
 </p>
 
 <a id="files"> </a><h2>Associated Files</h2>
-<p>
-A draft program for PSA2012 will be distributed, and made available on 
-the PSA website, by Wednesday, August 22.
-</p>
-<!--<ul class="references">
-  <li>Call for Symposium Proposals <a href="[PREFIX_FINAL]files/PSA2012_CFS.pdf" rel="download">download</a></li>
-	<li>Call for Papers <a href="[PREFIX_FINAL]files/PSA2012_CFP.pdf" rel="download">download</a></li>
-</ul>-->
+<ul class="references">
+  <!--<li>Call for Symposium Proposals <a href="[PREFIX_FINAL]files/PSA2012_CFS.pdf" rel="download">download</a></li>-->
+	<!--<li>Call for Papers <a href="[PREFIX_FINAL]files/PSA2012_CFP.pdf" rel="download">download</a></li>-->
+	<li>Preliminary Program <a href="[PREFIX_FINAL]files/PSA2012_Prelim_Program.docx">download</a></li>
+</ul>
 <p><a class="top" href="#top">top</a></p>
 
 <a id="chairing"> </a><h2>Chairing at PSA2012</h2>
