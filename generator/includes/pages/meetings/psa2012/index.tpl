@@ -36,7 +36,7 @@ information below to the PSA Executive Secretary, Gary Hardcastle
 <ul class="references">
   <!--<li>Call for Symposium Proposals <a href="[PREFIX_FINAL]files/PSA2012_CFS.pdf" rel="download">download</a></li>-->
 	<!--<li>Call for Papers <a href="[PREFIX_FINAL]files/PSA2012_CFP.pdf" rel="download">download</a></li>-->
-	<li>Preliminary Program <a href="[PREFIX_FINAL]files/PSA2012_Prelim_Program-3.docx" rel="download">download</a></li>
+	<li>Preliminary Program <a href="[PREFIX_FINAL]files/PSA2012_Prelim_Program-090612.pdf" rel="download">download</a></li>
 </ul>
 <p><a class="top" href="#top">top</a></p>
 
@@ -84,6 +84,7 @@ may create a new account; this only takes a few minutes. Please do not
 hesitate to contact Gary Hardcastle (<a href="mailto:ghardcas@bloomu.edu" rel="email">ghardcas@bloomu.edu</a>) 
 or Greg Macklem of the HSS (<a href="mailto:greg@hssonline.org" rel="email">greg@hssonline.org</a>) 
 should you encounter any problems registering for PSA2012.
+<strong>Early Registration ends on September 15, 2012.</strong>
 </p>
 <p><a class="top" href="#top">top</a></p>
 
