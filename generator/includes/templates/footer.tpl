@@ -1,5 +1,5 @@
 				<div class="ad">
-					<a href="https://subfill.uchicago.edu/JournalPUBS/Society.aspx"><img src="[PREFIX_FINAL]images/ads/PSA_BannerAd_2013.png" alt="Advertisement" /></a>
+					<a href="https://subfill.uchicago.edu/JournalPUBS/Webform2.aspx?webpub=phos"><img src="[PREFIX_FINAL]images/ads/PSA_BannerAd_2013.png" alt="Advertisement" /></a>
 				</div>
 				<!--<div class="ad">
 				  <a href="http://www.routledge.com/books/details/9780415546133/"><img src="[PREFIX_FINAL]images/ads/routledge_companion.jpg" alt="Advertisement" /></a>
