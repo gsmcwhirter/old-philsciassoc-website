@@ -36,7 +36,7 @@ information below to the PSA Executive Secretary, Gary Hardcastle
 <ul class="references">
   <!--<li>Call for Symposium Proposals <a href="[PREFIX_FINAL]files/PSA2012_CFS.pdf" rel="download">download</a></li>-->
 	<!--<li>Call for Papers <a href="[PREFIX_FINAL]files/PSA2012_CFP.pdf" rel="download">download</a></li>-->
-	<li>Preliminary Program <a href="[PREFIX_FINAL]files/PSA2012_Prelim_Program-091012.pdf" rel="download">download</a></li>
+	<li>Preliminary Program <a href="[PREFIX_FINAL]files/PSA2012_Prelim_Program-091912.pdf" rel="download">download</a></li>
 </ul>
 <p><a class="top" href="#top">top</a></p>
 
