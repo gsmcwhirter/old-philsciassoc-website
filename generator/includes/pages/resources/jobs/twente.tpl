@@ -69,6 +69,7 @@ Netherlands, to the region where the University of Twente is located.
 </p>
 <h2>Philosophy of Technology with a (future) emphasis on philosophical anthropology and human-technology relations</h2>
 <h3>The Challenge</h3>
+<p>
 You teach courses in philosophical anthropology and human-technology 
 relations in the (English-language) master program in Philosophy of 
 Science, Technology and Society (PSTS). You also teach courses in this 
@@ -143,6 +144,7 @@ date is January 2013 (negotiable). The University of Twente has excellent
 terms of employment.
 </p>
 <h2>Information and application</h2>
+<p>
 For more information about Vacancy 1, please contact Prof. dr. Philip Brey 
 (email:<a href="mailto:p.a.e.brey@utwente.nl" rel="email">p.a.e.brey@utwente.nl</a>; 
 for information by phone please contact dr. Johnny Soraker : +31 53 489 5603). 
