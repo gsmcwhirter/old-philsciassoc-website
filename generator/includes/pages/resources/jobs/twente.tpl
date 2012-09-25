@@ -40,6 +40,7 @@ external funding and to engage in international and interdisciplinary
 collaboration.
 </p>
 <h3>Your profile</h3>
+<p>
 You hold a Ph.D. in philosophy, preferably with a specialization in 
 ethics or political philosophy. You have either had a focus on 
 technology in your past research or you have a demonstrable interest in 
