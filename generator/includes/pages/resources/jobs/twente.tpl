@@ -51,7 +51,7 @@ relevant international experience.
 </p>
 <p>
 You also have experience in teaching at the university level, preferably 
-including students in science & engineering, social science, or other 
+including students in science &amp; engineering, social science, or other 
 nonphilosophical fields, and preferably including professional and/or 
 applied ethics. You have demonstrable didactic skills in teaching, good 
 teaching evaluations, and a passion for teaching. You are able and 
