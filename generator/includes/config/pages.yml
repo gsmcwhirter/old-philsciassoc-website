@@ -122,14 +122,19 @@ resources_jobs_cambridge-5: jobs_archive
 resources_jobs_cambridge-6: jobs_archive
 resources_jobs_calgary: jobs
 resources_jobs_western-postdoc: jobs_archive
-resources_jobs_western-visitors: jobs
+resources_jobs_western-visitors: jobs_archive
 resources_jobs_toronto: jobs_archive
 resources_jobs_johannesburg: jobs_archive
-resources_jobs_salzburg-1: jobs
-resources_jobs_salzburg-2: jobs
+resources_jobs_salzburg-1: jobs_archive
+resources_jobs_salzburg-2: jobs_archive
 resources_jobs_munich: jobs
 resources_jobs_leeds-postdoc: jobs
 resources_jobs_western-5: jobs
+resources_jobs_baylor: jobs
+resources_jobs_yonsei: jobs
+resources_jobs_twente: jobs
+resources_jobs_sydney-2: jobs
+resources_jobs_northwestern-postdoc2: jobs
 #remembrances
 remembrances_index: remembrances
 remembrances_mcmullin: remembrances
