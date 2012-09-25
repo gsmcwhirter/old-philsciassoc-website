@@ -3,6 +3,7 @@ Two Assistant Professors, University of Twente
 <a id="top"> </a><h1>Two Assistant Professors, University of Twente, Netherlands</h1>
 <p>
 The Department of Philosophy of the University of Twente (the Netherlands) is looking for two Assistant Professors   (full-time, tenure-track):
+</p>
 <h2>Applied Ethics and/or Political Philosophy with a (future) emphasis on technology</h2>
 <h3>The Challenge</h3>
 <p>
