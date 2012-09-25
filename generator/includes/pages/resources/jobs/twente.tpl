@@ -4,7 +4,7 @@ Two Assistant Professors, University of Twente
 <p>
 The Department of Philosophy of the University of Twente (the Netherlands) is looking for two Assistant Professors   (full-time, tenure-track):
 <h2>Applied Ethics and/or Political Philosophy with a (future) emphasis on technology</h2>
-<h3>The Challenge<h3>
+<h3>The Challenge</h3>
 <p>
 You teach ethics and political philosophy in the master program in 
 Philosophy of Science, Technology and Society (PSTS) and teach 
