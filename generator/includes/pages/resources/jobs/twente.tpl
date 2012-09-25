@@ -112,7 +112,7 @@ peer-refereed journals, and have relevant international experience.
 </p>
 <p>
 You have ample experience in teaching at university level, preferably 
-including students in science & engineering, social science, or other 
+including students in science &amp; engineering, social science, or other 
 non-philosophical fields. You have demonstrable didactic skills, good 
 teaching evaluations, and a passion for education. You are able and 
 willing to teach in areas of philosophy outside your philosophical 
