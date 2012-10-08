@@ -1,6 +1,6 @@
 Winner of the Hempel Award for 2012
 %%%
-<img src="[PREFIX_FINAL]images/van_fraassen_photo.jpg" alt="Photo of van Fraassen" style="float:right; clear: left; margin: 1em; margin-right: 0;"/>
+<img src="[PREFIX_FINAL]images/van_fraassen_photo2.jpg" alt="Photo of van Fraassen" style="float:right; clear: left; margin: 1em; margin-right: 0;"/>
 <img src="[PREFIX_FINAL]images/psalogo_small_whitebg.png" alt="PSA Logo" style="float: left; clear: left; margin: 1em; margin-left: 0;"/>
 <p style="clear: both;">
 The Governing Board of the Philosophy of Science Association is pleased 
