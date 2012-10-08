@@ -2,7 +2,7 @@ Winner of the Hempel Award for 2012
 %%%
 <img src="[PREFIX_FINAL]images/van_fraassen_photo.jpg" alt="Photo of van Fraassen" style="float:right; clear: left; margin: 1em; margin-right: 0;"/>
 <img src="[PREFIX_FINAL]images/psalogo_small_whitebg.png" alt="PSA Logo" style="float: left; clear: left; margin: 1em; margin-left: 0;"/>
-<p>
+<p style="clear: both;">
 The Governing Board of the Philosophy of Science Association is pleased 
 to announce that Bas C. van Fraassen is the recipient of the inaugural 
 2012 Hempel Award, recognizing lifetime scholarly achievement in the 
@@ -40,8 +40,8 @@ logic. Where van Fraassen has focused his attention, the invariable
 result has been a clearer and deeper understanding of the issues for all.
 </p>
 <p>
-Professor van Fraassen is a Fellow of the American Association for the 
-Advancement of Science, and has served as President of the Philosophy of 
+Professor van Fraassen is a Fellow of the American Academy of Arts and 
+Sciences, and has served as President of the Philosophy of 
 Science Association, editor of the <cite>Journal of Philosophical Logic</cite>, and 
 co-editor of the <cite>Journal of Symbolic Logic</cite>. In recognition of Professor 
 van Fraassen's record of scholarly achievement and service in the 
@@ -59,4 +59,11 @@ Meeting. At the invitation of the Governing Board, Carl Hempel's
 children, Miranda and Peter Hempel, will announce and present this 
 inaugural Hempel award prior to the PSA Presidential Address at PSA2012 
 in San Diego, California, November 15-17, 2012.
+</p>
+<p style="font-style: italic;">
+Correction: The original announcement indicated in error that van Fraassen 
+is a member of the American Association for the Advancement of Science.
+This should have read that he is a member of the American Academy of 
+Arts and Sciences. The above text has been updated to reflect the correct
+name.
 </p>
