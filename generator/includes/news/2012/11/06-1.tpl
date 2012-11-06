@@ -47,7 +47,7 @@ participants for a session proposal. (To post to this list, please send
 your email to: <a href="mailto:spsp-members@philosophy-science-practice.org" rel="email">spsp-members@philosophy-science-practice.org</a>. 
 Only members can post to this list). 
 </p>
-<hr />
+<hr style="width: 50%; margin: inherit auto; text-align: center;"/>
 <p>
 Andrea Woody<br />
 Department of Philosophy<br />
