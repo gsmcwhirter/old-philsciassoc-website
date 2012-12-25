@@ -37,7 +37,7 @@ For further details of the nomination procedure or more information on
 the Lakatos Award 2013, contact the Administrator, Tom Hinrichsen, 
 <a href="mailto:att.a.hinrichsen@lse.ac.uk" rel="email">att.a.hinrichsen@lse.ac.uk</a>.
 </p>
-<hr>
+<hr />
 <p>
 Imre Lakatos, who died in 1974 aged 51, had been Professor of Logic with 
 special reference to the Philosophy of Mathematics at LSE since 1969.  
@@ -60,4 +60,3 @@ Currie, appeared in 1978, also from CUP.
 <p>
 <a href="http://www2.lse.ac.uk/philosophy/lakatos/Home.aspx" rel="external">http://www2.lse.ac.uk/philosophy/lakatos/Home.aspx</a>
 </p>
-<p>
