@@ -91,15 +91,23 @@ archive purposes only.
 	<li><a href="[PREFIX]resources/jobs/sydney-postdoc2.html">Postdoctoral Research Fellow, University of Sydney</a></li>
 	<li><a href="[PREFIX]resources/jobs/calgary-postdoc2.html">Postdoctoral Fellowship, University of Calgary</a></li>
 	<li><a href="[PREFIX]resources/jobs/leibniz.html">University Professorship, Leibniz Universit&auml;t Hannover, Germany</a></li>
-	
+  <li><a href="[PREFIX]resources/jobs/shandong.html">Senior Positions in Philosophy, Shandong University, China</a></li>	
 	<li><a href="[PREFIX]resources/jobs/cambridge-5.html">Post-Doc at Cambridge in Foundations of Physics</a></li>
 	<li><a href="[PREFIX]resources/jobs/cambridge-6.html">Post-Docs in Philosophy of Cosmology at Cambridge and Oxford</a></li>
-	
+	<li><a href="[PREFIX]resources/jobs/calgary.html">Tier I Canada Research Chair, University of Calgary</a></li>
 	<li><a href="[PREFIX]resources/jobs/western-visitors.html">Visiting Fellows Program, Rotman Institute, University of Western Ontario</a></li>
 	<li><a href="[PREFIX]resources/jobs/western-postdoc.html">Postdoctoral Fellowship, Brain and Mind Institute and Rotman Institute, University of Western Ontario</a></li>
 	<li><a href="[PREFIX]resources/jobs/toronto.html">One-year Assistant Professor, University of Toronto</a></li>
 	<li><a href="[PREFIX]resources/jobs/johannesburg.html">Postdoctoral Research Fellow, University of Johannesburg, South Africa</a></li>
 	<li><a href="[PREFIX]resources/jobs/salzburg-1.html">Professur: Logik und Wissenschaftstheorie, Universit&auml;t Salzburg</a></li>
 	<li><a href="[PREFIX]resources/jobs/salzburg-2.html">Professur: Theoretische Philosophie, Universit&auml;t Salzburg</a></li>
+	<li><a href="[PREFIX]resources/jobs/munich.html">Three Assistant Professorships and Six Postdoctoral Fellowships, Ludwig-Maximilians-University Munich</a></li>
+	<li><a href="[PREFIX]resources/jobs/leeds-postdoc.html">Two-Year Postdoc in History and Philosophy of Genetics, University of Leeds</a></li>
+	<li><a href="[PREFIX]resources/jobs/western-5.html">Canada Research Chair in the Foundations of Physics, Western University</a></li>
+	<li><a href="[PREFIX]resources/jobs/baylor.html">Assistant Professor, Baylor University</a></li>
+	<li><a href="[PREFIX]resources/jobs/yonsei.html">Assistant Professor, Yonsei University, Seoul, South Korea</a></li>
+	<li><a href="[PREFIX]resources/jobs/twente.html">Two Assistant Professors, University of Twente, Netherlands</a></li>
+	<li><a href="[PREFIX]resources/jobs/sydney-2.html">Call for Applications for Visiting Fellowships at the Sydney Centre for the Foundations of Science</a></li>
+	<li><a href="[PREFIX]resources/jobs/northwestern-postdoc2.html">Postdoctoral Fellowship, SHC, Northwestern University</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>

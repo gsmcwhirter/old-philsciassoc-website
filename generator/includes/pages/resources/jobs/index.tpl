@@ -33,18 +33,9 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
-  <li><a href="[PREFIX]resources/jobs/northwestern-postdoc2.html">Postdoctoral Fellowship, SHC, Northwestern University</a></li>
-  <li><a href="[PREFIX]resources/jobs/sydney-2.html">Call for Applications for Visiting Fellowships at the Sydney Centre for the Foundations of Science</a></li>
-  <li><a href="[PREFIX]resources/jobs/twente.html">Two Assistant Professors, University of Twente, Netherlands</a></li>
-  <li><a href="[PREFIX]resources/jobs/yonsei.html">Assistant Professor, Yonsei University, Seoul, South Korea</a></li>
-  <li><a href="[PREFIX]resources/jobs/baylor.html">Assistant Professor, Baylor University</a></li>
-  <li><a href="[PREFIX]resources/jobs/western-5.html">Canada Research Chair in the Foundations of Physics, Western University</a></li>
-  <li><a href="[PREFIX]resources/jobs/leeds-postdoc.html">Two-Year Postdoc in History and Philosophy of Genetics, University of Leeds</a></li>
-  <li><a href="[PREFIX]resources/jobs/munich.html">Three Assistant Professorships and Six Postdoctoral Fellowships, Ludwig-Maximilians-University Munich</a></li>
-  
-  <li><a href="[PREFIX]resources/jobs/calgary.html">Tier I Canada Research Chair, University of Calgary</a></li>
-  
-  <li><a href="[PREFIX]resources/jobs/shandong.html">Senior Positions in Philosophy, Shandong University, China</a></li>       
+  <li><a href="[PREFIX]resources/jobs/melbourne.html">Lecturer in Social Studies of Science, The University of Melbourne, Australia</a></li>
+  <li><a href="[PREFIX]resources/jobs/western-postdoc3.html">Postdoctoral Fellowship in Philosophy of Neuroscience, Western University</a></li>
+  <li><a href="[PREFIX]resources/jobs/western-postdoc2.html">Two Postdoctoral Fellows in Philosophy and Science, Western University</a></li>       
 </ul>
 <p><a href="#top" class="top">top</a></p>
 
