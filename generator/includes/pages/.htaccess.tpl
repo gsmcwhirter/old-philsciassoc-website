@@ -6,6 +6,7 @@ ErrorDocument 404 [PREFIX]404.html
 	AddType application/rss+xml rss
 	AddType image/gif gif
   AddType image/jpg jpg
+  AddType image/jpg JPG
   AddType image/png png
   AddType text/css css
   AddType text/javascript js
