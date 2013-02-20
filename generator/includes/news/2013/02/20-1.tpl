@@ -1,4 +1,4 @@
-Winner of the Hempel Award for 2012
+New PSA Executive Secretary and Treasurer
 %%%
 <p>
 <img src="[PREFIX_FINAL]images/pfeifer.jpg" alt="Photo of Pfeifer" style="float:right; clear: left; margin: 1em; margin-right: 0; height: 152px;"/>
