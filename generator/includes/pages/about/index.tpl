@@ -17,13 +17,15 @@ To this end, the PSA engages in activities such as: the publishing of periodical
 <a id="contact"> </a><h2>Contact Information</h2>
 <h3>For PSA Business</h3>
 <ul class="address">
-	<li>Gary Hardcastle, Executive Secretary and Treasurer</li>
+	<li>Jessica Pfeifer, Executive Secretary and Treasurer</li>
+	<li>Philosophy of Science Association</li>
 	<li>Department of Philosophy</li>
-	<li>Bloomsburg University</li>
-	<li>Bloomsburg, PA 17815</li>
+	<li>University of Maryland, Baltimore County</li>
+	<li>1000 Hilltop Circle</li>
+	<li>Baltimore, MD 21250</li>
 	<li>U.S.A.</li>
-	<li class="phone">570-389-4174</li>
-	<li class="email"><a href="mailto:ghardcas@bloomu.edu" rel="email">ghardcas@bloomu.edu</a></li>
+	<li class="phone">410-455-2014</li>
+	<li class="email"><a href="mailto:psa@umbc.edu" rel="email">psa@umbc.edu</a></li>
 </ul>
 <h3>Journal Editorial Business</h3>
 <p><a href="http://journal.philsci.org/contact.html" rel="external">Philosophy of Science Journal Contact Information</a></p>

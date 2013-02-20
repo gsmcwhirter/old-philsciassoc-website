@@ -12,11 +12,11 @@ Jobs for Philosophers of Science
 <p>
 Have a position for a philosopher of science?  The Philosophy of Science
 Association invites you to post your ad here.  Simply email the
-advertisement’s full text to Gary Hardcastle, Executive Secretary of the
-PSA, at <a href="mailto:ghardcas@bloomu.edu" rel="email">ghardcas@bloomu.edu</a>.
+advertisement's full text to Jessica Pfeifer, Executive Secretary of the
+PSA, at <a href="mailto:psa@umbc.edu" rel="email">psa@umbc.edu</a>.
 Ads will normally be posted within 72 hours after they are received, and
 removed when their deadlines pass.  Comments or corrections should also
-be addressed to Gary Hardcastle at <a href="mailto:ghardcas@bloomu.edu" rel="email">ghardcas@bloomu.edu</a>.
+be addressed to Jessica Pfeifer at the e-mail address above.
 </p>
 <p><a href="#top" class="top">top</a></p>
 

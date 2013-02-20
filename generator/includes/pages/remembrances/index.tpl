@@ -5,7 +5,7 @@ Remembrances
 These are links to pages containing remembrances and memorials to important
 figures in the philosophy of science. If you would like to contribute to 
 one of the following pages, please contact PSA Executive Secretary 
-<a href="mailto:ghardcas@bloomu.edu" rel="email">Gary Hardcastle</a>.
+<a href="mailto:psa@umbc.edu" rel="email">Jessica Pfeifer</a>.
 </p>
 <ul class="references">
   <li><a href="[PREFIX]remembrances/haddock.html">Joshua Earl Haddock, 1982-2011</a></li>

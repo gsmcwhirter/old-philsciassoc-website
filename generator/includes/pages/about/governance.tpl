@@ -30,9 +30,9 @@ Governance
 
 	<a id="exec_sec"> </a><h3>Executive Secretary</h3>
 	<ul class="references">
-		<li>Gary Hardcastle
-			<span class="sfcd">Bloomsburg University of Pennsylvania</span>
-			<span class="sfcd">Term: 2008/01/01 - present</span>
+		<li>Jessica Pfeifer
+			<span class="sfcd">University of Maryland, Baltimore County</span>
+			<span class="sfcd">Term: 2013/02/09 - present</span>
 		</li>
 		<li><a href="[PREFIX]about/history.html#exec_sec">Former Executive Secretaries...</a></li>
 	</ul>

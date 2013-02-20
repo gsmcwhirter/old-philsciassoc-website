@@ -16,9 +16,9 @@ PSA2012 Biennial Meeting
 <a id="general"> </a><h2>General Information</h2>
 <p>
 The Twenty-Third Biennial Meeting of the Philosophy of Science 
-Association will take place November 15–17, 2012, in San Diego, 
+Association took place November 15–17, 2012, in San Diego, 
 California, at the <a href="http://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=127" rel="external">Sheraton San Diego Hotel and Marina</a>. 
-We will meet jointly with the 2012 Meeting of the History of Science 
+We met jointly with the 2012 Meeting of the History of Science 
 Society. Below please find information about PSA2012, including 
 directions for volunteering to chair a session, directions for applying 
 for an NSF Travel Grant, and information concerning registration, hotel 

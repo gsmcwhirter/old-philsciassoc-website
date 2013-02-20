@@ -139,8 +139,8 @@ members while others would be more appropriate for current graduate
 students in a program.  We do not by any means wish to suggest that this 
 collection is exhaustive, and if there is a question or issue you think 
 should be added to the list below, please email your suggestion to the 
-Governing Board via the executive secretary, Gary Hardcastle at 
-<a href="mailto:ghardcas@bloomu.edu" rel="email">ghardcas@bloomu.edu</a>.
+Governing Board via the executive secretary, Jessica Pfeifer at 
+<a href="mailto:psa@umbc.edu" rel="email">psa@umbc.edu</a>.
 </p>  
 
 <h3>A Note Concerning Placement</h3>  

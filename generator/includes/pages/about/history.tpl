@@ -208,6 +208,10 @@ published PSA proceedings.
 			<span class="sfcd">University of Missouri, Kansas City</span>
 			<span class="sfcd">Term: 1995? - 2007/12/31</span>
 		</li>
+		<li>Gary Hardcastle
+			<span class="sfcd">Bloomsburg University of Pennsylvania</span>
+			<span class="sfcd">Term: 2008/01/01 - 2013/02/09</span>
+		</li>
 		<li><a href="[PREFIX]about/governance.html#exec_sec">Current Executive Secretary...</a></li>
 	</ul>
 	
