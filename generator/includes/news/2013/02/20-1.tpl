@@ -17,7 +17,7 @@ of Maryland-Baltimore County since 1998. She was a Visiting Fellow at
 the Center for Philosophy of Science at the University of Pittsburgh, \
 has published papers in a range of topics in philosophy of science, and 
 co-edited, with Sahotra Sarkar, <cite>The Philosophy of Science: An 
-Encyclopedia, Vols. 1 & 2</cite> (Routledge, 2006).
+Encyclopedia, Vols. 1 &amp; 2</cite> (Routledge, 2006).
 </p>
 <p>
 In addition to expertise she has gained as a result of her extensive 
