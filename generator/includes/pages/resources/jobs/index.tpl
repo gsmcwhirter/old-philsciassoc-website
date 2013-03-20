@@ -33,6 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+  <li><a href="[PREFIX]resources/jobs/merrimack.html">Visiting Associate Professor of Philosophy and Director of Environmental Studies and Sustainability, Merrimack College</a></li>
   <li><a href="[PREFIX]resources/jobs/melbourne.html">Lecturer in Social Studies of Science, The University of Melbourne, Australia</a></li>
   <li><a href="[PREFIX]resources/jobs/western-postdoc3.html">Postdoctoral Fellowship in Philosophy of Neuroscience, Western University</a></li>
   <li><a href="[PREFIX]resources/jobs/western-postdoc2.html">Two Postdoctoral Fellows in Philosophy and Science, Western University</a></li>       
