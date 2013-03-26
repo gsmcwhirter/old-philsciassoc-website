@@ -18,6 +18,10 @@ ErrorDocument 404 [PREFIX]404.html
 <IfModule mod_rewrite.c>
     RewriteEngine on
     RewriteBase [PREFIX]
+    
+    RewriteCond ${REQUEST_URI} !^/jounral/
+    RewriteCond %{HTTP_HOST} ^journal\.philsci\.org
+    RewriteRule ^(.*)$ /journal/$1 [QSA,L]
 
     #fixing old links
     RewriteRule ^/*conferences\.html$ meetings/index.html [R=permanent,L]
