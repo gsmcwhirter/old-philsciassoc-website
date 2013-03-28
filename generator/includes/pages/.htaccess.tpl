@@ -19,7 +19,7 @@ ErrorDocument 404 [PREFIX]404.html
     RewriteEngine on
     RewriteBase [PREFIX]
     
-    RewriteCond %{REQUEST_URI} !^/jounral/ [NC]
+    RewriteCond %{REQUEST_URI} !^/journal/ [NC]
     RewriteCond %{HTTP_HOST} ^journal\.philsci\.org [NC]
     RewriteRule ^(.*)$ /journal/$1 [QSA,L]
 
