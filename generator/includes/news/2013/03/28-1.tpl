@@ -56,7 +56,6 @@ PSA Governing Board is presently comprised of:
     <li>Christian W&uuml;thrich
 			<span class="sfcd">University of California, San Diego</span>
 			<span class="sfcd">Term: 2012/01/01 - 2015/12/31</span></li>
-		<li><a href="[PREFIX]about/history.html#board">Former Governing Board Members...</a></li>
 	</ul>
 <p>
 The Officers of the PSA welcome and congratulate Professor Waters on his 
