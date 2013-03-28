@@ -199,6 +199,11 @@ published PSA proceedings.
       <span class="sfcd">University of Michigan</span>
 			<span class="sfcd">Term: 2007/01/01 - 2008/12/31</span>
 		</li>
+		<li>Nancy Cartwright
+			<span class="sfcd">University of Durham</span>
+			<span class="sfcd">University of California, San Diego</span>
+			<span class="sfcd">Term: 2009/01/01 - 2010/12/31</span>
+		</li>
     <li><a href="[PREFIX]about/governance.html#presidents">Current President and President-Elect...</a></li>
 	</ul>
 
@@ -241,6 +246,9 @@ published PSA proceedings.
 
 	<a id="board"> </a><h3>Former Governing Board Members</h3>
 	<ul class="references">
+	  <li>Robert Batterman
+        <span class="sfcd">University of Pittsburgh</span>
+        <span class="sfcd">Term: 2011/01/01 - 2012/12/31</span></li>
 	  <li>Nancy Nersessian
 			<span class="sfcd">Georgia Institute of Technology</span>
 			<span class="sfcd">Term: 2008/01/01 - 2011/12/31</span></li>
