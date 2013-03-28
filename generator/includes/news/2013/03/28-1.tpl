@@ -13,7 +13,8 @@ Vice-President of the PSA, after which he will serve a two-year term
 (January 1, 2015 through December 31, 2016) as President of the 
 Association, delivering the PSA Presidential Address at PSA2016 in 
 Atlanta.
-</P>
+</p>
+<p>
 <strong>Rachel Ankeny</strong> of the University of Adelaide and 
 <strong>Alan Richardson</strong> of the University of British Columbia 
 have been elected to the Governing Board for the PSA. Consequently the 
