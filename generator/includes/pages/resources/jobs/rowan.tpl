@@ -1,55 +1,69 @@
-Assistant Professor, Rowan University
+Visiting Assistant Professor, Rowan University
 %%%
-<a id="top"> </a><h1>Assistant Professor of Philosophy, full-time temporary (one semester), Rowan University</h1>
+<a id="top"> </a><h1>Visiting Assistant Professor of Philosophy of Science, Rowan University</h1>
+<dl>
+<dt>Position:</dt>
+<dd><p>
+Visiting Assistant Professor of Philosophy, 3/4 time temporary (one year)
+</p></dd>
+
+<dt>Description:</dt>
+<dd><p>
+Applicants are invited for this position in the Department of Philosophy 
+and Religion Studies. Primary responsibilities will include the teaching 
+of an undergraduate course in the Philosophy of Science (2 sections per 
+semester), as well as courses in Philosophy of Medicine, Biomedical 
+Ethics, and/or Modern and Contemporary World Philosophy. Three courses 
+per semester.
+</p></dd>
+
+<dt>Qualifications:</dt>
+<dd><p>
+Ph.D. in Philosophy, with specialization in Philosophy of Science, and 
+strong competence in the Philosophy of Medicine, Biomedical Ethics, and 
+history of modern and contemporary philosophy. Excellent teaching and 
+communication skills, commitment to undergraduate education, some 
+scholarly activity.
+</p></dd>
+
+<dt>Starting Date:</dt>
+<dd><p>September 1, 2013</p></dd>
+
+<dt>Salary Range:</dt>
+<dd><p>Competitive</p></dd>
+
+<dt>General Information:</dt>
+<dd>
 <p>
-<strong>POSITION:</strong> Assistant Professor of Philosophy, full-time 
-temporary (one semester)
+Rowan University is a comprehensive institution located in southern New 
+Jersey, 17 miles southeast of Philadelphia; Rowan University operates 
+two medical schools.  More information can be obtained from the Rowan 
+web page at <a href="http://www.rowan.edu" rel="external">http://www.rowan.edu</a>.
 </p>
 <p>
-<strong>DESCRIPTION:</strong> Applicants are invited for this position 
-in the Department of Philosophy and Religion Studies.  Primary 
-responsibilities will include the teaching of an undergraduate course in 
-the Philosophy of Science (three sections per semester), as well as a 
-course in Philosophy of Medicine. Ability to cover courses in Modern and 
-Contemporary World Philosophy, Logic, Introduction to Philosophy and 
-Epistemology or American Philosophy.  Four courses per semester. Not 
-more than three preparations per semester.
+The Department of Philosophy and Religion Studies offers a major in 
+philosophy and religion, a minor in philosophy, a minor in philosophy 
+and religion studies, a concentration in ethics, a concentration in 
+bioethics and the philosophy of medicine, and a concentration in 
+philosophy and religion studies.  The department also serves nearly 
+every major program on campus and is central to Rowan's liberal arts 
+curriculum. Candidates are invited to visit the Philosophy and Religion 
+Studies Department's web site.
 </p>
 <p>
-<strong>QUALIFICATIONS:</strong> Ph.D. in Philosophy, with 
-specialization in Philosophy of Science, and strong competence in the 
-Philosophy of Medicine and history of modern and contemporary philosophy. 
-Excellent teaching and communications skills, commitment to 
-undergraduate education, some scholarly activity.
+Rowan University values diversity and is committed to equal opportunity 
+in employment.
 </p>
 <p>
-<strong>STARTING DATE:</strong> January 17, 2012
+This position is contingent upon budget appropriations and does not 
+include health benefits.
 </p>
-<p>
-<strong>SALARY RANGE:</strong> Competitive
-</p>
-<p>
-<strong>GENERAL INFORMATION:</strong> Rowan University is a 
-comprehensive institution with an enrollment of 9,918 undergraduates and 
-1,474 graduate students in six schools: Liberal Arts and Sciences, 
-Business Administration, Communications, Fine and Performing Arts, 
-Engineering, and Education and Related Professional Studies.  It is 
-located in southern New Jersey, 17 miles southeast of Philadelphia. More 
-information can be obtained from the Rowan web page at 
-<a href="http://www.rowan.edu" rel="external">http://www.rowan.edu</a>.
-</p>
-<p>
-The Department of Philosophy and Religion presently consists of three 
-philosophy and two religion professors, and one three-quarter time 
-philosophy professor.  We offer a major in philosophy and religion, a 
-minor in philosophy, a minor in philosophy and religion studies, a 
-concentration in ethics, and a concentration in philosophy and religion 
-studies.
-</p>
-<p>
-<strong>PROCEDURE:</strong> Send letter of application, curriculum vitae, 
-evidence of effective teaching, and three letters of reference by 
-November 28, 2011 to:
+</dd>
+
+<dt>Procedure:</dt>
+<dd><p>
+Send letter of application, curriculum vitae, evidence of effective 
+teaching, and three letters of reference by May 27th to:
 </p>
 <ul class="address">
 <li>Matthew Lund, Search Committee Chair</li>
@@ -57,10 +71,12 @@ November 28, 2011 to:
 <li>Rowan University</li>
 <li>Glassboro, NJ  08028</li>
 <li class="email">E-mail: <a href="mailto:lund@rowan.edu" rel="email">lund@rowan.edu</a></li>
-<li>Department Web Page: <a href="http://www.rowan.edu/colleges/las/departments/philosophy/" rel="external">http://www.rowan.edu/colleges/las/departments/philosophy/</a></li>
 </ul>
-<p>
-Rowan University is an affirmative action/equal opportunity employer.  
-Applications from women, minorities and the handicapped are encouraged.
-</p>
+</dd>
+
+<dt>Department Web Page:</dt> 
+<dd><p>
+<a href="http://www.rowan.edu/colleges/chss/departments/philosophy/index.cfm" rel="external">http://www.rowan.edu/colleges/chss/departments/philosophy/index.cfm</a>
+</p></dd>
+</dl>
 <p><a href="#top" class="top">top</a></p>
