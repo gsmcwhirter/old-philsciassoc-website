@@ -3,7 +3,7 @@ Winner of 2013 Cushing Memorial Prize
 <p>
 <img src="[PREFIX_FINAL]images/mody.jpg" alt="Photo of Mody" style="float:right; clear: left; margin: 1em; margin-right: 0; height: 152px;"/>
 </p>
-<p style="clear: both;">
+<p>
 The John J. Reilly Center for Science, Technology, and Values, along 
 with the Graduate Program in History and Philosophy of Science at the 
 University of Notre Dame and the Advisory Committee of the James T. 
