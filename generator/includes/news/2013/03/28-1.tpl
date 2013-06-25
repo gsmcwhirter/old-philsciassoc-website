@@ -40,10 +40,10 @@ PSA Governing Board is presently comprised of:
         <span class="sfcd">University of Exeter</span>
         <span class="sfcd">Term: 2011/01/01 - 2014/12/31</span></li>
     <li>Stephan Hartmann
-        <span class="sfcd">Tilburg University</span>
+        <span class="sfcd">LMU Munich</span>
         <span class="sfcd">Term: 2010/01/01 - 2013/12/31</span></li>
     <li>Michela Massimi
-			<span class="sfcd">University College London</span>
+			<span class="sfcd">University of Edinburgh</span>
 			<span class="sfcd">Term: 2012/01/01 - 2015/12/31</span></li>
     <li>Roberta Millstein
         <span class="sfcd">University of California, Davis</span>
