@@ -109,5 +109,10 @@ archive purposes only.
 	<li><a href="[PREFIX]resources/jobs/twente.html">Two Assistant Professors, University of Twente, Netherlands</a></li>
 	<li><a href="[PREFIX]resources/jobs/sydney-2.html">Call for Applications for Visiting Fellowships at the Sydney Centre for the Foundations of Science</a></li>
 	<li><a href="[PREFIX]resources/jobs/northwestern-postdoc2.html">Postdoctoral Fellowship, SHC, Northwestern University</a></li>
+    <li><a href="[PREFIX]resources/jobs/western-postdoc2.html">Two Postdoctoral Fellows in Philosophy and Science, Western University</a></li>       
+    <li><a href="[PREFIX]resources/jobs/western-postdoc3.html">Postdoctoral Fellowship in Philosophy of Neuroscience, Western University</a></li>
+    <li><a href="[PREFIX]resources/jobs/melbourne.html">Lecturer in Social Studies of Science, The University of Melbourne, Australia</a></li>
+    <li><a href="[PREFIX]resources/jobs/merrimack.html">Visiting Associate Professor of Philosophy and Director of Environmental Studies and Sustainability, Merrimack College</a></li>
+    <li><a href="[PREFIX]resources/jobs/rowan.html">Visiting Assistant Professor of Philosophy of Science, Rowan University</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>

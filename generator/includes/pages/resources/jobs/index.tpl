@@ -33,11 +33,9 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
-  <li><a href="[PREFIX]resources/jobs/rowan.html">Visiting Assistant Professor of Philosophy of Science, Rowan University</a></li>
-  <li><a href="[PREFIX]resources/jobs/merrimack.html">Visiting Associate Professor of Philosophy and Director of Environmental Studies and Sustainability, Merrimack College</a></li>
-  <li><a href="[PREFIX]resources/jobs/melbourne.html">Lecturer in Social Studies of Science, The University of Melbourne, Australia</a></li>
-  <li><a href="[PREFIX]resources/jobs/western-postdoc3.html">Postdoctoral Fellowship in Philosophy of Neuroscience, Western University</a></li>
-  <li><a href="[PREFIX]resources/jobs/western-postdoc2.html">Two Postdoctoral Fellows in Philosophy and Science, Western University</a></li>       
+	<li><a href="[PREFIX]resources/jobs/geneva-postdoc.html">Postdoctoral Fellowship on the Metaphysics of Causation, University of Geneva</a></li>
+  	<li><a href="[PREFIX]resources/jobs/geneva2.html">Associate Professor in Philosophy of Science, University of Geneva</a></li>
+  	<li><a href="[PREFIX]resources/jobs/calgary-postdoc3.html">Postdoctoral Fellowship in Philosophy of Biology, University of Calgary</a></li>
 </ul>
 <p><a href="#top" class="top">top</a></p>
 

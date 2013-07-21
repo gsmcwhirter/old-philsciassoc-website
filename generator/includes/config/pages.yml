@@ -135,11 +135,14 @@ resources_jobs_yonsei: jobs_archive
 resources_jobs_twente: jobs_archive
 resources_jobs_sydney-2: jobs_archive
 resources_jobs_northwestern-postdoc2: jobs_archive
-resources_jobs_western-postdoc2: jobs
-resources_jobs_western-postdoc3: jobs
-resources_jobs_melbourne: jobs
-resources_jobs_merrimack: jobs
-resources_jobs_rowan: jobs
+resources_jobs_western-postdoc2: jobs_archive
+resources_jobs_western-postdoc3: jobs_archive
+resources_jobs_melbourne: jobs_archive
+resources_jobs_merrimack: jobs_archive
+resources_jobs_rowan: jobs_archive
+resources_jobs_calgary-postdoc3: jobs
+resources_jobs_geneva2: jobs
+resources_jobs_geneva-postdoc: jobs
 #remembrances
 remembrances_index: remembrances
 remembrances_mcmullin: remembrances
