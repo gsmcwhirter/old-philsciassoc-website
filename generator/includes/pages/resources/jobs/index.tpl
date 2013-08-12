@@ -33,6 +33,7 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+	<li><a href="[PREFIX]resources/jobs/merrimack-2.html">Tenure-Track, Associate Professor of Philosophy and Director of Environmental Studies and Sustainability, Merrimack College</a></li>
 	<li><a href="[PREFIX]resources/jobs/geneva-postdoc.html">Postdoctoral Fellowship on the Metaphysics of Causation, University of Geneva</a></li>
   	<li><a href="[PREFIX]resources/jobs/geneva2.html">Associate Professor in Philosophy of Science, University of Geneva</a></li>
   	<li><a href="[PREFIX]resources/jobs/calgary-postdoc3.html">Postdoctoral Fellowship in Philosophy of Biology, University of Calgary</a></li>
