@@ -31,8 +31,8 @@ information below to the PSA Executive Secretary, Jessica Pfeifer
 
 <a id="files"> </a><h2>Associated Files</h2>
 <ul class="references">
-  	<li>Call for Symposium Proposals <a href="[PREFIX_FINAL]files/PSA2014_CFS.pdf" rel="download">download</a></li>
-	<li>Call for Papers <a href="[PREFIX_FINAL]files/PSA2014_CFP.pdf" rel="download">download</a></li>
+  	<li>Call for Symposium Proposals <a href="[PREFIX_FINAL]files/PSA2014_CFS.docx" rel="download">download</a></li>
+	<li>Call for Papers <a href="[PREFIX_FINAL]files/PSA2014_CFP.docx" rel="download">download</a></li>
 	<!--<li>Preliminary Program (updated 2012/10/16) <a href="[PREFIX_FINAL]files/PSA2012_Prelim_Program-101612.pdf" rel="download">download</a></li>-->
 </ul>
 <p><a class="top" href="#top">top</a></p>

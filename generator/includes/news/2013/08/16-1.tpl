@@ -1,6 +1,9 @@
 2013 PSA Elections Call for Nominations
 %%%
 <p>
+You can download the official version of this announcement <a href="[PREFIX_FINAL]files/2013_PSA_CALL_FOR_NOMINATIONS.docx" rel="download">here</a>.
+</p>
+<p>
 On December 31, 2013, the terms of two of the eight members of the current PSA Governing
 Board -- Roberta Millstein and Stephan Hartmann -- will come to an end, as will the terms of the 
 three members of the PSA Nominating Committee: Hanne Andersen, Kathleen Okruhlik, and 
