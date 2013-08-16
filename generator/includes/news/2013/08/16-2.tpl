@@ -31,3 +31,45 @@ and the History of Science Society are warmly invited. We will not be considerin
 Meets Critics' sessions (but topical sessions that build upon recently published books are 
 acceptable).
 </p>
+<p>
+Proposals must include sufficient supporting material to permit the program committee to 
+evaluate the quality and interest of the symposium. Proposals for symposia should include: 
+</p>
+<ol>
+<li>The title of the proposed symposium </li>
+<li>A short descriptive summary of the proposal (100-200 words)</li>
+<li>A description of the topic and a justification of its current importance to the discipline (up to 1000 words)</li>
+<li>Titles and abstracts (up to 500 words) of all papers</li>
+<li>A list of participants and either an abbreviated curriculum vitae or short biographical description (not to exceed 1 page) for each participant</li>
+<li>Institutional affiliation and e-mail addresses for all participants</li>
+<li>Full contact information for the organizer (who may or may not be a proposed speaker), to be used for communication with the Program Committee</li>
+</ol>
+<p>
+Submissions must be electronically submitted through the <cite>Philosophy of Science</cite> Editorial 
+Manager at <a href="http://www.editorialmanager.com/phos/" rel="external">http://www.editorialmanager.com/phos/</a>. 
+First time users must register on Editorial Manager.
+</p>
+<p>
+Please note that in accordance with current PSA policy, (1) No previously published paper may 
+be presented at the PSA meeting, and (2) No one will be permitted to appear more than once in 
+a substantive role on the program. (A "substantive role" is the presentation of a paper either in 
+a symposium or in a contributed papers session.  A scholar may appear as co-author on more 
+than one paper or symposium talk, but may only present once.)  Symposium participants are, 
+therefore, encouraged to notify their symposium organizers if they submit a contributed paper 
+or are involved in more than one symposium proposal. If an accepted symposium subsequently 
+loses participants due to multiple submissions, acceptance of the symposium proposal will 
+become contingent upon the symposium organizer developing satisfactory alternatives to 
+maintain the quality and coherence of the session.
+</p>
+<p>
+All questions about submissions should be directed to the chair of the program committee for 
+PSA 2014, Chris Smeenk, at <a href="mailto:philsci2014@gmail.com" rel="email">philsci2014@gmail.com</a>. Mailing address:
+</p>
+<ul class="address">
+<li>Department of Philosophy</li>
+<li>Rotman Institute of Philosophy</li>
+<li>1151 Richmond St.</li>
+<li>Western University</li>
+<li>London, ON N6A 5B8</li>
+<li>Canada</li>
+</ul>

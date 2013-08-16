@@ -31,6 +31,30 @@ information that communicates your identity to the reviewers. (See <a href="http
 for instructions on how to prepare your paper for anonymous review.) 
 </p>
 <p>
-Submissions must be electronically submitted through the Philosophy of Science Editorial 
+Submissions must be electronically submitted through the <cite>Philosophy of Science</cite> Editorial 
 Manager at <a href="http://www.editorialmanager.com/phos/" rel="external">http://www.editorialmanager.com/phos/</a>. First time users must register on Editorial Manager.
 </p>
+<p>
+Please note that in accordance with current PSA policy, (1) No previously published paper may 
+be presented at the PSA meeting, and (2) No one will be permitted to appear more than once in 
+a substantive role on the program. (A "substantive role" is the presentation of a paper either in 
+a symposium or in a contributed papers session.  A scholar may appear as co-author on more 
+than one paper or symposium talk, but may only present once.)  Symposium participants are, 
+therefore, encouraged to notify their symposium organizers if they submit a contributed paper 
+or are involved in more than one symposium proposal. If an accepted symposium subsequently 
+loses participants due to multiple submissions, acceptance of the symposium proposal will 
+become contingent upon the symposium organizer developing satisfactory alternatives to 
+maintain the quality and coherence of the session.
+</p>
+<p>
+All questions about submissions should be directed to the chair of the program committee for 
+PSA 2014, Chris Smeenk, at <a href="mailto:philsci2014@gmail.com" rel="email">philsci2014@gmail.com</a>. Mailing address:
+</p>
+<ul class="address">
+<li>Department of Philosophy</li>
+<li>Rotman Institute of Philosophy</li>
+<li>1151 Richmond St.</li>
+<li>Western University</li>
+<li>London, ON N6A 5B8</li>
+<li>Canada</li>
+</ul>
