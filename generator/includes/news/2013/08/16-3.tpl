@@ -3,8 +3,9 @@ PSA2014 Call for Papers
 <p>
 Submission is now open for papers to be presented at the PSA 2014 meeting Chicago, IL on
 November 6-9, 2014. Contributed papers may be on any topic in the philosophy of science. The 
-PSA 2014 Program Committee will strive for quality, variety, innovation and diversity on the 
-program. Members of the PSA2014 Program Committee are listed at 
+PSA 2014 Committee aims to prepare a program that reflects the full range of
+current work in the philosophy of science and will strive for quality, variety, innovation and 
+diversity on the program. Members of the PSA2014 Program Committee are listed at 
 <a href="http://www.philsci.org/meetings/psa2014/index.html">http://www.philsci.org/meetings/psa2014/index.html</a>.
 </p>
 <p>
