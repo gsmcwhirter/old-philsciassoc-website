@@ -34,7 +34,7 @@ the HPS and STV programs, and perform original research, in roughly the followin
 
 <li>45% to research: The postdoctoral fellow will continue his/her ongoing research program, 
 	which should primarily engage issues in the ethics of science and technology.</li>
-<ul>
+</ul>
 <p>
 The annual stipend is $40,000. The fellowship package also includes health insurance and 
 $6,000 over three years towards research expenses and conference travel. 
