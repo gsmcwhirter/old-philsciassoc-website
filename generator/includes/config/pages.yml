@@ -145,6 +145,10 @@ resources_jobs_calgary-postdoc3: jobs
 resources_jobs_geneva2: jobs
 resources_jobs_geneva-postdoc: jobs
 resources_jobs_merrimack-2: jobs
+resources_jobs_purdue: jobs
+resources_jobs_munich-2: jobs
+resources_jobs_nd: jobs
+resources_jobs_cuny: jobs
 #remembrances
 remembrances_index: remembrances
 remembrances_mcmullin: remembrances

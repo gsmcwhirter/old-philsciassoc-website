@@ -40,6 +40,25 @@ information below to the PSA Executive Secretary, Jessica Pfeifer
 <a id="committee"> </a><h2>Program Committee</h2>
 <ul class="references">
 	<li><span class="bold">Chair:</span> Chris Smeenk <span class="sfcd">Western University</span></li>
-	<li>Information on other members is forthcoming.</li>
+	<li>Anna Alexandrova <span class="sfcd">University of Cambrdige</span></li>
+	<li>Holly Andersen <span class="sfcd">Simon Fraser University</span> </li>
+	<li>Brad Armendt <span class="sfcd">Arizona State University</span></li>
+	<li>Bill Bechtel <span class="sfcd">University of California, San Diego</span></li>
+	<li>Kevin Elliott <span class="sfcd">University of South Carolina</span></li>
+	<li>Melinda Fagan <span class="sfcd">Rice University</span></li>
+	<li>Patrick Forber <span class="sfcd">Tufts University</span> </li>
+	<li>Doreen Fraser <span class="sfcd">University of Waterloo</span></li>
+	<li>Jim Griesemer <span class="sfcd">University of California, Davis</span></li>
+	<li>Simon Hutteger <span class="sfcd">University of California Irvine</span> </li>
+	<li>Colin Klein <span class="sfcd">University of Illinois at Chicago</span> </li>
+	<li>Rebecca Kukla <span class="sfcd">Georgetown University</span></li>
+	<li>Alyssa Ney <span class="sfcd">University of Rochester</span> </li>
+	<li>Lydia Patton <span class="sfcd">Virginia Tech</span></li>
+	<li>Kristina Rolin <span class="sfcd">Aalto University, Finland</span></li>
+	<li>Paul Roth <span class="sfcd">University of California, Santa Cruz</span></li>
+	<li>Jim Weatherall <span class="sfcd">University of California, Irvine</span> </li>
+	<li>Michael Weisberg <span class="sfcd">University of Pennsylvania</span> </li>
+	<li>Charlotte Werndl <span class="sfcd">London School of Economics</span></li>
+	<li>Eric Winsberg <span class="sfcd">University of South Florida</span></li>
 </ul>
 <p><a class="top" href="#top">top</a></p>

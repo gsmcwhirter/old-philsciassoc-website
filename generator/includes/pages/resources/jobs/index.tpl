@@ -33,6 +33,10 @@ Philosophy of Science Association.
 
 <a id="listing"> </a><h2>Job Listing</h2>
 <ul class="references">
+	<li><a href="[PREFIX]resources/jobs/cuny.html">K.D. Irani Professor of Philosophy, The City College, City University of New York</a></li>
+	<li><a href="[PREFIX]resources/jobs/nd.html">Postdoctoral Fellowship in Ethics Education in Science and Engineering, University of Notre Dame</a></li>
+	<li><a href="[PREFIX]resources/jobs/munich-2.html">Assistant Professorship, Munich Center for Mathematical Philosophy, LMU Munich</a></li>
+	<li><a href="[PREFIX]resources/jobs/purdue.html">Faculty Position, Norm Evolution, Human Cooperation, and Sustainable Communities, Department of Philosophy, Purdue University</a></li>
 	<li><a href="[PREFIX]resources/jobs/merrimack-2.html">Tenure-Track, Associate Professor of Philosophy and Director of Environmental Studies and Sustainability, Merrimack College</a></li>
 	<li><a href="[PREFIX]resources/jobs/geneva-postdoc.html">Postdoctoral Fellowship on the Metaphysics of Causation, University of Geneva</a></li>
   	<li><a href="[PREFIX]resources/jobs/geneva2.html">Associate Professor in Philosophy of Science, University of Geneva</a></li>
